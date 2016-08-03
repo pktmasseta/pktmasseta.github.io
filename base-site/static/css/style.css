@@ -1,0 +1,278 @@
+body, html {
+  height: 100%;
+  padding: 0;
+  margin: 0; }
+
+section#main {
+  width: 100vw;
+  height: 100vh;
+  background-color: #651616; }
+
+section#footer {
+  bottom: 0px;
+  height: 45px;
+  background-color: #eee;
+  border-top: 1px solid #ddd;
+  opacity: .7; }
+  section#footer h5 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 1em;
+    color: #000;
+    opacity: .7; }
+  section#footer h5:hover {
+    opacity: .9;
+    font-weight: 700; }
+  section#footer a:hover {
+    text-transform: none;
+    text-decoration: none;
+    underline: none; }
+  section#footer .pkt {
+    float: left;
+    margin-left: 50px; }
+  section#footer .contact {
+    float: right;
+    margin-right: 50px; }
+
+section#layout {
+  width: 98vw;
+  background-color: #fff; }
+  section#layout .content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75vw;
+    height: 100%;
+    min-height: 100vh;
+    background-color: #fff;
+    padding-bottom: 70px; }
+  section#layout .banner {
+    height: auto;
+    width: 75vw;
+    background-color: #fff;
+    clear: both; }
+    section#layout .banner img {
+      width: 100%;
+      max-height: 100%; }
+  section#layout .about {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Open Sans", sans-serif;
+    padding: 50px 0 30px 15px;
+    line-height: 1.6em;
+    font-size: 1.1em; }
+    section#layout .about h3, section#layout .about h4, section#layout .about h5, section#layout .about h6 {
+      text-transform: uppercase;
+      font-family: "Raleway",sans-serif;
+      font-weight: 600;
+      letter-spacing: 2.5px;
+      text-align: center; }
+    section#layout .about h4 {
+      text-align: left;
+      font-weight: 600;
+      font-size: 1.1em;
+      line-height: 2px; }
+    section#layout .about h5 {
+      font-weight: 400;
+      font-size: 1.1em;
+      line-height: 1.3em;
+      margin-bottom: 40px; }
+    section#layout .about h6 {
+      font-size: 1.1em;
+      text-align: left;
+      font-weight: 700;
+      line-height: 1em;
+      padding-top: 15px; }
+    section#layout .about h7 {
+      font-size: 1em; }
+    section#layout .about p {
+      margin: 20px 0 20px 0; }
+    section#layout .about .row {
+      margin: 20px 0 5px 0; }
+    section#layout .about .col-md-2 {
+      width: 7vw;
+      margin-right: 10px; }
+    section#layout .about #day-nav {
+      text-align: center; }
+    section#layout .about .day-nav {
+      margin-top: 10px;
+      margin-bottom: 20px;
+      text-align: center;
+      padding-left: 0; }
+    section#layout .about .day-nav li {
+      list-style-type: none;
+      color: #000;
+      display: inline-block;
+      font-weight: 400;
+      font-size: .8em;
+      margin: 0 15px 0 15px; }
+    section#layout .about .day-nav li:hover {
+      font-weight: 700;
+      color: #ae1717; }
+    section#layout .about .iframe-container {
+      width: 100%;
+      height: 100%;
+      text-align: center; }
+      section#layout .about .iframe-container iframe {
+        width: 600px;
+        height: 600px; }
+        @media (max-width: 1200px) {
+          section#layout .about .iframe-container iframe {
+            width: 400px; } }
+        @media (max-width: 991px) {
+          section#layout .about .iframe-container iframe {
+            width: 600px; } }
+        @media (max-width: 600px) {
+          section#layout .about .iframe-container iframe {
+            width: 270px; } }
+  section#layout .navbar {
+    padding-top: 10px;
+    margin-bottom: 0px; }
+    section#layout .navbar .navbar-toggle {
+      background-color: white;
+      background-image: none;
+      color: black;
+      text-shadow: none;
+      box-shadow: none;
+      border: none;
+      margin: 0; }
+      section#layout .navbar .navbar-toggle span {
+        box-shadow: none;
+        border: none;
+        background-color: black; }
+    section#layout .navbar .navbar-nav {
+      padding-left: 0px; }
+      section#layout .navbar .navbar-nav a:hover {
+        text-decoration: none; }
+      section#layout .navbar .navbar-nav li {
+        list-style-type: none;
+        display: inline-block;
+        padding: 0 10px 0 10px;
+        text-align: right;
+        color: #000;
+        font-family: "Raleway", sans-serif;
+        text-transform: uppercase;
+        font-weight: 500;
+        letter-spacing: 1.5px; }
+        @media (max-width: 767px) {
+          section#layout .navbar .navbar-nav li {
+            display: list-item; } }
+    section#layout .navbar .navbar-nav li.active, section#layout .navbar .navbar-nav li:hover {
+      color: #ae1717;
+      font-weight: 700; }
+    section#layout .navbar .navbar-nav {
+      float: right;
+      padding-top: 5px; }
+    section#layout .navbar .logo {
+      padding: 0 10px 0 15px;
+      color: #000;
+      font-family: "Raleway", sans-serif;
+      text-transform: uppercase;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      float: left; }
+    section#layout .navbar .logo:hover {
+      color: #ae1717;
+      font-weight: 700; }
+    section#layout .navbar .sidebar {
+      margin-top: 50px;
+      border-right: 1px solid #ccc;
+      height: 100%; }
+      section#layout .navbar .sidebar li {
+        list-style-type: none;
+        padding: 5px 30px 0 10px;
+        margin-bottom: 15px;
+        color: #000;
+        font-family: "Raleway", sans-serif;
+        text-transform: uppercase;
+        font-size: .8em;
+        font-weight: 500;
+        letter-spacing: 1.5px;
+        text-align: right; }
+      section#layout .navbar .sidebar li.active, section#layout .navbar .sidebar .navbar-nav li:hover, section#layout .navbar .navbar-nav .sidebar li:hover {
+        border-left: 5px solid #ae1717;
+        font-weight: 700; }
+      section#layout .navbar .sidebar li:hover {
+        font-weight: 700;
+        text-decoration: none; }
+      @media (max-width: 991px) {
+        section#layout .navbar .sidebar {
+          border-right: none !important;
+          text-align: center;
+          padding-left: 0;
+          margin: 0; }
+          section#layout .navbar .sidebar li {
+            display: inline-block !important;
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+            margin-left: 10px !important;
+            margin-right: 10px !important;
+            text-align: center !important; }
+          section#layout .navbar .sidebar li.active, section#layout .navbar .sidebar .navbar-nav li:hover, section#layout .navbar .navbar-nav .sidebar li:hover {
+            border-bottom: 3px solid #ae1717 !important;
+            border-left: none !important; } }
+  section#layout .portrait
+  div {
+    margin: auto;
+    margin-bottom: 10px; }
+  section#layout .img-caption {
+    width: 100%;
+    text-align: none; }
+    section#layout .img-caption .caption {
+      padding-bottom: 10%; }
+    section#layout .img-caption h6 {
+      font-size: .8em;
+      padding-left: 10px;
+      line-height: 1em; }
+    section#layout .img-caption h8 {
+      font-size: .8em;
+      padding-left: 10px;
+      top: -5px;
+      line-height: 0; }
+  section#layout .modal h8 {
+    font-size: .8em; }
+  section#layout .modal h9 {
+    text-transform: none;
+    font-family: 'Open Sans',sans-serif;
+    letter-spacing: 0px;
+    font-style: italic;
+    font-size: .8em; }
+  section#layout .modal .quote {
+    margin: 10px 0 10px 0; }
+  section#layout .modal .row {
+    margin: 10px 0 10px 0;
+    padding: 0; }
+    section#layout .modal .row .title {
+      font-weight: 600;
+      font-size: 1em; }
+  section#layout .modal .attributes {
+    padding-left: 0; }
+    section#layout .modal .attributes .row {
+      padding-left: 0; }
+      section#layout .modal .attributes .row .col-md-12 {
+        padding-left: 0; }
+  section#layout .modal #photo.col-md-4 img {
+    width: 100%; }
+  section#layout .modal .col-md-4 {
+    font-size: 1em; }
+  section#layout .brother-container {
+    padding: 30px 20px 20px 30px; }
+  section#layout .close {
+    margin: 10px 15px 10px 10px; }
+
+@media (max-width: 991px) {
+  section#layout .content {
+    width: 100% !important; }
+  section#layout .banner {
+    width: 100vw !important; }
+  section#layout .about {
+    padding-top: 10px !important; }
+    section#layout .about h6 {
+      line-height: 1.5em !important; }
+
+  section#footer {
+    display: none; } }
+
+/*# sourceMappingURL=style.css.map */

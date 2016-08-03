@@ -1,0 +1,509 @@
+/*
+    Base Styles
+*/
+.img-caption {
+    position: relative;
+    width: 27%;
+}
+
+.img-caption img {
+    vertical-align: middle;
+    width: 100%;
+}
+
+.img-caption .caption {
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+/*
+    Move Up Animation
+    ________________________________________________________
+*/
+.finalStateMoveUp {
+    -webkit-transform: translateY(-15%);
+    transform: translateY(-15%);
+}
+
+.basicStateMoveUp {
+    opacity: 0.7;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.moveUpStart {
+    animation: moveUpStart 0.3s ease-in-out both;
+    -webkit-animation: moveUpStart 0.3s ease-in-out both;
+}
+
+.moveUpEnd {
+    animation: moveUpEnd 0.3s ease-in-out both;
+    -webkit-animation: moveUpEnd 0.3s ease-in-out both;
+}
+
+@keyframes moveUpStart {
+    from {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+    to {
+        -webkit-transform: translateY(-15%);
+        transform: translateY(-15%);
+    }
+}
+
+@-webkit-keyframes moveUpStart {
+    from {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+    to {
+        -webkit-transform: translateY(-15%);
+        transform: translateY(-15%);
+    }
+}
+
+@keyframes moveUpEnd {
+    from {
+        -webkit-transform: translateY(-15%);
+        transform: translateY(-15%);
+    }
+    to {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+}
+
+@-webkit-keyframes moveUpEnd {
+    from {
+        -webkit-transform: translateY(-15%);
+        transform: translateY(-15%);
+    }
+    to {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+}
+
+/*
+    Move Down Animation
+    ________________________________________________________
+*/
+
+.finalStateMoveDown {
+    -webkit-transform: translateY(15%);
+    transform: translateY(15%);
+}
+
+.basicStateMoveDown {
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.moveDownStart {
+    animation: moveDownStart 0.3s ease-in-out both;
+    -webkit-animation: moveDownStart 0.3s ease-in-out both;
+}
+
+.moveDownEnd {
+    animation: moveDownEnd 0.3s ease-in-out both;
+    -webkit-animation: moveDownEnd 0.3s ease-in-out both;
+}
+
+@keyframes moveDownStart {
+    from {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+    to {
+        -webkit-transform: translateY(15%);
+        transform: translateY(15%);
+    }
+}
+
+@-webkit-keyframes moveDownStart {
+    from {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+    to {
+        -webkit-transform: translateY(15%);
+        transform: translateY(15%);
+    }
+}
+
+@keyframes moveDownEnd {
+    from {
+        -webkit-transform: translateY(15%);
+        transform: translateY(15%);
+    }
+    to {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+}
+
+@-webkit-keyframes moveDownEnd {
+    from {
+        -webkit-transform: translateY(15%);
+        transform: translateY(15%);
+    }
+    to {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+    }
+}
+
+/*
+    Fade In Animation
+    ________________________________________________________
+*/
+
+.finalStateFadeIn {
+    opacity: 1;
+}
+
+.basicStateFadeInAbove {
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 2%;
+}
+
+.basicStateFadeInBelow {
+    opacity: 0.7;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.fadeInStart {
+    animation: fadeInStart 0.4s ease-in-out both;
+    -webkit-animation: fadeInStart 0.4s ease-in-out both;
+}
+
+.fadeInEnd {
+    animation: fadeInEnd 0.4s ease-in-out both;
+    -webkit-animation: fadeInEnd 0.4s ease-in-out both;
+}
+
+@keyframes fadeInStart {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 0.7;
+    }
+}
+
+@-webkit-keyframes fadeInStart {
+     from {
+        opacity: 0;
+    }
+    to {
+        opacity: 0.7;
+    }
+}
+
+@keyframes fadeInEnd {
+    from {
+        opacity: 0.7;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes fadeInEnd {
+    from {
+        opacity: 0.7;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+/*
+    Scale In Animation
+    ________________________________________________________
+*/
+
+.finalStateScaleIn {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+}
+
+.basicStateScaleInAbove {
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.basicStateScaleInBelow {
+    opacity: 0.7;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.scaleInStart {
+    animation: scaleInStart 0.4s ease-in-out both;
+    -webkit-animation: scaleInStart 0.4s ease-in-out both;
+}
+
+.scaleInEnd {
+    animation: scaleInEnd 0.4s ease-in-out both;
+    -webkit-animation: scaleInEnd 0.4s ease-in-out both;
+}
+
+@keyframes scaleInStart {
+    from {
+        transform: scale(0);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+@-webkit-keyframes scaleInStart {
+     from {
+        -webkit-transform: scale(0);
+    }
+    to {
+        -webkit-transform: scale(1);
+    }
+}
+
+@keyframes scaleInEnd {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(0);
+    }
+}
+
+@-webkit-keyframes scaleInEnd {
+    from {
+        -webkit-transform: scale(1);
+    }
+    to {
+        -webkit-transform: scale(0);
+    }
+}
+
+/*
+    Rotate Animation
+    ________________________________________________________
+*/
+
+.finalStateRotate {
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+}
+
+.basicStateRotateAbove {
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin:0% 100%;
+    -webkit-transform-origin:0% 100%;
+}
+
+.basicStateRotateBelow {
+    opacity: 0.7;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform-origin:100% 100%;
+    -webkit-transform-origin:100% 100%;
+}
+
+.rotateStart {
+    animation: rotateStart 0.4s ease-in-out both;
+    -webkit-animation: rotateStart 0.4s ease-in-out both;
+}
+
+.rotateEnd {
+    animation: rotateEnd 0.4s ease-in-out both;
+    -webkit-animation: rotateEnd 0.4s ease-in-out both;
+}
+
+@keyframes rotateStart {
+    from {
+        transform: rotate(90deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+
+@-webkit-keyframes rotateStart {
+     from {
+        -webkit-transform: rotate(90deg);
+    }
+    to {
+        -webkit-transform: rotate(0deg);
+    }
+}
+
+@keyframes rotateEnd {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(90deg);
+    }
+}
+
+@-webkit-keyframes rotateEnd {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(90deg);
+    }
+}
+
+/*
+    Push Animation
+    ________________________________________________________
+*/
+
+.finalStatePush {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+}
+
+.basicStatePushBelow {
+    opacity: 1;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform-origin:100% 100%;
+    -webkit-transform-origin:100% 100%;
+    height: 30%;
+}
+
+.basicStatePushAbove {
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin:0% 0%;
+    -webkit-transform-origin:0% 0%;
+    height: 30%;
+}
+
+.pushStart {
+    animation: pushStart 0.4s ease-in-out both;
+    -webkit-animation: pushStart 0.4s ease-in-out both;
+}
+
+.pushEnd {
+    animation: pushEnd 0.4s ease-in-out both;
+    -webkit-animation: pushEnd 0.4s ease-in-out both;
+}
+
+.basicPushImageBelow {
+    transform-origin:0% 0%;
+    -webkit-transform-origin:0% 0%;
+}
+
+.basicPushImageAbove {
+    transform-origin:100% 100%;
+    -webkit-transform-origin:100% 100%;
+}
+
+.pushImageStart {
+    animation: pushImageStart 0.4s ease-in-out both;
+    -webkit-animation: pushImageStart 0.4s ease-in-out both;
+}
+
+.pushImageEnd {
+    animation: pushImageEnd 0.4s ease-in-out both;
+    -webkit-animation: pushImageEnd 0.4s ease-in-out both;
+}
+
+.pushImageFinish {
+    transform: scaleY(0.7);
+    -webkit-transform: scaleY(0.7);
+}
+
+@keyframes pushStart {
+    from {
+        transform: scaleY(0);
+    }
+    to {
+        transform: scaleY(1);
+    }
+}
+
+@-webkit-keyframes pushStart {
+     from {
+        -webkit-transform: scaleY(0);
+    }
+    to {
+        -webkit-transform: scaleY(1);
+    }
+}
+
+@keyframes pushEnd {
+    from {
+        transform: scaleY(1);
+    }
+    to {
+        transform: scaleY(0);
+    }
+}
+
+@-webkit-keyframes pushEnd {
+    from {
+        -webkit-transform: scaleY(1);
+    }
+    to {
+        -webkit-transform: scaleY(0);
+    }
+}
+
+@keyframes pushImageStart {
+    from {
+        transform: scaleY(1);
+    }
+    to {
+        transform: scaleY(0.7);
+    }
+}
+
+@-webkit-keyframes pushImageStart {
+     from {
+        -webkit-transform: scaleY(1);
+    }
+    to {
+        -webkit-transform: scaleY(0.7);
+    }
+}
+
+@keyframes pushImageEnd {
+    from {
+        transform: scaleY(0.7);
+    }
+    to {
+        transform: scaleY(1);
+    }
+}
+
+@-webkit-keyframes pushImageEnd {
+    from {
+        -webkit-transform: scaleY(0.7);
+    }
+    to {
+        -webkit-transform: scaleY(1);
+    }
+}
