@@ -21,20 +21,20 @@ markdown: kramdown
 
 collections:
   about:
+    output: true
     friendly_name: About
-    output: true
   rush:
+    output: true
     friendly_name: Rush
-    output: true
   brothers:
+    output: true
     friendly_name: Brothers
-    output: true
   house:
+    output: true
     friendly_name: House
-    output: true
   activities:
-    friendly_name: Activities
     output: true
+    friendly_name: Activities
 
 defaults:
   - scope:

@@ -25,7 +25,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a href="../index.html" class="#">
+            <a href="{{ site.baseurl }}/" class="#">
               <div class="logo">
                 <img src="{{ site.baseurl }}/static/img/crest-black.png" width="35px">
                 Phi Kappa Theta
@@ -53,7 +53,8 @@
           <div class="col-md-3 col-sm-12">
             <div class="navbar">
               <ul class="sidebar">
-                {% for doc in collection.docs %}
+                {% assign docs = collection.docs | sort: 'position' %}
+                {% for doc in docs %}
                   <a href="{{ doc.url }}">
                     <li{% if doc.url == page.url %} class="active" {% endif %}>
                       {{ doc.sidebar }}
