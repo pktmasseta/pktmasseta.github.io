@@ -1,0 +1,74 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Phi Kappa Theta - Mass Eta
+email: pkt-it-active@mit.edu
+description: >
+  Rush book, photo gallery, and description of the chapter program.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://pkt.mit.edu" # the base hostname & protocol for your site
+twitter_username: pktweet229
+github_username:  pktmasseta
+permalink: pretty
+
+# Build settings
+markdown: kramdown
+
+collections:
+  about:
+    friendly_name: About
+    output: true
+  rush:
+    friendly_name: Rush
+    output: true
+  brothers:
+    friendly_name: Brothers
+    output: true
+  house:
+    friendly_name: House
+    output: true
+  activities:
+    friendly_name: Activities
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: about
+    values:
+      collection: about
+      banner: banner-outside
+  - scope:
+      path: ""
+      type: rush
+    values:
+      collection: rush
+      banner: rush1
+  - scope:
+      path: ""
+      type: brothers
+    values:
+      collection: brothers
+      banner: brothers1
+      layout: class
+  - scope:
+      path: ""
+      type: house
+    values:
+      collection: house
+      banner: house
+  - scope:
+      path: ""
+      type: activities
+    values:
+      collection: activities
+      banner: party
