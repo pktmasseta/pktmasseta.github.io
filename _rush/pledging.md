@@ -1,6 +1,7 @@
 ---
 title: Pledging
 subtitle: Phi Kappa Theta
+banner: pledging
 position: 5
 ---
 ###### If I Pledge, Will It Suck?

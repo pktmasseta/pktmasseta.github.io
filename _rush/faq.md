@@ -1,6 +1,7 @@
 ---
 sidebar: Rush FAQs
 title: FAQs
+banner: rush3
 position: 4
 ---
 ###### How important is alcohol at PKT?

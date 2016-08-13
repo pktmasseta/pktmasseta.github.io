@@ -1,5 +1,6 @@
 ---
 title: Survival Guide
+banner: pkt-banner
 position: 3
 ---
 Choosing a living group is one of the most important decisions of your MIT career, and we want to do our best to clear up any confusion you might have about the process. What follows shows some of the things for you to think about during rush and your freshman year. We hope that this provides some important pointers on how rush works and, at the same time, gives you an idea of what our house is like.
