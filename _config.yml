@@ -23,18 +23,23 @@ collections:
   about:
     output: true
     friendly_name: About
+    position: 1
   rush:
     output: true
     friendly_name: Rush
+    position: 2
   brothers:
     output: true
     friendly_name: Brothers
+    position: 3
   house:
     output: true
     friendly_name: House
+    position: 4
   activities:
     output: true
     friendly_name: Activities
+    position: 5
 
 defaults:
   - scope:

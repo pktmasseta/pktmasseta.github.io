@@ -43,7 +43,8 @@
           </div>
           <div class="collapse navbar-collapse pull-right" id="navbar-collapse-1">
             <ul class="navbar-nav">
-              {% for col in site.collections %}
+              {% assign collections = site.collections | sort: 'position' %}
+              {% for col in collections %}
                 <a href="{{ site.baseurl }}/{{ col.label }}/">
                   <li{% if collection.label == col.label %} class="active" {% endif %}>
                     {{ col.friendly_name }}
