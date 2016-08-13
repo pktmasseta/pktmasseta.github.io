@@ -3,5 +3,5 @@ layout: default
 ---
 {% assign collection = site.collections | where:"label",page.collection | first %}
 <h3>{{ page.title }}</h3>
-<h5>{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ collection.friendly_name }}{% end %}</h5>
+<h5>{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ collection.friendly_name }}{% endif %}</h5>
 {{ content }}

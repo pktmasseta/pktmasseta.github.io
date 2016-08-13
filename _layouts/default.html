@@ -9,7 +9,7 @@
       {{ page.sidebar }}
     {% else %}
       {{ collection.friendly_name }}
-    {% end %}
+    {% endif %}
     | Phi Kappa Theta
   </title>
 
@@ -66,7 +66,7 @@
                 {% for doc in docs %}
                   <a href="{{ doc.url }}">
                     <li{% if doc.url == page.url %} class="active" {% endif %}>
-                      {% if doc.sidebar %}{{ doc.sidebar }}{% else %}{{ doc.title }}{% end %}
+                      {% if doc.sidebar %}{{ doc.sidebar }}{% else %}{{ doc.title }}{% endif %}
                     </li>
                   </a>
                 {% endfor %}
