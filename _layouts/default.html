@@ -2,7 +2,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{ collection.friendly_name }} | Phi Kappa Theta</title>
+  <title>
+    {% if page.title %}
+      {{ page.title }}
+    {% elsif page.sidebar %}
+      {{ page.sidebar }}
+    {% else %}
+      {{ collection.friendly_name }}
+    {% end %}
+    | Phi Kappa Theta
+  </title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Bootstrap -->
@@ -57,7 +66,7 @@
                 {% for doc in docs %}
                   <a href="{{ doc.url }}">
                     <li{% if doc.url == page.url %} class="active" {% endif %}>
-                      {{ doc.sidebar }}
+                      {% if doc.sidebar %}{{ doc.sidebar }}{% else %}{{ doc.title }}{% end %}
                     </li>
                   </a>
                 {% endfor %}
@@ -66,8 +75,6 @@
           </div>
           <div class="col-md-9 col-sm-12">
             <div class="about">
-              <h3>{{ page.title }}</h3>
-              <h5>{{ page.subtitle }}</h5>
               {{ content }}
             </div>
           </div>
