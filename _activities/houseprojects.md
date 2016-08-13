@@ -1,7 +1,5 @@
 ---
-sidebar: House Projects
 title: House Projects
-subtitle: Activities
 position: 7
 ---
 ###### Front Stairs

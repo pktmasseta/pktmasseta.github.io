@@ -1,7 +1,5 @@
 ---
-sidebar: Academics
 title: Academics
-subtitle: Activities
 position: 2
 ---
 ###### MIT

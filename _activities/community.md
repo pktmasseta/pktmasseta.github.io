@@ -1,7 +1,5 @@
 ---
-sidebar: Community Service
 title: Community Service
-subtitle: Activities
 position: 4
 ---
 ###### "Give, Expecting Nothing Thereof"

@@ -1,7 +1,5 @@
 ---
-sidebar: Social Events
 title: Social Events
-subtitle: Activities
 position: 3
 ---
 ###### Taking a Break from MIT

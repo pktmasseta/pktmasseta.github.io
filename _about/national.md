@@ -1,7 +1,5 @@
 ---
-sidebar: National History
 title: National History
-subtitle: About Us
 position: 2
 ---
 ###### The Founding

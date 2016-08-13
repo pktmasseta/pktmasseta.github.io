@@ -1,7 +1,5 @@
 ---
-sidebar: Brotherhood Events
 title: Brotherhood Events
-subtitle: Activities
 position: 5
 ---
 ###### Home

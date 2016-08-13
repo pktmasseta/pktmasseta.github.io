@@ -1,7 +1,5 @@
 ---
-sidebar: The Four Ideals
 title: The Four Ideals
-subtitle: About Us
 position: 3
 ---
 ###### Fraternal: Duty to Man

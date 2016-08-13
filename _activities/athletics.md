@@ -1,7 +1,5 @@
 ---
-sidebar: Athletics
 title: Athletics
-subtitle: Activities
 position: 6
 ---
 ###### Pride
