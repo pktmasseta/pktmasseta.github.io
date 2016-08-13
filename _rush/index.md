@@ -1,8 +1,7 @@
 ---
-sidebar: Poop sidebar
-title: Poop title
-subtitle: Poop subtitle
+title: Rush Schedule
+subtitle: MIT Fall 2016
 position: 1
 permalink: /rush/
 ---
-This is poop
+Rush schedule to come!

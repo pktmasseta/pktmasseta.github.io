@@ -1,7 +1,6 @@
 ---
-sidebar: Poop sidebar
-title: Poop title
-subtitle: Poop subtitle
+title: PKT Ride
+subtitle: Catch a ride with us
 position: 2
 ---
-This is poop
+Call **317-PKT-RIDE** for a ride to our house during Rush!
