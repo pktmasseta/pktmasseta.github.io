@@ -1,7 +1,5 @@
 ---
-sidebar: Poop sidebar
-title: Poop title
-subtitle: Poop subtitle
+title: Class of 2019
 position: 2
 ---
 This is poop
