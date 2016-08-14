@@ -1,4 +1,68 @@
 ---
-layout: default
+layout: page
 ---
-This is a class page
+<script>
+$(document).ready(function() {
+  $('div.brother-preview').makeCaption({
+    animation: 'fadeIn',
+    position: 'Below'
+  });
+});
+</script>
+{{ content }}
+<!-- Images -->
+{% for brother in page.brothers %}
+<div class="col-md-4">
+  <a class="brother-preview" data-toggle="modal" href="#{{ brother.initials }}Modal">
+    <div class="img-caption" id="brother">
+      <img src="/static/img/headshots/{{ page.year }}/{{ brother.initials }}.jpg" width="200px">
+      <div class="caption">
+        <h6>{{ brother.name }}</h6>
+        <h8>{{ brother.nickname }}</h8>
+      </div>
+    </div>
+  </a>
+</div>
+{% endfor %}
+<!-- Modals -->
+{% for brother in page.brothers %}
+<div class="modal fade" id="{{ brother.initials }}Modal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span>&times;</span></button>
+      <div class="brother-container container-fluid">
+        <div class="row">
+          <div class="col-md-4 col-sm-12" id="photo">
+            <span class="photo"><img src="/static/img/headshots/{{ page.year }}/{{ brother.initials }}.jpg" /></span>
+            <h9><div class="quote">{{ brother.quote }}</div></h9>
+          </div>
+          <div class='col-md-8 col-sm-12'>
+            <h4>
+              <span class="name">{{ brother.name }}</span>
+              (<span class="initials">{{ brother.initials }}</span>)
+            </h4>
+            <h8>(aka <span class="nickname">{{ brother.nickname }}</span>)</h8>
+            <div class="attributes container-fluid">
+              <div class="row">
+                <div class="col-md-12 title">Hometown:</div>
+                <div class="col-md-12"><span class="hometown">{{ brother.hometown }}</span></div>
+              </div>
+              <div class="row">
+                <div class="col-md-12 title">Major:</div>
+                <div class="col-md-12"><span class="major">{{ brother.major }}</span></div>
+              </div>
+              <div class="row">
+                <div class="col-md-12 title">Activities:</div>
+                <div class="col-md-12"><span class="activities">{{ brother.activities }}</span></div>
+              </div>
+              <div class="row">
+                <div class="col-md-12"><span class="blurb">{{ brother.blurb }}</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}

@@ -1,5 +1,6 @@
 ---
 title: Class of 2019
 position: 2
+year: 2019
 ---
-This is poop
+Class of 2019 coming soon!
