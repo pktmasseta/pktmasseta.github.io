@@ -58,14 +58,14 @@ defaults:
       type: rush
     values:
       collection: rush
-      banner: rush1
+      banner: rush
       subtitle: Rush 2016
   - scope:
       path: ""
       type: brothers
     values:
       collection: brothers
-      banner: brothers1
+      banner: brothers
       subtitle: Men of Value
       layout: class
   - scope:
