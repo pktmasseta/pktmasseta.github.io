@@ -2,27 +2,41 @@
 layout: page
 ---
 <script>
-$(document).ready(function() {
-  $('div.brother-preview').makeCaption({
-    animation: 'fadeIn',
-    position: 'Below'
+$(document).ready(function(){
+  $(function() {
+    device = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
+    if(!device) {
+      $('div.brother-preview').makeCaption({
+        animation: 'fadeIn', // move, slide, fadeIn, scaleIn, rotate, or push
+        position: 'Below' // Below or Above
+      });
+    } else {
+      $('div.brother-preview .caption').hide()
+    }
   });
 });
 </script>
 {{ content }}
 <!-- Images -->
 {% for brother in page.brothers %}
-<div class="col-md-4">
-  <a class="brother-preview" data-toggle="modal" href="#{{ brother.initials }}Modal">
-    <div class="img-caption" id="brother">
-      <img src="/static/img/headshots/{{ page.year }}/{{ brother.initials }}.jpg" width="200px">
-      <div class="caption">
-        <h6>{{ brother.name }}</h6>
-        <h8>{{ brother.nickname }}</h8>
+{% assign loopindex = forloop.index0 | modulo: 3 %}
+{% if loopindex == 0 %}
+<div class="row">
+{% endif %}
+  <div class="col-md-4">
+    <a data-toggle="modal" href="#{{ brother.initials }}Modal">
+      <div class="img-caption brother-preview">
+        <img src="/static/img/headshots/{{ page.year }}/{{ brother.initials }}.jpg" width="200px" />
+        <div class="caption">
+          <h6>{{ brother.name }}</h6>
+          <h8>{{ brother.nickname }}</h8>
+        </div>
       </div>
-    </div>
-  </a>
+    </a>
+  </div>
+{% if loopindex == 2 or forloop.last %}
 </div>
+{% endif %}
 {% endfor %}
 <!-- Modals -->
 {% for brother in page.brothers %}
