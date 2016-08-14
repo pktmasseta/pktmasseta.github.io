@@ -18,3 +18,5 @@ On April 29, 1959, this Phi Kappa chapter, along with others across the nation, 
 The Fall Rush of 2002 was the dawn of a new era in Phi Kappa Theta as freshmen associate members could only live on campus. Continuing the tradition of excellence set forth by our founders, the chapter has weathered the new rush system. In fact, the chapter has grown from 30 members just 5 years ago to nearly 50 today.
 
 The chapter continues in the mission established at creation and strives to provide the same opportunities for the future Phi Kaps to come.
+
+PKT supports and respects all types of men, regardless of race, religion, or sexuality.
