@@ -116,4 +116,3 @@ brothers:
     nickname: Old Man
     blurb: Yen is awesome! Yen is friendly. Yen does chem and swing dances. Yen only writes sentences containing multiples of three words.
 ---
-This is poop

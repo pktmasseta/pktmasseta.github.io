@@ -18,9 +18,10 @@ brothers:
     hometown: New York, New York
     quote: What is leg day
     nickname: Anubhav
-    blurb: Anubhav, first of his name, maker of gains, skipper of leg day, and descendant of the legendary Guha line hails from the land of New York. Since he grew up in one of the least populated regions of the world and pledged to always skip legs, to fend off boredom Anubhav started playing the piano at a young age. As he evolved into a world class musician and dabbled in EDM production, he also decided to become a scholar just like the Original Guha (OG) many moons ago.
-In this next chapter of his life, he worked hard and achieved success in every area that he focused on. But alas, something was missing: despite always skipping leg day his legs still looked kinda big. To deal with this crushing blow to his ego, he decided to start lifting; he worked out his upper body religiously to make his legs look smaller in comparison. Like a caterpillar hibernating for the winter and emerging as a bear, Anubhav migrated to the Z Center for 40 days and 40 nights. He went in a boy and emerged as the ideal man, a triangle on two sticks.
-Having mastered many areas of life and raised his test to an acceptable level, he now prepares himself for the responsibility that will soon be his-becoming as legendary as the Original Guha.
+    blurb: >
+      Anubhav, first of his name, maker of gains, skipper of leg day, and descendant of the legendary Guha line hails from the land of New York. Since he grew up in one of the least populated regions of the world and pledged to always skip legs, to fend off boredom Anubhav started playing the piano at a young age. As he evolved into a world class musician and dabbled in EDM production, he also decided to become a scholar just like the Original Guha (OG) many moons ago.
+      In this next chapter of his life, he worked hard and achieved success in every area that he focused on. But alas, something was missing: despite always skipping leg day his legs still looked kinda big. To deal with this crushing blow to his ego, he decided to start lifting; he worked out his upper body religiously to make his legs look smaller in comparison. Like a caterpillar hibernating for the winter and emerging as a bear, Anubhav migrated to the Z Center for 40 days and 40 nights. He went in a boy and emerged as the ideal man, a triangle on two sticks.
+      Having mastered many areas of life and raised his test to an acceptable level, he now prepares himself for the responsibility that will soon be his-becoming as legendary as the Original Guha.
   - initials: AXS
     name: Apurva Shrivastava
     activities: MIT Mirchi, MIT Consulting Group
@@ -29,7 +30,6 @@ Having mastered many areas of life and raised his test to an acceptable level, h
     quote: Sorry guys I'm sick
     nickname: Apurva
     blurb: Apurva is, without a doubt, the most timely of the '18s. Whether it's a house meeting or dance practice, you can count on him to be present and fully attentive. With his wide range of skills, from shoveling dirt to dishing out rap lyrics, he's always fun to hang out with. While he's not being lethargic or sick, Apurva is one of the chillest guys around.
-
   - initials: CEC
     name: Chris Compton
     activities: IST, Rationality, Cinephile
@@ -86,7 +86,6 @@ Having mastered many areas of life and raised his test to an acceptable level, h
     quote: Rip
     nickname: Heky
     blurb: Kyle is a man you do not want to challenge at anything. A dance off? Next thing you know there is a flat cardboard box on the ground and this rising bboy will smoke you right there with tutting and 5+ windmills. He actually practices breakdancing so much that he gets sore and can’t exercise, and he exercises so much that he gets sore and can’t breakdance. You should also not challenge Kyle to a cook-off, as he makes a mean stir-fry and has practiced with chopsticks gifted to him by his grandparents. If you want to take your competition with Kyle to Summoner’s Rift or Final Destination, think again. There’s a reason he is known as Heky, and it was Pikachu who chose him. Kyle will always 1v1 you both irl and on the Fields of Justice. Challenge him and you might get dissected just like the fly larvae in his lab.
-
   - initials: LWZ
     name: Larry Zhang
     activities: TechX, UROP, Movies
@@ -103,7 +102,6 @@ Having mastered many areas of life and raised his test to an acceptable level, h
     quote: placeholder here
     nickname: Marco
     blurb: Hailing from the sunlit beaches of Long Island, New York, this suave muscle-bound softie's home is not the only thing that's long. His rather impressive length of hobbies include cooking, sketching and playing the ukulele when he's not playing on the MIT Football team or studying architecture. With a passion for fashion and a warm smile to boot, Marco is living life large with big plans for the house and his future.
-
   - initials: MJH
     name: Michael Holachek
     activities: saxophoneeee,  Hack MIT
@@ -120,7 +118,6 @@ Having mastered many areas of life and raised his test to an acceptable level, h
     quote: Some people just have a gift
     nickname: Jeeves
     blurb: Humble. Kind. Gregarious. These are just a few of many of Rajeev's qualtiies. He strongly believes in equality- that no one person in the world is more gifted than anyone else. Whenever you see Rajeev you will always see him smile because he is truly a jovial member of society. In his eyes we are all very competent and can accomplish whatever we strive for.
-
   - initials: SXS
     name: Siddharth Seethepalli
     activities: Lifting, Eating, Coding, FuckingShitUp
@@ -131,13 +128,10 @@ Having mastered many areas of life and raised his test to an acceptable level, h
     blurb: Born in the frigid tundra of the Republic of Texas, Siddharth Seethepalli was destined for a life of greatness. As he emerged from the womb his parents were surprised to find him curling dumbbells in both hands. From an early age, Siddharth displayed a great aptitude for both learning and lifting: as he grew to manhood Siddharth mastered the sciences, developed a Bieber haircut, and perfected his bench press. However, Siddharth wanted more from life - he was tired of hunting seals and polar bears every weekend and felt confined in his cramped igloo. He set his eyes towards the state of Massachusetts: a promised land where the sun shone bright year long and the harvest was always bountiful. He arrived in and immediately got to work. For 7 days and 7 nights he lifted. Days one through six were upper body, and the final day was legs. Just kidding. Day seven was upper body. Every day Siddharth worked through the pain, crying tears of whey as he sang his praises to Brodin, His Swoliness. Siddharth’s life took a turn for the better when he used his formidable training to save President Rafael Reif from a feral Indian penguin. Siddharth was promptly enrolled at the Massachusetts Institute of Technology.   Motivated to eventually stop the Global Cooling of the Southern United States, Siddharth took the most rigorous classes available to him, and continued to trod the Path of the Iron whilst avoiding dangerous tasks such as Cardio. After overcoming the challenges set by Brophet Zyzz and memorizing The Old Chestament, Siddharth was baptized in a pool of whey, creatine, and pre-workout. He arose a new man - the liquid gains dripped off his formidable chest and past his kinda meh legs. As a newly made disciple of Brodin he took on an entirely different name: Sidd.
   - initials: BTC
     name: Tony Cao
-    activities: Dancing, East Campus Shenanigans, Philosophizing, TinaTime, UROP
+    activities: Dancing, East Campus Shenanigans, Philosophizing, UROP
     major: Course 6 - Electrical Engineering and Computer Science
     hometown: San Diego, CA
-    quote: Don't tell Tina.
+    quote: MOOOOOO.
     nickname: tonebone
-    blurb: >
-      Intelligent, nihilistic, and with a wicked sense of humor. No words could better describe Tony, PKT's poster child from San Diego. When he isn't chilling with Tina... oh wait, that never happens. They're basically conjoined twins. ¯\\_(ツ)_/\\_(ツ)_/¯
-      Well, when his better half decides to let him express himself, you'll find Tony is soft-spoken, but insightful. Ambitious, yet modest. He's sincere and serious at times, but still knows how to relax and let loose. He's a true Renaissance man of the arts and sciences. Tony doesn't care what people think about him, but he cares about people. He epitomizes our motto, "Give, Expecting Nothing Thereof." Tony is basically the Ubermensch. Too bad he's already taken.
+    blurb: Intelligent, nihilistic, and with a wicked sense of humor. No words could better describe Tony, PKT's poster child from San Diego. You'll find Tony is soft-spoken, but insightful. Ambitious, yet modest. He's sincere and serious at times, but still knows how to relax and let loose. He's a true Renaissance man of the arts and sciences. Tony doesn't care what people think about him, but he cares about people. He epitomizes our motto, "Give, Expecting Nothing Thereof." Tony is basically the Ubermensch. He's available, ladies ;)
 ---
-This is poop

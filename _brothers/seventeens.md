@@ -92,4 +92,3 @@ brothers:
     nickname: k-dubby-dubs
     blurb: In the world of elite runners, there are four elements: running speed, social skills, faith, and sanity. These elements are in constant conflict within every runner, and often directly oppose each other. Only the Avatar can master all four elements. Through his blazing speed, humor, strong faith, and pervasive mental clarity, Karl truly is the avatar. Descended from Chinese and Russian roots, this FIFA champ and He-Man enthusiast the member every group needs for balance.
 ---
-This is poop
