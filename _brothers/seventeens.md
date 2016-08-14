@@ -55,7 +55,7 @@ brothers:
     major: Course 6
     hometown: Ames, Iowa
     quote: Okay okay, that is some bs
-    nickname:
+    nickname: Vegetable
     blurb: >
       Alex Huang hails from a small city in Iowa, but don’t be fooled by his small town nature. Alex is no softie.  He gets himself up every day at 7:00 am every day for rowing practice, and sleeps only late at night after going hard at games of League. On the weekends he can be found at meetings of MIT traders, honing his business skills and leaving his competitors unsatisfied. Because of his shy personality, Alex has often been described as a Mr. Ed character who doesn't speak to the general population. Deep down, though, Alex is a great brother who will never disappoint.
   - initials: DTZ
@@ -96,7 +96,7 @@ brothers:
       Nick, coming from the Golden State of California, is the soldier of the house. Aspiring to be an air force pilot one day, he trains rigorously by day and studies diligently by night. He might not be the biggest kid on the block, but he is definitely the buffest 17s. He can out push-up you, out plank you, and probably just out muscle you. Although Nick is a soldier in training, he is the nicest guy you will ever meet. He is one of the most down to earth brother in the house, and one of the goofiest guy. Once you get to know him, you’ll soon see that he is obsesses with looking at FIRE. We just can’t figure out why.
   - initials: KSB
     name: Karl Baranov
-    activities: Running, Designing cool toys, Faith, FIFA, SSBB, Being childish, Being childish
+    activities: Running, Designing cool toys, Faith, FIFA, SSBB, SM4SH, Being childish, Being childish
     major: 2 - Mechanical Engineering
     hometown: Huntington, California
     quote: Be-ong-q!

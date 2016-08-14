@@ -120,7 +120,7 @@ brothers:
     quote: ปกติไม่ค่อยบ่นเรื่องเรียน วันนี้ขอนิดนึงละกัน... เรียนฟิสิกส์ไม่รู้เรื่อง ทำการบ้านไม่ได้ :(
     nickname: Ben
     blurb: >
-      In a school of varied talent, it's this polymath that will never cease to amaze you with his many talents. Thipok's abilities range from being a physics guru to an incarnation of MATLAB, and a culinary expert to even being a world-class singer (just ask about his rendition of â€˜Somewhere Over the Rainbow'). Originating from Thailand, Thipok always has interesting stories to tell (except when they're in Thai, since then you'll never understand them even with an online translator). Both a chill guy and very funny, you're always in for some good times when hanging out with Thipok.
+      In a school of varied talent, it's this polymath that will never cease to amaze you with his many talents. Thipok's abilities range from being a physics guru to an incarnation of MATLAB, and a culinary expert to even being a world-class singer (just ask about his rendition of 'Somewhere Over the Rainbow'). Originating from Thailand, Thipok always has interesting stories to tell (except when they're in Thai, since then you'll never understand them even with an online translator). Both a chill guy and very funny, you're always in for some good times when hanging out with Thipok.
   - initials: YTY
     name: Yen Yeh
     activities: Swing Dance, Long walks on the beach, UROP, Batteries, Techfair, Science, swol, epic LOLS
