@@ -89,8 +89,8 @@ brothers:
       Bitch you guessed it, it’s Kevin Palisoc. Coming from the frozen north, you’ll never see Kevin wearing more than his classy jacket over a hoodie. A fan of risky and potentially embarrassing situations, you’re sure to hear Kevin yelling something in public areas. But even this hilarious Mechanical Engineer can be serious and deep when need be.
   - initials: KMB
     name: Kyle Bridburg
-    activities: Breakdancing, Longboarding, UROP at Picower Institute of Learning and Memory, Cooking, LoL
-    major: Course 7 - Biology, Course 9 - Brain and Cognitive Sciences
+    activities: Breakdancing, Longboarding, Game Development, Cooking, LoL
+    major: Course 6-3 - Computer Science
     hometown: Belmont, Massachusetts
     quote: Rip
     nickname: Heky
