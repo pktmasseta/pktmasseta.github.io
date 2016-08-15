@@ -6,7 +6,7 @@ year: 2019
 brothers:
   - initials: BJO
     name: Benjamin Oberlton
-    activities: League of Legends|Go|Curing Cancer|Running
+    activities: League of Legends, Go, Curing Cancer, Running
     major: Course 20 - Biological Engineering
     hometown: Kennasaw, GA
     quote: 黑曼巴
