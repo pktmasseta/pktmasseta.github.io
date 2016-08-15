@@ -9,7 +9,7 @@ brothers:
     activities: League of Legends|Go|Curing Cancer|Running
     major: Course 20 - Biological Engineering
     hometown: Kennasaw, GA
-    quote: Proteins are real
+    quote: 黑曼巴
     nickname: Facebook
     blurb: >
       Ben is a social beast. He plows through meeting new people on social media and in real life. That's just how he rolls. He is loves Chinese food, people, and culture. While Ben thinks he has unparalleled physical fitness…yeah he actually is probably the most cut PKT brother. However, his newfound addiction to video games and Chinese girls will prove to his downfall. Let's just hope he cures cancer before that.

@@ -80,7 +80,7 @@ brothers:
       Who is Julian Chacon? He's glad you asked. A native of Colombia, Julian likes exploring and long walks on the beach. He's chill yet refined, a true gentleman among the 18s. On a typical weekend, you'll probably find him holding a soldering iron while building a laser robot or gigantic 3D LED cube. Julian is also a guitarist, enjoying playing acoustic hits and serenading housefriends with unique PKT renditions of Maroon 5 songs. But watch out ladies--his hair is so suave it has a life of its own.
   - initials: KSP
     name: Kevin Palisoc
-    activities: Random Acts of Kindness Club Founder, UROP in the Media Lab, Swag
+    activities: Swag, MakeMIT, Chinese Students Club
     major: Course 2 - Mechanical Engineering
     hometown: Eagle River, AK
     quote: Get the fffffffffffffffffuck outa here
