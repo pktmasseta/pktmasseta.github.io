@@ -34,7 +34,7 @@ brothers:
   - initials: ALM
     name: Aaron Morris
     activities: UAV, Band/Music
-    major: 2A-6 Mechanical Engineering with EECS
+    major: Course 16
     hometown: West Virgina
     quote: You wanna go to war, Ba-la-kei?!
     nickname: A-a ron
