@@ -9,7 +9,7 @@ brothers:
     activities: League of Legends|Go|Curing Cancer|Running
     major: Course 20 - Biological Engineering
     hometown: Kennasaw, GA
-    quote: 黑曼巴
+    quote: <span style="font-style: normal;"> 黑曼巴 </span>
     nickname: Facebook
     blurb: >
       Ben is a social beast. He plows through meeting new people on social media and in real life. That's just how he rolls. He is loves Chinese food, people, and culture. While Ben thinks he has unparalleled physical fitness…yeah he actually is probably the most cut PKT brother. However, his newfound addiction to video games and Chinese girls will prove to his downfall. Let's just hope he cures cancer before that.
@@ -110,7 +110,7 @@ brothers:
     activities: MIT consulting group, Electricity and Magnetism TA
     major: Course 6-1 - Electrical Science and Engineering
     hometown: Atlanta, GA
-    quote: Yo Joe…. You left your wings
+    quote: Uhhhh... I'm in McCormick
     nickname: wubs
     blurb: >
       Hailing from the beautiful Atlanta Georgia, this man could not help but take every gold medal that was given in high school Science Olympiad. Not that there are some other kids from Georgia that are salty or anything, it's just a fun fact. Anyway, Wubshet has a niche for just making sure everything goes smoothly. Whether that be TAing an 8.02 class and making sure your pset gets in on time, making sure some randos that Kushan let into a PKT party don't start up any trouble, or making sure that he is well rested during a 12 hr. 2019 pkt team coding challenge, Wubshet will make sure he is ready to help. In all realness, Wubshet makes sure that when things get out of hand that everyone comes back to Earth and is able to think rationally about what is going on around them. He is an integral part of the pkt class of 2019 and we don't know what we would do without him.
