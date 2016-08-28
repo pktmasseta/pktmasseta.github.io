@@ -36,7 +36,7 @@ Our residential adviser (RA), Adam Littlefield lives here.
 
 ### Second Bath
 
-Each floor has one bathroom, and each is unique in their own way. This particular bathroom has a map of the entire back bay. A while back, a group of freshman (Pledge class 87, class of 91) had to go to star market, but they didn’t even know where it was. So the personnel director made them go into the back bay and make a map so they wouldn’t forget. They did one better and painted the entire map as you see here.
+Each floor has one bathroom, and each is unique in their own way. This particular bathroom has a map of the entire back bay. A while back, a group of freshman (Pledge class 87, class of 91) had to go to star market, but they didn’t even know where it was. So the personnel director made them go into the Back Bay and make a map so they wouldn’t forget. They did one better and painted the entire map as you see here.
 
 ###### Check the Wheel Before Entering
 

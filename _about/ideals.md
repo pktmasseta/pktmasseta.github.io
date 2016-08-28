@@ -16,4 +16,4 @@ To encourage each member to identify himself with his collegiate and civic commu
 
 ###### Spiritual: Duty to God
 
-To deepen the spiritual and enrich the temporal lives of its members, regardless of their religious beliefs, through a well-balanced program of fraternal, intellectual, social and service activities.
+To deepen the spiritual and enrich the temporal lives of its members, regardless of their religious beliefs or lack of one, through a well-balanced program of fraternal, intellectual, social and service activities.

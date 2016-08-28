@@ -8,7 +8,7 @@ position: 2
 
 Functionally, this is our living room where we hang out with other brothers and our friends. It's not unusual for people to get home from school and just relax here until dinner.
 
-First front now features a brand new television, mounted right above our fireplace. Whether to watch football or stream the latest episode of Game of Thrones, the TV is always a welcome distraction.
+First front now features a brand new television, mounted right above our fireplace. Whether to watch football or stream the latest episode of Game of Thrones, the TV is always a welcome distraction for the brotherhood.
 
 ###### Pool and Ping-Pong
 
@@ -20,7 +20,7 @@ Yet another new addition to First Front, the bar features a stylish granite top.
 
 ### First Rear
 
-Served by Gill Grilling, dinner is served five nights a week in first rear. After a long day of classes on campus, dinner is always a great time for brothers to gather and talk about the day's events. Come see the new polyurethane coating on the floor!
+Served by our professional caterers, dinner is served five nights a week in first rear. After a long day of classes on campus, dinner is always a great time for brothers to gather and talk about the day's events. Come see the new polyurethane coating on the floor!
 
 Often, after dinner the room serves as a place for studying. We invite friends over to churn through problem sets and prep for exams.
 

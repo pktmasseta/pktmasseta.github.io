@@ -12,15 +12,15 @@ These are the backbone of Phi Kappa Theta's social calendar as they occur every 
 
 ###### PKT Parties
 
-We throw both open and closed dance parties where we meet college students from schools all over the Boston area including Wellesley, Harvard, BU, Simmons, and others. Keep your eyes peeled for our party posters all around MIT campus and other campus in the Boston area.
+We throw both open and closed dance parties where we meet college students from schools all over the Boston area including Wellesley, Harvard, BU, Northeastern, Simmons, and others. Keep your eyes peeled for our party posters all around MIT campus and other campus in the Boston area.
 
 ###### Formal Events
 
-Let's face it, girls like to get dressed up and go out. So, once a term, we oblige their desires and take out our girlfriends, potential girlfriends, or just friends. Usually, this includes dinner and some other activity such as Blue Man Group, a harbor cruise, or an improvisational comedy show, but it's always a lot of fun.
+Twice a semester, we dress to impress, grab a date, and hold a formal dinner at a nice restaurant in Boston. These events are a classy alternative to our weekly social hours or parties.
 
 ###### Mixers
 
-The primary goal of mixers is meet and get to know a variety of girls, whether they're from a sorority at MIT, a Wellesley society, or any other group of girls from another college. Typically, we have a couple mixers at the beginning of the year, and then one or two more over the rest of the year.
+The primary goal of mixers is meet and get to know a variety of girls, whether they're from a sorority at MIT, a Wellesley society, or any other group of girls from another college. Typically, we host a couple mixers a year.
 
 ###### BBQs
 

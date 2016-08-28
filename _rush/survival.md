@@ -27,9 +27,3 @@ What will the pledge program entail?
 How are the house responsibilities and chores distributed?
 How important is partying to the house?
 What were your reasons for joining this house?
-
-###### Girls During Rush
-
-If you hit it off with a cute freshman girl, convince her to come along on your first few fraternity visits.
-If you hit it off with a cute upperclassman at a fraternity, well...not to burst your bubble or anything, but that's her job.
-Warning: Girls hanging out at fraternities during Rush give you an idea about social life there...only to an extent. Don't be a fool and think that you'll be surrounded by women once Rush is over. Choose a house for the bros, not the girls.

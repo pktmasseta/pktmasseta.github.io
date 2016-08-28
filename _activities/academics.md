@@ -4,7 +4,7 @@ position: 2
 ---
 ###### MIT
 
-Unfortunately, life at MIT isn't all fun and games. We all decided to attend MIT because it is one of the top schools in the country. For that reason, we take our school work seriously at Phi Kappa Theta. With brothers majoring in almost every field, some of us are engineers...and well, some of us aren't, but no matter what field, someone is always willing to help. PKT has made the FSILG Honor Roll for four of the last five semesters.
+Unfortunately, life at MIT isn't all fun and games. We all decided to attend MIT because it is one of the top schools in the country. For that reason, we take our school work seriously at Phi Kappa Theta. With brothers majoring in almost every field, some of us are engineers...and well, some of us aren't, but no matter what field, someone is always willing to help.
 
 ###### Bible Closet
 
