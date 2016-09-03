@@ -2,7 +2,7 @@
 sidebar: Rush FAQs
 title: FAQs
 banner: rush2
-position: 4
+position: 3
 ---
 ###### What makes PKT different from other houses?
 

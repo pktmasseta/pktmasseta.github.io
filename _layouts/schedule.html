@@ -1,0 +1,24 @@
+---
+layout: page
+---
+{{ content }}
+<h6 id="day-nav">GO TO:
+  <ul class="day-nav">
+  {% for day in page.schedule %}
+    <a href="#{{ day.day }}"><li>{{ day.day }}</li></a>
+  {% endfor %}
+  </ul>
+</h6>
+{% for day in page.schedule %}
+<section>
+  <a name='{{ day.day}}'></a>
+  <h6>{{ day.day }}, {{ day.date }}</h6>
+  {% for event in day.events %}
+    <div class="row">
+      <div class="col-md-4">{{ event.start }} - {{ event.end }}</div>
+      <div class="col-md-4"><strong>{{ event.name }}</strong></div>
+      <div class="col-md-4">{{ event.description }}</div>
+    </div>
+  {% endfor %}
+</section>
+{% endfor %}

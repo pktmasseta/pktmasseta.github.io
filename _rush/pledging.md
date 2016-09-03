@@ -2,7 +2,7 @@
 title: Pledging
 subtitle: Phi Kappa Theta
 banner: pledging
-position: 5
+position: 4
 ---
 ###### Pledge PKT, and Get a Free Big Brother
 
