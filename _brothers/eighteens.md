@@ -116,9 +116,9 @@ brothers:
       Hailing from the sunlit beaches of Long Island, New York, this suave muscle-bound softie's home is not the only thing that's long. His rather impressive length of hobbies include cooking, sketching and playing the ukulele when he's not playing on the MIT Football team or studying architecture. With a passion for fashion and a warm smile to boot, Marco is living life large with big plans for the house and his future.
   - initials: MJH
     name: Michael Holachek
-    activities: saxophoneeee,  Hack MIT
-    major: Course 6-2 - Electrical Engineering and Compute Science
-    hometown: Kansas, Kansas
+    activities: saxophoneeee,  Hack MIT, Mandarin Chinese
+    major: Course 6-1 - Electrical Engineering
+    hometown: Arlington, VA
     quote: Then, we can go on a 7 am run!
     nickname: Holachek
     blurb: >
