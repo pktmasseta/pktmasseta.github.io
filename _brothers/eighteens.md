@@ -60,15 +60,6 @@ brothers:
     nickname: Tall Jack
     blurb: >
       Reigning at an impressive 6’ 7”, Jack is often found “swimming” through the hallways of MIT on his small purple penny-board. Jack is extremely talented at clicking his mouse rhythmically (his sense of rhythm rivals his big's). He is also a fine cook, and his food is much appreciated at 5AM during a late night of studying. Jack is currently the tallest person in the house, and will most likely remain so in the following years. He also has a strange habit of utilizing an entire lounge when folding his laundry.
-  - initials: JVM
-    name: Jitesh Maiyuran
-    activities: MakeMIT, UA Finance Board Director
-    major: Course 6-3 - Computer Science
-    hometown: Irvine, CA
-    quote: “I don’t think I like being intellectually challenged”
-    nickname: Jits
-    blurb: >
-      Many years ago many singular Jit pieces came together and Jits was born. From sunny southern California, you can invariably find Jits asleep at the architecture lounge or standing at an odd angle scoping out photos or slow motion videos for his well curated Instagram. Outside the classroom he spends his time working on MakeMIT or allocating the UA’s funds to student groups. A connoisseur of Maseeh dining’s elusive lamb curry, Jits’ distinctive feature is his warm laugh, and is a brother you can always count on to have a great time hanging out with.
   - initials: JAC
     name: Julian Chacon
     activities: Guitar, Soccer, Soldering
