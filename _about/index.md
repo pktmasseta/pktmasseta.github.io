@@ -19,4 +19,4 @@ The Fall Rush of 2002 was the dawn of a new era in Phi Kappa Theta as freshmen a
 
 The chapter continues in the mission established at creation and strives to provide the same opportunities for the future Phi Kaps to come.
 
-PKT supports and respects all types of men, regardless of race, religion, or sexuality.
+PKT Mass Eta respects and includes all types of men, regardless of race, religion, or sexuality.
