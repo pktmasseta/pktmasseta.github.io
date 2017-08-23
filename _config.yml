@@ -59,7 +59,7 @@ defaults:
     values:
       collection: rush
       banner: rush
-      subtitle: Rush 2016
+      subtitle: Rush 2017
   - scope:
       path: ""
       type: brothers
