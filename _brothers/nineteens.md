@@ -1,7 +1,7 @@
 ---
 title: Class of 2019
 banner: nineteens
-position: 2
+position: -2019
 year: 2019
 brothers:
   - initials: BJO

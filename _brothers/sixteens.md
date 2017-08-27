@@ -1,7 +1,7 @@
 ---
 title: Class of 2016
 banner: sixteens
-position: 5
+position: -2016
 year: 2016
 brothers:
   - initials: AGB

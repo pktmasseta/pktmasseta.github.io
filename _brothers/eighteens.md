@@ -1,7 +1,7 @@
 ---
 title: Class of 2018
 banner: eighteens
-position: 3
+position: -2018
 year: 2018
 brothers:
   - initials: ACA

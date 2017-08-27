@@ -1,7 +1,7 @@
 ---
 title: Class of 2017
 banner: seventeens
-position: 4
+position: -2017
 year: 2017
 brothers:
   - initials: DXD
