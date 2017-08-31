@@ -2,7 +2,7 @@
 title: Rush Schedule
 subtitle: MIT Fall 2016
 layout: schedule
-position: 1
+position: 0
 permalink: /rush/
 schedule:
   - day: Saturday
