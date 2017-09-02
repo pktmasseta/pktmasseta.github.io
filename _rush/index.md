@@ -9,7 +9,7 @@ schedule:
     date: Sept 2nd
     events:
       - name: BBQ and House Tours
-        description: "Come enjoy burgers, hot dogs, cold drinks, and more in our historic brownstore mansion."
+        description: "Come enjoy burgers, hot dogs, cold drinks, and more in our historic brown stone mansion."
         start: 12:00 PM
         end: 2:30 PM
       - name: Crack Open a Cold One with the Boys
