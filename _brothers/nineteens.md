@@ -13,17 +13,6 @@ brothers:
     nickname: Facebook
     blurb: >
       Ben is a social beast. He plows through meeting new people on social media and in real life. That's just how he rolls. He is loves Chinese food, people, and culture. While Ben thinks he has unparalleled physical fitness…yeah he actually is probably the most cut PKT brother. However, his newfound addiction to video games and Chinese girls will prove to his downfall. Let's just hope he cures cancer before that.
-  - initials: EXA
-    name: Eswar Anandapadmanaban
-    activities: Startlabs, Virtual Reality, Football
-    major: Course 6-2 - Electrical Engineering and Computer Science
-    hometown: Jersey City, NJ
-    quote: I think I need a pencil for the 18.03 test.
-    nickname: Bananapandaman
-    blurb: >
-      Born in India, Eswar's journey to MIT and Phi Kappa Theta is one that epitomizes the American Dream. After moving to the United States as a four year old to Jersey City, he had two equally ambitious dreams. The first of which was cheering for the Dallas Cowboys, his favorite football team, in a Super Bowl game. Unfortunately, no medical technology existed at the time to keep Eswar alive for the next few centuries to achieve his first dream. Due to this desperate realization, Eswar began to experiment with medical devices and devised the "ThereNIM," a touchless respiratory non-invasive monitor. No longer would Eswar have to worry about monitoring his respiratory health while he watched in agony as his Dallas Cowboys fall short of the Super Bowl once again during the playoffs. Eswar later submitted the ThereNIM into various science fairs and competition, such as the Intel Science Talent Search and received countless recognitions.
-      Taking care of his first dream, Eswar moved onto his second dream, ironically, virtual reality. After realizing that the Dallas Cowboys doesn't necessarily have to win in reality, Eswar quickly moved to the prospects and opportunities of virtual reality. Missing the extremely obvious opportunity of virtual reality with realistic pornography, Eswar decided instead to concentrate on the idea of 360 video-conferencing. Founding his company, Virtuo, with other like-minded partners, Eswar is constantly looking for ways to make this VR dream, a reality.
-      As entrepreneur, a tech-lover, VR enthusiast, and football fanatic, Eswar contributes to the Phi Kappa Theta Brotherhood in countless ways. His never ending journey to seek for the answers brings a quality of curiosity and inspiration to the house. His loyalty and dedication to the brotherhood is undeniable and true.
   - initials: VXF
     name: Vahid Fazel-Rezai
     activities: TechX, ProjX, HMMT, ultimate frisbee, math
@@ -33,19 +22,6 @@ brothers:
     nickname: Fazzlerazzle
     blurb: >
       Vahid is the most talkative, social brother of the 19s. Which is kind of surprising when you think about it since he grew up in North Dakota! Yes, people actually live there. When he's not lighting up a room with his gregarious personality -- or pulling a triple all-nighter to finish his 8 psets -- you can find him on the field playing a spontaneous game of sportsball. He may seem a bit intense when you first meet him, but deep down he's truly a very sweet, talented, humble guy. Probably because he's actually from Canada (no, like he's actually Canadian, pls don't tell the cops). Anyway, talk to Vahid! He loves talking.
-  - initials: ASV
-    name: Abhinav Venigalla
-    activities: Frisbee, TechX, Uniting Divided Nations
-    major: Course 6-2 - Computer Science and Electrical Engineering, Course 8 - Physics
-    hometown: Lakeland, FL
-    quote: Always bear in mind that your own resolution to succeed is more important than any other.
-    nickname: Abhi Lincoln
-    blurb: >
-      The story of Abhinav Lincoln (b. 1997, Abhinav Venigalla by birth) is, put shortly, the story of success, of dedication, of making one's way up in the land of dreams and opportunity. Lincoln hails from a log cabin in the quiet suburbs of Lakeland, FL, where, even as a young boy, he showed immense academic and social prowess, blossoming in his environs and being a natural leader, in school and elsewhere. He first rose to international prominence in middle school, where his nearly-unparalleled SAT
-      scores and uncanny ability to solve quadratic equations garnered the attention of local and global news media. In school, Lincoln made various contribution to the field of mathematics, even creating an algorithm to find the determinant of a four-by-four matrix. Galvanized by success, Lincoln was driven to move to Andover, MA, where he enrolled in the prestigious Phillips Academy, honing his intellectual and interpersonal abilities in the hopes of turning himself into the ultimate polymath -- the true paragon of the modern-day Renaissance Man.
-      Upon his graduation from Phillips, Lincoln matriculated at MIT and joined Phi Kappa Theta. During his early days at PKT, it was immediately clear that he was different -- a man as well-at-ease building a speaker as he was at being a public speaker. His unique, prodigious, and eclectic set of talents, coupled with his perfect moral compass, innate ability to unite various disjoint parties and effortless charisma, made him a natural leader within the fraternity. Lincoln, true to his name, rode a wave of
-      popularity all the way to the presidency of the pledge class of 2019, uniting and providing vision and leadership for the rest of us mere mortals. Abhi, as he insisted on being known (finding even Mr. President too lofty a title for his humble demeanor), was a kind, insightful, and benevolent leader, and always took his utmost care and precision in matters relating to PKT, making countless sacrifices to serve as a true cornerstone of our organization and perhaps being one of the greatest brothers PKT has ever known.
-      Lincoln, in addition to serving his fellow brothers and the MIT communtiy as a whole, also enjoys electrical engineering and computer science, working with TechX to organize one of the nation's largest and most prominent hackathons. In his (admittedly meagre) spare time, he can be found participating in sports, playing music, socializing with his fellow countrymen, and dreaming up ways to better lead a world that so desperately needs him.
   - initials: FAS
     name: Fernando Sanchez
     activities: Memorizing facts, MIT Pistol Team, Gettin' swole, Being watered, Topiary
@@ -65,15 +41,6 @@ brothers:
     nickname: Chef Logan Airport
     blurb: >
       Lokhin Cheng was born in the hillside valleys of China and grew up in the tundra of Green Bay Wisconsin. Raised with football in his veins, he's watched the highs and lows of his favorite football team – the Packers. As his nickname indicates, he's a highly competent chef, dedicating even six+ hours to perfect dishes, referring to lessons from working at his aunt's Chinese restaurant. If you run into Chef Logan, you'll probably find him making up phrases and pronunciations that only he can understand. You might find him enjoying some "rabbit cake," or practicing the art of "torched field warfare." Lokhin is one of the most dedicated and hard working brothers at PKT as you'll normally find him in his room working hard on a PSET while singing out of tune to Maroon 5 and Coldplay. Be sure to get to know Lokhin, one of the nicest brothers of the class of 2019.
-  - initials: KXT
-    name: Kushan Tyagi
-    activities: Chess, Basketball, Tennis, Poker, Halo, Gains
-    major: Course 6-3 - Computer Science
-    hometown: Ames, IA
-    quote: ...
-    nickname: (Small) Kush
-    blurb: >
-      A man of few words so precious that any rare spurt of three syllables he utters are regarded by preeminent scholars of our day as equal to epic fables of old. The talent coursing through his veins stemming from his superlative bloodline is evident; he is king on the court, dropping buckets left and right, and he is supreme on the board, crushing worthy opponents blindfolded. One would have better luck attempting to coax state secrets from a hardened war veteran than reading his poker face and luck is always on his side. He is a man of extremes, always pushing his limits, whether it be maxing out his bench without a spotter, or wrestling wild bears in the depths of PKT. He'll ace every serve and go flawless any team slayer match. Always willing to listen and offer his wisdom, Kushan is truly a gentleman and a scholar.
   - initials: SXM
     name: Santiago Munoz
     activities: Soccer, Basketball, Chess, Drawing, Sleep, Puzzles, Fishing, League, Dota

@@ -78,15 +78,6 @@ brothers:
     nickname: Josh
     blurb: >
       Josh is a freaking legend of a man. Born and raised in Southeast Pennsylvania, heís had a lifetime of athletic and academic prowess. Josh is a straight up computer graphics wiz-kid, a lifelong soccer player, and musical virtuoso in over 5 instruments. He is also possibly the fastest man on Earth (some say universe), as we all witnessed when he singlehandedly carried our class to victory in the annual PKT relay race, breaking the sound barrier on the final leg. When he isnít destroying track records, you might catch Josh at the local trampoline dodgeball arena, absolutely crushing it. Josh is a very well rounded guy - friendly, modest, and always incredibly composed. Always down for anything, Josh really knows how to have a good time!
-  - initials: MXN
-    name: Moin Nadeem
-    activities: TechX, StartLabs, Machine Intelligence Community, Muslim Student Association
-    major: Course 6-3 - Computer Science, Course 17 - Political Science
-    hometown: Tulsa, OK
-    quote: Why would you want a sex life when you can have Soylent?
-    nickname: Moin
-    blurb: >
-      Moin, PKT's resident bearded Oklahoman. Often found studying in Sloan, secretly hoping to get funding for his next startup. When not studying for his midterms 2 weeks in advance, he spends the rest of his waking hours managing TechX and Endeavor. Does he sleep? Nobody knows. From harvesting AP scores to hacking snapchat, he can always be found working on something interesting. Maybe one day he'll make the next Pied Piper. Always friendly and upbeat, make sure you meet Moin!
   - initials: NMS
     name: Nilai Sarda
     activities: Linguistics, Climbing, Ukulele, Trading
@@ -115,13 +106,4 @@ brothers:
     nickname: Shrey
     blurb: >
       Shreyan Jain grew up in the great state of California, where he developed a fond affection for all things prep -- you can catch him more often than not meandering around campus in salmon shorts and Aldo loafers. From a young age, Shreyan loved biology, becoming one of only 2 people nationwide to get a perfect score on the AP exam, and starting an extremely popular prep blog online. Of course, when he came to MIT, he pursued this passion by becoming a computer science major. Shreyan's other interests include dancing, Bose headphones, and complaining. Feel free to ask Shrey about anything from Abelian groups of order 5 to his love for good food. By far one of the smartest and most handsome brothers in our pledge class, Shreyan's a great addition to the brotherhood!
-  - initials: ZXW
-    name: Tony Wang
-    activities: Traders at MIT, Biking, Hiking, Climbing
-    major: Course 18 - Mathematics
-    hometown: Shanghai, China
-    quote: A clear conscience is the sign of a bad memory.
-    nickname: T-Wang
-    blurb: >
-      Tony Wang does it all. He is the master of everything outdoors. He bikes, he climbs, and he could take all your money in the stock market if he wanted to. But Tony will not do that, because he is a nice guy. If you have a tough math problem or a tricky puzzle, Tony is your man. Tony does not just add numbers, he makes them sing. With his theoretical prowess, Tony could conquer the world, but rest assured that his motives are pure. The conversation with Tony is never dull. From his biology research to his legendary hiking trips, Tony has traveled far and wide. He is a hard worker who still finds time to enjoy himself by reading a good book. It does not matter if there is no room in his schedule. Tony is the man for the job. But if you let Tony's charming smile and powerful physique distract you, it will be your downfall. Because Tony can hold his own against best of them, with his quick wit and thick calves. Do not let his fearsome reputation fool you. Tony is a kind brother at heart and a friend to all. Be sure to chat up Tony if you run into him biking around campus. Because you will be pleased with the results you get and the effort you put in.
 ---
