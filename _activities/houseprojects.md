@@ -12,4 +12,4 @@ Because of the new stairs, the drop ceiling had to be removed from the bar area.
 
 ###### 4th Bath Mural
 
-The talented PKT Team Mural set its sights upon the underwater mural in 4th bath and transformed the room into a Dr. Seuss world. Now you can watch Horton Hatch the Doublay as you hatch one yourself.
+The talented PKT Team Mural set its sights upon the underwater mural in 4th bath and transformed the room into Rick & Morty world.
