@@ -90,13 +90,13 @@ brothers:
       Nils, as us bros so affectionately (no homo, actually mebs for nils) call him, has size 13 feet. Now we did the math, and that means he truly gets that shit popping. You'll be at social hours wondering why the fk everyone be looking at the ground, and then you look up, god shines his fking light all over your face, and you see it's your g nilai Sarda. You stare at his fresh skin, his frosty smile, his sparkling white feet, and at his fking big feet. In that moment, all you can think is wow, mama I made it. And that's when your world goes white. Nils, what a fking G.
   - initials: RYC
     name: Rayden Chia
-    activities: Penetration, Cooking, Traveling, Hacking (The real kind)
+    activities: Sloan Business Club, Cooking, Traveling, Lifting, DJ-ing, all things Cybersecurity
     major: Course 6-3 - Computer Science
     hometown: Singapore
     quote: Prepare TO BE PENETRATED
-    nickname: raids
+    nickname: Rayden
     blurb: >
-      Rayden Chia is the Asian James Bond. Whether it be exposing flaws in servers, going hard on problem sets, or extracting the crab meat from a horde of crabs, Rayden Chia lives up to his certification in Offensive Penetration. Rayden possesses a certain dignity and class that comes from being under classified high-stress scenarios. A truly talented man, Rayden can cook you a Michelin quality meal from the recipes he finds past your computer's firewalls while looking fabulous. Watch out for Rayden in the future as his security technology company may be the only thing between your search history and the government.
+      Rayden Chia is the Asian James Bond. Be it exploiting vulnerabilities in servers, going hard on problem sets, or extracting meat from a horde of crabs, Rayden Chia lives up to his certification in Offensive Penetration Expert. Rayden possesses a certain dignity and class that comes from being under classified high-stress scenarios. A truly talented man, Rayden can cook you a Michelin quality meal from the recipes he finds past your computer's firewalls while looking absolutely fabulous. Watch out for Rayden in the future as his security technology company may be the only thing between your search history and the government.
   - initials: SXJ
     name: Shreyan Jain
     activities: Mirchi, Sloan Business Club
