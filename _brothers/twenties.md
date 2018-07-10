@@ -94,7 +94,7 @@ brothers:
     major: Course 6-3 - Computer Science
     hometown: Singapore
     quote: Prepare TO BE PENETRATED
-    nickname: Rayden
+    nickname: raids
     blurb: >
       Rayden Chia is the Asian James Bond. Whether it be exposing flaws in servers, going hard on problem sets, or extracting the crab meat from a horde of crabs, Rayden Chia lives up to his certification in Offensive Penetration. Rayden possesses a certain dignity and class that comes from being under classified high-stress scenarios. A truly talented man, Rayden can cook you a Michelin quality meal from the recipes he finds past your computer's firewalls while looking fabulous. Watch out for Rayden in the future as his security technology company may be the only thing between your search history and the government.
   - initials: SXJ
