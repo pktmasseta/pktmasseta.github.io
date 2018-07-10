@@ -96,7 +96,7 @@ brothers:
     quote: Prepare TO BE PENETRATED
     nickname: Rayden
     blurb: >
-      Rayden Chia is the Asian James Bond. Be it exploiting vulnerabilities in servers, going hard on problem sets, or extracting meat from a horde of crabs, Rayden Chia lives up to his certification in Offensive Penetration Expert. Rayden possesses a certain dignity and class that comes from being under classified high-stress scenarios. A truly talented man, Rayden can cook you a Michelin quality meal from the recipes he finds past your computer's firewalls while looking absolutely fabulous. Watch out for Rayden in the future as his security technology company may be the only thing between your search history and the government.
+      Rayden Chia is the Asian James Bond. Be it exploiting vulnerabilities in servers, going hard on problem sets, or extracting meat from a horde of crabs, Rayden Chia lives up to his Expert certification in Offensive Security. Rayden possesses a certain dignity and class that comes from being under high-stress scenarios in the military. A truly talented man, Rayden can cook you a Michelin-starred meal from the recipes he finds past your computer's firewalls while looking absolutely fabulous. Watch out for Rayden in the future as his security technology company may be the only thing between your search history and the government.
   - initials: SXJ
     name: Shreyan Jain
     activities: Mirchi, Sloan Business Club
