@@ -8,7 +8,7 @@ brothers:
     name: Alex Tran
     activities: Spokes, Code For Good, UROP
     major: Course 6-3 - Computer Science
-    hometown: ?, Texas
+    hometown: Houston, Texas
     quote: Yeah!
     nickname: Alex
     blurb: >
