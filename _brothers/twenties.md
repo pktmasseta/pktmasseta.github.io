@@ -22,7 +22,7 @@ brothers:
     major: Course 14-2 - Mathematical Economics
     hometown: Boston, MA
     quote: Jump on three!
-    nickname: Andrew
+    nickname: the bandyman
     blurb: >
       Andrew Lu is a local brother who hails from the great state of Massachusetts, majoring in Computer Science and Mathematical Economics. He may know a think or two about programming, but you can find his heart in business and finance. Andrew is a member of Sloan Business Club, Start Labs, and the Flux accelerator program. When heís not dishing out sound financial advice, he dominates the squash courts and dismantles his opponents in party games such as ping pong and foosball. Andrew is also the fearless leader of the 2020 pledge class, whose achievements include getting 12 people stuck in an elevator at 1 am, winning at the esteemed SK Late Night, and much more.
   - initials: AJT
@@ -40,7 +40,7 @@ brothers:
     major: Course 18 - Mathematics, Course 6-3 - Computer Science
     hometown: Lexington, MA
     quote: I sexually identify as a quant.
-    nickname: David
+    nickname: zDavid
     blurb: >
       Hailing from the suburbs of Lexington, Massachusetts, it is unclear whether this Twerk God was raised as a child prodigy, or if he was naturally born as one. From randomly discovering that he has a phenomenal voice to sing with, to humbly demolishing 6.437 psets in one night, it is clear that David is a brother truly worth the name. David is one of the most organized and put together brothers at PKT -- whether organizing serenades for the entire group, leading the way at parties, or solving puzzles at midnight, you'll never find yourself bored around him. On a typical weekday, you'll find him a disciplined ROTC man: working out, psetting with brothers, and even getting in some time to grab dinner with his many ladies. But on a weekend, it's a bit of a different story.
       However, even given his superhuman capabilities, David will never admit it -- he is one of the most kind, bright, and chill brothers that Phi Kappa Theta has to offer. Never be afraid to hang out with David -- you'll find out that there's much more to him than it first seems.
@@ -66,7 +66,7 @@ brothers:
     major: Course 2 - Mechanical Engineering
     hometown: Unity, ME
     quote: My guy.
-    nickname: John
+    nickname: John P
     blurb: >
       With his chiseled abs, wavy brown hair, and unabashedly salmon-colored shorts, everything about John Piotti just screams fratstar. Hailing from the stormy seas of Maine, Johnís both a New England native and a sailor at heart. With his steady hand holding the ropes and his silky smooth voice narrating the history of the Boston skyline, watching John lead a boating tour down the Charles is surely on every MIT studentís bucket list. When something needs fixing, everyone knows Johnís the brother to go to. As handy with a toilet plunger as he is with a sail, Johnís restored the PKT house to its old glory, painstakingly painting over decades of beer stains and cracks. Legend has it that when this godly specimen walks into a party, the ladies come flocking. Luckily for us, Piottiís a romantic at heart and has eyes only for his childhood sweetheart, so heís always happy to introduce any admirers to his friends instead. Is it any surprise that everyone calls John best brother?
   - initials: JEN
@@ -96,7 +96,7 @@ brothers:
     quote: Prepare TO BE PENETRATED
     nickname: raids
     blurb: >
-      Rayden Chia is the Asian James Bond. Be it exploiting vulnerabilities in servers, going hard on problem sets, or extracting meat from a horde of crabs, Rayden Chia lives up to his Expert certification in Offensive Security. Rayden possesses a certain dignity and class that comes from being under high-stress scenarios in the military. A truly talented man, Rayden can cook you a Michelin-starred meal from the recipes he finds past your computer's firewalls while looking absolutely fabulous. Watch out for Rayden in the future as his security technology company may be the only thing between your search history and the government.
+      Rayden Chia is the Asian James Bond. Be it exploiting vulnerabilities in servers, going hard on problem sets, or extracting meat from a horde of crabs, Rayden Chia lives up to his Expert certification in Offensive Security. He possesses a certain dignity and class that comes from being under high-stress scenarios in the military. A truly talented man, Rayden can cook you a Michelin-starred meal from the recipes he finds past your computer's firewalls while looking absolutely fabulous. Watch out for Rayden in the future as his security technology company may be the only thing between your search history and the government.
   - initials: SXJ
     name: Shreyan Jain
     activities: Mirchi, Sloan Business Club
