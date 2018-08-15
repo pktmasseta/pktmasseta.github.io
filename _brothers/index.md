@@ -63,6 +63,7 @@ Undergraduate Academics:
 - Course 8 (Physics)
 - Course 14 (Economics)
 - Course 15 (Management)
+- Course 18 (Mathematics)
 - Course 20 (Biological Engineering)
 - Course 24 (Philosophy & Linguistics)
 - MIT Computer Science and Artificial Intelligence Lab
