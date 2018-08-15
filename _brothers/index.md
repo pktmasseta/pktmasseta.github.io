@@ -5,7 +5,7 @@ title: Brothers of PKT
 position: -10000
 permalink: /brothers/
 ---
-At the end of the day, a brotherhood would not exist without its brothers. The men of PKT strive everyday to embody our ideals, our motto, and the image of true gentlemen. We pride ourselves on excelling in everything we do: in the classroom, we encourage and help one another to perform well in our academics; outside the classroom, everyone does something they are passionate in. Here are some aspects we take pride excelling at:
+At the end of the day, a brotherhood would not exist without its brothers. The men of PKT strive everyday to embody our ideals, our motto, and the image of true gentlemen. We pride ourselves on excelling in everything we do: in the classroom, we encourage and help one another to perform well in our academics; outside the classroom, everyone does something they are passionate in. This page shows some aspects that brothers take pride in excelling at within recent years.
 
 ###### Career Development
 
