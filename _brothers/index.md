@@ -80,4 +80,12 @@ Postgraduate Academics
 
 Brothers of PKT are also engaged in athletic activities and love playing sports. When not in the classroom or thriving in our professional careers, we find a way to remain engaged with sports via intramurals. A few even play varsity sports throughout the year. Even those that don't play a competitive sport pick up their own sporting activity or are active in our intramural sports teams, such as:
 
-- xxx
+- Football
+- Dance
+- Cycling
+- Fencing
+- Soccer
+- Ultimate Frisbee
+- Cross-Country
+- Basketball
+- Weightlifting
