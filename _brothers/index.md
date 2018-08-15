@@ -46,7 +46,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 
 We continuously maintain a high standard of academic rigor and excellence and foster close relationships with other students and faculty. We are conducting groundbreaking research and pursuing career interests in many departments at MIT, and numerous brothers have also continued their education beyond their undergraduate career at MIT. Brothers are in varied departments and have academic interests in areas such as:
 
-######### Undergraduate Academics
+Undergraduate Academics
 
 - Course 2 (Mechanical Engineering)
 - Course 4 (Architecture)
@@ -67,7 +67,7 @@ We continuously maintain a high standard of academic rigor and excellence and fo
 - Financial Technology
 - Quantitative Trading
 
-######## Postgraduate Academics
+Postgraduate Academics
 
 - MIT EECS (6-3/7/P MEng)
 - Stanford Engineering (PhD)
