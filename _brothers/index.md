@@ -51,7 +51,7 @@ Founded startups
 
 ###### Academics & Activities
 
-We continuously maintain a high standard of academic rigor and excellence and foster close relationships with other students and faculty. We are conducting groundbreaking research and pursuing career interests in many departments at MIT, and numerous brothers have also continued their education beyond their undergraduate career at MIT. Brothers are in varied departments and have academic interests in areas such as:
+We continuously maintain a high standard of academic rigor and excellence and foster close relationships with other students and faculty. We are also conducting groundbreaking research and pursuing career interests in many departments at MIT. Numerous brothers have decided to further their careers in postgraduate studies beyond MIT too. We are in various departments and have academic interests in areas such as:
 
 Undergraduate Academics:
 
