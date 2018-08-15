@@ -41,3 +41,26 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Susquehanna Investment Group
 - Tower Research Capital
 - Two Sigma Investments
+
+###### Academics
+
+We continuously maintain a high standard of academic rigor and excellence and foster close relationships with other students and faculty. We are conducting groundbreaking research and pursuing career interests in many departments at MIT, and numerous brothers have also continued their education beyond their undergraduate career at MIT. Brothers are in varied departments and have academic interests in areas such as:
+
+- Course 2 (Mechanical Engineering)
+- Course 4 (Architecture)
+- Course 5 (Chemistry)
+- Course 6 (EECS)
+- Course 7 (Biology)
+- Course 8 (Physics)
+- Course 14 (Economics)
+- Course 15 (Management)
+- Course 20 (Biological Engineering)
+- Course 24 (Philosophy & Linguistics)
+- MIT Computer Science and Artificial Intelligence Lab
+- Research Laboratory of Electronics
+- Sloan School of Management
+- Lincoln Lab
+- Cybersecurity
+- Machine Learning
+- Financial Technology
+- Quantitative Trading
