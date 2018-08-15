@@ -46,6 +46,8 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 
 We continuously maintain a high standard of academic rigor and excellence and foster close relationships with other students and faculty. We are conducting groundbreaking research and pursuing career interests in many departments at MIT, and numerous brothers have also continued their education beyond their undergraduate career at MIT. Brothers are in varied departments and have academic interests in areas such as:
 
+######### Undergraduate Academics
+
 - Course 2 (Mechanical Engineering)
 - Course 4 (Architecture)
 - Course 5 (Chemistry)
@@ -64,3 +66,18 @@ We continuously maintain a high standard of academic rigor and excellence and fo
 - Machine Learning
 - Financial Technology
 - Quantitative Trading
+
+######## Postgraduate Academics
+
+- MIT EECS (6-3/7/P MEng)
+- Stanford Engineering (PhD)
+- Stanford Medical School (MD)
+- MIT Sloan School of Management (MBA, MFin)
+- Harvard Medical School (MD)
+- Harvard Business School (MBA)
+
+###### Athletics
+
+Brothers of PKT are also engaged in athletic activities and love playing sports. When not in the classroom or thriving in our professional careers, we find a way to remain engaged with sports via intramurals. A few even play varsity sports throughout the year. Even those that don't play a competitive sport pick up their own sporting activity or are active in our intramural sports teams, such as:
+
+- xxx
