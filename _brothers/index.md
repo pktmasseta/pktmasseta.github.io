@@ -77,7 +77,7 @@ Undergraduate Academics:
 
 Postgraduate Academics:
 
-- MIT EECS (6-3/7/P MEng)
+- MIT EECS (6-3/7/P MEng, PhD)
 - Stanford Engineering (PhD)
 - Stanford Medical School (MD)
 - MIT Sloan School of Management (MBA, MFin)
