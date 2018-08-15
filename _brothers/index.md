@@ -44,10 +44,12 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 
 Founded startups
 
+- Benchling
 - Fireflies.ai
 - Ministry of Supply
 - Namebase
 - Remedy Medical
+- vball
 
 ###### Academics & Activities
 
