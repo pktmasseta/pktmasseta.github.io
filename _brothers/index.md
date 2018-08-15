@@ -38,7 +38,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Raytheon
 - Rev.com
 - SpaceX
-- Susquehanna Investment Group
+- Susquehanna International Group
 - Tower Research Capital
 - Two Sigma Investments
 
