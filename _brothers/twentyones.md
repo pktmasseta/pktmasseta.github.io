@@ -24,15 +24,6 @@ brothers:
       If anyone deserves some respect on his name, it’s Bhavik Nagda.  Born a mere 20 minutes from the MIT homeland in Newton, Massachusetts, young Bhavik was destined for greatness from the minute the world was graced with his presence.  In high school, Bhavik turned heads and wooed the ladies as a world class distance runner, allowing him to literally excel past his competiton in everything he did.  If there was a lonely girl within a mile, you could be certain that Bhavik would be there in 4:30 or less to comfort her.  But alas, when his high school days came to an end, Bhavik realized that although he was the fastest who had ever walked the streets of Newton, he had been running from his true passion all along…THE ART OF DANCE.  Immediately upon entering MIT, he sought far and wide for an outlet to demonstrate his true passion.  The search ended when he found his gem, his pride and joy, his queen, the Mirchi Dance Team.  Now, Bhavik can be found pouring his heart and soul into his craft at all hours of the day, perfecting his Bollywood Fusion style dancing.  Many call Bhavik for a “ghost” since he is rarely seen off of the dance floor.  But if you ask him, he’d rather be called a GOAT. 
 
       Oh yeah and he’s in that one business club…
-  - initials: DHT
-    name: Dakota Thurman
-    activities: Soccer, Chick-fil-A, SD Society
-    major: Course 15-3 - Finance
-    hometown: Spring City, TN
-    quote: I love my cages.
-    nickname: The RA
-    blurb: >
-      Dakota lives in East Campus (the best dorm in the entire universe, he might say). He is an avid scholar of the Portuguese tongue and enjoys his classes, but will indulge in the occasional Red Bull to start a pset on the morning it’s due. Oh well. If you ever get bored with your life, hit him up and he will spice things up for you.
   - initials: GLR
     name: Gabriel Ramirez 
     activities: Code for Good, UROP, lifting, throwing ragers
