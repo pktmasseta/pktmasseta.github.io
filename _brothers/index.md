@@ -49,7 +49,6 @@ Founded startups
 - Ministry of Supply
 - Namebase
 - Remedy Medical
-- vball
 
 ###### Academics & Activities
 
@@ -120,4 +119,5 @@ Brothers of PKT are also engaged in athletic activities and love playing sports.
 - Soccer
 - Squash
 - Ultimate Frisbee
+- Volleyball
 - Weightlifting
