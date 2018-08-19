@@ -30,7 +30,7 @@ brothers:
     major: Course 6-3 - Computer Science
     hometown: McAllen, TX
     quote: VERY NICE
-    nickname: Gabe
+    nickname: Social Overlord
     blurb: >
       Referred to in some circles as the Social Overlord, Gabe is without
       doubt the most outgoing brother at PKT. A natural at computer science,
