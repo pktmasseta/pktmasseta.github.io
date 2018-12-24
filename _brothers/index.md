@@ -15,6 +15,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Amazon
 - Apple
 - Bain & Co.
+- Bank of America Merrill Lynch
 - Boeing
 - Booz Allen Hamilton
 - Bose
@@ -41,6 +42,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Susquehanna International Group
 - Tower Research Capital
 - Two Sigma Investments
+- The Walt Disney Company
 
 Founded startups
 
@@ -92,6 +94,7 @@ We also have a high involvement in clubs, programs and societies at MIT such as:
 - DanceTroupe (DT)
 - D-Lab
 - Eta Kappa Nu Honor Society
+- Global Platinum Securities
 - HackMIT
 - MIT 100K Competition
 - MIT Consulting Group (MCG)
