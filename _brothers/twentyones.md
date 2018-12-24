@@ -46,23 +46,6 @@ brothers:
       A proud Texan at heart, Gabe is the undisputed grillmaster of Phi Kappa
       Theta. His propensity for memes is unrivaled, as is his commitment to
       the brotherhood. All hail His Royal Memeyness.
-  - initials: GXM
-    name: Gherardo Morona 
-    activities: Machine Intelligence Community
-    major: Course 6-2 - Electrical Engineering & Computer Science
-    hometown: Treviso, Italy
-    quote: Mama Mia!
-    nickname: Gerry
-    blurb: >
-      Mama mia, it’s your favorite Italian, Gherardo. Hailing from Treviso, Italy, the stallone
-      Italiano can be found in one of three places any time of day; living it up in your number one MIT
-      fraternity, PSetting away in the third best dorm on campus, Baker; or subsisting on linguini and
-      ravioli in the famed MIT dining halls. The Chef Boyardee of PKT, Gherardo has shown
-      consistency and quality in his work. When it comes to academics, namely computer science,
-      this man is no wet noodle. He will hold his own in any academic discussion or debate. Outside
-      of his scholastic pursuit, Gherardo has the pleasure of enjoying weather us normal height
-      people could only dream of. If you ever need help navigating Baker, working on a course 6
-      PSet, or Cooking an excellent stromboli, Gherardo is your man.
   - initials: IAT
     name: Isaac Toscano
     activities: Lifting, boxing, soccer
