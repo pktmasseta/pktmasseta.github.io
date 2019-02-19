@@ -24,7 +24,7 @@ As the most spacious room of the house, the Canyon is a quad. Most recently we b
 
 ###### House Lore
 
-The story of the canyon is as follows: There was this alum who came back and told us that there was a mural of the grand canyon painted across the walls of the room, which is why we called it the grand canyon. But, we asked a second alum, and he recalled no such thing. He then noted that the first alum dropped a lot of acid and smoked lots of weed.
+The story of the canyon is as follows: There was this alum who came back and told us that there was a mural of the grand canyon painted across the walls of the room, which is why we called it the grand canyon. But, we asked a second alum, and he recalled no such thing. A team of brothers was taked with chipping off the old paint on the wall to find the storied mural, but to no avail.  Perhaps we'll never know the namesake of the Canyon (it's probably just because it's big).
 
 ### Studio Bedroom
 
