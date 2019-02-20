@@ -19,6 +19,7 @@ If you really want to stay in a double or even a single, we may be able to negot
 ###### Room Rates
 
 Triples: $2600
+
 Quads: $2100
 
 These prices are per person and are total, all-inclusive prices for the entire summer. If you do choose to stay with us this summer, we will also request an additional $500 security deposit which will be refunded after your move out date.
