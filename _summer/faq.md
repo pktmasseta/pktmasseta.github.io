@@ -2,6 +2,8 @@
 sidebar: FAQ
 position: 5
 ---
+### FAQ
+
 ###### What is the deadline for applying for housing?
 
 The deadline to apply is April 19th, 2019, however space will be filled on a rolling basis, so it's in your best interest to apply sooner rather than later. If you miss this deadline, you should still drop your application in case space is still available.
