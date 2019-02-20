@@ -93,4 +93,4 @@ defaults:
       collection: summer
       banner: backbaysummer
       subtitle: Summer Housing
-      layout: page
+      layout: default
