@@ -40,6 +40,11 @@ collections:
     output: true
     friendly_name: Activities
     position: 5
+  summer:
+    output: true
+    friendly_name: Summer
+    position: 6
+
 
 defaults:
   - scope:
@@ -59,7 +64,7 @@ defaults:
     values:
       collection: rush
       banner: rush
-      subtitle: Rush 2017
+      subtitle: Rush 2018
   - scope:
       path: ""
       type: brothers
@@ -81,3 +86,11 @@ defaults:
     values:
       collection: activities
       banner: party
+    - scope:
+      path: ""
+      type: summer
+    values:
+      collection: summer
+      banner: backbaysummer
+      subtitle: Summer Housing
+      layout: default
