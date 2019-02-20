@@ -86,7 +86,7 @@ defaults:
     values:
       collection: activities
       banner: party
-    - scope:
+  - scope:
       path: ""
       type: summer
     values:
