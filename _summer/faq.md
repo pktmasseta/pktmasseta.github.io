@@ -38,7 +38,7 @@ PKT has a really fast 802.11n guest WiFi network throughout the house. Additiona
 
 ###### How much will housing cost?
 
-Pricing depends on the room type you select. Please visit the Rooms & Rates page to find out more.
+Pricing depends on the room type you select. Please visit the [Rates](pkt.mit.edu/summer/rates/) page to find out more.
 
 ###### Who can I contact for more info?
 
