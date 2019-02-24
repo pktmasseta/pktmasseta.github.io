@@ -6,6 +6,10 @@ position: 3
 
 Living in PKT will give you access to everything you need to have a pleasant living situation and an enjoyable summer. The price of your room gives you access to all of the following house amenities.
 
+###### Location
+
+Our house is located right in the heart of Back Bay. Living at PKT gives you access to nearby grocery stores like CVS and Star Market, multiple dining options on Newbury and Boylston Street, and leisure opportunities at the Commonwealth mall, Boston Commons, and Charles River Esplanade. We are also located just a short walk away from the Copley Green Line T Staion, allowing you to get anywhere you need to be in Boston.
+
 ###### Kitchen
 
 Our house basement is equipped with a full size industrial kitchen for all of your culinary needs. Our cooking station comes complete with six burners and two ovens, and you'll be able to store your food in our industrial freezer, refridgerator, or pantry. There is also a house grill that can be used in our back lot to host some great summer barbecues!
@@ -28,7 +32,7 @@ Most rooms also come with a couch or two, so if you and your roommates are comfo
 
 ###### Rooftop Deck
 
-One of the best parts of our house, our rooftop deck provides an excellent view of the Boston skyline and a bird's eye view of the beautiful Commonwealth Mall. There are benches and a picnic table on the deck for lounging in the sun on nice afternoons or catching the sunset in the evenings.
+One of the best parts of our house, our rooftop deck provides an excellent view of the Boston skyline and a bird's eye view of the beautiful Commonwealth mall. There are benches and a picnic table on the deck for lounging in the sun on nice afternoons or catching the sunset in the evenings. The roof also gives the perfect viewpoint to watch the fireworks on the Fourth of July!
 
 ###### Bathrooms
 
