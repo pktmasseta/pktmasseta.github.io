@@ -37,3 +37,7 @@ One of the best parts of our house, our rooftop deck provides an excellent view 
 ###### Bathrooms
 
 Every residential floor in the house comes with a full bathroom with stalls, sinks, and a closed shower area.
+
+###### Air Conditioning
+
+Boston can get quite warm over the summer, so to keep you cool and comfortable, every room comes with a window AC unit.
