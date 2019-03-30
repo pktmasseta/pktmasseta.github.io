@@ -12,10 +12,6 @@ We will have three triples available for rent this summer. These rooms include V
 
 Four quads will be available for rent. These rooms include Sunrise and Tomb located on the third floor, and Studio and Beer located on the fourth floor. For more information about our rooms and a bit about their places in PKT house lore, visit the [House](https://pkt.mit.edu/house/) tab of this website.
 
-###### Other Rooming Options
-
-If you really want to stay in a double or even a single, we may be able to negotiate something. Indicate this when you fill out the interest form, and email Stephen Otremba at pkt-summerhousing@mit.edu.
-
 ###### Room Rates
 
 Triples: $2600
