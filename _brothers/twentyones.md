@@ -80,7 +80,7 @@ brothers:
     activities: Sloan Business Club, IM Soccer, IM Ultimate Frisbee
     major: Course 6-1 - Electrical Science and Engineering
     hometown: Independence, MO
-    quote: 69-bit
+    quote: 32-bit
     nickname: Barnes
     blurb: >
       Hailing from the vast expanse of Missouri, Sam is the true spiritual successor of Elon Musk. Having made a 32 bit computer at an early age, he came to MIT with the sole desire to learn the ways of the 64 bit computer. However, after an experiment went horribly wrong, he became the 64 bit computer. Now, he spends much of his time hidden away in the darkest corners of the Stata loading docks sifting through piles of machinery. Nobody knows for what he looks. Nobody knows of what he speaks. Nobody knows for what purpose he is here. Nobody dares approach him. He does not learn from his professors, for he taught the professors that taught his professors. When he isn't taking apart microwaves and projectors to build tesla coils and who knows what else, you can find him meandering around campus with naught but his guitar and the shoes on his feet as he ponders the potential implications of the fabrication of miniaturized, high-density PCBs on the American psyche. Do not question this man, for your questions will run out far before his knowledge.
