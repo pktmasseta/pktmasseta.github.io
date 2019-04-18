@@ -6,11 +6,11 @@ position: 5
 
 ###### What is the deadline for applying for housing?
 
-The deadline to apply is April 19th, 2019, however space will be filled on a rolling basis, so it's in your best interest to apply sooner rather than later. If you miss this deadline, you should still drop your application in case space is still available.
+Applicants will be evaluated on a rolling basis, so it's in your best interest to apply sooner rather than later. If it's late in the year, you should still drop your application in case space is still available.
 
 ###### What happens after I apply?
 
-We will accept applicants on a rolling basis until the above deadline. Accepted tenants will be sent a housing contract, as well as rooming, roommate, and social preference forms. Applicants must decide to commit to living at PKT within 5 days of receiving their acceptance. Any applicants on our wait list will be communicated separate details should you be accepted. You will only be required to pay for your room should you sign the contract, which commits our room to you, so it’s up to you to officially decide!
+We will accept applicants on a rolling basis. Accepted tenants will be sent a housing contract, as well as rooming, roommate, and social preference forms. Applicants must decide to commit to living at PKT within 5 days of receiving their acceptance. Any applicants on our wait list will be communicated separate details should you be accepted. You will only be required to pay for your room should you sign the contract, which commits our room to you, so it’s up to you to officially decide!
 
 ###### Can you tell me more about this cleaning service?
 
