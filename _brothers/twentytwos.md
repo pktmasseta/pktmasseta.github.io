@@ -19,20 +19,20 @@ brothers:
       The Journey of Adit is far from over, and any man, woman, or child who has the honor to pass him by in the Infinite may be considered part of said Journey. Whatever his future may hold, it is inexorably linked to his brothers of Phi Kappa Theta Fraternity. 
   - initials: LJI
     name: Luke Igel
-    activities: -
-    major: -
-    hometown: -
-    quote: -
-    nickname: -
+    activities: x
+    major: x
+    hometown: x
+    quote: x
+    nickname: x
     blurb: >
       Under construction. For any queries, please email achen428@mit.edu.
   - initials: AXC
     name: Andrew Chen
-    activities: -
-    major: -
-    hometown: -
-    quote: -
-    nickname: -
+    activities: x
+    major: x
+    hometown: x
+    quote: x
+    nickname: x
     blurb: >
       Under construction. For any queries, please email hmturner@mit.edu.
   - initials: HMT
@@ -124,11 +124,11 @@ brothers:
       Hailing from the sunny beaches and smoggy skies of LA, Marc checks both H’s as a hipster and a hacker.  Rocking a beanie and a luscious lock of finely groomed hair, the Bushman himself rocks a distinctive style not unlike that of our dear brother Stephen Otremba. As an algorithms expert, the wild bushman can most likely be found in his natural habitat… his room… sleeping.  Yet, when it comes to physics, the Bushman has yet to show up to a single 8.02 class.  The Bushman seeks sustenance during the day and frequents the water hole at the Stud where he fills up on Red Bull and Arizona.  With the physique of a young stud, the fur of Chewbacca, and the Primitive Survival Rating of tarzan himself, the Bushman is a jack of many trades- from dancing to electrical systems.  Keep your eyes on this young man; one moment he’s here, the next, he’s in your computer system.  
   - initials: IKL
     name: Isaac Lau
-    activities: -
-    major: -
-    hometown: -
-    quote: -
-    nickname: -
+    activities: x
+    major: x
+    hometown: x
+    quote: x
+    nickname: x
     blurb: >
       Under construction. For any queries, please email kevin@mit.edu.
   - initials: KAL
@@ -151,11 +151,11 @@ brothers:
       Born and raised in Durham, NC, Wes’s charm and sophistication makes any girl around him fall in love. Wes’s popularity has garnered him an extensive network of friends. While walking around campus, he’s sure to take his time, greeting every person that crosses his path. His charisma and soft voice will gain your trust, and you’ll soon find yourself opening up, revealing your deepest thoughts and secrets to him. Living by the mantra “value silence”, don’t be surprised if you catch him walking along the Harvard Bridge on a cold winter night. When he’s not overwhelmed with schoolwork, you could find Wes participating in extracurriculars around campus. From creating the technology behind Puma’s next basketball shoe, to partaking in the MIT Consulting Group, Wes is truly killing it.
   - initials: DSM
     name: David Magrefty
-    activities: -
+    activities: x
     major: Computer Science and Engineering (6-3)
     hometown: Ashdod, Israel
-    quote: -
-    nickname: -
+    quote: x
+    nickname: x
     blurb: >
       Is it David Beckham? Is it Dave Franco? No, it's actually David Magrefty. 
 
