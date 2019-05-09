@@ -48,4 +48,13 @@ brothers:
       (1)The M is abbreviated as profanities are not allowed on our brotherly website. 
       (2)Examples of such behavior include drinking while working on essays to decrease brain function, and taking 2 UROPs while taking Unified
       (3)These accomplishments include mastering the Chinese language solely by watching Ni Hao, Kai-Lan and attending class, not because of necessity, but as a courtesy to the teacher.
+  - initials: GUS
+    name: Gerardo Segura
+    activities: Society of Hispanic Professional Engineers
+    major: Computer Science (6-3)
+    hometown: Beaumont, TX
+    quote: Big mans
+    nickname: Gerry
+    blurb: >
+      fixed?
 ---
