@@ -6,11 +6,13 @@ year: 2022
 brothers:
   - initials: AXA
     name: Adit Abraham
-    activities: Stuff
-    major: Course 6-3 - Computer Science
-    hometown: Houston, Texas
-    quote: Yeah!
-    nickname: Alex
+    activities: Startlabs, Contrary Capital, reminiscing over wrestling
+    major: Computer Science and Engineering (6-3)
+    hometown: Salisbury, MD
+    quote: Hair dye is to be administered by professionals only.
+    nickname: Adept Abe
     blurb: >
-      He doesn’t always speak, but when he does, he prefers “YEAH!” Alex Tran is the most interesting man in the world. He once defused a riot in Turkey by speaking Turkish… in French. When he writes in a textbook, it immediately increases in value. Once, he likened machine learning to teaching a dog to sit. He gives professors PSETS, and his tests come pre-marked with 100%. S^3 asks him for sick days, purely out of respect. He knows all forms of martial arts, including the three that only he knows. No human fully understands his story — because it’s too much knowledge for mere mortals. Not even we know all the details of Alex Tran’s existence, but as he always says — “Stay bros my friends.”
+      Adit is a man who seeks opportunity. A sophomore rush, he dedicated his first year at the Institute to becoming the biggest entrepreneurship mans the world has ever seen. Now, hopeful undergraduate founders and sucessful entrepreneur alums alike approach him with zeal, hoping that Adit may grant them access to the enterprising community of MIT. Adit holds the keys to the castle, and by his unrivaled generosity we know there could be no better occupant of the throne.
+
+      The Journey of Adit began at birth. Originally from New Dehli, the young boy moved to glorious Maryland at the precocious age of 8. He was an explorer, a seer of sights, a dabbler in youth wrestling, and when he finally came of age, he was enveloped by the blocky escape that is Minecraft. His survival skills were unrivaled, but his obsession eventually turned away from crafting networks of redstone and towards cultivating networks of <i>working professionals</i>. Adit became the unchallenged rival of LinkedIn, and even came close to connecting with the Daily Show's Hasan Minhaj. The DMs never stopped, opportunities flourished, and the man only found a worthy contender when he first entered the doors of PKT. 
 ---
