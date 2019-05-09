@@ -1,7 +1,7 @@
 ---
 title: Class of 2021
 banner: twentyones
-position: -2021
+position: -2021Forever
 year: 2021
 brothers:
   - initials: AHT
