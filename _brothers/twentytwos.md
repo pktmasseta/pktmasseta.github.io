@@ -26,4 +26,13 @@ brothers:
     nickname: x
     blurb: >
       Under construction. For any queries, please email achen428@mit.edu.
+  - initials: AXC
+    name: Andrew Chen
+    activities: x
+    major: x
+    hometown: x
+    quote: x
+    nickname: x
+    blurb: >
+      Under construction. For any queries, please email hmturner@mit.edu.
 ---
