@@ -35,4 +35,17 @@ brothers:
     nickname: x
     blurb: >
       Under construction. For any queries, please email hmturner@mit.edu.
+  - initials: HMT
+    name: Herbert Turner
+    activities: Rocket building, hair dying
+    major: Aerospace Engineering (16)
+    hometown: Phoenixville, PA
+    quote: Guys, it's not a phase.
+    nickname: Herbie
+    blurb: >
+      Herbert(1) M. Turner IV, the proud king of the Hurbitat, hails from the small pond known as Phoenixville, Pennsylvania. As a thicc fish, Herbs has always pursued difficult challenges in life. If none can be found, Herbie has been known to sabotage his own success in order to increase the rigor of life(2). This motivated attitude led HMT to attend Phillips Academy Andover! There King Turner flourished and a passion for AeroAstro was ignited. To this day, some still refer to him as “MatchStick”. Humble MatchStick refuses to create a LinkedIn, as he needs no praise for his accomplishments(3). Inspired by his own image, Herbert aspires to build big rockets!!
+
+      (1)The M is abbreviated as profanities are not allowed on our brotherly website. 
+      (2)Examples of such behavior include drinking while working on essays to decrease brain function, and taking 2 UROPs while taking Unified
+      (3)These accomplishments include mastering the Chinese language solely by watching Ni Hao, Kai-Lan and attending class, not because of necessity, but as a courtesy to the teacher.
 ---
