@@ -19,13 +19,22 @@ brothers:
       The Journey of Adit is far from over, and any man, woman, or child who has the honor to pass him by in the Infinite may be considered part of said Journey. Whatever his future may hold, it is inexorably linked to his brothers of Phi Kappa Theta Fraternity.
   - initials: LJI
     name: Luke Igel
-    activities: x
-    major: x
-    hometown: x
+    activities: SBC, MIT Driverless, Startups
+    major: Computer Science (6-3), Philosophy (24-1)
+    hometown: Chanhassen, MN
     quote: x
-    nickname: x
+    nickname: Mr. Stealyogurl (you should ask him about that)
     blurb: >
-      Under construction. For any queries, please email achen428@mit.edu.
+      You better hide your girl in the presence of this man. With his luscious locks of brown hair, Luke
+      is known to charm any girl that sets their eyes upon him. Every word he speaks further allures
+      them. Seriously, try having a conversation with him. I guarantee you this will be a one of a kind
+      experience. Whether it’s about his startups ideas, metaphysical topics, or even conspiracy
+      theories you will never get bored of what Luke has to say, with each conversation leaving you
+      wishing for another. Also do not let his scrawny appearance deceive you. This man used to own
+      a pair of the most amazing abs, now hidden away for the greater good of the world. Who knows
+      what dangers might befall if he were to release the destructive powers of his abs. You’ll
+      constantly find Luke running around campus with all the various extracurriculars he’s involved
+      with. But as busy as he may be, this man will always have time to smash. 
   - initials: AXC
     name: Andrew Chen
     activities: x
@@ -148,11 +157,11 @@ brothers:
       Born and raised in Durham, NC, Wes’s charm and sophistication makes any girl around him fall in love. Wes’s popularity has garnered him an extensive network of friends. While walking around campus, he’s sure to take his time, greeting every person that crosses his path. His charisma and soft voice will gain your trust, and you’ll soon find yourself opening up, revealing your deepest thoughts and secrets to him. Living by the mantra “value silence”, don’t be surprised if you catch him walking along the Harvard Bridge on a cold winter night. When he’s not overwhelmed with schoolwork, you could find Wes participating in extracurriculars around campus. From creating the technology behind Puma’s next basketball shoe, to partaking in the MIT Consulting Group, Wes is truly killing it.
   - initials: DSM
     name: David Magrefty
-    activities: x
+    activities: StartMIT, Taekwondo
     major: Computer Science and Engineering (6-3)
     hometown: Ashdod, Israel
     quote: x
-    nickname: x
+    nickname: Kravmagrefty
     blurb: >
       Is it David Beckham? Is it Dave Franco? No, it's actually David Magrefty.
 
