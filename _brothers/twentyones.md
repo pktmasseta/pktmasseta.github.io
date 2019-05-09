@@ -66,7 +66,7 @@ brothers:
       On January 12th 1999 homeboy Alex was born, blessing everyone in his city of Guadalajara, Jalisco, Mexico with his presence. From his amazing athletic build and charming smile to his WILD party habits and great wealth Manuel Alejandro Encinas Maqueda is a student you definitely want to look out for. Let us start with his time in Texas. After spending some time in Mexico, Alex grew up in the wealthiest suburb of Texas: The Woodlands. Eating a five star meal cooked by a personal chef brought all the way from the exotic lands of the east is one way he'd occupy his time on a typical weekend night. It isn’t the fact that Alex would show up to his High School in a white Ferrari or the fact that he could buy you a $300 steak on a Friday Night that makes Alex such an amazing individual, most of all it is Alex’s kindness and leadership that makes him such a valuable brother in our fraternity. If you ever catch this man at a party you best bet he will be one of the ones bringing the house down (not literally) but it’ll be a pretty good party, you’ll even probably hear him say “bet” or you’ll see the big swole giant standing next to him saying “bet” 3 or 4 times a minute (it’s a popular word). His favorite hobbies include partying all night (on a Friday night... school is important) and running (especially away from the cops). Make sure you look out for my Mexican brother from another mother.
   - initials: NAS
     name: Nyle Sykes
-    activities: Sloan Business Club, Global Platinum Securities, Fencing
+    activities: Sloan Business Club, Global Platinum Securities, Fencing, DEAL
     major: Course 6-3 - Computer Science, Course 15-3 - Finance
     hometown: Denver, CO
     quote: Does having a diversified asset portfolio make me a hoe?
