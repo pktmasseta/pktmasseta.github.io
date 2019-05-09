@@ -43,11 +43,11 @@ brothers:
     quote: Guys, it's not a phase.
     nickname: Herbie
     blurb: >
-      Herbet* M. Turner IV, the proud king of the Hurbitat, hails from the small pond known as Phoenixville, Pennsylvania. As a thicc fish, Herbs has always pursued difficult challenges in life. If none can be found, Herbie has been known to sabotage his own success in order to increase the rigor of life.** This motivated attitude led HMT to attend Phillips Academy Andover! There King Turner flourished and a passion for AeroAstro was ignited. To this day, some still refer to him as “MatchStick”. Humble MatchStick refuses to create a LinkedIn, as he needs no praise for his accomplishments.*** Inspired by his own image, Herbert aspires to build big rockets!!
+      Herbert(1) M. Turner IV, the proud king of the Hurbitat, hails from the small pond known as Phoenixville, Pennsylvania. As a thicc fish, Herbs has always pursued difficult challenges in life. If none can be found, Herbie has been known to sabotage his own success in order to increase the rigor of life(2). This motivated attitude led HMT to attend Phillips Academy Andover! There King Turner flourished and a passion for AeroAstro was ignited. To this day, some still refer to him as “MatchStick”. Humble MatchStick refuses to create a LinkedIn, as he needs no praise for his accomplishments(3). Inspired by his own image, Herbert aspires to build big rockets!!
 
-      The M is abbreviated as profanities are not allowed on our brotherly website. 
-      Examples of such behavior include drinking while working on essays to decrease brain function, and taking 2 UROPs while taking Unified
-      These accomplishments include mastering the Chinese language solely by watching Ni Hao, Kai-Lan and attending class, not because of necessity, but as a courtesy to the teacher.
+      (1)The M is abbreviated as profanities are not allowed on our brotherly website. 
+      (2)Examples of such behavior include drinking while working on essays to decrease brain function, and taking 2 UROPs while taking Unified
+      (3)These accomplishments include mastering the Chinese language solely by watching Ni Hao, Kai-Lan and attending class, not because of necessity, but as a courtesy to the teacher.
   - initials: GUS
     name: Gerardo Segura
     activities: Society of Hispanic Professional Engineers
@@ -57,7 +57,9 @@ brothers:
     nickname: - Gerry
     blurb: >
       On the night of February 26, 2000, an oil rig about 1.3 km. off the coast of Beaumont, Texas began to emit a deep, powerful, MOIST schlupping sound. Within a few minutes, it had squirted some ~300 barrels of crude into the stagnant surrounding waters, killing so many fish that the decaying corpses quickly warmed the sea to 37℃, the temperature of freshly drawn human blood. The fumes from the rotting fish reacted with the industrial exudates of the maquiladoras across the border, and dyed the air with a thick crimson, the throbbing, organic red of an infected eye.
+
       The younger, more cynical oilmen, there only for a few years to earn a bit and move on with their lives, will tell you that the spill was a natural tragedy. It was nothing more than gas buildup and faulty engineering, for “the earth has bubbles as the water has, and these are of them.” But the old men, those who’ve been there for as long as memory, might tell you otherwise. They have a reverence for the abyss, and speak in hushed tones of a name passed down through generations: Khero Kharo, a native Karankawa term meaning “buried blood-spirit sent by the silver canoe on the Milky Way.” How dare we drill too deep, they whisper, and disturb powers that have slept for millenia?
+
       But these are superstitions, and the hallucinogenic effects of that night’s chemical fumes were apparently pretty similar to those of psilocybin, so who remembers for sure what really happened? What we do know, however, is that the very next morning in Beaumont, after the fumes had precipitated into a shower of fine, red dust, a child was born. This child, Gerardo Segura, would exhibit an almost supernatural intellect from a young age. As a student at Andover, he was indestructible, and left his peers behind in a cloud of (maybe slightly red) dust. Here at MIT, he’s experienced a meteoric rise through the leaderships of both PKT and SHPE, and we all must consider what his rise to power might mean for mankind. One meaning is clear: the brothers of PKT sure are fortunate to have this merciful, legitimately benevolent spirit on our side.
   - initials: CJL
     name: Chih-Wei Joshua Liu
@@ -154,8 +156,7 @@ brothers:
     quote: x
     nickname: x
     blurb: >
-      Is it David Beckham? Is it Dave Franco? No, it's actually David Magrefty. 
+      Is it David Beckham? Is it Dave Franco? No, it's actually David Magrefty.
 
       Born in Ashdod, Israel, David is a true gentleman that is fluent in the languages of Hebrew, English, Python, node.JS, CSS, and love. Some see him as an army commander, we see him as a brother, and your girlfriend probably sees him as the man she wishes you could be. He's rigorously trained in the deadly martial art of Krav Maga but his stunning looks and charm are still the most lethal thing about him. When he isn't busy fielding stares from everyone in a 3-mile radius, David is usually busy finishing a pset due next semester in the MacGregor study room (either that or he's busy founding the next unicorn at MTC).
-
 ---

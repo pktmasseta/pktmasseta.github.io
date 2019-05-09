@@ -1,5 +1,5 @@
 ---
-title: Class of 2021 Remember the 21s
+title: Class of 2021
 banner: twentyones
 position: -2021
 year: 2021
@@ -21,12 +21,12 @@ brothers:
     quote: Got tofu?
     nickname: Bhavs
     blurb: >
-      If anyone deserves some respect on his name, it’s Bhavik Nagda.  Born a mere 20 minutes from the MIT homeland in Newton, Massachusetts, young Bhavik was destined for greatness from the minute the world was graced with his presence.  In high school, Bhavik turned heads and wooed the ladies as a world class distance runner, allowing him to literally excel past his competiton in everything he did.  If there was a lonely girl within a mile, you could be certain that Bhavik would be there in 4:30 or less to comfort her.  But alas, when his high school days came to an end, Bhavik realized that although he was the fastest who had ever walked the streets of Newton, he had been running from his true passion all along…THE ART OF DANCE.  Immediately upon entering MIT, he sought far and wide for an outlet to demonstrate his true passion.  The search ended when he found his gem, his pride and joy, his queen, the Mirchi Dance Team.  Now, Bhavik can be found pouring his heart and soul into his craft at all hours of the day, perfecting his Bollywood Fusion style dancing.  Many call Bhavik for a “ghost” since he is rarely seen off of the dance floor.  But if you ask him, he’d rather be called a GOAT. 
+      If anyone deserves some respect on his name, it’s Bhavik Nagda.  Born a mere 20 minutes from the MIT homeland in Newton, Massachusetts, young Bhavik was destined for greatness from the minute the world was graced with his presence.  In high school, Bhavik turned heads and wooed the ladies as a world class distance runner, allowing him to literally excel past his competiton in everything he did.  If there was a lonely girl within a mile, you could be certain that Bhavik would be there in 4:30 or less to comfort her.  But alas, when his high school days came to an end, Bhavik realized that although he was the fastest who had ever walked the streets of Newton, he had been running from his true passion all along…THE ART OF DANCE.  Immediately upon entering MIT, he sought far and wide for an outlet to demonstrate his true passion.  The search ended when he found his gem, his pride and joy, his queen, the Mirchi Dance Team.  Now, Bhavik can be found pouring his heart and soul into his craft at all hours of the day, perfecting his Bollywood Fusion style dancing.  Many call Bhavik a “ghost” since he is rarely seen off of the dance floor.  But if you ask him, he’d rather be called a GOAT. 
 
       Oh yeah and he’s in that one business club…
   - initials: GLR
     name: Gabriel Ramirez 
-    activities: Code for Good, UROP, lifting, throwing ragers
+    activities: Code for Good, UROP, lifting, throwing ragers (trying to at least)
     major: Course 6-3 - Computer Science
     hometown: McAllen, TX
     quote: VERY NICE
