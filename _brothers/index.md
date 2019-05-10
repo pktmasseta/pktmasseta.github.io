@@ -115,6 +115,7 @@ Brothers of PKT are also engaged in athletic activities and love playing sports.
 
 - Basketball
 - Boxing
+- Crew
 - Cross-Country
 - Cycling
 - Dance
