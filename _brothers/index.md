@@ -21,7 +21,6 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Bose
 - Boston Consulting Group
 - Cruise Automation
-- Disney
 - Facebook
 - Goldman Sachs
 - Google
