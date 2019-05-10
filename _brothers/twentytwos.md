@@ -22,7 +22,7 @@ brothers:
     activities: SBC, MIT Driverless, Startups
     major: Computer Science (6-3), Philosophy (24-1)
     hometown: Chanhassen, MN
-    quote: x
+    quote: I'm hooked on Pythonics
     nickname: Mr. Stealyogurl (ask him about it)
     blurb: >
       You better hide your girl in the presence of this man. With his luscious locks of brown hair, Luke
