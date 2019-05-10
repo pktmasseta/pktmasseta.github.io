@@ -19,13 +19,16 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Boeing
 - Booz Allen Hamilton
 - Bose
+- Boston Consulting Group
 - Cruise Automation
+- Disney
 - Facebook
 - Goldman Sachs
 - Google
 - Hudson River Trading
 - JP Morgan & Chase Co.
 - Jane Street Capital
+- Jet.com
 - KKR & Co.
 - LinkedIn
 - McKinsey & Co.
