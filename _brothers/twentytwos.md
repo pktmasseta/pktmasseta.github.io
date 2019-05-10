@@ -34,7 +34,7 @@ brothers:
       a pair of the most amazing abs, now hidden away for the greater good of the world. Who knows
       what dangers might befall if he were to release the destructive powers of his abs. You’ll
       constantly find Luke running around campus with all the various extracurriculars he’s involved
-      with. But as busy as he may be, this man will always have time to smash. 
+      with. But as busy as he may be, this man will always have time to Smash. 
   - initials: AXC
     name: Andrew Chen
     activities: x
