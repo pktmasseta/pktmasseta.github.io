@@ -28,7 +28,7 @@ brothers:
       You better hide your girl in the presence of this man. With his luscious locks of brown hair, Luke
       is known to charm any girl that sets their eyes upon him. Every word he speaks further allures
       them. Seriously, try having a conversation with him. I guarantee you this will be a one of a kind
-      experience. Whether it’s about his startups ideas, metaphysical topics, or even conspiracy
+      experience. Whether it’s about his startup ideas, metaphysical topics, or even conspiracy
       theories you will never get bored of what Luke has to say, with each conversation leaving you
       wishing for another. Also do not let his scrawny appearance deceive you. This man used to own
       a pair of the most amazing abs, now hidden away for the greater good of the world. Who knows
@@ -55,7 +55,7 @@ brothers:
       Herbert(1) M. Turner IV, the proud king of the Hurbitat, hails from the small pond known as Phoenixville, Pennsylvania. As a thicc fish, Herbs has always pursued difficult challenges in life. If none can be found, Herbie has been known to sabotage his own success in order to increase the rigor of life(2). This motivated attitude led HMT to attend Phillips Academy Andover! There King Turner flourished and a passion for AeroAstro was ignited. To this day, some still refer to him as “MatchStick”. Humble MatchStick refuses to create a LinkedIn, as he needs no praise for his accomplishments(3). Inspired by his own image, Herbert aspires to build big rockets!!
 
       (1)The M is abbreviated as profanities are not allowed on our brotherly website. 
-      (2)Examples of such behavior include drinking while working on essays to decrease brain function, and taking 2 UROPs while taking Unified
+      (2)Examples of such behavior include drinking soda while working on essays to decrease brain function, and taking 2 UROPs while taking Unified.
       (3)These accomplishments include mastering the Chinese language solely by watching Ni Hao, Kai-Lan and attending class, not because of necessity, but as a courtesy to the teacher.
   - initials: GUS
     name: Gerardo Segura
