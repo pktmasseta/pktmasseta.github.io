@@ -23,7 +23,7 @@ brothers:
     major: Computer Science (6-3), Philosophy (24-1)
     hometown: Chanhassen, MN
     quote: I'm hooked on Pythonics
-    nickname: Mr. Stealyogurl (ask him about it)
+    nickname: Łucasz
     blurb: >
       You better hide your girl in the presence of this man. With his luscious locks of brown hair, Luke
       is known to charm any girl that sets their eyes upon him. Every word he speaks further allures
