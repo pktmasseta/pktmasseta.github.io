@@ -21,6 +21,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Bose
 - Boston Consulting Group
 - Cruise Automation
+- D.E. Shaw & Company
 - Facebook
 - Goldman Sachs
 - Google
@@ -66,6 +67,7 @@ Undergraduate Academics:
 - Course 6 (EECS)
 - Course 7 (Biology)
 - Course 8 (Physics)
+- Course 9 (Brain & Cognative Science)
 - Course 14 (Economics)
 - Course 15 (Management)
 - Course 18 (Mathematics)
