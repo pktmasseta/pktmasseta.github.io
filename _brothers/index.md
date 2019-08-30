@@ -77,10 +77,6 @@ Undergraduate Academics:
 - Research Laboratory of Electronics
 - Sloan School of Management
 - Lincoln Lab
-- Cybersecurity
-- Machine Learning
-- Financial Technology
-- Quantitative Trading
 
 Postgraduate Academics:
 
