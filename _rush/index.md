@@ -40,7 +40,7 @@ schedule:
         start: 9:40 AM
         end: 1:00 PM
       - name: Smoking & Joking
-        description: "Stop by the house for a BBQ lunch while we smoke some meats like Mark Zuckerberg"
+        description: "Stop by the Kresge BBQ pits for some lunch while we smoke some meats like Mark Zuckerberg"
         start: 12:00 PM
         end: 2:00 PM
       - name: House Tours
