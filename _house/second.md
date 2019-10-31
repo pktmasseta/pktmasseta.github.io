@@ -32,7 +32,7 @@ This is where the orchestra sat when it performed in the parties. Being undernea
 
 ###### Residential Advisor
 
-Our residential adviser (RA), Sebastian Mot lives here.
+Our graduate residential adviser (GRA), Preston Powers lives here. Preston currently studies dentistry at the Harvard School of Dental Medicine.
 
 ### Second Bath
 
