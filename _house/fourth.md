@@ -6,11 +6,11 @@ position: 5
 
 ###### No Ladders?
 
-The beds are lofted, but there are no ladders. Puzzled? That is because the residents of this room pull themselves up into their lofts with these ropes. The one exception is during the summer, when the room is inhabited by female boarders. We provide ladders for them.
+The beds are lofted, but there are no ladders. Puzzled? That is because the residents of this room pull themselves up into their lofts with these ropes. The one exception is during the summer, when the room is inhabited by boarders. We provide ladders for them.
 
 ###### Bed Wars
 
-Once, the beds were not bolted and freely swing, serving as vehicles for "bed wars". However, after a freak accident occurred, the beds were bolted to the walls. This room is a triple.
+Once, the beds were not bolted and freely swing, serving as vehicles for "bed wars". However, after Boston fire code changed, the beds were bolted to the walls. This room is a triple.
 
 ###### Home Sweet Home
 
@@ -34,7 +34,7 @@ The Music Wall of Fame is limited to only the most influential musicians of all 
 
 ###### Taking the A Train...
 
-They also painted a musical score along the top of the wall. Can you guess it? Duke Ellington - Taking the A Train. It also contains a purple crayon marking of Jimmy Hendrix's Tomb stone.
+They also painted a musical score along the top of the wall. Can you guess it? Duke Ellington - Taking the A Train. It also contains a purple crayon marking of Jimmy Hendrix's tombstone.
 
 ### Beer Bedroom
 
@@ -54,4 +54,4 @@ Some brothers drink, but no one is obligated to drink and we have a lot of broth
 
 ###### Team Mural
 
-Gaze around and realize that what you see here is a product of Team Mural: a select group of PKT's finest artisans. During winter work week 2003, this group completely renovated this bathroom based on a Dr. Seuss theme. Each stall panel carefully depicts the PKT version of the popular children's characters. Team Mural is still intact, and hopefully will ride off into the sunset after many more glorious murals.
+Gaze around and realize that what you see here is a product of Team Mural: a select group of PKT's finest artisans. During winter work week 2017, this group completely renovated this bathroom based on a Rick and Morty theme. Team Mural is still intact, and hopefully will ride off into the sunset after many more glorious murals.
