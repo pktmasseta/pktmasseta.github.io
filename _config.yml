@@ -94,3 +94,11 @@ defaults:
       banner: backbaysummer
       subtitle: Summer Housing
       layout: default
+  - scope:
+      path: ""
+      type: donate
+    values:
+      collection: donate
+      banner: backbaysummer
+      subtitle: Donate to PKT Mass. Eta
+      layout: default
