@@ -8,7 +8,7 @@ Despite the academic demands of a school like MIT, about 25% of the house finds 
 
 ###### Varsity Athletes
 
-Phi Kaps are a dominant presence in all kinds of Varsity sports. From football to volleyball, brothers devote their time and effort to MIT Athletics. Two brothers, Brian Anderson '04 and Ben Schmeckpeper '05, have distinguished themselves as NCAA All-Americans. Just one example of the dedication Phi Kaps put into their sports.
+Phi Kaps are a dominant presence in all kinds of Varsity sports. From fencing to crew, brothers devote their time and effort to MIT Athletics. Two brothers, Brian Anderson '04 and Ben Schmeckpeper '05, have distinguished themselves as NCAA All-Americans. Just one example of the dedication Phi Kaps put into their sports.
 
 ###### Fun and Games
 

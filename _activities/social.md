@@ -12,16 +12,16 @@ These are the backbone of Phi Kappa Theta's social calendar as they occur every 
 
 ###### PKT Parties
 
-We throw both open and closed dance parties where we meet college students from schools all over the Boston area including Wellesley, Harvard, BU, Northeastern, Simmons, and others. Keep your eyes peeled for our party posters all around MIT campus and other campus in the Boston area.
+We throw both open and closed dance parties where we meet college students from schools all over the Boston area including Wellesley, Harvard, BU, Northeastern, Simmons, and others. Keep your eyes peeled for our party events all around Facebook.
 
 ###### Formal Events
 
-Twice a semester, we dress to impress, grab a date, and hold a formal dinner at a nice restaurant in Boston. These events are a classy alternative to our weekly social hours or parties.
+Twice a year, we dress to impress, grab a date, and hold a formal dinner at a nice restaurant in Boston. These events are a classy alternative to our weekly social hours or parties.
 
 ###### Mixers
 
-The primary goal of mixers is meet and get to know a variety of girls, whether they're from a sorority at MIT, a Wellesley society, or any other group of girls from another college. Typically, we host a couple mixers a year.
+The primary goal of mixers is meet and get to know a variety social gorups, whether they're from a sorority at MIT, a Wellesley society, or any other group from another college. Typically, we host a couple mixers a year.
 
 ###### BBQs
 
-Barbecues are always a nice way to just hang out and relax. So, from time to time we'll have barbecues, often spontaneously, and just chill with our brothers and friends on our roof deck, enjoying the weather and the view of Boston and the Commonwealth Avenue Mall.
+Barbecues are always a nice way to just hang out and relax. So, from time to time we'll have barbecues, often spontaneously, and just chill with our brothers and friends on our patio, enjoying the weather and the view of Boston and the Commonwealth Avenue Mall.

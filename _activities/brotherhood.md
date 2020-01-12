@@ -8,7 +8,7 @@ Living at PKT is an introduction to people, opinions, hobbies, and places that a
 
 ###### Chapter Trips
 
-Since there are less than 50 of us, no one ever gets lost in the crowd and it is easy for everyone to get to know each other. At the same time, there are enough of us that there is always someone to hang out with, discuss politics or sports, or take a weekend trip to visit our other chapters in New England.
+Since there are less than 50 of us, no one ever gets lost in the crowd and it is easy for everyone to get to know each other. At the same time, there are enough of us that there is always someone to hang out with, discuss politics or sports, or take a weekend trip to get away from MIT life for a while.
 
 ###### Coffeehaus
 
@@ -20,4 +20,4 @@ Often each year, we hold this event to bring the entire house together for an af
 
 ###### House Retreat
 
-Every year, our Personnel Director organizes a house retreat dedicated to assessing the direction of the chapter. In the past, the entire house has gone camping, gone to retreat centers, had lock-ins, and others.
+Every year, our Personnel Director organizes a house retreat dedicated to assessing the direction of the chapter. In the past, the entire house has gone camping, gone to retreat centers, spent the night at beach houses, and others.

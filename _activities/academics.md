@@ -8,7 +8,7 @@ Unfortunately, life at MIT isn't all fun and games. We all decided to attend MIT
 
 ###### Library
 
-Our library is fully stocked with texts and notebooks from years past. Also, many of the upperclassmen have books which can be borrowed. It is also common for freshmen to go to any of the upperclassmen for help as we are almost always willing to provide assistance with problem sets or advice on class and major selection.
+Our library is fully stocked with texts and notebooks from years past. Also, many of the upperclassmen have books which can be borrowed. It is also common for freshmen to go to any of the upperclassmen for help as we are always willing to provide assistance with problem sets or advice on class and major selection.
 
 ###### Tutoring
 
