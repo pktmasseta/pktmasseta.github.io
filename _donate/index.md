@@ -4,7 +4,7 @@ sidebar: Donations
 title: Donate to PKT Mass. Eta
 subtitle: Help the current undergraduates improve their house
 position: 1
-permalink: /donate
+permalink: /donate/
 ---
 ###### Donate to the House!
 
