@@ -103,6 +103,6 @@ defaults:
       type: donate
     values:
       collection: donate
-      banner: backbaysummer
+      banner: front-patio
       subtitle: Donate to PKT Mass. Eta
       layout: default
