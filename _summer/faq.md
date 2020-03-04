@@ -22,7 +22,7 @@ Unfortunately, due to the architecture limitations of our house, it is not wheel
 
 ###### When is move in / move out day?
 
-Accepted residents can move in any time after 5:00PM on Sunday, May 26th, 2019 and must move out of the house by 5:00PM on Saturday, August 17th, 2019.  If you must move in on a date other than May 26th, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
+Accepted residents can move in any time after 5:00PM on Sunday, May 26th, 2020 and must move out of the house by 5:00PM on Saturday, August 17th, 2020.  If you must move in on a date other than May 26th, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
 
 ###### Is there shorter period summer housing?
 
@@ -30,7 +30,7 @@ Any tenant may check out at any time during summer! However, we currently do not
 
 ###### Is parking available?
 
-Yes! Parking will be offered for $300 for the whole summer, while availability lasts. This is first come, first served, so apply for parking fast!
+Yes! Parking will be offered for $350 for the whole summer, while availability lasts. This is first come, first served, so apply for parking fast!
 
 ###### How can I connect to the internet at PKT?
 
@@ -42,5 +42,5 @@ Pricing depends on the room type you select. Please visit the [Rates](https://pk
 
 ###### Who can I contact for more info?
 
-Please contact PKT Vice President Stephen Otremba at pkt-summerhousing@mit.edu.
+Please contact PKT Vice President Andy Zhu at pkt-summerhousing@mit.edu.
 
