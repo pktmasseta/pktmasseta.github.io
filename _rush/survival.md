@@ -1,5 +1,6 @@
 ---
 title: Survival Guide
+subtitle: Phi Kappa Theta
 banner: pkt-banner
 position: 2
 ---

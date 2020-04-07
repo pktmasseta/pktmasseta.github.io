@@ -1,6 +1,7 @@
 ---
 sidebar: Rush FAQs
 title: FAQs
+subtitle: Phi Kappa Theta
 banner: rush2
 position: 3
 ---
