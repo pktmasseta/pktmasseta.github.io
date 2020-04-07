@@ -20,3 +20,6 @@ The Fall Rush of 2002 was the dawn of a new era in Phi Kappa Theta as freshmen a
 The chapter continues in the mission established at creation and strives to provide the same opportunities for the future Phi Kaps to come.
 
 PKT Mass Eta includes all types of men, regardless of race, religion, or sexuality.
+
+# Stay Up-to-Date With PKT
+Follow our chapter on Instagram @pkt.mit to see our weekly brother shout outs, photos from our fun semester events, and more!
