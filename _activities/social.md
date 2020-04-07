@@ -8,7 +8,7 @@ As with all fraternities, PKT is a social organization. We recognize the need to
 
 ###### Social Hours
 
-These are the backbone of Phi Kappa Theta's social calendar as they occur every Friday, and have a pre-party and post-party type atmosphere. Often they have themes like swing dancing, smoothies, or karaoke, which give a lot of versatility in providing a varied social atmosphere, but the important part is just hanging out, having fun, and meeting some new people or catching up with old friends.
+These are the backbone of Phi Kappa Theta's social calendar as they occur every Friday, and have a pre-party and post-party type atmosphere. Often they have themes like bachata dancing, smoothies, or karaoke, which give a lot of versatility in providing a varied social atmosphere, but the important part is just hanging out, having fun, and meeting some new people or catching up with old friends.
 
 ###### PKT Parties
 
@@ -20,7 +20,7 @@ Twice a year, we dress to impress, grab a date, and hold a formal dinner at a ni
 
 ###### Mixers
 
-The primary goal of mixers is meet and get to know a variety social gorups, whether they're from a sorority at MIT, a Wellesley society, or any other group from another college. Typically, we host a couple mixers a year.
+The primary goal of mixers is meet and get to know a variety social gorups, whether they're from a sorority at MIT, a Wellesley society, or any other interested student group. Typically, we host a few mixers a semester.
 
 ###### BBQs
 
