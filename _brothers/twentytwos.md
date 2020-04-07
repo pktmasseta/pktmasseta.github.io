@@ -160,7 +160,7 @@ brothers:
     activities: StartMIT, Taekwondo
     major: Computer Science and Engineering (6-3)
     hometown: Ashdod, Israel
-    quote: x
+    quote: I'll take you to Israel!
     nickname: Kravmagrefty
     blurb: >
       Is it David Beckham? Is it Dave Franco? No, it's actually David Magrefty.
