@@ -40,15 +40,15 @@ They also painted a musical score along the top of the wall. Can you guess it? D
 
 ###### A Unique Room
 
-This room is really unique. Pledges from other chapters from UNH or Merrimack come to our house and have to take a picture of this room to prove that they were here.
+This room is really unique. At one point, it was lined with New England's largest beer bottle collection. Pledges from other chapters from UNH or Merrimack would come to our house and have to take a picture of this room to prove that they were here. Unfortunately, the bottles generated too much dust, and we've since taken them down.
 
 ###### The Catalogue
 
-If you look around, you can see why this is called the Beer Room. The collection was started in the late 80s by alumnus Mark Jansen. He was traveling through Europe and found some neat bottles and decided to send them back to the house. Ever since then, anyone who's gone abroad or found unique beer bottles sends them back to the house. Every single beer is catalogued into a database and arranged alphabetically. Few have stumped us.
+The bottle collection was started in the late 80s by alumnus Mark Jansen. He was traveling through Europe and found some neat bottles and decided to send them back to the house. Ever since then, anyone who's gone abroad or found unique beer bottles sends them back to the house. Every single beer is catalogued into a database and arranged alphabetically. Few have stumped us.
 
 ###### Peer Pressure?
 
-Some brothers drink, but no one is obligated to drink and we have a lot of brothers who don't drink alcohol. We respect your right to choose, and alcohol is not an important part of who we are.
+Some brothers drink, but no one is obligated to drink and we have a lot of brothers who don't drink alcohol at all. We respect your right to choose, and alcohol is not an important part of who we are.
 
 ### Fourth Floor Bathroom
 

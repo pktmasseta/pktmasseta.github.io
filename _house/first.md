@@ -6,26 +6,26 @@ position: 2
 
 ###### Living Room
 
-Functionally, this is our living room where we hang out with other brothers and our friends. It's not unusual for people to get home from school and just relax here until dinner.
+An area we refer to as "First Front", our living room is a space for movie nights, sporting events, or relaxation. It's not unusual for people to get home from school and just spend time here until dinner.
 
-First front now features a brand new television, mounted right above our fireplace. Whether to watch football or stream the latest episode of Game of Thrones, the TV is always a welcome distraction for the brotherhood.
+First front now features a brand new smart television, mounted right above our fireplace. Whether to watch football or stream the latest episode of Game of Thrones, the TV is always a welcome distraction for the brotherhood.
 
-###### Pool and Ping-Pong
+###### Pool and Foosball Tables
 
-Pool and ping-pong are popular in the house, especially among the freshmen who can't think of anything else to do while on pass / no-record. Our fine pool table has just been newly felted, and it now looks better than ever.
+Pool and foosball are popular in the house, especially among the freshmen who want to pass the time having fun while on pass / no-record. It's not uncommon to hear excited brothers challeging eachother to a game before dinner or during a study break. Our house pool table has just been felted, and it now looks better than ever.
 
 ###### The Bar
 
-Yet another new addition to First Front, the bar features a stylish granite top. Apart from cutting the stone, of course, the new rennovations are all done by our own brothers. Unsurprisingly, the bar is quite popular during parties and social hours.
+Yet another central part of First Front, the bar is a perfect meeting place for brothers and freinds alike during our house social events. 
 
-### First Rear
+### Dining Room
 
-Served by our professional caterers, dinner is served five nights a week in first rear. After a long day of classes on campus, dinner is always a great time for brothers to gather and talk about the day's events. Come see the new polyurethane coating on the floor!
+Served by our professional caterers, dinner is served five nights a week in "First Rear". After a long day of classes on campus, dinner is always a great time for brothers to gather and talk about the day's events.
 
 Often, after dinner the room serves as a place for studying. We invite friends over to churn through problem sets and prep for exams.
 
 ### Stairwell
 
-Featuring a cardinal purple carpet, our front stairwell (there's a back one too) col-md-s from the depths of the basement to the high reaches of the fourth floor.
+Featuring our new navy blue carpet, our main stairwell spirals up from the basement to the high reaches of the fourth floor.
 
 Our composites line the walls of the stairs, depicting the active brothers in the house over the years. Running from the late sixties to present day, they document a certain aspect of our history.

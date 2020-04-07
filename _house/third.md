@@ -6,11 +6,11 @@ position: 4
 
 ###### The Presidential Suite
 
-Referred to as the presidential suite, the room usually hosts the president or older brothers because it's regarded as the nicest room in the house. Since many US Presidents are from Virginia, it made sense to call the room The Virginia.
+Referred to as the presidential suite, the room usually hosts the president or older brothers because it's the smallest and most private room in the house. Since many US Presidents are from Virginia, it made sense to call the room The Virginia.
 
 ###### PKT Flag
 
-Also, the flag of Phi Kappa Theta hangs out from this room. It is the common target for fraternity pranks. We have caught the perpetrators several times though we usually settle the battles with a game of football.
+Also, the flag of Phi Kappa Theta hangs out from this room. It is the common target for fraternity pranks. We have caught the perpetrators several times though we usually settle the battles with a game of pool.
 
 ### Sunrise Bedroom
 
@@ -26,11 +26,11 @@ The room name arises from a strange turn of events. A number of years ago, there
 
 ###### Pecking
 
-The name for this room, usually a triple, originated from the legendary MIT hacks. The house word for "hack" was "peck". We also found this glorious sign, reinforcing our decision to call this the peck. Many references are also mentioned in comic strips, as in Calvin and Hobbes.
+The name for this room, usually a triple, originated from the legendary MIT hacks. The house word for "hack" was "peck". We also found a glorious "Peck" sign, reinforcing our decision to call this room the peck. Many references are also mentioned in comic strips, as in Calvin and Hobbes.
 
 ###### What's a Peck?
 
-The comic strip was added by Kenneth Pettigrew '99 (KIP). He wanted to be original and tried to think of something funny to put in the blank quote, but he could never come up with anything good, so it is blank to this day. I guess it'll be until he thinks of something good and comes back.
+The comic strip was added by Kenneth Pettigrew '99 (KIP). He wanted to be original and tried to think of something funny to put in the blank quote, but he could never come up with anything good, so it is blank to this day. I guess it'll be until he thinks of something worthy.
 
 ### Tomb Bedroom
 
@@ -38,10 +38,10 @@ The comic strip was added by Kenneth Pettigrew '99 (KIP). He wanted to be origin
 
 The Tomb is your usual bedroom with one exception...
 
-The distinctive feature in this room is the "tomb" of beds. All four beds are situated within this pocket, separated by a door from the rest of the room. Thus, people tend to sleep really well in here because it's so dark. In the early 80s, a brother couldn't sleep unless it was pitch black, which led to the construction of this wall.
+The distinctive feature in this room is the "tomb" of beds. All four beds are situated on one side of the room, separated by a curtain from the rest of the room. Thus, people tend to sleep really well in here because it's so dark. In the early 80s, a brother couldn't sleep unless it was pitch black, which led to this bed formation.
 
 ### Third Floor Bathroom
 
 ###### House Murals
 
-Usually during workweek (twice a year), several of our more artistic brothers get to work on some bare wall. Since we spend a lot of time in the bathrooms, our bathroom walls have been nicely covered to give us something pleasant to look at.
+Usually during workweek (twice a year), several of our more artistic brothers get to work on some bare wall. Since we spend a lot of time in the bathrooms, our bathroom walls have been nicely covered to give us something pleasant to look at.  The thrid floor currently features a South Park theme!
