@@ -21,5 +21,5 @@ The chapter continues in the mission established at creation and strives to prov
 
 PKT Mass Eta includes all types of men, regardless of race, religion, or sexuality.
 
-# Stay Up-to-Date With PKT
+### Stay Up-to-Date With PKT
 Follow our chapter on Instagram @pkt.mit to see our weekly brother shout outs, photos from our fun semester events, and more!
