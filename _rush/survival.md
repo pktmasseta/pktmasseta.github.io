@@ -12,11 +12,11 @@ A period during which fraternities and other living groups at MIT hold various e
 
 ###### Some Advice
 
-Be open to meet people of all shapes and sizes. Make an effort to stay that way, or else you'll quickly close yourself off from many exciting people.
-Be yourself! If you feel uncomfortable doing this, maybe you should rush somewhere else. Ask lots of questions. (see below)
+Be open to meet people of all shapes and sizes, or else you'll quickly close yourself off from many exciting people.
+Be yourself! Every house wants to know the real you. Ask lots of questions (see below).
 Spend lots of time at the house and get to know the brothers as well as possible in the time that you have.
-During rush, visit 5 houses at most; you need to spend time getting to know the brothers at a house, and they need to get to know you to give you a bid.
-Don't be upset if you get referred to another house. Houses do not want to waste your time.
+During rush, try not to visit too many houses, or you may never get to know any one particlar house very well. You need to spend time getting to know the brothers at a house well, and they need to get to know you well enough to give you a bid.
+Don't be upset if you get referred to another house, as it just means there's a better match for you somewhere else. Houses do not want to waste your time.
 If you aren't going to get a bid, you will probably be told so and shown to another house where you will fit in better.
 
 ###### Important Questions to Ask
