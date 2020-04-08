@@ -133,8 +133,8 @@ brothers:
     activities: x
     major: x
     hometown: x
-    quote: x
-    nickname: x
+    quote: Yaaaaaaar!
+    nickname: Crypto Zeke
     blurb: >
       Under construction. For any queries, please email kevin@mit.edu.
   - initials: KAL
