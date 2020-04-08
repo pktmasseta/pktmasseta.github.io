@@ -1,5 +1,6 @@
 ---
 title: Brotherhood Events
+banner: founders
 position: 5
 ---
 ###### Home
