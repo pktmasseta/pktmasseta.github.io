@@ -4,15 +4,15 @@ subtitle: Phi Kappa Theta
 banner: pkt-banner
 position: 2
 ---
-Choosing a living group is one of the most important decisions of your MIT career, and we want to do our best to clear up any confusion you might have about the process. What follows shows some of the things for you to think about during rush and your freshman year. We hope that this provides some important pointers on how rush works and, at the same time, gives you an idea of what our house is like.
+Choosing a living group is one of the most important decisions of your MIT career, and we want to do our best to clear up any confusion you might have about the process. What follows shows some of the things you should be thinking about during rush and your freshman year. We hope that this advice provides some important pointers on how rush works and what our house is like.
 
 ###### Rush Is...
 
-A period during which fraternities and other living groups at MIT hold various events, from Lobster Dinners to Paintball outings, to meet and recruit prospective members. Intended to help freshmen find the group they feel most comfortable with.
+A period during which fraternities and other living groups at MIT hold various events, from Lobster Dinners to Paintball outings, to meet and recruit prospective members. Rush is intended to help freshmen find the living and social group they feel most comfortable with.
 
 ###### Some Advice
 
-Be open to meet people of all shapes and sizes, or else you'll quickly close yourself off from many exciting people.
+Be open to meet people of all shapes and sizes, or else you'll quickly close yourself off from many exciting groups.
 Be yourself! Every house wants to know the real you. Ask lots of questions (see below).
 Spend lots of time at the house and get to know the brothers as well as possible in the time that you have.
 During rush, try not to visit too many houses, or you may never get to know any one particlar house very well. You need to spend time getting to know the brothers at a house well, and they need to get to know you well enough to give you a bid.
