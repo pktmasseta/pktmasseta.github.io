@@ -2,7 +2,7 @@
 sidebar: Rush FAQs
 title: FAQs
 subtitle: Phi Kappa Theta
-banner: rush2
+banner: formal_brothers
 position: 3
 ---
 ###### What makes PKT different from other houses?
