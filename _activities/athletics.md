@@ -1,6 +1,6 @@
 ---
 title: Athletics
-banner: spartan
+banner: athletic
 position: 6
 ---
 ###### Pride
