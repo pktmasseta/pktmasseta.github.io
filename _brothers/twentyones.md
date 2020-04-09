@@ -86,11 +86,11 @@ brothers:
       Hailing from the vast expanse of Missouri, Sam is the true spiritual successor of Elon Musk. Having made a 32 bit computer at an early age, he came to MIT with the sole desire to learn the ways of the 64 bit computer. However, after an experiment went horribly wrong, he became the 64 bit computer. Now, he spends much of his time hidden away in the darkest corners of the Stata loading docks sifting through piles of machinery. Nobody knows for what he looks. Nobody knows of what he speaks. Nobody knows for what purpose he is here. Nobody dares approach him. He does not learn from his professors, for he taught the professors that taught his professors. When he isn't taking apart microwaves and projectors to build tesla coils and who knows what else, you can find him meandering around campus with naught but his guitar and the shoes on his feet as he ponders the potential implications of the fabrication of miniaturized, high-density PCBs on the American psyche. Do not question this man, for your questions will run out far before his knowledge.
   - initials: SEO
     name: Stephen Otremba
-    activities: Running, Lifting, UROP
+    activities: Sabermetrics, Running, MIT Pokerbots
     major: Course 6-3 - Computer Science
     hometown: Northridge, CA
     quote: The best way to manage risk is to be the one creating it.
-    nickname: Steve
+    nickname: Steve-O
     blurb: >
       Stephen Otremba is a california guy. Unforgettable. Salmon shorts, flowy long hair on top. Sun-kissed skin so hot he'll melt your popsicle. Oh oh oh oh...Perhaps a figment of Katy Perry’s imagination, the man is an allstar— you might find him slashing through his coding psets, or racing himself on a casual run, or simultaneously lifting and spitting barz. Stephen also serves as risk manager, protecting the house and its contents from harm during parties. With his speed, composed demeanor, and golden hair, there’s no doubt the man will someday colonize neptune. And when he does, he’ll invite PKT to come live with him. He’s a real brotremba.
 ---
