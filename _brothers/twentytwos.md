@@ -149,7 +149,7 @@ brothers:
   - initials: WWB
     name: Wesley Block
     activities: MIT Consulting Group (MCG), National Society of Black Engineers (NSBE), Singing, UROP, Basketball, PKT IM Chair
-    major: Materials Science and Engineering with Japanese (3A-International Relations)
+    major: Materials Science and Engineering with Japanese (3A-Applied International Studies)
     hometown: Durham, NC
     quote: ...class flirt
     nickname: Wet Wes
