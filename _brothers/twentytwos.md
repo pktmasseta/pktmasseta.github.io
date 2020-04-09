@@ -89,7 +89,7 @@ brothers:
   - initials: TTA
     name: Tiwalayo Aina
     activities: Chocolate City, Smash (Best in PKT), day trading
-    major: Computer Science and Molecular Biology (6-7), Mathematics (18)
+    major: Mathematics - General (18), Computer Science and Molecular Biology (6-7)
     hometown: Allen, TX
     quote: THAT’S WIIIILLLD!
     nickname: Tiwaaaaaaa
