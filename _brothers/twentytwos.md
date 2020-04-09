@@ -25,16 +25,7 @@ brothers:
     quote: I'm hooked on Pythonics
     nickname: Łucash
     blurb: >
-      You better hide your girl in the presence of this man. With his luscious locks of brown hair, Luke
-      is known to charm any girl that sets their eyes upon him. Every word he speaks further allures
-      them. Seriously, try having a conversation with him. I guarantee you this will be a one of a kind
-      experience. Whether it’s about his startup ideas, metaphysical topics, or even conspiracy
-      theories you will never get bored of what Luke has to say, with each conversation leaving you
-      wishing for another. Also do not let his scrawny appearance deceive you. This man used to own
-      a pair of the most amazing abs, now hidden away for the greater good of the world. Who knows
-      what dangers might befall if he were to release the destructive powers of his abs. You’ll
-      constantly find Luke running around campus with all the various extracurriculars he’s involved
-      with. But as busy as he may be, this man will always have time to Smash. 
+      x 
   - initials: AXC
     name: Andrew Chen
     activities: Cooking, Anime, Long Drives
