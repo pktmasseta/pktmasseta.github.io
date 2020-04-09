@@ -1,5 +1,6 @@
 ---
 title: Community Service
+banner: brownstone
 position: 4
 ---
 ###### "Give, Expecting Nothing Thereof"
