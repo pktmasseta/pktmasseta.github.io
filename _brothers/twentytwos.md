@@ -37,13 +37,13 @@ brothers:
       with. But as busy as he may be, this man will always have time to Smash. 
   - initials: AXC
     name: Andrew Chen
-    activities: x
-    major: x
+    activities: Cooking, Anime, Long Drives
+    major: 3…wait…6…wait…22…nvm…6
     hometown: Beverly, MA
-    quote: x
-    nickname: Chandy
-    blurb: Top Chef
-      Under construction. For any queries, please email hmturner@mit.edu.
+    quote: What school did YOU go to?
+    nickname: Chandyman
+    blurb: >
+      If you spend long enough at PKT, you’ll notice an almost invisible presence lurking about. The signs are everywhere: an entire quarter of Canyon is taken up by a giant mess that no one dares touch, random Chick-fil-A wrappers are found strewn across the 4th floor, and the smell of burning bamboo emanates from the kitchen. But who is this mysterious figure who can be heard driving off to campus in the dead of night and constantly muttering “Mountain”? It’s none other than our own legendary Andrew Chen. The “Chandyman” is truly the last renaissance man of our generation. Not only can you find him taking classes that no one in his major has ever taken before, he does it with ease,  not even bothering to look at the psets till their due date. But Chandy’s skills include more than academics. Known as the “Asian Gordon Ramsay”, he can satisfy any hunger with ease. Make sure to stay on his good side if you want some of his famous chocolate milk. 
   - initials: HMT
     name: Herbert Turner
     activities: Rocket building, hair dying
