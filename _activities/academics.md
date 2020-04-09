@@ -1,6 +1,6 @@
 ---
 title: Academics
-banner: ring
+banner: athena
 position: 2
 ---
 ###### MIT

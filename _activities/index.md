@@ -2,6 +2,7 @@
 sidebar: Introduction
 title: Activities
 subtitle: Every Damn Day
+banner: river
 position: 1
 permalink: /activities/
 ---
