@@ -6,7 +6,7 @@ year: 2022
 brothers:
   - initials: AXA
     name: Adit Abraham
-    activities: Startlabs, Contrary Capital, reminiscing over wrestling
+    activities: StartLabs, Contrary Capital, reminiscing over wrestling
     major: Computer Science and Engineering (6-3)
     hometown: Salisbury, MD
     quote: Hair dye is to be administered by professionals only.
@@ -19,11 +19,11 @@ brothers:
       The Journey of Adit is far from over, and any man, woman, or child who has the honor to pass him by in the Infinite may be considered part of said Journey. Whatever his future may hold, it is inexorably linked to his brothers of Phi Kappa Theta Fraternity.
   - initials: LJI
     name: Luke Igel
-    activities: SBC, MIT Driverless, Startups
-    major: Computer Science (6-3), Philosophy (24-1)
+    activities: Sloan Business Club (SBC), MIT Driverless, Discover Entrepreneurship and Leadership (DEAL), startups
+    major: Computer Science and Engineering (6-3), Philosophy (24-1)
     hometown: Chanhassen, MN
     quote: I'm hooked on Pythonics
-    nickname: Łucasz
+    nickname: Łucash
     blurb: >
       You better hide your girl in the presence of this man. With his luscious locks of brown hair, Luke
       is known to charm any girl that sets their eyes upon him. Every word he speaks further allures
@@ -39,10 +39,10 @@ brothers:
     name: Andrew Chen
     activities: x
     major: x
-    hometown: x
+    hometown: Beverly, MA
     quote: x
-    nickname: x
-    blurb: >
+    nickname: Chandy
+    blurb: Top Chef
       Under construction. For any queries, please email hmturner@mit.edu.
   - initials: HMT
     name: Herbert Turner
@@ -60,7 +60,7 @@ brothers:
   - initials: GUS
     name: Gerardo Segura
     activities: Society of Hispanic Professional Engineers
-    major: Computer Science (6-3)
+    major: Computer Science and Engineering (6-3)
     hometown: Beaumont, TX
     quote: Big mans
     nickname: Gerry
@@ -79,17 +79,17 @@ brothers:
        Passionate and compassionate, dedicated and humble – just four of the many adjectives the brothers of the Phi Kappa Theta use to describe Joshua Liu, a true king amongst men who cares too much about saving humanity to join business clubs. Some of his other attributes include being philosophical, in a Nostradamic fashion, and slightly intimidatingly efficient at all aspects of life, as every good premed is (but especially Josh, @med schools). An early morning hustler, Josh can be spotted grinding on large biochemistry textbooks or yelling at PKT brothers to do their community service requirements from sunrise to precisely midnight, as he always ensures to get his beauty sleep; however, don’t be mistaken, for he’s constantly an open ear to anyone in need, a mental health advocate on campus, and beautifully in touch with his emotions (as evidenced by his hidden acting talents). Josh is a man that you will learn to only love more with time, and one of PKT’s finest gems. And oh, umm, yeah, fun fact: he also has a fraternal twin brother at MIT named Julian!
   - initials: SVS
     name: Shreyas Srinivasan
-    activities: AOPS, MCG, PokerBots
-    major: Computer Science and Engineering (6-3)
+    activities: Pokerbots, MIT Consulting Group (MCG)
+    major: Mathematics with Computer Science (18C)
     hometown: Plainsboro, NJ
-    quote: My hero
-    nickname: DJ ShreyWay
+    quote: Have you heard this song yet? (No, you have not.)
+    nickname: DJ Shreyway
     blurb: >
-      Not long after sending Princeton a rejection letter and coming to MIT, Shreyas received an honorary doctorate in pull-game from Brandeis University. When he isn’t formulating combinatorial proofs, he’s making huge innovations in music theory as the best DJ that PKT has seen in decades. With jet-black hair complementing his ebony glasses that frame his chiseled visage, Shreyas towers over you at 6’0”—but ever since he was little, he has shown great promise in math, debate, and BollyX dancing. Women and trading firms alike find him irresistible, and if you spend enough time around Shreyas, you might just find that you feel the same way.
+      Not long after sending Princeton a rejection letter and coming to MIT, Shreyas received an honorary doctorate in event planning from Wellesley College. When he isn’t formulating combinatorial proofs, he’s making huge innovations in music theory as the best DJ that PKT has seen in decades. With jet-black hair complementing his golden glasses that frame his chiseled visage, Shreyas towers over you at 6’0”—but ever since he was little, he has shown great promise in math, debate, and BollyX dancing. Trading firms find him irresistible, and if you spend enough time around Shreyas, you might just find that you feel the same way.
   - initials: TTA
     name: Tiwalayo Aina
-    activities: Chocolate City, Smash (1st in PKT)
-    major: Mathematics with Computer Science (18C), Finance (15-3)
+    activities: Chocolate City, Smash (Best in PKT), day trading
+    major: Computer Science and Molecular Biology (6-7), Mathematics (18)
     hometown: Allen, TX
     quote: THAT’S WIIIILLLD!
     nickname: Tiwaaaaaaa
@@ -103,17 +103,17 @@ brothers:
       After a four hundred-year gap in recorded Nigerian history, of which Tiwa claims to have no recollection, he appeared on MIT’s campus. He can be found taking no fewer than eight classes each semester, sleeping no more than two hours every night, making no less than nine figures, and majoring in no fewer than three subjects.
   - initials: BMA
     name: Brendan Ashworth
-    activities: Running, startlabs, Formula One
+    activities: Running, StartLabs, Formula One
     major: Physics (8)
     hometown: Altadena, CA
-    quote: Oh my Lanta! That’s a Big Nut.
+    quote: Oh my Lanta!
     nickname: Bashworth
     blurb: >
       Many moons ago, outside Pasadena, California in the charming unincorporated-territory of Altadena, Brendan triumphantly emerged from the womb. Bashworth is a true enigma. The man seemingly does and knows everything, moving with the smoothness of Swiss transportation. Although he was voted most likely to also be a serial killer, this evil genius is a charming, suave chad always looking to get a lil somethin’ on the side. Just take a minute to watch how effortlessly he dominates his opponents in pool or chess, and you’ll succumb like the rest of us. Brendan is usually a quiet fellow, but when he’s riled up the man is wild. He will start spurting out his favorite three-letter exclamatory remarks in lieu of any other legitimate reply or just to set the mood. Bet! Nut! Anti-Nut! Big sad! He repeatedly drops down like your favorite stripper, keeping a single arm erect as he busts it down, putting on a show for all. It’s a sight that makes even the most seasoned players swoon. Even still, Brendan could hold a beyond-competent conversation on quantum or particle physics. To top it off, Brendan is a classically trained negotiator who prefers the give-nothing-get-everything approach. Just what is he holding all his cards for? We still don’t know. 
   - initials: CMH
     name: Caleb Harris
-    activities: Jumping, sleeping, startlabs, league of legends
-    major: Computer Science and Engineering (6-3), Brain and Cognitive Sciences (9)
+    activities: Varsity Track & Field (High Jump), StartLabs, League of Legends (formerly top 1000 worldwide)
+    major: Computation and Cognition (6-9)
     hometown: Nashville, TN
     quote: ASSSKRRRRRRRRRRRRRRRRRRRRRRT
     nickname: Jumpman
@@ -131,28 +131,28 @@ brothers:
   - initials: IKL
     name: Isaac Lau
     activities: x
-    major: x
-    hometown: x
+    major: Electrical Engineering and Computer Science (6-2)
+    hometown: San Francisco, CA
     quote: Yaaaaaaar!
     nickname: Crypto Zeke
     blurb: >
       Under construction. For any queries, please email kevin@mit.edu.
   - initials: KAL
     name: Kevin Lu
-    activities: Rowing, Pointing his finger at people, Car stuff, Not English
-    major: Mechanical Engineering (2A)
-    hometown: The Island of Misfit Toys, Massachusetts
+    activities: Varsity Crew, Medical Devices Club, Cars, Sending poorly written emails
+    major: Mechanical Engineering (2A), Pre-Med
+    hometown: Chestnut Hill, MA
     quote: Nice!
     nickname: Kal, Kal-L, Kev
     blurb: >
       Kevin. Oh, sweet Kevin. Our boy Kal-L is a lad of layers. From a distance, he’s just an incredibly attractive and very well-dressed young man. Step in close enough to hear him speak and you realize that you liked him better at a distance. The prevailing theory is that his mind relies on a recursive algorithm that builds unintelligible sentences from an array of independently logical phrases. Or perhaps the Portuguese brain in a Chinese body simply doesn’t allow for English communication. Whatever the reason for his mumbo-jumbo, Kevin is at heart one of the sweetest and most loving brothers in the house. Catch him vroomin’ in the all-white coupe or wandering around looking for his iPad stylus, Kevin Lu is a friend through and through.
   - initials: WWB
     name: Wesley Block
-    activities: Singing, UROP, Basketball, MCG
-    major: Materials Science and Engineering (3)
+    activities: MIT Consulting Group (MCG), National Society of Black Engineers (NSBE), Singing, UROP, Basketball, PKT IM Chair
+    major: Materials Science and Engineering with Japanese (3A-International Relations)
     hometown: Durham, NC
     quote: ...class flirt
-    nickname: Wes
+    nickname: Wet Wes
     blurb: >
       Born and raised in Durham, NC, Wes’s charm and sophistication makes any girl around him fall in love. Wes’s popularity has garnered him an extensive network of friends. While walking around campus, he’s sure to take his time, greeting every person that crosses his path. His charisma and soft voice will gain your trust, and you’ll soon find yourself opening up, revealing your deepest thoughts and secrets to him. Living by the mantra “value silence”, don’t be surprised if you catch him walking along the Harvard Bridge on a cold winter night. When he’s not overwhelmed with schoolwork, you could find Wes participating in extracurriculars around campus. From creating the technology behind Puma’s next basketball shoe, to partaking in the MIT Consulting Group, Wes is truly killing it.
   - initials: DSM
