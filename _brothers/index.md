@@ -41,6 +41,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Quora
 - Raytheon
 - Rev.com
+- Seven Eight Capital
 - SpaceX
 - Susquehanna International Group
 - Tower Research Capital
@@ -93,16 +94,18 @@ We also have a high involvement in clubs, programs and societies at MIT such as:
 - Asian Dance Team (ADT)
 - DanceTroupe (DT)
 - D-Lab
-- Eta Kappa Nu Honor Society
+- Eta Kappa Nu EECS Honor Society
 - Global Platinum Securities
 - HackMIT
+- MISTI Global Teaching Labs
 - MIT 100K Competition
 - MIT Consulting Group (MCG)
 - MIT Flying Club
-- MISTI Global Teaching Labs
+- MIT Pokerbots
 - Muslim Student Association (MSA)
 - Ridonkulous (Donk)
 - Sloan Business Club (SBC)
+- Tau Beta Pi Engineering Honor Society
 - TechX
 - Traders@MIT
 - VR/AR@MIT
