@@ -23,4 +23,5 @@ PKT Mass Eta includes all types of men, regardless of race, religion, or sexuali
 
 ### Stay Up-to-Date With PKT
 Follow our chapter on Instagram @pkt.mit to see our weekly brother shout-outs, photos from our semester events, and more!
+
 Have a question? Email our current executive team at pkt-exec-active@mit.edu and we'll get back to you as soon as we can!
