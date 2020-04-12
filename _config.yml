@@ -28,26 +28,30 @@ collections:
     output: true
     friendly_name: Rush
     position: 2
+  cpw:
+    output: true
+    friendly_name: CPW
+    position: 3
   brothers:
     output: true
     friendly_name: Brothers
-    position: 3
+    position: 4
   house:
     output: true
     friendly_name: House
-    position: 4
+    position: 5
   activities:
     output: true
     friendly_name: Activities
-    position: 5
+    position: 6
   summer:
     output: true
     friendly_name: Summer
-    position: 6
+    position: 7
   donate:
     output: true
     friendly_name: Donate
-    position: 7
+    position: 8
 
 
 defaults:
@@ -68,7 +72,14 @@ defaults:
     values:
       collection: rush
       banner: rush
-      subtitle: Rush 2018
+      subtitle: Rush Phi Kappa Theta
+  - scope:
+      path: ""
+      type: cpw
+    values:
+      collection: cpw
+      banner: rush
+      subtitle: Campus Preview Weekend
   - scope:
       path: ""
       type: brothers
