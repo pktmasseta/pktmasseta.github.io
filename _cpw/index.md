@@ -1,5 +1,5 @@
 ---
-title: CP\* Schedule
+title: CP&ast; Schedule
 subtitle: MIT Spring 2020
 layout: schedule
 position: 0
