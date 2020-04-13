@@ -18,7 +18,7 @@ schedule:
       - name: PKT Game Night
         description: "You, us, and the Jackbox Party Pack. Kick back with the brothers of Phi Kappa Theta for some party games and a good time!"
         start: 8:00 PM ET
-        end: 10 PM ET
+        end: 10:00 PM ET
   - day: Saturday
     date: Apr 18th
     events:
