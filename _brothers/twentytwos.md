@@ -62,7 +62,7 @@ brothers:
   - initials: CJL
     name: Chih-Wei Joshua Liu
     activities: Research, Volunteering, Church, Peer Ears, PKT Community Service Chair, Pre-Med Stuff, Being a great friend
-    major: Physics (8)
+    major: Physics (8), Pre-Med
     hometown: Santa Clara, CA & Hsinchu, Taiwan
     quote: Oh, uhh, yeah, sure
     nickname: Josh
