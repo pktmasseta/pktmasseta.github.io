@@ -15,6 +15,10 @@ schedule:
   - day: Saturday
     date: Apr 18th
     events:
+      - name: PKT Open House
+        description: "Wondering what life at MIT is like? Come meet the brothers of Phi Kappa Theta and learn more about anything you're curious about, or ask us about our neighbor, Julian Edelman."
+        start: 11:00 AM ET
+        end: 1:00 PM ET
       - name: PKT Poker Tournament
         description: "Our signature CPW event! Beginners and sharks alike are welcome; we'll teach you how to play or let you get right to it. Prizes: gaming monitor, Bluetooth speaker, Echo dot."
         start: 6:45 PM ET
