@@ -78,7 +78,7 @@ defaults:
       type: cpw
     values:
       collection: cpw
-      banner: rush
+      banner: cpw
       subtitle: Campus Preview Weekend
   - scope:
       path: ""
