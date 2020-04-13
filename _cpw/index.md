@@ -31,6 +31,6 @@ schedule:
         start: 6:45 PM ET
         end: 8:30 PM ET
 ---
-(<p class="text-center"><strong>Sign up</strong> for our events today at <a href="peck.bot/cpw">peck.bot/cpw</a>!</p>)
+<p class="text-center"><strong>Sign up</strong> for our events today at <a href="peck.bot/cpw">peck.bot/cpw</a>!</p>
 
 [//]: # (<p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during CPW!</p>, COMMENTED FOR VIRTUAL CPW, UNCOMMENT FOR REGULAR CPW)
