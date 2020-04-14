@@ -1,5 +1,5 @@
 ---
-title: Class of 2023 (Under Construction)
+title: Class of 2023
 banner: twentythrees
 position: -2023
 year: 2023
@@ -45,13 +45,15 @@ brothers:
       Andy: the man, the myth, the legend. From humble beginnings, Andy rose through the ranks of every high school math competition there is. But, don’t let his brainiacs fool you, Andy likes to live life on the edge. If there was one way to describe Andy, it would be going all in with pocket twos; a dangerous play, but maybe just enough to pull it off.  Outside of Andy’s calling to Poker and Quant Fiancé, he is a true king. A person who you can always call a friend, Andy will always be there to lend a helping hand.
   - initials: DTL
     name: Darren Lim
-    activities: X
-    major: X
-    hometown: X
-    quote: X
-    nickname: X
+    activities: Video Game Orchestra, Cooking, Running
+    major: Computation and Cognition (6-9)
+    hometown: Seattle, WA
+    quote: It's all about the ratio
+    nickname: The Chosen One
     blurb: >
-      X
+      Darren Lim. The Chosen One. What more is there to say? He’s a computer wizz and app developer interested in figuring out how the brain works, but don’t let his mild manner fool you. Every time Darren is spotted on campus, it’s usually in the company of a flock of girls. While most brothers struggled to find a date to Semi Formal, Darren brought two. Legendary.
+
+      In all honesty, Darren is one of the humblest, kindest brothers PKT has to offer, always willing to extend a hand, no matter the time, to help his friends. Truly a gentleman. 
   - initials: MMM
     name: Matt McManus
     activities: Playing in Excel, creating financial models, networking with finance people, UROP, Squash
