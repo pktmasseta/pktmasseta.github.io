@@ -36,8 +36,8 @@ brothers:
     activities: Sloan Business Club, Pokerbots, Chinese Student Club, Asian Dance Team, HHMT Organizer
     major: Math and Computer Science (18-C)
     hometown: San Diego, CA
-    quote: 
-    nickname: X
+    quote: All in
+    nickname: AyZed
     blurb: >
       Andy: the man, the myth, the legend. From humble beginnings, Andy rose through the ranks of every high school math competition there is. But, don’t let his brainiacs fool you, Andy likes to live life on the edge. If there was one way to describe Andy, it would be going all in with pocket twos; a dangerous play, but maybe just enough to pull it off.  Outside of Andy’s calling to Poker and Quant Fiancé, he is a true king. A person who you can always call a friend, Andy will always be there to lend a helping hand.
   - initials: DTL
