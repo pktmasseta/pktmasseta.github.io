@@ -26,7 +26,7 @@ brothers:
 
       Oh, and he will absolutely destroy you in CS:GO
   - initials: FXG
-    name: Frank Gonzales
+    name: Frank Gonzalez
     activities: MIT Flying Club, UROP
     major: Aerospace Engineering (16)
     hometown: FL, GA, VA, Netherlands, Germany
