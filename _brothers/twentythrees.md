@@ -1,5 +1,5 @@
 ---
-title: Class of 2023
+title: Class of 2023 (Under Construction)
 banner: twentythrees
 position: -2023
 year: 2023
