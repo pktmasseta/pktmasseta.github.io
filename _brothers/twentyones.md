@@ -41,7 +41,7 @@ brothers:
     major: Course 3 - Materials Science and Engineering
     hometown: Houston, TX
     quote: BET!
-    nickname: BET!
+    nickname: Big Zeke
     blurb: >
       Born in Monterrey, Mexico and raised in Houston, Texas. This great swimmer has shown that is really is possible to start from the bottom and make it to the top. Isaac has shown this both academically and in boxing. He went undefeated for most of his boxing career and had to stop because of a couple of unfortunate events. However, he went from being a chubby kid to becoming a legend in the gym. He is the definition for a “gentle giant”. This man would run around the world for his brothers at any moments request. However, if you make him mad or make those that he loves upset, you should be prepared to face the punching power equivalent to Thanos’s fist. Seriously though, Isaac might look tall and scary on the outside. But he is a caring and loving individual. 
   - initials: MAE
