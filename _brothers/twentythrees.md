@@ -8,7 +8,7 @@ brothers:
     name: Wilson Spearman
     activities: MIT StartLabs, Hiking, Documentaries
     major: Computer Science, Economics, and Data Science (6-14)
-    hometown: Myrtle Beach, South Carolina
+    hometown: Myrtle Beach, SC
     quote: X
     nickname: X
     blurb: >
@@ -50,14 +50,14 @@ brothers:
     blurb: >
       X
   - initials: MMM
-    name: X
-    activities: X
-    major: X
-    hometown: X
-    quote: X
-    nickname: X
+    name: Matt McManus
+    activities: Playing in Excel, creating financial models, networking with finance people, UROP, Squash
+    major: Finance and Computer Science (15-3 & 6-3)
+    hometown: Philadelphia, PA
+    quote: I am a weaboo, koreaboo, and am looking for a waifu
+    nickname: Mattyice
     blurb: >
-      X
+      Sir Mattyice is a humble being from Philly who tends to meander around Harvard’s campus in search of business people to connect with. As a man who hopes to work on Wall Street one day, Sir Mattyice will soon come to the realization that finance is not the way.  A man, full of potential, should not allow himself to become a finance man. IT IS NOT THE WAY! Yoda once said that the way is not finance but indeed the way is squash. Yes, Squash, the plant, not Squash the sport. Sir Mattyice’s true potential is growing squashes. At MIT, Sir Mattyice will learn to grow the best squashes in the world!
   - initials: MXS
     name: X
     activities: X
@@ -77,12 +77,12 @@ brothers:
     blurb: >
       X
   - initials: TYM
-    name: X
-    activities: X
-    major: X
-    hometown: X
-    quote: X
-    nickname: X
+    name: Tim Magoun
+    activities: MIT Voltage, Running, Cycling
+    major: Electrical Engineering (6-1)
+    hometown: Plainsboro, NJ
+    quote: Wait till y'all see my lab
+    nickname: Tim the Beaver
     blurb: >
-      X
+      Tim is an EE wizard, dad-joke extraordinaire, and superhuman athlete all rolled up into one incredible guy. It's widely rumored that Tim soldered his first circuit before he could even talk and hasn't stopped since then. Give him a few components and some time in his lab, and he'll emerge with the circuit of your dreams. If he's not in an EE lab, you can probably find him cycling. Unlike many brothers, Tim has never skipped leg day. Tim's greatest talent, however, is his ability to bring a smile to anyone's face. He is always able to drop the perfectly timed joke into every conversation. Tim is an incredible friend to all and PKT certainly wouldn't be complete without him.
 ---
