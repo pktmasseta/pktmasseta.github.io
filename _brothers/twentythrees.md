@@ -14,7 +14,7 @@ brothers:
     blurb: >
       Wilson Spearman, a future entrepreneur, but also a man of family, both to the brotherhood and his 4 year old nephew and 2 year old niece. Wilson has a profound interest in both Computer Science and Economics, making him the classic 6-14 sellout. Like a true MIT student, Wilson has already dominated the entrepreneurial world. At age 3, he began his entrepreneurial successes by starting a company that would film videos for various real estate agencies. Then he just decided to buy out the agencies instead. Over IAP, he taught a class on entrepreneurship far away in Georgia (the country, not the state) through Global Studies and Languages. Secretly he was just trying to claim his piece of that hot Eastern European market. Currently, Wilson aspires to be a successful founder for a world changing company and is passionate about working on problems that push him to be more unique and creative.  One day you'll catch him throwing around seed funding as a hot-shot investor, or raking in the big series funding bucks for his B2B neural network blockchain in the cloud startup.
   - initials: TTN
-    name: X
+    name: Tim Magoun
     activities: X
     major: X
     hometown: X
@@ -23,7 +23,7 @@ brothers:
     blurb: >
       X
   - initials: FXG
-    name: X
+    name: Frank Gonzales
     activities: X
     major: X
     hometown: X
@@ -41,7 +41,7 @@ brothers:
     blurb: >
       Andy: the man, the myth, the legend. From humble beginnings, Andy rose through the ranks of every high school math competition there is. But, don’t let his brainiacs fool you, Andy likes to live life on the edge. If there was one way to describe Andy, it would be going all in with pocket twos; a dangerous play, but maybe just enough to pull it off.  Outside of Andy’s calling to Poker and Quant Fiancé, he is a true king. A person who you can always call a friend, Andy will always be there to lend a helping hand.
   - initials: DTL
-    name: X
+    name: Darren Lim
     activities: X
     major: X
     hometown: X
@@ -59,7 +59,7 @@ brothers:
     blurb: >
       Sir Mattyice is a humble being from Philly who tends to meander around Harvard’s campus in search of business people to connect with. As a man who hopes to work on Wall Street one day, Sir Mattyice will soon come to the realization that finance is not the way.  A man, full of potential, should not allow himself to become a finance man. IT IS NOT THE WAY! Yoda once said that the way is not finance but indeed the way is squash. Yes, Squash, the plant, not Squash the sport. Sir Mattyice’s true potential is growing squashes. At MIT, Sir Mattyice will learn to grow the best squashes in the world!
   - initials: MXS
-    name: X
+    name: Mohammed Shafim
     activities: X
     major: X
     hometown: X
@@ -68,7 +68,7 @@ brothers:
     blurb: >
       X
   - initials: RCO
-    name: X
+    name: Ruben Castro Ornelas
     activities: X
     major: X
     hometown: X
