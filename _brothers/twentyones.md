@@ -8,22 +8,11 @@ brothers:
     name: Alex Tran
     activities: Spokes, Code For Good, UROP
     major: Course 6-3 - Computer Science
-    hometown: Houston, Texas
+    hometown: Houston, TX
     quote: Yeah!
     nickname: Alex
     blurb: >
       He doesn’t always speak, but when he does, he prefers “YEAH!” Alex Tran is the most interesting man in the world. He once defused a riot in Turkey by speaking Turkish… in French. When he writes in a textbook, it immediately increases in value. Once, he likened machine learning to teaching a dog to sit. He gives professors PSETS, and his tests come pre-marked with 100%. S^3 asks him for sick days, purely out of respect. He knows all forms of martial arts, including the three that only he knows. No human fully understands his story — because it’s too much knowledge for mere mortals. Not even we know all the details of Alex Tran’s existence, but as he always says — “Stay bros my friends.”
-  - initials: BVN
-    name: Bhavik Nagda
-    activities: Mirchi, Sloan Business Club, Long-Distance Running
-    major: Course 6-3 - Computer Science
-    hometown: Newton, Massacusetts
-    quote: Got tofu?
-    nickname: Bhavs
-    blurb: >
-      If anyone deserves some respect on his name, it’s Bhavik Nagda.  Born a mere 20 minutes from the MIT homeland in Newton, Massachusetts, young Bhavik was destined for greatness from the minute the world was graced with his presence.  In high school, Bhavik turned heads and wooed the ladies as a world class distance runner, allowing him to literally excel past his competiton in everything he did.  If there was a lonely girl within a mile, you could be certain that Bhavik would be there in 4:30 or less to comfort her.  But alas, when his high school days came to an end, Bhavik realized that although he was the fastest who had ever walked the streets of Newton, he had been running from his true passion all along…THE ART OF DANCE.  Immediately upon entering MIT, he sought far and wide for an outlet to demonstrate his true passion.  The search ended when he found his gem, his pride and joy, his queen, the Mirchi Dance Team.  Now, Bhavik can be found pouring his heart and soul into his craft at all hours of the day, perfecting his Bollywood Fusion style dancing.  Many call Bhavik a “ghost” since he is rarely seen off of the dance floor.  But if you ask him, he’d rather be called a GOAT. 
-
-      Oh yeah and he’s in that one business club…
   - initials: GLR
     name: Gabriel Ramirez 
     activities: Code for Good, UROP, lifting, throwing ragers (trying to at least)
