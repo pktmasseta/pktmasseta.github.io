@@ -67,7 +67,7 @@ brothers:
     major: Electrical Engineering and Computer Science (6-2)
     hometown: Cambridge, MA
     quote: OOGA-CHAKA OOGA-OOGA
-    nickname: X
+    nickname: Shafim
     blurb: >
       Shafim, Shafim, Shafim. Fencing king with fantastic, serenading swing. A local of Cambridge, Massachusetts himself, some say that he was born performing chaotic harmonies whilst on the top of the Great Dome so that anyone within a 5-mile radius could hear his fearless voice. Others believe that he came out of the womb wielding a 3-feet saber, ready to slash through his enemies in immaculate en garde position. Today, he blesses MIT's campus with his courageous, brave, and confident presence, whether it be by carrying literally everyone through serenades, effortlessly performing multiple solo pieces in front of dozens at a time, or counter-parrying anyone that dares get in his way towards success and happiness. Meet him in person, and you'll quickly realize that his down-to-earth and friendly personality makes you feel right at home. His loyalty to his personal values will bring respect that can withstand a thousand dimensions of code, and his ease and kindness will easily melt all your worries away.
   - initials: RCO
