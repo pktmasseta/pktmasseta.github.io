@@ -121,13 +121,13 @@ brothers:
       Hailing from the sunny beaches and smoggy skies of LA, Marc checks both H’s as a hipster and a hacker.  Rocking a beanie and a luscious lock of finely groomed hair, the Bushman himself rocks a distinctive style not unlike that of our dear brother Stephen Otremba. As an algorithms expert, the wild bushman can most likely be found in his natural habitat… his room… sleeping.  Yet, when it comes to physics, the Bushman has yet to show up to a single 8.02 class.  The Bushman seeks sustenance during the day and frequents the water hole at the Stud where he fills up on Red Bull and Arizona.  With the physique of a young stud, the fur of Chewbacca, and the Primitive Survival Rating of tarzan himself, the Bushman is a jack of many trades- from dancing to electrical systems.  Keep your eyes on this young man; one moment he’s here, the next, he’s in your computer system.  
   - initials: IKL
     name: Isaac Lau
-    activities: x
-    major: Electrical Engineering and Computer Science (6-2)
+    activities: MIT Hyperloop II, StartLabs, mining cryptocurrencies, flying drones, building things
+    major: Electrical Engineering and Computer Science (6-2) with a concentration in Autonomous Machines
     hometown: San Francisco, CA
-    quote: Yaaaaaaar!
-    nickname: Crypto Zeke
+    quote: Yarrrrrr
+    nickname: Crypto Zeke, cryp, Lau Lau
     blurb: >
-      Under construction. For any queries, please email kevin@mit.edu.
+      CHINATOWN, SAN FRANCISCO. MARCH 2029. An enclave once steeped in organized crime is now the center of a technology revolution. While each blockchain drone at the Dragon Gate carries his signature, none bear his name. What distinguishes a man among excellence? Some PKTs conjecture one's reputation grows with the number of nicknames — others, the craziness of their pursuits. While all brothers give, expecting nothing thereof, none rise above Isaac in humility, perseverance, and commitment to another. "Crypto" is a frontiersman that's explored the nooks and crannies of untested technology since birth, being both an early adopter of cryptocurrencies and an engineer on the Hyperloop team. Yet despite having experience in astrophysics research, supersonic flight, LIDAR for self-driving cars, [ACTIVITIES REDACTED] and astrophotography, Isaac is too humble to admit he knows much more than an interested observer. Crypto operates under no time zone, speaks Cantonese, once had to legally change his name <strong>from</strong> Satoshi, and probably runs MIT's shady investments. No science fiction writer could exhaust his exploits in fewer than four books. All in character, though: a brother this intriguing that would drop everything to help another makes Isaac one who stands out among the crowd.
   - initials: KAL
     name: Kevin Lu
     activities: Varsity Crew, Medical Devices Club, Cars, Sending poorly written emails
