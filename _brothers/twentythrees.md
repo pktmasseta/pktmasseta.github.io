@@ -1,5 +1,5 @@
 ---
-title: Class of 2023 (Under Construction)
+title: Class of 2023
 banner: twentythrees
 position: -2023
 year: 2023
@@ -7,6 +7,7 @@ brothers:
   - initials: WBS
     name: Wilson Spearman
     activities: MIT StartLabs, Hiking, Documentaries
+<<<<<<< HEAD
     major: Computer Science and Engineering (6-3)
     hometown: Fort Mill, SC
     quote: >
@@ -15,6 +16,14 @@ brothers:
     nickname: Coffeeman
     blurb: >
       Wilson Spearman, a future entrepreneur, but also a man of family, both to the brotherhood and his young niece and nephew. Wilson has a profound interest in both Computer Science and Economics, making him the classic 6-14 sellout. Like a true MIT student, Wilson has already dominated the entrepreneurial world. At age 3, he began his entrepreneurial successes by starting a company that would film videos for various real estate agencies. Then he just decided to buy out the agencies instead. Over IAP, he taught a class on entrepreneurship far away in Georgia (the country, not the state) through Global Studies and Languages. Secretly he was just trying to claim his piece of that hot Eastern European market. Currently, Wilson aspires to be a successful founder for a world changing company and is passionate about working on problems that push him to be more unique and creative.  One day you'll catch him throwing around seed funding as a hot-shot investor, or raking in the big series funding bucks for his B2B neural network blockchain in the cloud startup.
+=======
+    major: Computer Science, Economics, and Data Science (6-14)
+    hometown: Myrtle Beach, SC
+    quote: NO I NEED MY COFFEE FIRST
+    nickname: Coffeeman
+    blurb: >
+      Wilson Spearman: a future entrepreneur, but also a man of family, both to the brotherhood and his 4 year old nephew and 2 year old niece. Wilson has a profound interest in both Computer Science and Economics, making him the classic 6-14 sellout. Like a true MIT student, Wilson has already dominated the entrepreneurial world. At age 3, he began his entrepreneurial successes by starting a company that would film videos for various real estate agencies. Then he just decided to buy out the agencies instead. Over IAP, he taught a class on entrepreneurship far away in Georgia (the country, not the state) through Global Studies and Languages. Secretly he was just trying to claim his piece of that hot Eastern European market. Currently, Wilson aspires to be a successful founder for a world changing company and is passionate about working on problems that push him to be more unique and creative.  One day you'll catch him throwing around seed funding as a hot-shot investor, or raking in the big series funding bucks for his B2B neural network blockchain in the cloud startup.
+>>>>>>> 74f9e312e7b1198949fd2f69a399eeb4b6b1c749
   - initials: TTN
     name: Thomas Ngo
     activities: >
@@ -28,7 +37,7 @@ brothers:
 
       Oh, and he will absolutely destroy you in CS:GO
   - initials: FXG
-    name: Frank Gonzales
+    name: Frank Gonzalez
     activities: MIT Flying Club, UROP
     major: Aerospace Engineering (16)
     hometown: FL, GA, VA, Netherlands, Germany
@@ -47,13 +56,15 @@ brothers:
       Andy: the man, the myth, the legend. From humble beginnings, Andy rose through the ranks of every high school math competition there is. But, don’t let his brainiacs fool you, Andy likes to live life on the edge. If there was one way to describe Andy, it would be going all in with pocket twos; a dangerous play, but maybe just enough to pull it off.  Outside of Andy’s calling to Poker and Quant Fiancé, he is a true king. A person who you can always call a friend, Andy will always be there to lend a helping hand.
   - initials: DTL
     name: Darren Lim
-    activities: X
-    major: X
-    hometown: X
-    quote: X
-    nickname: X
+    activities: Video Game Orchestra, Cooking, Running
+    major: Computation and Cognition (6-9)
+    hometown: Seattle, WA
+    quote: It's all about the ratio
+    nickname: The Chosen One
     blurb: >
-      X
+      Darren Lim. The Chosen One. What more is there to say? He’s a computer wizz and app developer interested in figuring out how the brain works, but don’t let his mild manner fool you. Every time Darren is spotted on campus, it’s usually in the company of a flock of girls. While most brothers struggled to find a date to Semi Formal, Darren brought two. Legendary.
+
+      In all honesty, Darren is one of the humblest, kindest brothers PKT has to offer, always willing to extend a hand, no matter the time, to help his friends. Truly a gentleman. 
   - initials: MMM
     name: Matt McManus
     activities: Playing in Excel, creating financial models, networking with finance people, UROP, Squash
@@ -65,13 +76,13 @@ brothers:
       Sir Mattyice is a humble being from Philly who tends to meander around Harvard’s campus in search of business people to connect with. As a man who hopes to work on Wall Street one day, Sir Mattyice will soon come to the realization that finance is not the way.  A man, full of potential, should not allow himself to become a finance man. IT IS NOT THE WAY! Yoda once said that the way is not finance but indeed the way is squash. Yes, Squash, the plant, not Squash the sport. Sir Mattyice’s true potential is growing squashes. At MIT, Sir Mattyice will learn to grow the best squashes in the world!
   - initials: MXS
     name: Mohammed Shafim
-    activities: X
-    major: X
-    hometown: X
-    quote: X
-    nickname: X
+    activities: Fencing, Muslim Student Association, Microbiome Club, singing your soul up to the heavens above
+    major: Electrical Engineering and Computer Science (6-2)
+    hometown: Cambridge, MA
+    quote: OOGA-CHAKA OOGA-OOGA
+    nickname: Shafim
     blurb: >
-      X
+      Shafim, Shafim, Shafim. Fencing king with fantastic, serenading swing. A local of Cambridge, Massachusetts himself, some say that he was born performing chaotic harmonies whilst on the top of the Great Dome so that anyone within a 5-mile radius could hear his fearless voice. Others believe that he came out of the womb wielding a 3-feet saber, ready to slash through his enemies in immaculate en garde position. Today, he blesses MIT's campus with his courageous, brave, and confident presence, whether it be by carrying literally everyone through serenades, effortlessly performing multiple solo pieces in front of dozens at a time, or counter-parrying anyone that dares get in his way towards success and happiness. Meet him in person, and you'll quickly realize that his down-to-earth and friendly personality makes you feel right at home. His loyalty to his personal values will bring respect that can withstand a thousand dimensions of code, and his ease and kindness will easily melt all your worries away.
   - initials: RCO
     name: Ruben Castro Ornelas
     activities: X

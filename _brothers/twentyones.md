@@ -10,7 +10,7 @@ brothers:
     major: Course 6-3 - Computer Science
     hometown: Houston, TX
     quote: Yeah!
-    nickname: Alex
+    nickname: The Transter
     blurb: >
       He doesn’t always speak, but when he does, he prefers “YEAH!” Alex Tran is the most interesting man in the world. He once defused a riot in Turkey by speaking Turkish… in French. When he writes in a textbook, it immediately increases in value. Once, he likened machine learning to teaching a dog to sit. He gives professors PSETS, and his tests come pre-marked with 100%. S^3 asks him for sick days, purely out of respect. He knows all forms of martial arts, including the three that only he knows. No human fully understands his story — because it’s too much knowledge for mere mortals. Not even we know all the details of Alex Tran’s existence, but as he always says — “Stay bros my friends.”
   - initials: GLR
@@ -41,7 +41,7 @@ brothers:
     major: Course 3 - Materials Science and Engineering
     hometown: Houston, TX
     quote: BET!
-    nickname: BET!
+    nickname: Big Zeke
     blurb: >
       Born in Monterrey, Mexico and raised in Houston, Texas. This great swimmer has shown that is really is possible to start from the bottom and make it to the top. Isaac has shown this both academically and in boxing. He went undefeated for most of his boxing career and had to stop because of a couple of unfortunate events. However, he went from being a chubby kid to becoming a legend in the gym. He is the definition for a “gentle giant”. This man would run around the world for his brothers at any moments request. However, if you make him mad or make those that he loves upset, you should be prepared to face the punching power equivalent to Thanos’s fist. Seriously though, Isaac might look tall and scary on the outside. But he is a caring and loving individual. 
   - initials: MAE
