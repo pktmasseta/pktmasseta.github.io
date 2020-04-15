@@ -25,7 +25,7 @@ brothers:
     quote: I'm hooked on Pythonics
     nickname: Łucash
     blurb: >
-      x 
+      With his luscious locks of brown hair, Luke is known to charm anyone that sets their eyes upon him. Interviewers always crumble to their knees with a job offer in hand after he speaks just a single word, and Professors read his knowing gaze from the audience to determine when to move to the next topic. Those lucky enough to have a full conversation with him will report that it was a one-of-a-kind experience. He skillfully selects his preferred conversation topics from a vast mental rolodex, with his most popular choices including metaphysical quandaries, summaries of Seinfeld episodes, startup ideas, and worries of existential risk. It is easy for many who verbally engage with Lucas to ignore his scrawny appearance. However, this was not always the case. This man used to own the most amazing pair of abs, now hidden away for the greater good of the world. He spends the remainder of his time running around campus with all the various extracurriculars he’s involved with. But as busy as he may be, this man will always have time to stop by for a nice chat. 
   - initials: AXC
     name: Andrew Chen
     activities: Cooking, Anime, Long Drives
