@@ -77,10 +77,10 @@ brothers:
   - initials: RCO
     name: Ruben Castro Ornelas
     activities: MIT StartLabs, Bachata/Swing Dancing, Edgerton Center, Media Lab Center for Bits and Atoms, Wrecking noobs on Fortnite
-    major: Machanical Engineering (2)
+    major: Mechanical Engineering (2)
     hometown: Guaymas, Sonora, Mexico
     quote: ahh come on son
-    nickname: The Machanic
+    nickname: The Mechanic
     blurb: >
       It was nothing short of a beautiful day on the 29th of August, 2000. The elegant rays of the Sonoran sun broke through the cloud filled sky. The air, touched with the faint fragrance of the Pacific Ocean brought a cool summer breeze to the port-city of Guaymas. It was precisely 14 minutes and 15 seconds past the 15th hour of the day that a baby boy entered the world, carrying with him what appeared to be a pair of XXS work gloves and a pair of tools. The universe smiled. He did not cry, he did not scream; his curious eyes took in the room, the machines all around him and baby boy Ruben smiled back. 19 years later, having conquered the FRC World Championship with his tremendous robotics skills, young Ruben stood on the roof of PKT amazed by the majestic skyline of Boston. He pondered not about how he would get his PSets done, his upcoming 2.004 test, nor even his upcoming UROP presentation, but about how he could become a better man. That is who Ruben Castro Ornelas is; a man who will give, expecting nothing thereof. A man who will make you laugh and brighten the room with his presence. A man that will dance your heart away but most importantly a man everyone is proud to call a friend, a brother.
   - initials: TYM
