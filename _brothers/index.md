@@ -12,39 +12,45 @@ At the end of the day, a brotherhood would not exist without its brothers. The m
 The men of PKT are ambitious. The many connections we have made here at PKT last a lifetime and often benefit newer, younger members that wish to follow similar paths. This is a non-exhaustive list of the companies we have worked for or received offers from in recent years:
 
 
-<ul>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-    <li>Company</li>
-</ul>
-
+- Airbnb
+- Amazon
+- Apple
+- Bain & Co.
+- Bank of America Merrill Lynch
+- Boeing
+- Booz Allen Hamilton
+- Bose
+- Boston Consulting Group
+- Cruise Automation
+- D.E. Shaw & Co.
+- DRW
+- Evercore
+- Facebook
+- Goldman Sachs
+- Google
+- Hudson River Trading
+- IMC Trading
+- JPMorgan Chase & Co.
+- Jane Street Capital
+- Jet.com
+- KKR & Co.
+- LinkedIn
+- McKinsey & Co.
+- Microsoft
+- NASA Jet Propulsion Laboratory
+- NVIDIA
+- Oracle
+- Palantir Technologies
+- Quora
+- Raytheon
+- Rev.com
+- Seven Eight Capital
+- Slack
+- SpaceX
+- Susquehanna International Group
+- Tower Research Capital
+- Two Sigma Investments
+- The Walt Disney Company
 
 Founded startups
 
