@@ -11,8 +11,8 @@ At the end of the day, a brotherhood would not exist without its brothers. The m
 
 The men of PKT are ambitious. The many connections we have made here at PKT last a lifetime and often benefit newer, younger members that wish to follow similar paths. This is a non-exhaustive list of the companies we have worked for or received offers from in recent years:
 
-<li>
-- Airbnb
+<ul>
+<li>Airbnb</li>
 - Amazon
 - Apple
 - Bain & Co.
@@ -51,7 +51,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Tower Research Capital
 - Two Sigma Investments
 - The Walt Disney Company
-</li>
+</ul>
 
 Founded startups
 
