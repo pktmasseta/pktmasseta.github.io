@@ -353,3 +353,6 @@ section#layout .close {
         display: none;
     }
 }
+li {
+    column-count: 3;
+}
