@@ -12,7 +12,7 @@ At the end of the day, a brotherhood would not exist without its brothers. The m
 The men of PKT are ambitious. The many connections we have made here at PKT last a lifetime and often benefit newer, younger members that wish to follow similar paths. This is a non-exhaustive list of the companies we have worked for or received offers from in recent years:
 
 
-<div class=company>
+<ul class=company>
     <li>Airbnb</li>
     <li>Amazon</li>
     <li>Apple</li>
@@ -29,7 +29,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
     <li>Amazon</li>
     <li>Apple</li>
     <li>Bain & Co.</li>
-</div>
+</ul>
 
 
 Founded startups
