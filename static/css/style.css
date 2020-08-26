@@ -355,4 +355,6 @@ section#layout .close {
 }
 .company {
     column-count: 3;
+    margin-left: auto;
+    margin-right: auto;
 }
