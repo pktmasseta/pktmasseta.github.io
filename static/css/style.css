@@ -353,6 +353,6 @@ section#layout .close {
         display: none;
     }
 }
-ul {
+.company {
     column-count: 3;
 }
