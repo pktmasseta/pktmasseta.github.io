@@ -13,7 +13,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 
 <ul>
 <li>Airbnb</li>
-- Amazon
+<li>Amazon</li>
 - Apple
 - Bain & Co.
 - Bank of America Merrill Lynch
