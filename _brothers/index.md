@@ -21,12 +21,15 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - Bose
 - Boston Consulting Group
 - Cruise Automation
-- D.E. Shaw & Company
+- D.E. Shaw & Co.
+- DRW
+- Evercore
 - Facebook
 - Goldman Sachs
 - Google
 - Hudson River Trading
-- JP Morgan & Chase Co.
+- IMC Trading
+- JPMorgan Chase & Co.
 - Jane Street Capital
 - Jet.com
 - KKR & Co.
@@ -37,11 +40,11 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 - NVIDIA
 - Oracle
 - Palantir Technologies
-- QuantEdge
 - Quora
 - Raytheon
 - Rev.com
 - Seven Eight Capital
+- Slack
 - SpaceX
 - Susquehanna International Group
 - Tower Research Capital
@@ -52,6 +55,7 @@ Founded startups
 
 - Benchling
 - Fireflies.ai
+- Ironclad
 - Ministry of Supply
 - Namebase
 - Remedy Medical
@@ -63,14 +67,16 @@ We continuously maintain a high standard of academic rigor and excellence and fo
 Undergraduate Academics:
 
 - Course 2 (Mechanical Engineering)
-- Course 4 (Architecture)
+- Course 3 (Materials Science and Engineering)
 - Course 5 (Chemistry)
 - Course 6 (EECS)
 - Course 7 (Biology)
 - Course 8 (Physics)
 - Course 9 (Brain & Cognative Science)
 - Course 14 (Economics)
-- Course 15 (Management)
+- Course 15 (Management, Business Analytics, Finance)
+- Course 16 (AeroAstro)
+- Course 17 (Political Science)
 - Course 18 (Mathematics)
 - Course 20 (Biological Engineering)
 - Course 24 (Philosophy & Linguistics)
@@ -81,33 +87,37 @@ Undergraduate Academics:
 
 Postgraduate Academics:
 
-- MIT EECS (6-3/7/P MEng, PhD)
+- MIT EECS (6-2/3/7/P MEng, PhD)
 - Stanford Engineering (PhD)
-- Stanford Medical School (MD)
+- Stanford Medical School (MD, PhD)
 - MIT Sloan School of Management (MBA, MFin)
 - Harvard Medical School (MD)
 - Harvard Business School (MBA)
+- USC Gould School of Law (JD)
 
 We also have a high involvement in clubs, programs and societies at MIT such as:
 
 - Asian American Association (AAA)
 - Asian Dance Team (ADT)
+- Chinese Students Club (CSC)
 - DanceTroupe (DT)
 - D-Lab
 - Eta Kappa Nu EECS Honor Society
 - Global Platinum Securities
 - HackMIT
+- Hindu Students Council (HSC)
 - MISTI Global Teaching Labs
 - MIT 100K Competition
 - MIT Consulting Group (MCG)
 - MIT Flying Club
+- MIT Hyperloop II
 - MIT Pokerbots
-- Muslim Student Association (MSA)
+- MIT Rocket Team
 - Ridonkulous (Donk)
 - Sloan Business Club (SBC)
+- StartLabs
 - Tau Beta Pi Engineering Honor Society
 - TechX
-- Traders@MIT
 - VR/AR@MIT
 
 ###### Athletics
@@ -117,6 +127,7 @@ Brothers of PKT are also engaged in athletic activities and love playing sports.
 - Basketball
 - Boxing
 - Crew
+- Cricket
 - Cross-Country
 - Cycling
 - Dance
@@ -125,6 +136,7 @@ Brothers of PKT are also engaged in athletic activities and love playing sports.
 - Sailing
 - Soccer
 - Squash
+- Track and Field
 - Ultimate Frisbee
 - Volleyball
 - Weightlifting
