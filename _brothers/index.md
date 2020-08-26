@@ -13,30 +13,22 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 
 
 <div class=company>
-    Airbnb
-    Amazon
-    Apple
-    Bain & Co.
-    Airbnb
-    Amazon
-    Apple
-    Bain & Co.
-    Airbnb
-    Amazon
-    Apple
-    Bain & Co.
-    Airbnb
-    Amazon
-    Apple
-    Bain & Co.
-    Airbnb
-    Amazon
-    Apple
-    Bain & Co.
-    Airbnb
-    Amazon
-    Apple
-    Bain & Co.
+    <li>Airbnb</li>
+    <li>Amazon</li>
+    <li>Apple</li>
+    <li>Bain & Co.</li>
+    <li>Airbnb</li>
+    <li>Amazon</li>
+    <li>Apple</li>
+    <li>Bain & Co.</li>
+    <li>Airbnb</li>
+    <li>Amazon</li>
+    <li>Apple</li>
+    <li>Bain & Co.</li>
+    <li>Airbnb</li>
+    <li>Amazon</li>
+    <li>Apple</li>
+    <li>Bain & Co.</li>
 </div>
 
 
