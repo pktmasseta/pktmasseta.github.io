@@ -132,19 +132,21 @@ We also have a high involvement in clubs, programs and societies at MIT such as:
 
 Brothers of PKT are also engaged in athletic activities and love playing sports. When not in the classroom or thriving in our professional careers, we find a way to remain engaged with sports via intramurals. A few even play varsity sports throughout the year. Even those that don't play a competitive or intramural sport pick up their own sporting activity. We are involved in:
 
-- Basketball
-- Boxing
-- Crew
-- Cricket
-- Cross-Country
-- Cycling
-- Dance
-- Fencing
-- Football
-- Sailing
-- Soccer
-- Squash
-- Track and Field
-- Ultimate Frisbee
-- Volleyball
-- Weightlifting
+<ul class=double>
+    <li>Basketball</li>
+    <li>Boxing</li>
+    <li>Crew</li>
+    <li>Cricket</li>
+    <li>Cross-Country</li>
+    <li>Cycling</li>
+    <li>Dance</li>
+    <li>Fencing</li>
+    <li>Football</li>
+    <li>Sailing</li>
+    <li>Soccer</li>
+    <li>Squash</li>
+    <li>Track and Field</li>
+    <li>Ultimate Frisbee</li>
+    <li>Volleyball</li>
+    <li>Weightlifting</li>
+</ul>
