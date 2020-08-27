@@ -353,7 +353,12 @@ section#layout .close {
         display: none;
     }
 }
-.company {
+.double-col {
+    column-count: 3;
+    margin-left: auto;
+    margin-right: auto;
+}
+.triple-col {
     column-count: 3;
     margin-left: auto;
     margin-right: auto;

@@ -12,7 +12,7 @@ At the end of the day, a brotherhood would not exist without its brothers. The m
 The men of PKT are ambitious. The many connections we have made here at PKT last a lifetime and often benefit newer, younger members that wish to follow similar paths. This is a non-exhaustive list of the companies we have worked for or received offers from in recent years:
 
 
-<ul class=company>
+<ul class=triple-col>
     <li>Airbnb</li>
     <li>Amazon</li>
     <li>Apple</li>
@@ -70,24 +70,26 @@ We continuously maintain a high standard of academic rigor and excellence and fo
 
 Undergraduate Academics:
 
-- Course 2 (Mechanical Engineering)
-- Course 3 (Materials Science and Engineering)
-- Course 5 (Chemistry)
-- Course 6 (EECS)
-- Course 7 (Biology)
-- Course 8 (Physics)
-- Course 9 (Brain & Cognative Science)
-- Course 14 (Economics)
-- Course 15 (Management, Business Analytics, Finance)
-- Course 16 (AeroAstro)
-- Course 17 (Political Science)
-- Course 18 (Mathematics)
-- Course 20 (Biological Engineering)
-- Course 24 (Philosophy & Linguistics)
-- MIT Computer Science and Artificial Intelligence Lab
-- Research Laboratory of Electronics
-- Sloan School of Management
-- Lincoln Lab
+<ul class=double-col>
+    <li>Course 2 (Mechanical Engineering)</li>
+    <li>Course 3 (Materials Science and Engineering)</li>
+    <li>Course 5 (Chemistry)</li>
+    <li>Course 6 (EECS)</li>
+    <li>Course 7 (Biology)</li>
+    <li>Course 8 (Physics)</li>
+    <li>Course 9 (Brain & Cognative Science)</li>
+    <li>Course 14 (Economics)</li>
+    <li>Course 15 (Management, Business Analytics, Finance)</li>
+    <li>Course 16 (AeroAstro)</li>
+    <li>Course 17 (Political Science)</li>
+    <li>Course 18 (Mathematics)</li>
+    <li>Course 20 (Biological Engineering)</li>
+    <li>Course 24 (Philosophy & Linguistics)</li>
+    <li>MIT Computer Science and Artificial Intelligence Lab</li>
+    <li>Research Laboratory of Electronics</li>
+    <li>Sloan School of Management</li>
+    <li>Lincoln Lab</li>
+</ul>
 
 Postgraduate Academics:
 
@@ -101,28 +103,30 @@ Postgraduate Academics:
 
 We also have a high involvement in clubs, programs and societies at MIT such as:
 
-- Asian American Association (AAA)
-- Asian Dance Team (ADT)
-- Chinese Students Club (CSC)
-- DanceTroupe (DT)
-- D-Lab
-- Eta Kappa Nu EECS Honor Society
-- Global Platinum Securities
-- HackMIT
-- Hindu Students Council (HSC)
-- MISTI Global Teaching Labs
-- MIT 100K Competition
-- MIT Consulting Group (MCG)
-- MIT Flying Club
-- MIT Hyperloop II
-- MIT Pokerbots
-- MIT Rocket Team
-- Ridonkulous (Donk)
-- Sloan Business Club (SBC)
-- StartLabs
-- Tau Beta Pi Engineering Honor Society
-- TechX
-- VR/AR@MIT
+<ul class=double-col>
+    <li>Asian American Association (AAA)</li>
+    <li>Asian Dance Team (ADT)</li>
+    <li>Chinese Students Club (CSC)</li>
+    <li>DanceTroupe (DT)</li>
+    <li>D-Lab</li>
+    <li>Eta Kappa Nu EECS Honor Society</li>
+    <li>Global Platinum Securities</li>
+    <li>HackMIT</li>
+    <li>Hindu Students Council (HSC)</li>
+    <li>MISTI Global Teaching Labs</li>
+    <li>MIT 100K Competition</li>
+    <li>MIT Consulting Group (MCG)</li>
+    <li>MIT Flying Club</li>
+    <li>MIT Hyperloop II</li>
+    <li>MIT Pokerbots</li>
+    <li>MIT Rocket Team</li>
+    <li>Ridonkulous (Donk)</li>
+    <li>Sloan Business Club (SBC)</li>
+    <li>StartLabs</li>
+    <li>Tau Beta Pi Engineering Honor Society</li>
+    <li>TechX</li>
+    <li>VR/AR@MIT</li>
+</ul>
 
 ###### Athletics
 
