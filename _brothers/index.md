@@ -66,7 +66,7 @@ Founded startups
 
 
 ###### Activities
-In true MIT fashion, the members of PKT are always looking for more ways to increase their involvement on our campus. You can find our brothers innovating and building in one of several engineering clubs, putting on a show in one of MIT's performance groups, or leading in the next generation of business and finance. Here are some of the organizations that we're a part of:
+In true MIT fashion, the members of PKT are always looking for more ways to increase their involvement on our campus. You can find our brothers innovating and building in one of several engineering clubs, putting on a show in one of MIT's performance groups, or leading alongside the next generation of business and finance. Here are some of the organizations that we're a part of:
 
 
 <ul class=double>
