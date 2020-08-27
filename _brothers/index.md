@@ -13,22 +13,45 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 
 
 <ul class=company>
-    <li>Airbnb</li>
-    <li>Amazon</li>
-    <li>Apple</li>
-    <li>Bain & Co.</li>
-    <li>Airbnb</li>
-    <li>Amazon</li>
-    <li>Apple</li>
-    <li>Bain & Co.</li>
-    <li>Airbnb</li>
-    <li>Amazon</li>
-    <li>Apple</li>
-    <li>Bain & Co.</li>
-    <li>Airbnb</li>
-    <li>Amazon</li>
-    <li>Apple</li>
-    <li>Bain & Co.</li>
+    <li>Airbnb
+    <li>Amazon
+    <li>Apple
+    <li>Bain & Co.
+    <li>Bank of America Merrill Lynch
+    <li>Boeing
+    <li>Booz Allen Hamilton
+    <li>Bose
+    <li>Boston Consulting Group
+    <li>Cruise Automation
+    <li>D.E. Shaw & Co.
+    <li>DRW
+    <li>Evercore
+    <li>Facebook
+    <li>Goldman Sachs
+    <li>Google
+    <li>Hudson River Trading
+    <li>IMC Trading
+    <li>JPMorgan Chase & Co.
+    <li>Jane Street Capital
+    <li>Jet.com
+    <li>KKR & Co.
+    <li>LinkedIn
+    <li>McKinsey & Co.
+    <li>Microsoft
+    <li>NASA Jet Propulsion Laboratory
+    <li>NVIDIA
+    <li>Oracle
+    <li>Palantir Technologies
+    <li>Quora
+    <li>Raytheon
+    <li>Rev.com
+    <li>Seven Eight Capital
+    <li>Slack
+    <li>SpaceX
+    <li>Susquehanna International Group
+    <li>Tower Research Capital
+    <li>Two Sigma Investments
+    <li>The Walt Disney Company
 </ul>
 
 
