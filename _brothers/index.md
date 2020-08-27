@@ -13,45 +13,45 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
 
 
 <ul class=company>
-    <li>Airbnb
-    <li>Amazon
-    <li>Apple
-    <li>Bain & Co.
-    <li>Bank of America Merrill Lynch
-    <li>Boeing
-    <li>Booz Allen Hamilton
-    <li>Bose
-    <li>Boston Consulting Group
-    <li>Cruise Automation
-    <li>D.E. Shaw & Co.
-    <li>DRW
-    <li>Evercore
-    <li>Facebook
-    <li>Goldman Sachs
-    <li>Google
-    <li>Hudson River Trading
-    <li>IMC Trading
-    <li>JPMorgan Chase & Co.
-    <li>Jane Street Capital
-    <li>Jet.com
-    <li>KKR & Co.
-    <li>LinkedIn
-    <li>McKinsey & Co.
-    <li>Microsoft
-    <li>NASA Jet Propulsion Laboratory
-    <li>NVIDIA
-    <li>Oracle
-    <li>Palantir Technologies
-    <li>Quora
-    <li>Raytheon
-    <li>Rev.com
-    <li>Seven Eight Capital
-    <li>Slack
-    <li>SpaceX
-    <li>Susquehanna International Group
-    <li>Tower Research Capital
-    <li>Two Sigma Investments
-    <li>The Walt Disney Company
+    <li>Airbnb</li>
+    <li>Amazon</li>
+    <li>Apple</li>
+    <li>Bain & Co.</li>
+    <li>Bank of America Merrill Lynch</li>
+    <li>Boeing</li>
+    <li>Booz Allen Hamilton</li>
+    <li>Bose</li>
+    <li>Boston Consulting Group</li>
+    <li>Cruise Automation</li>
+    <li>D.E. Shaw & Co.</li>
+    <li>DRW</li>
+    <li>Evercore</li>
+    <li>Facebook</li>
+    <li>Goldman Sachs</li>
+    <li>Google</li>
+    <li>Hudson River Trading</li>
+    <li>IMC Trading</li>
+    <li>JPMorgan Chase & Co.</li>
+    <li>Jane Street Capital</li>
+    <li>Jet.com</li>
+    <li>KKR & Co.</li>
+    <li>LinkedIn</li>
+    <li>McKinsey & Co.</li>
+    <li>Microsoft</li>
+    <li>NASA Jet Propulsion Laboratory</li>
+    <li>NVIDIA</li>
+    <li>Oracle</li>
+    <li>Palantir Technologies</li>
+    <li>Quora</li>
+    <li>Raytheon</li>
+    <li>Rev.com</li>
+    <li>Seven Eight Capital</li>
+    <li>Slack</li>
+    <li>SpaceX</li>
+    <li>Susquehanna International Group</li>
+    <li>Tower Research Capital</li>
+    <li>Two Sigma Investments</li>
+    <li>The Walt Disney Company</li>
 </ul>
 
 
