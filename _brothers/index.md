@@ -12,7 +12,7 @@ At the end of the day, a brotherhood would not exist without its brothers. The m
 The men of PKT are ambitious. The many connections we have made here at PKT last a lifetime and often benefit newer, younger members that wish to follow similar paths. This is a non-exhaustive list of the companies we have worked for or received offers from in recent years:
 
 
-<ul class=triple-col>
+<ul class=triple>
     <li>Airbnb</li>
     <li>Amazon</li>
     <li>Apple</li>
@@ -70,7 +70,7 @@ We continuously maintain a high standard of academic rigor and excellence and fo
 
 Undergraduate Academics:
 
-<ul class=double-col>
+<ul class=double>
     <li>Course 2 (Mechanical Engineering)</li>
     <li>Course 3 (Materials Science and Engineering)</li>
     <li>Course 5 (Chemistry)</li>
@@ -103,7 +103,7 @@ Postgraduate Academics:
 
 We also have a high involvement in clubs, programs and societies at MIT such as:
 
-<ul class=double-col>
+<ul class=double>
     <li>Asian American Association (AAA)</li>
     <li>Asian Dance Team (ADT)</li>
     <li>Chinese Students Club (CSC)</li>
