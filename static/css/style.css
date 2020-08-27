@@ -353,12 +353,12 @@ section#layout .close {
         display: none;
     }
 }
-.double-col {
+ul.double {
     column-count: 2;
     margin-left: auto;
     margin-right: auto;
 }
-.triple-col {
+ul.triple {
     column-count: 3;
     margin-left: auto;
     margin-right: auto;
