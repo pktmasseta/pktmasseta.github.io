@@ -354,7 +354,7 @@ section#layout .close {
     }
 }
 .double-col {
-    column-count: 3;
+    column-count: 2;
     margin-left: auto;
     margin-right: auto;
 }
