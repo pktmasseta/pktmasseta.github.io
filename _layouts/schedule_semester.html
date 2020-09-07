@@ -1,0 +1,25 @@
+---
+layout: page
+---
+{{ content }}
+<h6 id="month-nav">GO TO:
+  <ul class="month-nav">
+  {% for month in page.schedule %}
+    <a href="#{{ month.month }}"><li>{{ month.month }}</li></a>
+  {% endfor %}
+  </ul>
+</h6>
+{% for month in page.schedule %}
+<section>
+  <a name='{{ month.month }}'></a>
+  <h6>{{ month.month }}</h6>
+  {% for event in month.events %}
+    <div class="row">
+      <div class="col-md-4">{{ event.date }}</div> 
+      <div class="col-md-4">{{ event.start }} - {{ event.end }}</div>
+      <div class="col-md-4"><strong>{{ event.name }}</strong></div>
+      <div class="col-md-4">{{ event.description }}</div>
+    </div>
+  {% endfor %}
+</section>
+{% endfor %}
