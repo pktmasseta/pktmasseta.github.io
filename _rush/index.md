@@ -29,4 +29,9 @@ schedule:
         end: 12:30 PM ET
 
 ---
+<p class="test-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!
+<br> We'll send you the Zoom link and a reminder before each event is set to start.
+
+<p class="test-center">Check out our <strong>Instagram</strong> <a href="https://peck.bot/instagram" target="_blank">@pkt.mit</a>  for more on who we are, and email pkt-rush [at] mit [dot] edu with any questions.
+
 <!-- <p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during Rush!</p> -->
