@@ -27,10 +27,6 @@ schedule:
         date: Saturday 09/19
         start: 12:00 PM ET
         end: 12:30 PM ET
-  - month: October
-    events:
-  - month: November
-    events:
 
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br>We'll send you the Zoom link and a reminder before each event is set to start.</p>
