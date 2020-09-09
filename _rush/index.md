@@ -27,7 +27,7 @@ schedule:
         date: Friday 09/18
         start: 8:00 PM ET
         end: 9:30 PM ET
-     - name: Info Session 3
+      - name: Info Session 3
         description: "Learn what it means to be a brother of Phi Kappa Theta as some upperclassmen share their personal journeys."
         date: Saturday 09/19
         start: 12:00 PM ET
