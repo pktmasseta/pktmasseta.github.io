@@ -12,8 +12,8 @@ schedule:
         date: Saturday 09/05
         start: 1:30 PM ET
         end: 2:00 PM ET
-      - name: Open House
-        description: "Questions about PKT, Greek life at MIT, rush, or anything else? Drop by to learn more and hang out with some brothers and friends before our next info session."
+      - name: Open House + NBA Watch Party
+        description: "Questions about PKT, Greek life at MIT, or anything else? Drop by to learn more and watch the playoffs with some brothers and friends before our next info session."
         date: Friday 09/11
         start: 7:00 PM ET
         end: 9:00 PM ET
