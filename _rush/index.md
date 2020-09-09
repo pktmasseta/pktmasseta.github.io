@@ -12,17 +12,22 @@ schedule:
         date: Saturday 09/05
         start: 1:30 PM ET
         end: 2:00 PM ET
-      - name: Family Feud Night
-        description: "More details to come!"
+      - name: Open House
+        description: "Questions about PKT, Greek life at MIT, rush, or anything else? Drop by to learn more and hang out with some brothers and friends before our next info session."
         date: Friday 09/11
-        start: 8:00 PM ET
-        end: 9:30 PM ET
+        start: 7:00 PM ET
+        end: 9:00 PM ET
       - name: Info Session 2
         description: "Learn what it means to be a brother of Phi Kappa Theta as some upperclassmen share their personal journeys."
         date: Saturday 09/12
         start: 3:00 PM ET
         end: 3:30 PM ET
-      - name: Info Session 3
+      - name: Family Feud Night
+        description: "More details to come!"
+        date: Friday 09/18
+        start: 8:00 PM ET
+        end: 9:30 PM ET
+     - name: Info Session 3
         description: "Learn what it means to be a brother of Phi Kappa Theta as some upperclassmen share their personal journeys."
         date: Saturday 09/19
         start: 12:00 PM ET
