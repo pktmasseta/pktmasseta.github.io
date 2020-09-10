@@ -20,8 +20,8 @@ schedule:
       - name: Info Session 2
         description: "Learn what it means to be a brother of Phi Kappa Theta as some upperclassmen share their personal journeys."
         date: Saturday 09/12
-        start: 3:00 PM ET
-        end: 3:30 PM ET
+        start: 4:30 PM ET
+        end: 5:00 PM ET
       - name: Family Feud Night
         description: "More details to come!"
         date: Friday 09/18
@@ -30,8 +30,8 @@ schedule:
       - name: Info Session 3
         description: "Learn what it means to be a brother of Phi Kappa Theta as some upperclassmen share their personal journeys."
         date: Saturday 09/19
-        start: 12:00 PM ET
-        end: 12:30 PM ET
+        start: 1:30 PM ET
+        end: 2:00 PM ET
 
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br>We'll send you the Zoom link and a reminder before each event is set to start.</p>
