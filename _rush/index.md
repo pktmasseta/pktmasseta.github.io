@@ -22,8 +22,8 @@ schedule:
         date: Saturday 09/12
         start: 4:30 PM ET
         end: 5:00 PM ET
-      - name: Family Feud Night
-        description: "More details to come!"
+      - name: <a href="https://peck.bot/family-feud" target="_blank">Family Feud Night</a>
+        description: "Join the brothers and friends of PKT for a fun and laid-back Family Feud tournament! You're welcome to sign up as a team or as an individual. Do you have what it takes to emerge a champion?"
         date: Friday 09/18
         start: 8:00 PM ET
         end: 9:30 PM ET
