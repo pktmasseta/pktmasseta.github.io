@@ -128,15 +128,6 @@ brothers:
     nickname: Crypto Zeke, cryp, Lau Lau
     blurb: >
       CHINATOWN, SAN FRANCISCO. MARCH 2029. An enclave once steeped in organized crime is now the center of a technology revolution. While each blockchain drone at the Dragon Gate carries his signature, none bear his name. What distinguishes a man among excellence? Some PKTs conjecture one's reputation grows with the number of nicknames — others, the craziness of their pursuits. While all brothers give, expecting nothing thereof, none rise above Isaac in humility, perseverance, and commitment to another. "Crypto" is a frontiersman that's explored the nooks and crannies of untested technology since birth, being both an early adopter of cryptocurrencies and an engineer on the Hyperloop team. Yet despite having experience in astrophysics research, supersonic flight, LIDAR for self-driving cars, [ACTIVITIES REDACTED] and astrophotography, Isaac is too humble to admit he knows much more than an interested observer. Crypto operates under no time zone, speaks Cantonese, once had to legally change his name <em>from</em> Satoshi, and probably runs MIT's shady investments. No science fiction writer could exhaust his exploits in fewer than four books. All in character, though: a brother this intriguing that would drop everything to help another makes Isaac one who stands out among the crowd.
-  - initials: KAL
-    name: Kevin Lu
-    activities: Varsity Crew, Medical Devices Club, Cars, Sending poorly written emails
-    major: Mechanical Engineering (2A), Pre-Med
-    hometown: Chestnut Hill, MA
-    quote: Nice!
-    nickname: Kal, Kal-L, Kev
-    blurb: >
-      Kevin. Oh, sweet Kevin. Our boy Kal-L is a lad of layers. From a distance, he’s just an incredibly attractive and very well-dressed young man. Step in close enough to hear him speak and you realize that you liked him better at a distance. The prevailing theory is that his mind relies on a recursive algorithm that builds unintelligible sentences from an array of independently logical phrases. Or perhaps the Portuguese brain in a Chinese body simply doesn’t allow for English communication. Whatever the reason for his mumbo-jumbo, Kevin is at heart one of the sweetest and most loving brothers in the house. Catch him vroomin’ in the all-white coupe or wandering around looking for his iPad stylus, Kevin Lu is a friend through and through.
   - initials: WWB
     name: Wesley Block
     activities: MIT Consulting Group (MCG), National Society of Black Engineers (NSBE), Singing, UROP, Basketball, PKT IM Chair
