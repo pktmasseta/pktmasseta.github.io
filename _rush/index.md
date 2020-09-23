@@ -32,6 +32,11 @@ schedule:
         date: Saturday 09/19
         start: 1:30 PM ET
         end: 2:00 PM ET
+      - name: Among Us
+        description: "Join the brothers of PKT for a night of teamwork and betrayal. Among us is available for both smartphones and PC."
+        date: Friday 09/25
+        start: 8:00 PM ET
+        end: 9:30 PM ET
 
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br>We'll send you the Zoom link and a reminder before each event is set to start.</p>
