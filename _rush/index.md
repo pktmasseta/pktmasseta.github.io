@@ -44,7 +44,7 @@ schedule:
         date: Friday 10/02
         start: 9:00 PM ET
         end: 11:00 PM ET
-  - month: October
+  - month: November
     events:
       - name: Poker Night
         description: "Join the brothers and friends of Phi Kappa Theta for a fun and laid-back night of poker. Don't know how to play? Don't worry, we'll teach you! First timers through poker sharks welcome."
