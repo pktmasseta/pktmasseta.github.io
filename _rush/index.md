@@ -51,6 +51,11 @@ schedule:
         date: Saturday 11/14
         start: 8:00 PM ET
         end: 9:30 PM ET
+      - name: <a href="https://peck.bot/family-feud" target="_blank">Family Feud Finals</a>
+        description: "Bringing back one of our most popular events of the semester - Family Feud Night! You're welcome to sign up as a team or as an individual. Do you have what it takes to emerge a champion?"
+        date: Friday 11/20
+        start: 7:30 PM ET
+        end: 8:30 PM ET
  
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br>We'll send you the Zoom link and a reminder before each event is set to start.</p>
