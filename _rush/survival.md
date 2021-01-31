@@ -2,7 +2,7 @@
 title: Survival Guide
 subtitle: Phi Kappa Theta
 banner: pkt-banner
-position: 2
+position: 3
 ---
 Choosing a living group is one of the most important decisions of your MIT career, and we want to do our best to clear up any confusion you might have about the process. What follows shows some of the things you should be thinking about during rush and your freshman year. We hope that this advice provides some important pointers on how rush works and what our house is like.
 

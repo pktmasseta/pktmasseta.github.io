@@ -3,7 +3,7 @@ sidebar: Rush FAQs
 title: FAQs
 subtitle: Phi Kappa Theta
 banner: ring
-position: 3
+position: 4
 ---
 ###### What makes PKT different from other houses?
 

@@ -2,7 +2,7 @@
 title: Pledging
 subtitle: Phi Kappa Theta
 banner: pledging
-position: 4
+position: 5
 ---
 ###### What is Pledging Like?
 
