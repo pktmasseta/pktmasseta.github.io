@@ -1,5 +1,6 @@
 ---
-title: Fall Rush
+sidebar: Fall Rush
+title: Event Schedule
 subtitle: Phi Kappa Theta
 layout: schedule-semester
 banner: rush2
