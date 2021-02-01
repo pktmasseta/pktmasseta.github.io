@@ -367,13 +367,11 @@ ul.triple {
 .iframeVideo {
     height: 0px;
     padding-top: 25px;
-    padding-bottom: 25px;
+    padding-bottom: 56.2%;
     position: relative;
 }
 .iframeVideo iframe {
     width: 100%;
     height: 100%;
-    max-width: 560px;
-    max-height: 315px;
     position: absolute;
 }
