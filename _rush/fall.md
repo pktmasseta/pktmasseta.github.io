@@ -66,7 +66,7 @@ schedule:
     <iframe src="https://www.youtube.com/embed/nAZJzH3RyK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </p>
-
+<br>
 <p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peck.bot/instagram" target="_blank">@pkt.mit</a>  for more on who we are, and email pkt-rush [at] mit [dot] edu with any questions.</p>
 
 <!-- <p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during Rush!</p> -->
