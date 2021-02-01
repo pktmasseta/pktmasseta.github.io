@@ -17,7 +17,11 @@ schedule:
 </p>
 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/sKCtAaZgp7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center">
+  <div class="iframeVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sKCtAaZgp7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</p>
 
 <p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peck.bot/instagram" target="_blank">@pkt.mit</a> for more on who we are, and email pkt-rush [at] mit [dot] edu with any questions.</p>
 
