@@ -13,7 +13,9 @@ schedule:
         start: 3pm
         end: 4pm
 ---
-<p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!</p>
+<p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
+</p>
+
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/sKCtAaZgp7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
