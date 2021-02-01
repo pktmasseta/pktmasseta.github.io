@@ -22,7 +22,7 @@ schedule:
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/pkt-mit/rush-interview?primary_color=800000', text: 'Interview Sign up', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/pkt-mit/rush-interview?primary_color=800000', text: 'Interview Sign up', color: '#800000', textColor: '#f8d410', branding: true });</script>
 <!-- Calendly badge widget end -->
 
 <!-- <p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during Rush!</p> -->
