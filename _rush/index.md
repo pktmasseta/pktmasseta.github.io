@@ -16,14 +16,14 @@ schedule:
         description: Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!
         start: 4:00pm
         end: 6:00pm
-      - name: <a href="https://peck.bot/family-feud" target="_blank">Family Feud Tournament</a>
+<!--       - name: <a href="https://peck.bot/family-feud" target="_blank">Family Feud Tournament</a>
         description: Bringing back one of our favorite Fall events, bigger and better than ever before - Family Feud Night! You're welcome to sign up as a team or as an individual. Do you have what it takes to emerge a champion? Prizes for winning team.
         start: 8:00pm
         end: 10:00pm
       - name: <a href="https://peck.bot/pktheater" target="_blank">PKTheater</a>
         description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the next level. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
         start: 10:30pm
-        end: 12:30am
+        end: 12:30am -->
 <!--   - day: Sunday
     date: Feb 7th
     events:
