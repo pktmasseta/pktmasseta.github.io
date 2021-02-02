@@ -24,7 +24,7 @@ schedule:
         description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the next level. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
         start: 10:30pm
         end: 12:30am
-  - day: Sunday
+<!--   - day: Sunday
     date: Feb 7th
     events:
       - name: <a href="https://peck.bot/house-call" target="_blank">House Call</a>
@@ -50,7 +50,7 @@ schedule:
       - name: <a href="https://peck.bot/poker" target="_blank">Super Bowl Poker Tournament</a>
         description: Our signature rush event: the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for prizes like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!
         start: 8:00pm
-        end: 10:00pm
+        end: 10:00pm -->
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
