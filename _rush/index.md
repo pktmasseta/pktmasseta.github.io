@@ -10,16 +10,16 @@ schedule:
     events:
       - name: IFC Kickoff
         description: Join us for the official start of rush on Gather.town!
-        start: 3pm
-        end: 4pm
+        start: 3:00pm
+        end: 4:00pm
       - name: <a href="https://peck.bot/open-house" target="_blank">Open House</a>
         description: Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!
-        start: 4pm
-        end: 6pm
+        start: 4:00pm
+        end: 6:00pm
       - name: <a href="https://peck.bot/family-feud" target="_blank">Family Feud Tournament</a>
         description: Bringing back one of our favorite Fall events, bigger and better than ever before - Family Feud Night! You're welcome to sign up as a team or as an individual. Do you have what it takes to emerge a champion? Prizes for winning team.
-        start: 8pm
-        end: 10pm
+        start: 8:00pm
+        end: 10:00pm
       - name: <a href="https://peck.bot/pktheater" target="_blank">PKTheater</a>
         description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the next level. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
         start: 10:30pm
