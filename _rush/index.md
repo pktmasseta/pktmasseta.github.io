@@ -12,6 +12,18 @@ schedule:
         description: Join us for the official start of rush on Gather.town!
         start: 3pm
         end: 4pm
+      - name: <a href="https://peck.bot/open-house" target="_blank">Open House</a>
+        description: Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!
+        start: 4pm
+        end: 6pm
+      - name: <a href="https://peck.bot/family-feud" target="_blank">Family Feud Tournament</a>
+        description: Bringing back one of our favorite Fall events, bigger and better than ever before - Family Feud Night! You're welcome to sign up as a team or as an individual. Do you have what it takes to emerge a champion? Prizes for winning team.
+        start: 8pm
+        end: 10pm
+      - name: <a href="https://peck.bot/pktheater" target="_blank">PKTheater</a>
+        description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the next level. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
+        start: 10:30pm
+        end: 12:30am
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
