@@ -8,7 +8,7 @@ schedule:
   - day: Saturday
     date: Feb 6th
     events:
-      - name: <a href="https://peck.bot/kickoff" target="_blank">IFC Kickoff</a>
+      - name: IFC Kickoff
         description: Join us for the official start of rush on Gather.town!
         start: 3:00pm
         end: 4:00pm
@@ -16,15 +16,15 @@ schedule:
         description: Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!
         start: 4:00pm
         end: 6:00pm
-<!--       - name: <a href="https://peck.bot/family-feud" target="_blank">Family Feud Tournament</a>
+      - name: <a href="https://peck.bot/family-feud" target="_blank">Family Feud Tournament</a>
         description: Bringing back one of our favorite Fall events, bigger and better than ever before - Family Feud Night! You're welcome to sign up as a team or as an individual. Do you have what it takes to emerge a champion? Prizes for winning team.
         start: 8:00pm
         end: 10:00pm
       - name: <a href="https://peck.bot/pktheater" target="_blank">PKTheater</a>
         description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the next level. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
         start: 10:30pm
-        end: 12:30am -->
-<!--   - day: Sunday
+        end: 12:30am
+  - day: Sunday
     date: Feb 7th
     events:
       - name: <a href="https://peck.bot/house-call" target="_blank">House Call</a>
@@ -50,7 +50,7 @@ schedule:
       - name: <a href="https://peck.bot/poker" target="_blank">Super Bowl Poker Tournament</a>
         description: Our signature rush event: the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for prizes like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!
         start: 8:00pm
-        end: 10:00pm -->
+        end: 10:00pm
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
