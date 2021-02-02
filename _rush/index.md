@@ -117,6 +117,8 @@ schedule:
         end: 11:30am
       - name: <a href="https://peck.bot/pitch" target="_blank">Pitch KnighT</a>
         description: "It's no secret that many PKT brothers and alumni love starting ventures, building products, and solving problems. Come out to try your hand at pitching bad startup ideas created by our upperclassmen, and maybe leave with the next Uber for \_\_\_!"
+        start: 8:00pm
+        end: 10:00pm
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
