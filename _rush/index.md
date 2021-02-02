@@ -74,6 +74,49 @@ schedule:
         description: "Stick around for a continuation of Game Night, or join us for a movie in the custom-built PKTheater!"
         start: 10:00pm
         end: 12:00am
+  - day: Tuesday
+    date: Feb 9th
+    events:
+      - name: <a href="https://peck.bot/q-a" target="_blank">Q&amp;A</a>
+        description: "Questions about PKT, Greek life at MIT, or anything else? Come learn more about our community, meet our brothers and friends, and ask us anything you're curious about!"
+        start: 10:30am
+        end: 11:30am
+      - name: <a href="https://peck.bot/secret" target="_blank">Secret Hitler</a>
+        description: "Mafia, Among Us, Avalon, you know the drill - join us to put your strategic thinking and diplomacy skills to the test as we play Secret Hitler!"
+        start: 1:00pm
+        end: 2:30pm
+      - name: <a href="https://peck.bot/virtual" target="_blank">What does virtual PKT look like?</a>
+        description: "Wondering what the virtual fraternity experience is like? Come hear from our seniors about what PKT has in store for this spring, and how we strengthened our brotherhood's bonds this fall."
+        start: 3:30pm
+        end: 4:30pm
+      - name: <a href="https://peck.bot/monopoly" target="_blank">Monopoly Night!</a>
+        description: "Join PKT's future business titans for a classic game of Monopoly! Remember, positive cash flows and railroads are key."
+        start: 8:00pm
+        end: 11:00pm
+  - day: Wednesday
+    date: Feb 10th
+    events:
+      - name: <a href="https://peck.bot/heads-up" target="_blank">Heads-up</a>
+        description: "The classic game of heads-up played on your phone, but over Zoom - what could go wrong? Make sure to hide self view to maintain the integrity of this highly competitive game grounded in skill."
+        start: 10:30am
+        end: 12:00pm
+      - name: <a href="https://peck.bot/workout" target="_blank">Workout Wednesday</a>
+        description: "Join the brothers of PKT for exercise and a good time as Brothers Caleb '22 and Thomas '23 lead us in our weekly *Workout Wednesday!*"
+        start: 4:00pm
+        end: 5:00pm
+      - name: <a href="https://peck.bot/board-game" target="_blank">Board Game Night</a>
+        description: "Join the brothers and friends of PKT for a night of good vibes and our favorite board games!"
+        start: 8:00pm
+        end: 11:00pm
+  - day: Thursday
+    date: Feb 11th
+    events:
+      - name: <a href="https://peck.bot/morning" target="_blank">Morning Coffee</a>
+        description: "One of the things many of our brothers are most passionate about is their coffee - join us for a refreshing morning of relaxation to charge up for the day!"
+        start: 10:30am
+        end: 11:30am
+      - name: <a href="https://peck.bot/pitch" target="_blank">Pitch KnighT</a>
+        description: "It's no secret that many PKT brothers and alumni love starting ventures, building products, and solving problems. Come out to try your hand at pitching bad startup ideas created by our upperclassmen, and maybe leave with the next Uber for "\_\_\_"!"
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
