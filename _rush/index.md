@@ -24,13 +24,33 @@ schedule:
         description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the next level. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
         start: 10:30pm
         end: 12:30am
-  - day: Thursday
-    date: Apr 16th
+  - day: Sunday
+    date: Feb 7th
     events:
-      - name: Where we dropping? (Fortnite)
-        description: "Join the brothers to play one of our favorite video games, Fortnite! Drop into the Zoom call and we'll set up multiplayer squads - if you're a beginner, we'll show you the ropes."
-        start: 9:00 PM ET
-        end: 11:00 PM ET
+      - name: <a href="https://peck.bot/house-call" target="_blank">House Call</a>
+        description: Rise and shine! Join us for a live-streamed tour of the PKT house by our Graduate Resident Advisor, who's also a licensed DJ and might just be spinning tracks in-between. 
+        start: 10:30am
+        end: 11:30am
+      - name: <a href="https://peck.bot/uno" target="_blank">Uno!</a>
+        description: Poker's cousin, the game of UNO is likewise one of pure skill - come show the brothers of PKT that you have what it takes to use all your cards, throw down some draw 4's, and emerge victorious!
+        start: 1:00pm
+        end: 2:00pm
+      - name: <a href="https://peck.bot/parents" target="_blank">Parents Info Session</a>
+        description: Interested in rushing and want to give your parents more information about Greek life at MIT? Then this event is for you! We'll be providing an overview of our community and answering any questions you or your family might have.
+        start: 3:30pm
+        end: 4:30pm
+      - name: <a href="https://peck.bot/dance" target="_blank">Dance Workshop</a>
+        description: Come through for cardio and a good time with some of our more talented brothers and house friends! We'll have moves from salsa, bachata, hip hop and more - absolutely no experience required.
+        start: 5:00pm
+        end: 6:00pm
+      - name: PoKer Training (excl.)
+        description: Learn everything from the basics to top-tier strategies from our poker sharks before the big tournament!
+        start: 7:00pm
+        end: 8:00pm
+      - name: <a href="https://peck.bot/poker" target="_blank">Super Bowl Poker Tournament</a>
+        description: Our signature rush event: the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for prizes like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!
+        start: 8:00pm
+        end: 10:00pm
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
