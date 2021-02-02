@@ -22,6 +22,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
     <li>Booz Allen Hamilton</li>
     <li>Bose</li>
     <li>Boston Consulting Group</li>
+    <li>Bridgewater Associates</li>
     <li>Cruise Automation</li>
     <li>D.E. Shaw & Co.</li>
     <li>DRW</li>
@@ -34,6 +35,7 @@ The men of PKT are ambitious. The many connections we have made here at PKT last
     <li>JPMorgan Chase & Co.</li>
     <li>Jane Street Capital</li>
     <li>Jet.com</li>
+    <li>Jump Trading</li>
     <li>KKR & Co.</li>
     <li>LinkedIn</li>
     <li>McKinsey & Co.</li>
