@@ -51,6 +51,29 @@ schedule:
         description: "Our signature rush event: the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for prizes like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!"
         start: 8:00pm
         end: 10:00pm
+  - day: Monday
+    date: Feb 8th
+    events:
+      - name: <a href="https://peck.bot/geo-guesser" target="_blank">Geo Guesser</a>
+        description: "Ever wonder what it looks like in the middle of Argentina? Or Canada? Come and join the brothers and friends of Phi Kappa Theta to try and guess Google Maps locations based purely on our surroundings, putting our global knowledge and experiences to the test!"
+        start: 10:30am
+        end: 12:00pm
+      - name: Career Exploration with PKT (excl.)
+        description: "Curious about potential career paths and the resources upperclassmen have found most useful in college? Join our diverse lineup of brothers pursuing careers in everything from finance and consulting to medicine and engineering to learn more!"
+        start: 1:00pm
+        end: 2:00pm
+      - name: <a href="https://peck.bot/lightning" target="_blank">Brother Lightning Talks</a>
+        description: "From sabermetrics, crypto, and options trading to mental health, film, and rockets, come learn more about our brothers' diverse interests and backgrounds as we share a bit about each of our favorite topics!"
+        start: 3:30pm
+        end: 5:00pm
+      - name: <a href="https://peck.bot/game-night" target="_blank">Game Night</a>
+        description: "Join the brothers of PKT for some of our favorite video games, including: Warzone, FIFA, League, Minecraft, Fortnite, and more!"
+        start: 8:00pm
+        end: 10:00pm
+      - name: <a href="https://peck.bot/late-night" target="_blank">Late Night</a>
+        description: "Stick around for a continuation of Game Night, or join us for a movie in the custom-built PKTheater!"
+        start: 10:00pm
+        end: 12:00am
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
