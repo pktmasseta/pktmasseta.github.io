@@ -27,22 +27,6 @@ schedule:
   - day: Sunday
     date: Feb 7th
     events:
-      - name: <a href="https://peck.bot/house-call" target="_blank">House Call</a>
-        description: Rise and shine! Join us for a live-streamed tour of the PKT house by our Graduate Resident Advisor, who's also a licensed DJ and might just be spinning tracks in-between. 
-        start: 10:30am
-        end: 11:30am
-      - name: <a href="https://peck.bot/uno" target="_blank">Uno!</a>
-        description: Poker's cousin, the game of UNO is likewise one of pure skill - come show the brothers of PKT that you have what it takes to use all your cards, throw down some draw 4's, and emerge victorious!
-        start: 1:00pm
-        end: 2:00pm
-      - name: <a href="https://peck.bot/parents" target="_blank">Parents Info Session</a>
-        description: Interested in rushing and want to give your parents more information about Greek life at MIT? Then this event is for you! We'll be providing an overview of our community and answering any questions you or your family might have.
-        start: 3:30pm
-        end: 4:30pm
-      - name: <a href="https://peck.bot/dance" target="_blank">Dance Workshop</a>
-        description: Come through for cardio and a good time with some of our more talented brothers and house friends! We'll have moves from salsa, bachata, hip hop and more - absolutely no experience required.
-        start: 5:00pm
-        end: 6:00pm
       - name: PoKer Training (excl.)
         description: Learn everything from the basics to top-tier strategies from our poker sharks before the big tournament!
         start: 7:00pm
