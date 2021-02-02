@@ -24,13 +24,6 @@ schedule:
         description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the next level. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
         start: 10:30pm
         end: 12:30am
-  - day: Sunday
-    date: Feb 7th
-    events:
-      - name: Test
-        description:Test
-        start: Test
-        end: Test
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
