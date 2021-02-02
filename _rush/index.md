@@ -8,7 +8,7 @@ schedule:
   - day: Saturday
     date: Feb 6th
     events:
-      - name: IFC Kickoff
+      - name: <a href="https://peck.bot/kickoff" target="_blank">IFC Kickoff</a>
         description: Join us for the official start of rush on Gather.town!
         start: 3:00pm
         end: 4:00pm
