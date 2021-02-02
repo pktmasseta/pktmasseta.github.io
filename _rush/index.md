@@ -12,7 +12,7 @@ schedule:
         description: Join us for the official start of rush on Gather.town!
         start: 3:00pm
         end: 4:00pm
-      - name: <a href="https://peck.bot/open-house" target="_blank">Open House</a>
+<!--       - name: <a href="https://peck.bot/open-house" target="_blank">Open House</a>
         description: Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!
         start: 4:00pm
         end: 6:00pm
@@ -50,7 +50,7 @@ schedule:
       - name: <a href="https://peck.bot/poker" target="_blank">Super Bowl Poker Tournament</a>
         description: Our signature rush event: the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for prizes like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!
         start: 8:00pm
-        end: 10:00pm
+        end: 10:00pm -->
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
