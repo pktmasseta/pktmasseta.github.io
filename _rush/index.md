@@ -24,6 +24,13 @@ schedule:
         description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the next level. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
         start: 10:30pm
         end: 12:30am
+  - day: Thursday
+    date: Apr 16th
+    events:
+      - name: Where we dropping? (Fortnite)
+        description: "Join the brothers to play one of our favorite video games, Fortnite! Drop into the Zoom call and we'll set up multiplayer squads - if you're a beginner, we'll show you the ropes."
+        start: 9:00 PM ET
+        end: 11:00 PM ET
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
 </p>
