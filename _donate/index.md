@@ -2,7 +2,7 @@
 layout: page
 sidebar: Donations
 title: Donate to PKT Mass. Eta
-subtitle: Help the current undergraduates improve their house
+subtitle: Help the current undergraduates improve our house
 position: 1
 permalink: /donate/
 ---
