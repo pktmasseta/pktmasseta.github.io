@@ -9,7 +9,7 @@ schedule:
     date: Feb 6th
     events:
       - name: <a href="https://peck.bot/kickoff" target="_blank">IFC Kickoff</a>
-        description: "Join us for the official start of rush on Gather.town!"
+        description: "Join us for the official" <span style="color:#800000">start of rush</span> "on Gather.town!"
         start: 3:00pm
         end: 4:00pm
       - name: <a href="https://peck.bot/open-house" target="_blank">Open House</a>
