@@ -116,7 +116,7 @@ schedule:
         start: 10:30am
         end: 11:30am
       - name: <a href="https://peck.bot/pitch" target="_blank">Pitch KnighT</a>
-        description: It's no secret that many PKT brothers and alumni love starting ventures, building products, and solving problems. Come out to try your hand at pitching <span style="color:#800000">bad startup ideas</span> created by our upperclassmen, and maybe leave with the next Uber for \_\_\_!
+        description: It's no secret that many PKT brothers and alumni love starting ventures, building products, and solving problems. Come out to try your hand at pitching <span style="color:#800000">bad startup ideas</span> created by our upperclassmen, and maybe leave with the next Uber for ___!
         start: 8:00pm
         end: 10:00pm
 ---
