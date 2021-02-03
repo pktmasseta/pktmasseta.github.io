@@ -1,4 +1,5 @@
 ---
+sidebar: Rush Survival Guide
 title: Survival Guide
 subtitle: Phi Kappa Theta
 banner: pkt-banner
