@@ -48,7 +48,7 @@ schedule:
         start: 7:00pm
         end: 8:00pm
       - name: <a href="https://peck.bot/poker" target="_blank">Super Bowl Poker Tournament</a>
-        description: <p>Our <span style="color:#800000">signature</span> rush event: the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for <span style="color:#800000">prizes</span> like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!</p>
+        description: "Our signature rush event: the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for prizes like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!"
         start: 8:00pm
         end: 10:00pm
   - day: Monday
