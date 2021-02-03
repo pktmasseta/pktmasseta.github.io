@@ -120,7 +120,7 @@ schedule:
         start: 8:00pm
         end: 10:00pm
 ---
-<p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
+<p class="text-center"><strong>Sign up</strong> for our mailing list today at <strong><a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a></strong>!<br><strong>Schedule</strong> a rush interview now at <strong><a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a></strong>!
 </p>
 
 
