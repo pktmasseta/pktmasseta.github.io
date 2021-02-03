@@ -48,75 +48,75 @@ schedule:
         start: 7:00pm
         end: 8:00pm
       - name: <a href="https://peck.bot/poker" target="_blank">Super Bowl Poker Tournament</a>
-        description: "Our signature rush event: the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for prizes like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!"
+        description: Our <span style="color:#800000">signature</span> rush event - the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for <span style="color:#800000">prizes</span> like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!"
         start: 8:00pm
         end: 10:00pm
   - day: Monday
     date: Feb 8th
     events:
       - name: <a href="https://peck.bot/geo-guesser" target="_blank">Geo Guesser</a>
-        description: "Ever wonder what it looks like in the middle of Argentina? Or Canada? Come and join the brothers and friends of Phi Kappa Theta to try and guess Google Maps locations based purely on our surroundings, putting our global knowledge and experiences to the test!"
+        description: Ever wonder what it looks like in the middle of Argentina? Or Canada? Come and join the brothers and friends of Phi Kappa Theta to try and guess Google Maps locations based purely on our surroundings, putting our global knowledge and <span style="color:#800000">experiences</span> to the test!
         start: 10:30am
         end: 12:00pm
       - name: Career Exploration with PKT (excl.)
-        description: "Curious about potential career paths and the resources upperclassmen have found most useful in college? Join our diverse lineup of brothers pursuing careers in everything from finance and consulting to medicine and engineering to learn more!"
+        description: Curious about <span style="color:#800000">potential career paths</span> and the resources upperclassmen have found most useful in college? Join our diverse lineup of brothers pursuing careers in everything from finance and consulting to medicine and engineering to learn more!
         start: 1:00pm
         end: 2:00pm
       - name: <a href="https://peck.bot/lightning" target="_blank">Brother Lightning Talks</a>
-        description: "From sabermetrics, crypto, and options trading to mental health, film, and rockets, come learn more about our brothers' diverse interests and backgrounds as we share a bit about each of our favorite topics!"
+        description: From sabermetrics, crypto, and options trading to mental health, film, and rockets, come learn more about our brothers' <span style="color:#800000">diverse interests</span> and backgrounds as we share a bit about each of our favorite topics!
         start: 3:30pm
         end: 5:00pm
       - name: <a href="https://peck.bot/game-night" target="_blank">Game Night</a>
-        description: "Join the brothers of PKT for some of our favorite video games, including: Warzone, FIFA, League, Minecraft, Fortnite, and more!"
+        description: Join the brothers of PKT for some of our <span style="color:#800000">favorite video games</span>, including Warzone, FIFA, League, Minecraft, Fortnite, and more!
         start: 8:00pm
         end: 10:00pm
       - name: <a href="https://peck.bot/late-night" target="_blank">Late Night</a>
-        description: "Stick around for a continuation of Game Night, or join us for a movie in the custom-built PKTheater!"
+        description: Stick around for a continuation of Game Night, or join us for a movie in the <span style="color:#800000">custom-built</span> PKTheater!
         start: 10:00pm
         end: 12:00am
   - day: Tuesday
     date: Feb 9th
     events:
       - name: <a href="https://peck.bot/q-a" target="_blank">Q+A</a>
-        description: "Questions about PKT, Greek life at MIT, or anything else? Come learn more about our community, meet our brothers and friends, and ask us anything you're curious about!"
+        description: Questions about PKT, Greek life at MIT, or anything else? Come learn more about our <span style="color:#800000">community</span>, meet our brothers and friends, and ask us <span style="color:#800000">anything</span> you're curious about!
         start: 10:30am
         end: 11:30am
       - name: <a href="https://peck.bot/secret" target="_blank">Secret Hitler</a>
-        description: "Mafia, Among Us, Avalon, you know the drill - join us to put your strategic thinking and diplomacy skills to the test as we play Secret Hitler!"
+        description: Mafia, Among Us, Avalon, you know the drill - join us to put your <span style="color:#800000">strategic</span> thinking and diplomacy skills to the test as we play Secret Hitler!
         start: 1:00pm
         end: 2:30pm
       - name: <a href="https://peck.bot/virtual" target="_blank">What does virtual PKT look like?</a>
-        description: "Wondering what the virtual fraternity experience is like? Come hear from our seniors about what PKT has in store for this spring, and how we strengthened our brotherhood's bonds this fall."
+        description: Wondering what the <span style="color:#800000">virtual fraternity experience</span> is like? Come hear from our seniors about what PKT has in store for this spring, and how we <span style="color:#800000">strengthened</span> our brotherhood's bonds this fall."
         start: 3:30pm
         end: 4:30pm
       - name: <a href="https://peck.bot/monopoly" target="_blank">Monopoly Night!</a>
-        description: "Join PKT's future business titans for a classic game of Monopoly! Remember, positive cash flows and railroads are key."
+        description: Join PKT's <span style="color:#800000">future business titans</span> for a classic game of Monopoly! Remember, positive cash flows and railroads are key.
         start: 8:00pm
         end: 11:00pm
   - day: Wednesday
     date: Feb 10th
     events:
       - name: <a href="https://peck.bot/heads-up" target="_blank">Heads-up</a>
-        description: "The classic game of heads-up played on your phone, but over Zoom - what could go wrong? Make sure to hide self view to maintain the integrity of this highly competitive game grounded in skill."
+        description: The classic game of heads-up played on your phone, but over Zoom - what could go wrong? Make sure to hide self view to maintain the integrity of this <span style="color:#800000">highly competitive</span> game grounded in skill.
         start: 10:30am
         end: 12:00pm
       - name: <a href="https://peck.bot/workout" target="_blank">Workout Wednesday</a>
-        description: "Join the brothers of PKT for exercise and a good time as Brothers Caleb '22 and Thomas '23 lead us in our weekly *Workout Wednesday!*"
+        description: Join the brothers of PKT for <span style="color:#800000">exercise and a good time</span> as Brothers Caleb '22 and Thomas '23 lead us in our weekly *Workout Wednesday!*
         start: 4:00pm
         end: 5:00pm
       - name: <a href="https://peck.bot/board-game" target="_blank">Board Game Night</a>
-        description: "Join the brothers and friends of PKT for a night of good vibes and our favorite board games!"
+        description: Join the brothers and friends of PKT for a night of <span style="color:#800000">good vibes</span> and our favorite board games!
         start: 8:00pm
         end: 11:00pm
   - day: Thursday
     date: Feb 11th
     events:
       - name: <a href="https://peck.bot/morning" target="_blank">Morning Coffee</a>
-        description: "One of the things many of our brothers are most passionate about is their coffee - join us for a refreshing morning of relaxation to charge up for the day!"
+        description: One of the things many of our brothers are most passionate about is their coffee - join us for a refreshing morning of <span style="color:#800000">relaxation</span> to charge up for the day!
         start: 10:30am
         end: 11:30am
       - name: <a href="https://peck.bot/pitch" target="_blank">Pitch KnighT</a>
-        description: "It's no secret that many PKT brothers and alumni love starting ventures, building products, and solving problems. Come out to try your hand at pitching bad startup ideas created by our upperclassmen, and maybe leave with the next Uber for \_\_\_!"
+        description: It's no secret that many PKT brothers and alumni love starting ventures, building products, and solving problems. Come out to try your hand at pitching <span style="color:#800000">bad startup ideas</span> created by our upperclassmen, and maybe leave with the next Uber for \_\_\_!
         start: 8:00pm
         end: 10:00pm
 ---
