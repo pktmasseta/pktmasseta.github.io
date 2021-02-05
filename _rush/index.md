@@ -28,7 +28,7 @@ schedule:
     date: Feb 7th
     events:
       - name: <a href="https://peck.bot/house-call" target="_blank">House Call</a>
-        description: Rise and shine! Join us for a live-streamed <span style="color:#800000">tour of the PKT house</span> by our Graduate Resident Advisor, who's also a <span style="color:#800000">licensed DJ</span> and might just be spinning tracks in-between.
+        description: Rise and shine! Join us for a <span style="color:#800000">live-streamed DJ set</span> hosted by our Graduate Resident Advisor in the PKT house! Come start your day off right, vibe, and meet some brothers.
         start: 10:30am
         end: 11:30am
       - name: <a href="https://peck.bot/uno" target="_blank">Uno!</a>
