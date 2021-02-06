@@ -28,7 +28,7 @@ schedule:
     date: Feb 7th
     events:
       - name: <a href="https://peck.bot/house-call" target="_blank">House Call</a>
-        description: Rise and shine! Join us for a live-streamed <span style="color:#800000">tour of the PKT house</span> by our Graduate Resident Advisor, who's also a <span style="color:#800000">licensed DJ</span> and might just be spinning tracks in-between.
+        description: Rise and shine! Join us for a <span style="color:#800000">live-streamed DJ set</span> hosted by our Graduate Resident Advisor in the PKT house! Come start your day off right, vibe, and meet some brothers.
         start: 10:30am
         end: 11:30am
       - name: <a href="https://peck.bot/uno" target="_blank">Uno!</a>
@@ -61,7 +61,7 @@ schedule:
       - name: Career Exploration with PKT (excl.)
         description: Curious about <span style="color:#800000">potential career paths</span> and the resources upperclassmen have found most useful in college? Join our diverse lineup of brothers pursuing careers in everything from finance and consulting to medicine and engineering to learn more!
         start: 1:00pm
-        end: 2:00pm
+        end: 2:15pm
       - name: <a href="https://peck.bot/lightning" target="_blank">Brother Lightning Talks</a>
         description: From sabermetrics, crypto, and options trading to mental health, film, and rockets, come learn more about our brothers' <span style="color:#800000">diverse interests</span> and backgrounds as we share a bit about each of our favorite topics!
         start: 3:30pm
@@ -120,7 +120,7 @@ schedule:
         start: 8:00pm
         end: 10:00pm
 ---
-<p class="text-center"><strong>Sign up</strong> for our mailing list today at <a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a>!<br><strong>Schedule</strong> a rush interview now at <a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a>!
+<p class="text-center"><strong>Sign up</strong> for our mailing list today at <strong><a href="https://peck.bot/interest" target="_blank">peck.bot/interest</a></strong>!<br><strong>Schedule</strong> a rush interview now at <strong><a href="https://peck.bot/interview" target="_blank">peck.bot/interview</a></strong>!
 </p>
 
 
@@ -130,7 +130,7 @@ schedule:
   </div>
 </p>
 <br>
-<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peck.bot/instagram" target="_blank">@pkt.mit</a> for more on who we are, and email pkt-rush [at] mit [dot] edu with any questions.</p>
+<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peck.bot/instagram" target="_blank">@pkt.mit</a> for more on who we are, and email pkt-rush [at] mit [dot] edu with any questions.<br>Add our event schedule on Google Calendar by clicking <a href="https://peck.bot/cal" target="_blank">peck.bot/cal</a>!</p>
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

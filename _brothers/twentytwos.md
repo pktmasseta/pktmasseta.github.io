@@ -38,7 +38,7 @@ brothers:
   - initials: HMT
     name: Herbert Turner
     activities: Rocket building, hair dying
-    major: Aerospace Engineering (16)
+    major: Aerospace Engineering (16), Electrical Engineering and Computer Science (6-2)
     hometown: Phoenixville, PA
     quote: Guys, it's not a phase.
     nickname: Herbie
@@ -70,7 +70,7 @@ brothers:
        Passionate and compassionate, dedicated and humble – just four of the many adjectives the brothers of the Phi Kappa Theta use to describe Joshua Liu, a true king amongst men who cares too much about saving humanity to join business clubs. Some of his other attributes include being philosophical, in a Nostradamic fashion, and slightly intimidatingly efficient at all aspects of life, as every good premed is (but especially Josh, @med schools). An early morning hustler, Josh can be spotted grinding on large biochemistry textbooks or yelling at PKT brothers to do their community service requirements from sunrise to precisely midnight, as he always ensures to get his beauty sleep; however, don’t be mistaken, for he’s constantly an open ear to anyone in need, a mental health advocate on campus, and beautifully in touch with his emotions (as evidenced by his hidden acting talents). Josh is a man that you will learn to only love more with time, and one of PKT’s finest gems. And oh, umm, yeah, fun fact: he also has a fraternal twin brother at MIT named Julian!
   - initials: SVS
     name: Shreyas Srinivasan
-    activities: Pokerbots, MIT Consulting Group (MCG)
+    activities: Pokerbots, MIT Consulting Group (MCG), Hindu Students Council (HSC)
     major: Mathematics with Computer Science (18C)
     hometown: Plainsboro, NJ
     quote: Have you heard this song yet? (No, you have not.)
