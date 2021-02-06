@@ -61,7 +61,7 @@ schedule:
       - name: Career Exploration with PKT (excl.)
         description: Curious about <span style="color:#800000">potential career paths</span> and the resources upperclassmen have found most useful in college? Join our diverse lineup of brothers pursuing careers in everything from finance and consulting to medicine and engineering to learn more!
         start: 1:00pm
-        end: 2:00pm
+        end: 2:15pm
       - name: <a href="https://peck.bot/lightning" target="_blank">Brother Lightning Talks</a>
         description: From sabermetrics, crypto, and options trading to mental health, film, and rockets, come learn more about our brothers' <span style="color:#800000">diverse interests</span> and backgrounds as we share a bit about each of our favorite topics!
         start: 3:30pm
