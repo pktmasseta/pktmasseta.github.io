@@ -4,7 +4,7 @@ subtitle: IFC Rush Kickoff Spring 2021
 banner: pledging
 position: 1
 ---
-<img src="{{ site.baseurl }}/static/img/pkt_map.jpg" alt="Trulli" style="width:100%">
+<img src="{{ site.baseurl }}/static/img/pkt_map.jpg" alt="Trulli" width="600" height="500" style="width:100%">
 
 ###### PKT Kickoff Location
 
