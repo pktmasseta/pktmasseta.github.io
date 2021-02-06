@@ -7,9 +7,10 @@ position: 1
 
 ###### PKT Kickoff Location
 
-Here's where we'll be located for the IFC Spring 2021 Virtual Rush Kickoff event! Come by the PKT Gather.Town space to meet brothers and get your rush experience started right. See you there!
+Here's where we'll be located for the IFC Spring 2021 Virtual Rush Kickoff event! Come by the PKT Gather.Town space to meet brothers and get your rush experience started right. Join the event at <a href="https://peck.bot/kickoff-gather" target="_blank">peck.bot/kickoff-gather</a>!
 <br/><br/>
 &nbsp;
+
 <img src="{{ site.baseurl }}/static/img/pkt_map.jpg" alt="Trulli" style="width:100%">
 
 
