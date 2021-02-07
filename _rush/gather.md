@@ -8,7 +8,7 @@ position: 1
 
 ###### PKT Gather.Town Location
 
-Here's where we'll be located for our Gather events! Come by the PKT Gather.Town space to meet brothers and participate in our rush events. Join at <a href="https://peck.bot/kickoff-gather" target="_blank">peck.bot/gather</a>!
+Here's where we'll be located for our Gather events! Come by the PKT Gather.Town space to meet brothers and participate in our some of our rush events like poker and PKTheater. Join at <a href="https://peck.bot/kickoff-gather" target="_blank">peck.bot/gather</a>!
 <br/><br/>
 &nbsp;
 
