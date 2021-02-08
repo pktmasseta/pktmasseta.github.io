@@ -5,7 +5,7 @@ layout: schedule
 position: 0
 permalink: /rush/
 schedule:
-<!--   - day: Saturday
+  - day: Saturday
     date: Feb 6th
     events:
       - name: <a href="https://peck.bot/kickoff" target="_blank">IFC Kickoff</a>
@@ -23,23 +23,23 @@ schedule:
       - name: <a href="https://peck.bot/pktheater" target="_blank">PKTheater</a>
         description: Engineered by PKT's finest, the PKTheater takes virtual watch parties to the <span style="color:#800000">next level</span>. Join us on Gather, wear your favorite hoodie, sit back and enjoy the show!
         start: 10:30pm
-        end: 12:30am -->
+        end: 12:30am
   - day: Sunday
     date: Feb 7th
     events:
-<!--       - name: <a href="https://peck.bot/house-call" target="_blank">House Call</a>
+      - name: <a href="https://peck.bot/house-call" target="_blank">House Call</a>
         description: Rise and shine! Join us for a <span style="color:#800000">live-streamed DJ set</span> hosted by our Graduate Resident Advisor in the PKT house! Come start your day off right, vibe, and meet some brothers.
         start: 10:30am
         end: 11:30am
       - name: <a href="https://peck.bot/uno" target="_blank">Uno!</a>
         description: Poker's cousin, the game of UNO is likewise one of <span style="color:#800000">pure skill</span> - come show the brothers of PKT that you have what it takes to use all your cards, throw down some draw 4's, and emerge <span style="color:#800000">victorious</span>!
         start: 1:00pm
-        end: 2:00pm -->
-      - name: <a href="https://peck.bot/parents" target="_blank">Parents Info Session (Recording)</a>
+        end: 2:00pm
+      - name: <a href="https://peck.bot/parents" target="_blank">Parents Info Session</a>
         description: Interested in rushing and want to give your parents more <span style="color:#800000">information</span> about Greek life at MIT? Then this event is for you! We'll be providing an overview of our community and answering any questions you or your family might have.
         start: 3:30pm
         end: 4:30pm
-<!--       - name: <a href="https://peck.bot/dance" target="_blank">Dance Workshop</a>
+      - name: <a href="https://peck.bot/dance" target="_blank">Dance Workshop</a>
         description: Come through for cardio and a <span style="color:#800000">good time</span> with some of our more talented brothers and house friends! We'll have moves from salsa, bachata, hip hop and more - absolutely <span style="color:#800000">no experience</span> required.
         start: 5:00pm
         end: 6:00pm
@@ -50,7 +50,7 @@ schedule:
       - name: <a href="https://peck.bot/poker" target="_blank">Super Bowl Poker Tournament</a>
         description: Our <span style="color:#800000">signature</span> rush event - the annual Phi Kappa Theta Poker Tournament! Join the brothers and friends of PKT to play for <span style="color:#800000">prizes</span> like a computer monitor, headphones, and speaker, and stick around to watch the Super Bowl!"
         start: 8:00pm
-        end: 10:00pm -->
+        end: 10:00pm
   - day: Monday
     date: Feb 8th
     events:
