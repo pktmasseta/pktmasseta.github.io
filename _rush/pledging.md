@@ -6,7 +6,7 @@ position: 5
 ---
 ###### What is Pledging Like?
 
-You may be asking yourself, "What will my life be like if I pledge PKT?" We incorporate freshman into our house through our Associate Member program designed to familiarize pledges with the house, MIT, and the Boston area. We do this in a way that fosters relationships between our pledges and the upperclassmen, as well as among the pledge class itself. These relationships are the driving force behind the entire program, and everything we do works towards strengthening them. Our pledge program has previously been recongnized by MIT IFC as the top new-member program among all MIT fraternities, and it's something we take a great deal of pride in.
+You may be asking yourself, "What will my life be like if I pledge PKT?" We incorporate freshman into our house through our Associate Member program designed to familiarize pledges with the house, MIT, and the Boston area. We do this in a way that fosters relationships between our pledges and the upperclassmen, as well as among the pledge class itself. These relationships are the driving force behind the entire program, and everything we do works towards strengthening them. Our pledge program has previously been recognized by MIT IFC as the top new-member program among all MIT fraternities, and it's something we take a great deal of pride in.
 
 ###### Pledge PKT, and Get a Free Big Brother
 

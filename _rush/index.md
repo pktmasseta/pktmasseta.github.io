@@ -54,7 +54,7 @@ schedule:
   - day: Monday
     date: Feb 8th
     events:
-      - name: <a href="https://peck.bot/geo-guesser" target="_blank">Geo Guesser</a>
+      - name: <a href="https://peck.bot/geo-guesser" target="_blank">Geo Guessr</a>
         description: Ever wonder what it looks like in the middle of Argentina? Or Canada? Come and join the brothers and friends of Phi Kappa Theta to try and guess Google Maps locations based purely on our surroundings, putting our global knowledge and <span style="color:#800000">experiences</span> to the test!
         start: 10:30am
         end: 12:00pm
