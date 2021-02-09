@@ -86,7 +86,7 @@ schedule:
         start: 1:00pm
         end: 2:30pm
       - name: <a href="https://peck.bot/virtual" target="_blank">What does virtual PKT look like?</a>
-        description: Wondering what the <span style="color:#800000">virtual fraternity experience</span> is like? Come hear from our seniors about what PKT has in store for this spring, and how we <span style="color:#800000">strengthened</span> our brotherhood's bonds this fall."
+        description: Wondering what the <span style="color:#800000">virtual fraternity experience</span> is like? Come hear from our seniors about what PKT has in store for this spring, and how we <span style="color:#800000">strengthened</span> our brotherhood's bonds this fall.
         start: 3:30pm
         end: 4:30pm
       - name: <a href="https://peck.bot/monopoly" target="_blank">Monopoly Night!</a>
