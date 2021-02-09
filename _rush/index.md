@@ -82,7 +82,7 @@ schedule:
         start: 10:30am
         end: 11:30am
       - name: <a href="https://peck.bot/secret" target="_blank">Secret Hitler</a>
-        description: Mafia, Among Us, Avalon, you know the drill - join us to put your <span style="color:#800000">strategic</span> thinking and diplomacy skills to the test as we play Secret Hitler!
+        description: Mafia and Secret Hitler, you know the drill - join us to put your <span style="color:#800000">strategic</span> thinking and diplomacy skills to the test as we play the classics!
         start: 1:00pm
         end: 2:30pm
       - name: <a href="https://peck.bot/virtual" target="_blank">What does virtual PKT look like?</a>
