@@ -74,7 +74,7 @@ schedule:
         description: Stick around for a continuation of Game Night, or join us for a movie in the <span style="color:#800000">custom-built</span> PKTheater!
         start: 10:00pm
         end: 12:00am
-  - day: Tuesday
+  - day: Tuesday 
     date: Feb 9th
     events:
       - name: <a href="https://peck.bot/q-a" target="_blank">Q+A</a>
@@ -135,7 +135,7 @@ schedule:
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/pkt-mit/rush-interview?primary_color=800000', text: 'Interview Sign up', color: '#800000', textColor: '#f8d410', branding: true });</script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/pkt-mit/rush-interview-two?primary_color=800000', text: 'Interview Sign up', color: '#800000', textColor: '#f8d410', branding: true });</script>
 <!-- Calendly badge widget end -->
 
 <!-- <p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during Rush!</p> -->
