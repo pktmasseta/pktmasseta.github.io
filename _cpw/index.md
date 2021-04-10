@@ -1,6 +1,6 @@
 ---
 title: CP&ast; Schedule
-subtitle: MIT Spring 2020
+subtitle: MIT Spring 2021
 layout: schedule
 position: 0
 permalink: /cpw/
