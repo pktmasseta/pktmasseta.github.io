@@ -1,17 +1,17 @@
 ---
 title: CP&ast; Schedule
-subtitle: MIT Spring 2020
+subtitle: MIT Spring 2021
 layout: schedule
 position: 0
-permalink: /cpw/
+permalink: /cp*/
 schedule:
-  - day: Thursday
+  - day: Friday
     date: Apr 16th
     events:
       - name: Open House
         description: "Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!"
-        start: 9:00 PM ET
-        end: 11:00 PM ET
+        start: 3:00 PM ET
+        end: 4:00 PM ET
   - day: Friday
     date: Apr 17th
     events:
