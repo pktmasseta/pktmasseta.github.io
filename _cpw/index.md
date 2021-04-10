@@ -1,17 +1,17 @@
 ---
 title: CP&ast; Schedule
-subtitle: MIT Spring 2021
+subtitle: MIT Spring 2020
 layout: schedule
 position: 0
 permalink: /cpw/
 schedule:
-  - day: Friday
+  - day: Tuuuuusday
     date: Apr 16th
     events:
-      - name: Open House
+      - name: Where we dropping? (Fortnite)
         description: "Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!"
-        start: 3:00 PM ET
-        end: 4:00 PM ET
+        start: 9:00 PM ET
+        end: 11:00 PM ET
   - day: Friday
     date: Apr 17th
     events:
