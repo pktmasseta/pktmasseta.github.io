@@ -28,7 +28,9 @@ schedule:
         start: 8:00 PM ET
         end: 10:00 PM ET
 ---
-<p class="text-center"><strong>Sign up</strong> for our events today at <a href="https://peck.bot/cpw" target="_blank">peck.bot/cpw</a>!<br>We'll send you links to the Zoom call and game before each event is set to start.</p>
+<p class="text-center"><strong>Sign up</strong> for our events today at <a href="https://peckbot.com/cpw" target="_blank">peckbot.com/cpw</a>!</p>
+
+<!-- <br>We'll send you links to the Zoom call and game before each event is set to start. -->
 
 <p class="text-center">Check out our Instagram at <a href="https://peck.bot/instagram" target="_blank">instagram.com/pkt.mit/</a>!</p>
 
