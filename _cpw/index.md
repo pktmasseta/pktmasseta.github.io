@@ -3,7 +3,7 @@ title: CP&ast; Schedule
 subtitle: MIT Spring 2021
 layout: schedule
 position: 0
-permalink: /cp*/
+permalink: /cpw/
 schedule:
   - day: Friday
     date: Apr 16th
