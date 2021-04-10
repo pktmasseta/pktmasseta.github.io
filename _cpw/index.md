@@ -28,10 +28,10 @@ schedule:
         start: 8:00 PM ET
         end: 10:00 PM ET
 ---
-<p class="text-center"><strong>Sign up</strong> for our events today at <a href="https://peckbot.com/cpw" target="_blank">peckbot.com/cpw</a>!</p>
+<p class="text-center"><strong>Sign up</strong> for our events today at <a href="https://peckbot.com/cpw" target="_blank">peckbot.com/cpw</a>!
 
-<!-- <br>We'll send you links to the Zoom call and game before each event is set to start. -->
+<br>We'll send you links to the Zoom call and game before each event is set to start.</p>
 
-<p class="text-center">Check out our Instagram at <a href="https://peck.bot/instagram" target="_blank">instagram.com/pkt.mit/</a>!</p>
+<p class="text-center">Check out our Instagram at <a href="https://peckbot.com/instagram" target="_blank">instagram.com/pkt.mit/</a>!</p>
 
 [//]: # (<p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during CPW!</p>, COMMENTED FOR VIRTUAL CPW, UNCOMMENT FOR REGULAR CPW)
