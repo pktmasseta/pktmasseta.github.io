@@ -5,31 +5,28 @@ layout: schedule
 position: 0
 permalink: /cpw/
 schedule:
-  - day: Thursday
+  - day: Friday
     date: Apr 16th
     events:
-      - name: Where we dropping? (Fortnite)
-        description: "Join the brothers to play one of our favorite video games, Fortnite! Drop into the Zoom call and we'll set up multiplayer squads - if you're a beginner, we'll show you the ropes."
-        start: 9:00 PM ET
-        end: 11:00 PM ET
-  - day: Friday
-    date: Apr 17th
-    events:
-      - name: PKT Game Night
-        description: "You, us, and the Jackbox Party Pack. Kick back with the brothers of Phi Kappa Theta for some party games and a good time!"
+      - name: <a href="http://peckbot.com/open-house" target="_blank">PKT Open House</a>
+        description: "Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!."
+        start: 3:00 PM ET
+        end: 4:00 PM ET
+      - name: <a href="https://peckbot.com/family-feud" target="_blank">PKT Family Feud Tournament</a>
+        description: "Bringing back one of our favorite Fall events, bigger and better than ever before - Family Feud Night! Do you have what it takes to emerge a champion?"
         start: 8:00 PM ET
         end: 10:00 PM ET
   - day: Saturday
-    date: Apr 18th
+    date: Apr 17th
     events:
-      - name: PKT Open House
-        description: "Wondering what life at MIT is like? Come meet the brothers of Phi Kappa Theta and learn more about anything you're curious about, or ask us about our neighbor, Julian Edelman."
-        start: 11:00 AM ET
-        end: 1:00 PM ET
-      - name: PKT Poker Tournament
+      - name: <a href="https://peckbot.com/brunch" target="_blank">PKT Brunch</a>
+        description: "Join the brothers of PKT for a refreshing morning coffee to charge up for the day!"
+        start: 10:00 AM ET
+        end: 11:30 PM ET
+      - name: <a href="https://peckbot.com/poker" target="_blank">PKT Poker</a>
         description: "Our signature CPW event! Beginners and sharks alike are welcome; we'll teach you how to play or let you get right to it. Prizes: gaming monitor, Bluetooth speaker, Echo dot."
-        start: 6:45 PM ET
-        end: 8:30 PM ET
+        start: 8:00 PM ET
+        end: 10:00 PM ET
 ---
 <p class="text-center"><strong>Sign up</strong> for our events today at <a href="https://peck.bot/cpw" target="_blank">peck.bot/cpw</a>!<br>We'll send you links to the Zoom call and game before each event is set to start.</p>
 
