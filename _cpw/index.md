@@ -5,13 +5,13 @@ layout: schedule
 position: 0
 permalink: /cpw/
 schedule:
-  - day: Friday
+  - day: Thursday
     date: Apr 16th
     events:
       - name: Where we dropping? (Fortnite)
-        description: "Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!"
-        start: 3:00 PM ET
-        end: 4:00 PM ET
+        description: "Join the brothers to play one of our favorite video games, Fortnite! Drop into the Zoom call and we'll set up multiplayer squads - if you're a beginner, we'll show you the ropes."
+        start: 9:00 PM ET
+        end: 11:00 PM ET
   - day: Friday
     date: Apr 17th
     events:
