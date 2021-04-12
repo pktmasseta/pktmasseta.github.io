@@ -8,7 +8,7 @@ schedule:
   - day: Friday
     date: Apr 16th
     events:
-      - name: <a href="http://peckbot.com/open-house" target="_blank">PKT Open House</a>
+      - name: <a href="https://peckbot.com/open-house" target="_blank">PKT Open House</a>
         description: "Meet the brothers, learn more about our community, and ask us anything you're curious about at the PKT Open House!."
         start: 3:00 PM ET
         end: 4:00 PM ET
