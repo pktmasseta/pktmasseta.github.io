@@ -128,11 +128,12 @@ Undergraduate Academics:
 Postgraduate Academics:
 
 - MIT EECS (6-2/3/7/P MEng, PhD)
-- Stanford Engineering (PhD)
-- Stanford Medical School (MD, PhD)
 - MIT Sloan School of Management (MBA, MFin)
-- Harvard Medical School (MD)
+- Stanford Engineering (MS, PhD)
+- Stanford Medical School (MD, PhD)
+- Harvard Medical School (MD, PhD)
 - Harvard Business School (MBA)
+- Cornell Engineering (PhD)
 - USC Gould School of Law (JD)
 
 ###### Athletics
