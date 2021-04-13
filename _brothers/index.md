@@ -105,6 +105,7 @@ Undergraduate Academics:
 <ul class=double>
     <li>Course 2 (Mechanical Engineering)</li>
     <li>Course 3 (Materials Science and Engineering)</li>
+    <li>Course 4 (Architecture)</li>
     <li>Course 5 (Chemistry)</li>
     <li>Course 6 (EECS)</li>
     <li>Course 7 (Biology)</li>
@@ -121,6 +122,7 @@ Undergraduate Academics:
     <li>Research Laboratory of Electronics</li>
     <li>Sloan School of Management</li>
     <li>Lincoln Lab</li>
+    <li>MIT Operations Research Center</li>
 </ul>
 
 Postgraduate Academics:
