@@ -35,6 +35,3 @@ schedule:
 <p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a>!</p>
 
 <!-- <p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during CPW!</p> -->
-
-<!-- Meta tags for social media -->
-<meta property="og:title" content="CP* Schedule | MIT Phi Kappa Theta">
