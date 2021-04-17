@@ -22,7 +22,7 @@ schedule:
       - name: <a href="https://peckbot.com/brunch" target="_blank">PKT Brunch</a>
         description: "Join the brothers of PKT for a refreshing morning coffee to charge up for the day!"
         start: 10:00 AM ET
-        end: 11:30 PM ET
+        end: 11:30 AM ET
       - name: <a href="https://peckbot.com/poker" target="_blank">PKT Poker Tournament</a>
         description: "Our signature CPW event! Beginners and sharks alike are welcome; we'll teach you how to play or let you get right to it. Prizes: gaming monitor, Bluetooth speaker, Echo dot."
         start: 8:00 PM ET
