@@ -65,15 +65,6 @@ brothers:
     nickname: Mattyice
     blurb: >
       Sir Mattyice is a humble being from Philly who tends to meander around Harvard’s campus in search of business people to connect with. As a man who hopes to work on Wall Street one day, Sir Mattyice will soon come to the realization that finance is not the way.  A man, full of potential, should not allow himself to become a finance man. IT IS NOT THE WAY! Yoda once said that the way is not finance but indeed the way is squash. Yes, Squash, the plant, not Squash the sport. Sir Mattyice’s true potential is growing squashes. At MIT, Sir Mattyice will learn to grow the best squashes in the world!
-  - initials: MXS
-    name: Mohammed Shafim
-    activities: Fencing, Muslim Student Association, Microbiome Club, singing your soul up to the heavens above
-    major: Electrical Engineering and Computer Science (6-2)
-    hometown: Cambridge, MA
-    quote: OOGA-CHAKA OOGA-OOGA
-    nickname: Shafim
-    blurb: >
-      Shafim, Shafim, Shafim. Fencing king with fantastic, serenading swing. A local of Cambridge, Massachusetts himself, some say that he was born performing chaotic harmonies whilst on the top of the Great Dome so that anyone within a 5-mile radius could hear his fearless voice. Others believe that he came out of the womb wielding a 3-feet saber, ready to slash through his enemies in immaculate en garde position. Today, he blesses MIT's campus with his courageous, brave, and confident presence, whether it be by carrying literally everyone through serenades, effortlessly performing multiple solo pieces in front of dozens at a time, or counter-parrying anyone that dares get in his way towards success and happiness. Meet him in person, and you'll quickly realize that his down-to-earth and friendly personality makes you feel right at home. His loyalty to his personal values will bring respect that can withstand a thousand dimensions of code, and his ease and kindness will easily melt all your worries away.
   - initials: RCO
     name: Ruben Castro Ornelas
     activities: MIT StartLabs, Bachata/Swing Dancing, Edgerton Center, Media Lab Center for Bits and Atoms, Wrecking noobs on Fortnite
