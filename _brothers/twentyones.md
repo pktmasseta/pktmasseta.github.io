@@ -48,7 +48,7 @@ brothers:
     name: Alex Encinas
     activities: Running, UROP
     major: Course 2 - Mechanical Engineering
-    hometown: Woodlands, TX
+    hometown: Guadalajara, Mexico
     quote: F*ck you, Gabe.
     nickname: El Presidente
     blurb: >
