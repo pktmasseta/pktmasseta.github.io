@@ -63,7 +63,7 @@ schedule:
         start: 12:00pm
         end: 2:00pm
 ---
-<p class="text-center">Sign up</strong> for our mailing list today at <strong><a href="https://peckbot.com/interest" target="_blank">peckbot.com/interest</a></strong>!</p>
+<p class="text-center"><strong>Sign up</strong> for our mailing list today at <strong><a href="https://peckbot.com/interest" target="_blank">peckbot.com/interest</a></strong>!</p>
 
 <p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during Rush!</p>
 
