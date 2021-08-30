@@ -9,7 +9,7 @@ schedule:
     date: Sept 4th
     events:
       - name: <a href="https://sched.co/m8yO" target="_blank">BBQ & House Tours</a>
-        description: Meet the brothers and learn more about our community at the PKT BBQ and House Tours event!
+        description: Meet the Brothers & learn more about our community at the PKT BBQ & House Tours event!
         start: 1:00pm
         end: 3:00pm
       - name: <a href="https://sched.co/m8yR" target="_blank">Soccer & Capture the Flag</a>
@@ -17,15 +17,15 @@ schedule:
         start: 2:00pm
         end: 5:00pm
       - name: <a href="https://sched.co/m8yU" target="_blank">PKT's FIFA & Smash Tournament</a>
-        description: Come and compete for prizes at our annaul FIFA and Super Smash Tournament!
+        description: Compete for prizes at our annual FIFA & Super Smash Tournament!
         start: 4:00pm
         end: 6:00pm
       - name: <a href="https://sched.co/m8yX" target="_blank">PKT's Hot Dog Eating Competition</a>
-        description: Join the brothers of PKT with some hotdogs and milkshakes while we see who is this years PKT Hot Dog Eating Champion!
+        description: Join the Brothers of PKT for hotdogs and milkshakes to see who is this year's PKT Hot Dog Eating Champion!
         start: 5:30pm
         end: 8:00pm
       - name: <a href="https://sched.co/m8ya" target="_blank">Late Night Desserts</a>
-        description: Join the Brothers of PKT for some late night desserts
+        description: Join the Brothers of PKT for some late night desserts to close out the first day of rush
         start: 11:00pm
         end: 1:00am
   - day: Sunday
@@ -36,7 +36,7 @@ schedule:
         start: 11:00am
         end: 3:00pm
       - name: <a href="https://sched.co/m8yg" target="_blank">Grillin' and Chillin'</a>
-        description: Get ready to indulge in the most appetizing hot dogs you have ever seen in PKT's Grillin' and Chillin' event
+        description: Great hotdogs, burgers, and a good time, all at Grillin' & Chillin' with PKT
         start: 12:00pm
         end: 2:00pm
       - name: <a href="https://sched.co/m8yj" target="_blank">Ultimate Frisbee</a>
@@ -52,14 +52,14 @@ schedule:
         start: 6:00pm
         end: 7:30pm
       - name: <a href="https://sched.co/m8ys" target="_blank">PKT Poker Tournament</a>
-        description: Want to play some poker and potentially win a computer monitor and more? Join the brothers of Phi Kappa Theta at our annual Poker Tournament.
+        description: Join the Brothers of Phi Kappa Theta at our signature annual rush Poker Tournament! Prizes include a computer monitor and more. All skill levels welcome; we'll teach you how to play!
         start: 7:30pm
         end: 11:30pm
   - day: Monday
     date: Sept 6th
     events:
       - name: <a href="https://sched.co/m8yv" target="_blank">Trampoline Dodgeball & SkyZone</a>
-        description: Join the brothers of PKT at Skyzone for some Trampoline Dodgeball 
+        description: Ready to jump into some Dodgeball at SkyZone? Join the Brothers of PKT for what is sure to be an exciting time
         start: 12:00pm
         end: 2:00pm
 ---
