@@ -24,7 +24,7 @@ brothers:
       From the heart of mother Russia itself there comes a beast. It is not an avalanche, but as white as the snow that makes one up. Comrades, see now what has arrived: Jake P Yasonik! Killer of kilometers, pillager of pianos, ravager of rooks, and a born computational biologist, Jake is always down to have a BLAST. An academic powerhouse, when he’s not in the lab you can find him case-prepping at MCG. Yet despite his many successes, anyone who gets to know Jake will see that his is one of the humble, kind brothers anyone could ask for. One of the few brothers who has managed to avoid the siren’s song of SWE and Sloan, Jake has plans to actually improve the human condition through biotechnology and drug discovery. Having already secured a Big Pharma™ internship as a Freshman, we can be sure it won’t be long before his biotech inventions capture market share just as effectively as he captured all our hearts here at PKT.
   - initials: EHV
     name: Evan Vogelbaum
-    activities: CrossFit, Reading, Math/Computer Science projects, more CrossFit, trying new foods, Sloan Business Club
+    activities: CrossFit, Reading, Math/Computer Science projects, more CrossFit, trying new foods, Sloan Business Club (SBC)
     major: Mathematics (18)
     hometown: Moreland Hills, OH
     quote: Say again?
@@ -161,9 +161,9 @@ brothers:
       At MIT, there are smart people, really smart people, and absolutely smart people. Well, Nithin cannot be classified as any of those because he is an ABSOLUTE ULTRA SUPER LEGENDARY GENIUS. In high school, Nithin focused on conducting research and participating in the Olympiad in the biology field. Coming into MIT, Nithin also discovered his passion for entrepreneurship. He is a co-founder, and yes a freaking CO-FOUNDER, of Van Heron Labs. But set aside all these amazing attributes; seeing Nithin has presented everyone with a surprise—his height. Everyone at PKT thought Nithin was shorter than he is based on how he appeared on Zoom, but boom, he is taller than whatever you could imagine. The most important trait of Nithin, however, is his friendliness. His charming personality with his great jokes brings smiles to everyone at PKT. He is THE GUY you want to be friends with.
   - initials: DYK
     name: Daniel Kim
-    activities:
-    major:
-    hometown:
+    activities: Sloan Business Club (SBC), Global Platinum Securities (GPS), MIT StartLabs, UROP, Soccer
+    major: Computer Science, Economics, and Data Science (6-14), Finance (15-3)
+    hometown: Annandale, VA
     quote:
     nickname:
     blurb: >
