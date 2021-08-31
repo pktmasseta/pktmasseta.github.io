@@ -71,7 +71,7 @@ brothers:
   - initials: SVS
     name: Shreyas Srinivasan
     activities: Pokerbots, MIT Consulting Group (MCG), Hindu Students Council (HSC)
-    major: Mathematics with Computer Science (18C)
+    major: Mathematics with Computer Science (18C), Finance (15-3)
     hometown: Plainsboro, NJ
     quote: Have you heard this song yet? (No, you have not.)
     nickname: DJ Shreyway
