@@ -24,22 +24,22 @@ brothers:
       From the heart of mother Russia itself there comes a beast. It is not an avalanche, but as white as the snow that makes one up. Comrades, see now what has arrived: Jake P Yasonik! Killer of kilometers, pillager of pianos, ravager of rooks, and a born computational biologist, Jake is always down to have a BLAST. An academic powerhouse, when he’s not in the lab you can find him case-prepping at MCG. Yet despite his many successes, anyone who gets to know Jake will see that his is one of the humble, kind brothers anyone could ask for. One of the few brothers who has managed to avoid the siren’s song of SWE and Sloan, Jake has plans to actually improve the human condition through biotechnology and drug discovery. Having already secured a Big Pharma™ internship as a Freshman, we can be sure it won’t be long before his biotech inventions capture market share just as effectively as he captured all our hearts here at PKT.
   - initials: EHV
     name: Evan Vogelbaum
-    activities: 
-    major:
-    hometown:
-    quote:
-    nickname:
+    activities: CrossFit, Reading, Math/Computer Science projects, more CrossFit, trying new foods, Sloan Business Club
+    major: Mathematics (18)
+    hometown: Moreland Hills, OH
+    quote: Say again?
+    nickname: Effervescent Evan
     blurb: >
-      Placeholder
+      Being born in an affluent suburb of Cleveland, Evan was exposed to finance at an early age. However, he decided to enjoy his childhood instead of delving into the dark arts. Attending the prestigious Exeter academy for secondary school, he took leaps and bounds in his academics. Unfortunately for the curriculum specialists at Exeter, Evan conquered their designed curricula with ease. Not sated, he decided to accept an offer to RSI. There, he built mathematical models to make drug recommendations that is now the backbone of Pfizer’s machine learning research department. The thing is, research was beginning to bore Evan. It was too solitary, whist he was a man of incredible social aptitude. It was at this point Mr. Vogelbaum decided to pivot back to his humble beginnings, taking an interest in investment. Being hired as head of quantitative research without an interview, he had found his calling – creating liquidity in the market via effective market making. Oh, and he also likes CrossFit.
   - initials: RBX
     name: Ronald Xu
-    activities:
-    major:
-    hometown:
-    quote:
-    nickname:
+    activities: Basketball, piano, MIT Consulting Group (MCG), Coding
+    major: Computer Science and Engineering (6-3)
+    hometown: Oviedo, FL
+    quote: My Linkedin is longer...
+    nickname: Ronald-inho
     blurb: >
-      Placeholder
+      The great city of Gainesville, Florida, is home to one of the greatest minds of our generation. The dexterous Ronald enjoys the inferior sport of Basketball. He is an avid fan of using his fingers, so he either codes or plays the piano most of the time. Sir Ronald also enjoys contributing to society, mainly through the Eagle scouts. He participated in many community service projects such as building gardens, scouting for food, and more. Despite his young age, his Linkedin is full of programming positions. If you wish to explore the depths of his Linkedin, at least two endorsements are expected.
   - initials: RXG
     name: Raz Gaon
     activities:
@@ -51,13 +51,15 @@ brothers:
       Placeholder
   - initials: GXR
     name: Gustavo Ramirez
-    activities:
-    major:
-    hometown:
-    quote:
+    activities: Startups, Rocket Team, Sandbox
+    major: Aerospace Engineering (16)
+    hometown: El Paso, TX
+    quote: People over PSETs!
     nickname:
     blurb: >
-      Placeholder
+      No matter the day, time, or event, Gustavo emerges neat and dapper. A silver watch. Gold necklace. And always, a button-up shirt.
+
+      After spending time with him, you’ll realize that his style is impeccable and unwavering. His ambitions are just as sharp. Gustavo is driven by impact. Outside of classes, you will find him working on revolutionary sandbox and startup projects. You’ll see him build rockets or solve problems like excess space debris. Academics aren’t everything though. There’s never shortage of adrenaline or excitement. Stick around, and you’re guaranteed to witness him wave his hands through the sun roof of a speeding car while blasting Pursuit of Happiness by Kid Cudi. Or you’ll find him ski diving and parasailing. You’ll see spontaneous trips to Hawaii and NYC. Basically, there’s a fine line between work and fun, which Gustavo’s famous catchphrase captures beautifully… “People over PSETs!” 
   - initials: GLY
     name: Franco Yee
     activities:
