@@ -164,10 +164,10 @@ brothers:
     activities: Sloan Business Club (SBC), Global Platinum Securities (GPS), MIT StartLabs, UROP, Soccer
     major: Computer Science, Economics, and Data Science (6-14), Finance (15-3)
     hometown: Annandale, VA
-    quote:
+    quote: Ummmmm
     nickname:
     blurb: >
-      Placeholder
+      With a smile that could melt a snowman, Daniel Kim is a brother who can touch your heart and your mind. He’s a soccer playing, Sloan enrolled charisma machine who is instantly loved by everyone he meets. Born in Seoul in 2001, Daniel quickly realized that the small nation of South Korea would be too easy to dominate, and instead chose to move stateside to Virginia in 2015. As internationals often do, Daniel lapped the field in soccer skill while playing varsity in high school, and showcased his academic prowess by building FTC winning robots too. At MIT he studies mostly at the Sloan school of business to gain mastery over the complexities of financial markets, but opposed to the standard goal of wanting to make a ton of money and then move to Cancun, Daniel’s goal is to use his knowledge to make the maximum number of people in this world happy.  Daniel’s capacity for empathy is almost unmatched, and his love for his fellow man is what makes Daniel a cornerstone of our PKT brotherhood.
   - initials: SCK
     name: Subhash Kantamneni
     activities: MIT Ultimate Frisbee, Sloan Business Club (SBC), Poker, Basketball, Reading
