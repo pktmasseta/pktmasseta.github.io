@@ -62,13 +62,13 @@ brothers:
       After spending time with him, you’ll realize that his style is impeccable and unwavering. His ambitions are just as sharp. Gustavo is driven by impact. Outside of classes, you will find him working on revolutionary sandbox and startup projects. You’ll see him build rockets or solve problems like excess space debris. Academics aren’t everything though. There’s never shortage of adrenaline or excitement. Stick around, and you’re guaranteed to witness him wave his hands through the sun roof of a speeding car while blasting Pursuit of Happiness by Kid Cudi. Or you’ll find him ski diving and parasailing. You’ll see spontaneous trips to Hawaii and NYC. Basically, there’s a fine line between work and fun, which Gustavo’s famous catchphrase captures beautifully… “People over PSETs!” 
   - initials: GLY
     name: Franco Yee
-    activities:
-    major:
-    hometown:
+    activities: UROP, NEET Living Machines
+    major: Biological Engineering (20)
+    hometown: Boston, MA
     quote:
     nickname:
     blurb: >
-      Placeholder
+      You can find him playing guitar, snowboarding, or taking photos. Or maybe, he’s standing there with skittles or a Red Bull in-hand. Franco Yee is a PKT '24 majoring in Biological Engineering. He is a Boston native who’s lived across the Charles River his entire life. His mission: travel. Everywhere! The past summer, Franco hit the Hawaiian Islands, LA, San Francisco, Yosemite, Vegas, and Nashville while working virtually. Next on the list: travel or maybe work overseas. He joined MIT to delve into biotech. Growing up with allergies inspired him to develop treatments… maybe even a cure.
   - initials: ISC
     name: Itamar Chinn
     activities:
