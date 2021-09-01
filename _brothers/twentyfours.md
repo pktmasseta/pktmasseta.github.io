@@ -170,11 +170,11 @@ brothers:
       Placeholder
   - initials: SCK
     name: Subhash Kantamneni
-    activities:
-    major:
-    hometown:
-    quote:
-    nickname:
+    activities: MIT Ultimate Frisbee, Sloan Business Club (SBC), Poker, Basketball, Reading
+    major: Physics (8), Electrical Engineering and Computer Science (6-2)
+    hometown: Jupiter, FL
+    quote: I hunt for the sport
+    nickname: Subhu
     blurb: >
-      Placeholder
+      Subhash optimizes for cool, and he’s reached a global maximum. To his own frustration, he is fascinated with abstract physics and intangible interstellar events. Yet, the man is on a mission, a space mission that is. He is destined to make an impact in bringing our civilization to Mars and beyond. He doesn’t have his head in the clouds (or stars), though, Subhi is one of the most down to earth people you’ll meet. I guess after reading and introspecting over hundreds of memoirs, Subhash has learned how to live. The man thinks so much he could be a Rodin sculpture (his chiseled features don’t hurt either). He has an uncanny memory for people—picking up conversations weeks or months later without forgetting the details (one of his many skills as a master conversationalist). This happens for a reason—his heart of gold. Subhash genuinely cares about the people he meets and talks to. We are beyond lucky to have him in our brotherhood and family.
 ---
