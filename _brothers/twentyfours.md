@@ -116,13 +116,13 @@ brothers:
       Irura Nyiha, a seductive man with stylish hair, gives off an aura of superiority and sophistication. However, as soon as you approach him, his warm and contagious smiles will melt the first impression away, along with any barriers between you and the man. It will not be long before you realize you are smiling with him. The man of Kenya, aka T’Challa, has realized at an early age that Africa is too small of a world for him to express his intelligence and talents. Soon after intellectually conquering his homeland of Africa, he took over the world. Too bored of the world, he now is looking beyond this planet, preparing to conquer the universe, secretly hiding his identity as a Physics student interested in Astronomy and Astrophysics. You will often see him walking around Boston by himself, imaging the near future of conquering the universe and looking for an opportunity to communicate with the aliens. In his free time with normal humans, you can catch him watching Game of Thrones and hydrating himself with seltzers after an intense game of football. You know he is a true Arsenal fan when he calls their sport “football.”
   - initials: TWK
     name: Terry Kim
-    activities:
-    major:
-    hometown:
+    activities: Ethical Technology Initiative, MIT FLIPOP, Working on his education startup, MIT Age Lab, Golf/Soccer/Outdoorsing
+    major: Computer Science, Economics, and Data Science (6-14)
+    hometown: Seoul, Korea and Los Angeles, CA
     quote:
     nickname:
     blurb: >
-      Placeholder
+      The stories regarding the origins of fellow brother Terry Kim are varied and intriguing. Consensus in upper academic circles now agree that Terry had humble beginnings, born in the 4th of 5th centuries to a family which placed uncompromising emphasis on his education and character. By his 20s, he had become a a Grand Master among the Hwarang (or the Flowering Knights) on the Korean Peninsula. With an unwavering moral compass, Terry sought to make his domain a better and just place. Through his influence, Korea and the surrounding areas became a land of prosperity, education, and happiness. In his free time, Terry created a sport that we now call golf, propelling small, circular rocks through the air in precise, elegant strokes. What comes next in his story is unclear. Some say he went into a deep state of meditation to understand human pain and suffering. Others say a botched golf putt forced Terry to go into hiding out of embarrassment. A final theory proposes he retreated into his study, devising a plan to guarantee every child who lived in his kingdom an upbringing equal to his. Centuries passed and finally, Terry reemerged, finding a new home with PKT and brothers who shared his mission for fairness and justice. We as a brotherhood are honored to have such a legendary figure amongst our ranks.
   - initials: DRD
     name: Dylan Dong
     activities:
