@@ -62,6 +62,10 @@ schedule:
         description: Ready to jump into some Dodgeball at SkyZone? Join the Brothers of PKT for what is sure to be an exciting time
         start: 12:00pm
         end: 2:00pm
+      - name: <a href="https://sched.co/m8yy" target="_blank">Back Bay & Baby Back Ribs</a>
+        description: Ribs in the Back Bay with the brothers of Phi Kappa Theta
+        start: 7:00pm
+        end: 9:00pm
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <strong><a href="https://peckbot.com/interest" target="_blank">peckbot.com/interest</a></strong>!</p>
 
