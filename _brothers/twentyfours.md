@@ -42,13 +42,13 @@ brothers:
       The great city of Gainesville, Florida, is home to one of the greatest minds of our generation. The dexterous Ronald enjoys the inferior sport of Basketball. He is an avid fan of using his fingers, so he either codes or plays the piano most of the time. Sir Ronald also enjoys contributing to society, mainly through the Eagle scouts. He participated in many community service projects such as building gardens, scouting for food, and more. Despite his young age, his Linkedin is full of programming positions. If you wish to explore the depths of his Linkedin, at least two endorsements are expected.
   - initials: RXG
     name: Raz Gaon
-    activities:
-    major:
-    hometown:
-    quote:
+    activities: Mixed Martial Arts, Soccer, Snowboarding, OneWheeling, FIFA
+    major: Computer Science and Engineering (6-3)
+    hometown: Atlanta, GA and Hod Hasharon, Israel
+    quote: Has a penchant for hamburgers
     nickname:
     blurb: >
-      Placeholder
+      Whoosh! No, it is not the Flash nor a wild Cheetah, but a force far more majestic and deserving of a comic book: Brother Raz Gaon atop of his Onewheel zooming through the streets of Boston and Cambridge. Although a master of Mixed Martial Arts, black belt holder, and ex-military commander, his unfaltering discipline make his lightning-fast jab the least deadly thing about him. It is his striking good looks and charming personality that will have you, your girlfriend, your mom, and your girlfriend’s mom falling to the ground. A walking thesaurus, speaking to Raz for 5 minutes will expand your lexicon more than any CI-H would. It is impossible to have an uninteresting conversation with Raz, as is sharing a non-scrumptious meal.
   - initials: GXR
     name: Gustavo Ramirez
     activities: Startups, Rocket Team, Sandbox
