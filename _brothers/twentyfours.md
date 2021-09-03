@@ -77,7 +77,7 @@ brothers:
     quote:
     nickname:
     blurb: >
-      Placeholder
+      Bio under construction.
   - initials: AHQ
     name: Alex Quach
     activities:
@@ -86,7 +86,7 @@ brothers:
     quote:
     nickname:
     blurb: >
-      Placeholder
+      Bio under construction.
   - initials: JJY
     name: John Yang
     activities: Tech Literacy Director at The Connected Foundation, AI Research intern at Genuity Science, UROP at MIT Center for Brains, Minds, and Machines
@@ -131,7 +131,7 @@ brothers:
     quote:
     nickname:
     blurb: >
-      Placeholder
+      Bio under construction.
   - initials: NXD
     name: Neil Deshmukh
     activities:
@@ -140,7 +140,7 @@ brothers:
     quote:
     nickname:
     blurb: >
-      Placeholder
+      Bio under construction.
   - initials: DAK
     name: David Koplow
     activities:
@@ -149,7 +149,7 @@ brothers:
     quote:
     nickname:
     blurb: >
-      Placeholder
+      Bio under construction.
   - initials: NXP
     name: Nithin Parsan
     activities: MIT Biotechnology Group, Science Olympiad, Microbiome Club, MIT StartLabs
