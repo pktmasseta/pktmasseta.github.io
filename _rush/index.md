@@ -69,6 +69,6 @@ schedule:
 ---
 <p class="text-center"><strong>Sign up</strong> for our mailing list today at <strong><a href="https://peckbot.com/interest" target="_blank">peckbot.com/interest</a></strong>!</p>
 
-<p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during Rush!</p>
+<p class="text-center">Call <strong>617-PKT-8030</strong> for a ride to our house during Rush!</p>
 
 <p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peck.bot/instagram" target="_blank">@pkt.mit</a> for more on who we are, and email pkt-rush [at] mit [dot] edu with any questions.
