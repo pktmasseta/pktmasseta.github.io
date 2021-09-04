@@ -71,4 +71,4 @@ schedule:
 
 <p class="text-center">Call <strong>617-PKT-8030</strong> for a ride to our house during Rush!</p>
 
-<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peck.bot/instagram" target="_blank">@pkt.mit</a> for more on who we are, and email pkt-rush [at] mit [dot] edu with any questions.
+<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a> for more on who we are, and email pkt-rush [at] mit [dot] edu with any questions.
