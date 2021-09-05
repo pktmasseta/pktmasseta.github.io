@@ -41,7 +41,7 @@ schedule:
         end: 2:00pm
       - name: <a href="https://sched.co/m8yj" target="_blank">Ultimate Frisbee</a>
         description: Join the Brothers of PKT in a game of ultimate frisbee!
-        start: 1:00pm
+        start: 2:00pm
         end: 5:00pm
       - name: <a href="https://sched.co/m8ym" target="_blank">House Tours</a>
         description: Haven't seen the House yet? Call 617-PKT-8030 and get to know the brothers of PKT
@@ -54,7 +54,7 @@ schedule:
       - name: <a href="https://sched.co/m8ys" target="_blank">PKT Poker Tournament</a>
         description: Join the Brothers of Phi Kappa Theta at our signature annual rush Poker Tournament! Prizes include a computer monitor and more. All skill levels welcome; we'll teach you how to play!
         start: 7:30pm
-        end: 11:30pm
+        end: 10:45pm
   - day: Monday
     date: Sept 6th
     events:
