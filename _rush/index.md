@@ -44,7 +44,7 @@ schedule:
         start: 1:00pm
         end: 5:00pm
       - name: <a href="https://sched.co/m8ym" target="_blank">House Tours</a>
-        description: Haven't seen the House yet? Call 229-PKT-RIDE and get to know the brothers of PKT
+        description: Haven't seen the House yet? Call 617-PKT-8030 and get to know the brothers of PKT
         start: 3:00pm
         end: 6:00pm
       - name: <a href="https://sched.co/m8yp">Steak Dinner</a>
