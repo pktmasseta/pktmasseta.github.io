@@ -27,10 +27,10 @@ brothers:
     activities: Hacking/MakeMIT, Nuclear Reactors in the basement, Concerts and having a good time.
     major: 16- Aerospace
     hometown: Hudson Ohio
-    quote: I just want to get to know her a better
-    nickname: Y Fever
+    quote:
+    nickname:
     blurb: >
-      Will exemplifies a lot of superlatives. All good ones. Just to name some, he is, without doubt, the buffest, the tallest annnnnd thehandsome out of all the white guys in his pledge class. See a good looking white dude, yep, that could be Will Jack. Actually jokes. Will is in fact very hard to spot. To find him, look for big crowds of Asian girls and you just might find him jamming in the middle amongst his fangirls. In his spare time, Will can be found studying physics and building things. Like once, he built his basement into a nuclear reactor. Pretty sure he can also built a nuclear reactor into a basement. Or two. So yeah, if you are not a dude, you might find yourself naturally gravitating towards this young Ohio lad. But don't worry, it's just physics taking its course.
+      Bio under construction.
   - initials: ALM
     name: Aaron Morris
     activities: UAV, Band/Music
