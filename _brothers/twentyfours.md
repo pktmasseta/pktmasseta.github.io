@@ -61,12 +61,12 @@ brothers:
 
       After spending time with him, you’ll realize that his style is impeccable and unwavering. His ambitions are just as sharp. Gustavo is driven by impact. Outside of classes, you will find him working on revolutionary sandbox and startup projects. You’ll see him build rockets or solve problems like excess space debris. Academics aren’t everything though. There’s never shortage of adrenaline or excitement. Stick around, and you’re guaranteed to witness him wave his hands through the sun roof of a speeding car while blasting Pursuit of Happiness by Kid Cudi. Or you’ll find him ski diving and parasailing. You’ll see spontaneous trips to Hawaii and NYC. Basically, there’s a fine line between work and fun, which Gustavo’s famous catchphrase captures beautifully… “People over PSETs!” 
   - initials: GLY
-    name: Franco Yee
+    name: Gianfranco Yee
     activities: UROP, NEET Living Machines
     major: Biological Engineering (20)
     hometown: Boston, MA
     quote:
-    nickname:
+    nickname: Franco
     blurb: >
       You can find him playing guitar, snowboarding, or taking photos. Or maybe, he’s standing there with skittles or a Red Bull in-hand. Franco Yee is a PKT '24 majoring in Biological Engineering. He is a Boston native who’s lived across the Charles River his entire life. His mission: travel. Everywhere! The past summer, Franco hit the Hawaiian Islands, LA, San Francisco, Yosemite, Vegas, and Nashville while working virtually. Next on the list: travel or maybe work overseas. He joined MIT to delve into biotech. Growing up with allergies inspired him to develop treatments… maybe even a cure.
   - initials: ISC
@@ -96,7 +96,7 @@ brothers:
     nickname:
     blurb: >
       At first, John's combination of charm, charisma, looks, and smarts may be hard to believe. Not only is John a man dedicated to his copious academic interests, such as ML, statistical interference, and biotechnology, but he is also extremely devoted to being the world's greatest C tier chess player, hiking, and Olivia Rodrigo. At night, John works on expanding his vast cultural knowledge through reading and TV shows, with The Boys, Attack on Titan, and 30 Rock being amongst his favorites. Regardless of whether you may find him putting in countless hours into his research, or exploring the vast, barren lands of Iceland, John is someone you can count on to always be there for you.
-  - initials: GXA
+  - initials: GZA
     name: Gabriel Arruda
     activities: Brazilian Jiu Jitsu Blue Belt, Pokerbots, hiking, soccer, videogame enjoyer, MMA enthusiast
     major: Computer Science, Economics, and Data Science (6-14), Business Analytics (15-2)
@@ -115,12 +115,12 @@ brothers:
     blurb: >
       Irura Nyiha, a seductive man with stylish hair, gives off an aura of superiority and sophistication. However, as soon as you approach him, his warm and contagious smiles will melt the first impression away, along with any barriers between you and the man. It will not be long before you realize you are smiling with him. The man of Kenya, aka T’Challa, has realized at an early age that Africa is too small of a world for him to express his intelligence and talents. Soon after intellectually conquering his homeland of Africa, he took over the world. Too bored of the world, he now is looking beyond this planet, preparing to conquer the universe, secretly hiding his identity as a Physics student interested in Astronomy and Astrophysics. You will often see him walking around Boston by himself, imaging the near future of conquering the universe and looking for an opportunity to communicate with the aliens. In his free time with normal humans, you can catch him watching Game of Thrones and hydrating himself with seltzers after an intense game of football. You know he is a true Arsenal fan when he calls their sport “football.”
   - initials: TWK
-    name: Terry Kim
+    name: Tae Wook Kim
     activities: Ethical Technology Initiative, MIT FLIPOP, Working on his education startup, MIT Age Lab, Golf/Soccer/Outdoorsing
     major: Computer Science, Economics, and Data Science (6-14)
     hometown: Seoul, Korea and Los Angeles, CA
     quote:
-    nickname:
+    nickname: Terry
     blurb: >
       The stories regarding the origins of fellow brother Terry Kim are varied and intriguing. Consensus in upper academic circles now agree that Terry had humble beginnings, born in the 4th of 5th centuries to a family which placed uncompromising emphasis on his education and character. By his 20s, he had become a a Grand Master among the Hwarang (or the Flowering Knights) on the Korean Peninsula. With an unwavering moral compass, Terry sought to make his domain a better and just place. Through his influence, Korea and the surrounding areas became a land of prosperity, education, and happiness. In his free time, Terry created a sport that we now call golf, propelling small, circular rocks through the air in precise, elegant strokes. What comes next in his story is unclear. Some say he went into a deep state of meditation to understand human pain and suffering. Others say a botched golf putt forced Terry to go into hiding out of embarrassment. A final theory proposes he retreated into his study, devising a plan to guarantee every child who lived in his kingdom an upbringing equal to his. Centuries passed and finally, Terry reemerged, finding a new home with PKT and brothers who shared his mission for fairness and justice. We as a brotherhood are honored to have such a legendary figure amongst our ranks.
   - initials: DRD
@@ -160,12 +160,12 @@ brothers:
     blurb: >
       At MIT, there are smart people, really smart people, and absolutely smart people. Well, Nithin cannot be classified as any of those because he is an ABSOLUTE ULTRA SUPER LEGENDARY GENIUS. In high school, Nithin focused on conducting research and participating in the Olympiad in the biology field. Coming into MIT, Nithin also discovered his passion for entrepreneurship. He is a co-founder, and yes a freaking CO-FOUNDER, of Van Heron Labs. But set aside all these amazing attributes; seeing Nithin has presented everyone with a surprise—his height. Everyone at PKT thought Nithin was shorter than he is based on how he appeared on Zoom, but boom, he is taller than whatever you could imagine. The most important trait of Nithin, however, is his friendliness. His charming personality with his great jokes brings smiles to everyone at PKT. He is THE GUY you want to be friends with.
   - initials: DYK
-    name: Daniel Kim
+    name: Dong Young Kim
     activities: Sloan Business Club (SBC), Global Platinum Securities (GPS), MIT StartLabs, UROP, Soccer
     major: Computer Science, Economics, and Data Science (6-14), Finance (15-3)
     hometown: Annandale, VA
     quote: Ummmmm
-    nickname:
+    nickname: Daniel
     blurb: >
       With a smile that could melt a snowman, Daniel Kim is a brother who can touch your heart and your mind. He’s a soccer playing, Sloan enrolled charisma machine who is instantly loved by everyone he meets. Born in Seoul in 2001, Daniel quickly realized that the small nation of South Korea would be too easy to dominate, and instead chose to move stateside to Virginia in 2015. As internationals often do, Daniel lapped the field in soccer skill while playing varsity in high school, and showcased his academic prowess by building FTC winning robots too. At MIT he studies mostly at the Sloan school of business to gain mastery over the complexities of financial markets, but opposed to the standard goal of wanting to make a ton of money and then move to Cancun, Daniel’s goal is to use his knowledge to make the maximum number of people in this world happy.  Daniel’s capacity for empathy is almost unmatched, and his love for his fellow man is what makes Daniel a cornerstone of our PKT brotherhood.
   - initials: SCK
