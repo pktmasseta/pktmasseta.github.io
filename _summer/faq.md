@@ -42,5 +42,5 @@ Pricing depends on the room type you select. Please visit the [Rates](https://pk
 
 ###### Who can I contact for more info?
 
-Please contact PKT Vice President Andy Zhu at pkt-summerhousing@mit.edu.
+Please contact PKT Vice President Daniel Kim at pkt-summerhousing@mit.edu.
 
