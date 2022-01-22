@@ -22,7 +22,7 @@ Unfortunately, due to the architecture limitations of our house, it is not wheel
 
 ###### When is move in / move out day?
 
-Accepted residents can move in any time after 5:00PM on Sunday, May 26th, 2020 and must move out of the house by 5:00PM on Saturday, August 17th, 2020.  If you must move in on a date other than May 26th, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
+Accepted residents can move in any time after 5:00PM on Sunday, May 29th, 2022 and must move out of the house by 5:00PM on Saturday, August 18th, 2022 (subject to adjustments).  If you must move in on a date other than May 26th, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
 
 ###### Is there shorter period summer housing?
 
@@ -30,7 +30,7 @@ Any tenant may check out at any time during summer! However, we currently do not
 
 ###### Is parking available?
 
-Yes! Parking will be offered for $350 for the whole summer, while availability lasts. This is first come, first served, so apply for parking fast!
+Yes! Parking will be offered for $400 for the whole summer, while availability lasts. This is first come, first served, so apply for parking fast!
 
 ###### How can I connect to the internet at PKT?
 
