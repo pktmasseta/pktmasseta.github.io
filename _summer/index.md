@@ -6,7 +6,7 @@ subtitle: Staying With Phi Kappa Theta
 position: 1
 permalink: /summer/
 ---
-**Due to COVID-19, We are closely following COVID guidelines and any updates from MIT. As of now, we expect to have our Summer 2022 housing available.**
+**The [application/interest form](https://forms.gle/DhbPnvWhfckNgCrUA) for Summer 2022 housing is now open!**
 
 If you're looking for housing in the Boston/Cambridge area for the summer of 2022, consider the PKT house for an unforgettable experience! Located right in the heart of Back Bay, our house provides easy access to all of the best parts of a warm summer in Boston: walks down the beautiful Charles River Esplanade, strolls through Boston Commons on the way to Chinatown, trips to Fenway to see the Red Sox, and evenings at dinner with your fellow residents on a Friday night. Our house's location makes all of these fun activities just a short walk away.
 
