@@ -16,7 +16,7 @@ schedule:
     date: Apr 9th
     events:
       - name: "PKT Poker Tournament"
-        description: "Feeling lucky? Join us at PKT for our annual Poker Tournament! All are welcome, beginners or advanced."
+        description: "Feeling lucky? Join us at PKT for our annual Poker Tournament! All are welcome, beginners or advanced. We'll be giving out hundreds of dollars of prizes (monitors, speakers, and more). Call 617-PKT-8030 for a ride."
         start: 7:15 PM ET
         end: 9:45 PM ET
       - name: "Late Night Desserts"
