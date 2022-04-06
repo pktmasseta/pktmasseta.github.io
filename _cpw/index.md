@@ -1,5 +1,5 @@
 ---
-title: CP&ast; Schedule
+title: CPW Schedule
 subtitle: MIT Spring 2022
 layout: schedule
 position: 0
