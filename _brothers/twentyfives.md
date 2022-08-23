@@ -95,24 +95,6 @@ brothers:
     blurb: >
       It’s a bird! It’s a plane! No, it’s Taji zooming through the streets of Boston on his electric bike. As is common with MIT students, Taji is infatuated with computers. However, less common is his desire to actually benefit society, unlike SWEs and Sloanies. Thus, he is interested in human centered innovations, such as human centered AI, computer vision, computer graphics, and computer human interfaces. Taji is also an avid 3D modeler, capable of vividly designing your deepest, darkest fantasies. Nevertheless, Taji’s most important trait is his genuine and unwavering compassion for others. Taji is always looking for a way to help people and he inspires those around him to do the same. He truly makes everyone feel valued and we are lucky to have him as part of our family.
 
-  - initials: GZA
-    name: Gabriel Arruda
-    activities: Brazilian Jiu Jitsu Blue Belt, Pokerbots, hiking, soccer, videogame enjoyer, MMA enthusiast
-    major: Computer Science, Economics, and Data Science (6-14), Business Analytics (15-2)
-    hometown: Miami, FL
-    quote: LFGGGGG
-    nickname: Fun sized
-    blurb: >
-      Hailing from the swamps of Miami, Gabriel Arruda is a man of many talents. Our beloved short king is an excellent cook, an acute businessman, and despite his stature, a man who can easily overwhelm you with a single leg takedown, leaving you violated like McGregor at UFC 229. As expected of someone whose blood is that of the greatest footballing nation, he is an avid soccer enthusiast (which is why it is strange that he would elect to support Tottenham), and he has spent more hours mastering rainbow flicks on FIFA than he has studying. Nonetheless, Gabe is an excellent student, a funny companion, and a steadfast brother.
-  - initials: 
-    name: Irura Nyiha
-    activities: African Students Association, UROP
-    major: Physics (8)
-    hometown: Nairobi, Kenya
-    quote: Arsenal is better
-    nickname: T’Challa
-    blurb: >
-      Irura Nyiha, a seductive man with stylish hair, gives off an aura of superiority and sophistication. However, as soon as you approach him, his warm and contagious smiles will melt the first impression away, along with any barriers between you and the man. It will not be long before you realize you are smiling with him. The man of Kenya, aka T’Challa, has realized at an early age that Africa is too small of a world for him to express his intelligence and talents. Soon after intellectually conquering his homeland of Africa, he took over the world. Too bored of the world, he now is looking beyond this planet, preparing to conquer the universe, secretly hiding his identity as a Physics student interested in Astronomy and Astrophysics. You will often see him walking around Boston by himself, imaging the near future of conquering the universe and looking for an opportunity to communicate with the aliens. In his free time with normal humans, you can catch him watching Game of Thrones and hydrating himself with seltzers after an intense game of football. You know he is a true Arsenal fan when he calls their sport “football.”
   - initials: JCE
     name: Jalen Evans
     activities: 
