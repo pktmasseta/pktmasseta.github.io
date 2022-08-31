@@ -1,6 +1,6 @@
 ---
 title: Event Schedule
-subtitle: MIT Fall 2021
+subtitle: MIT Fall 2022
 layout: schedule
 position: 0
 permalink: /rush/
@@ -66,8 +66,20 @@ schedule:
         description: Join the brothers of PKT in Back Bay for baby back ribs and a good time. 
         start: 7:30pm
         end: 11:00pm
+      - name: <a href="https://sched.co/m8yy" target="_blank">Hot Pot at Hot Pot Buffet (Invite Only)</a>
+        description: Join the brothers of PKT for all-you-can-eat Hot Pot 
+        start: 11:0pm
+        end: 1:00am
+  - day: Tuesday
+    date: Sept 6th
+    events:
+      - name: <a href="https://sched.co/m8yv" target="_blank">Dinner at the House (Invite Only)</a>
+        description: Join us at the PKT House for homemade dinner!
+        start: 7:00pm
+        end: 10:00pm
+
 ---
-<p class="text-center"><strong>Sign up</strong> for our mailing list today at <strong><a href="https://peckbot.com/interest" target="_blank">peckbot.com/interest</a></strong>!</p>
+<p class="text-center"><strong>Sign up</strong> for our mailing list today at <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6rM7yLQCuTdOwNCDqoroL54bmxkyBW3-78GNE0gNPKHJAvA/viewform?usp=sf_link" target="_blank">peckbot.com/interest</a></strong>!</p>
 
 <p class="text-center">Call <strong>617-PKT-8030</strong> for a ride to our house during Rush!</p>
 
