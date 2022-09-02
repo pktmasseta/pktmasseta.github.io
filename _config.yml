@@ -61,18 +61,19 @@ defaults:
       layout: page
   - scope:
       path: ""
-      type: about
-    values:
-      collection: about
-      subtitle: About Us
-      banner: banner-outside
-  - scope:
-      path: ""
       type: rush
     values:
       collection: rush
       banner: rush
       subtitle: Rush Phi Kappa Theta
+  - scope:
+      path: ""
+      type: about
+    values:
+      collection: about
+      subtitle: About Us
+      banner: banner-outside
+  
   - scope:
       path: ""
       type: cpw
