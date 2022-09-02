@@ -20,14 +20,15 @@ permalink: pretty
 markdown: kramdown
 
 collections:
-  about:
-    output: true
-    friendly_name: About
-    position: 2
+  
   rush:
     output: true
     friendly_name: Rush
     position: 1
+  about:
+    output: true
+    friendly_name: About
+    position: 2
   cpw:
     output: true
     friendly_name: CPW
