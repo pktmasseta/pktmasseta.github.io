@@ -23,11 +23,11 @@ collections:
   about:
     output: true
     friendly_name: About
-    position: 1
+    position: 2
   rush:
     output: true
     friendly_name: Rush
-    position: 2
+    position: 1
   cpw:
     output: true
     friendly_name: CPW
@@ -73,7 +73,6 @@ defaults:
       collection: about
       subtitle: About Us
       banner: banner-outside
-  
   - scope:
       path: ""
       type: cpw
