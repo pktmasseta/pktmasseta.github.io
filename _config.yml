@@ -20,15 +20,18 @@ permalink: pretty
 markdown: kramdown
 
 collections:
-  
-  rush:
-    output: true
-    friendly_name: Rush
-    position: 1
   about:
     output: true
     friendly_name: About
+    position: 1
+  rush:
+    output: true
+    friendly_name: Rush
     position: 2
+  about:
+    output: true
+    friendly_name: About
+    position: 1
   cpw:
     output: true
     friendly_name: CPW
@@ -62,18 +65,19 @@ defaults:
       layout: page
   - scope:
       path: ""
-      type: rush
-    values:
-      collection: rush
-      banner: rush
-      subtitle: Rush Phi Kappa Theta
-  - scope:
-      path: ""
       type: about
     values:
       collection: about
       subtitle: About Us
       banner: banner-outside
+  - scope:
+      path: ""
+      type: rush
+    values:
+      collection: rush
+      banner: rush
+      subtitle: Rush Phi Kappa Theta
+  
   - scope:
       path: ""
       type: cpw
