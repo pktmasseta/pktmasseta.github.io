@@ -42,13 +42,13 @@ brothers:
       Bio under construction.
   - initials: EOO
     name: Eddy Ogola
-    activities: 
-    major: 
-    hometown: 
+    activities: Photography Club, MIT Sea Grant, UROP
+    major: 6-4
+    hometown: Nairobi, Kenya
     quote: 
-    nickname:
+    nickname: 
     blurb: >
-      Bio under construction.
+      Eddy is beautiful soul who appreciates life’s beautiful moments. He’s a gift given to PKT and MIT by way of Nairobi, Kenya. Eddy likes to take life slow — he stops and smells the roses — but not too slow. He has a photographer’s eye, a poets heart, and a scholar’s mind. Given his natural affinities, Eddy made a great PKT ’25  historian. I know what you’re thinking at this point, “yeah art literature blah blah blah this guy sounds pretty boring”, but don’t make that mistake — he’s also always ready to make some memories. And memories he does make. I mean you can imagine, a man this smooth, this sensual, this mysterious — watch your girl. And yeah art is great and all but it won’t make you much money (unless you’re buying it to evade taxes). Eddy, being as wise as he is, obviously knows this, which is what inspired his interest in entrepreneurship. And a few years down the line when Eddy is some mega-rich CEO he’ll be able to evade all the taxes he wants.
   - initials: MAP
     name: Max Peters
     activities: Soccer, Weightlifting, Baseball
@@ -66,7 +66,7 @@ brothers:
     quote:
     nickname: 
     blurb: >
-      Bio under construction.
+      Action courses through every fiber of Johnny Chen—pure, determined, crystal-clear action. You can see in his eyes: take one glance at his razor-sharp and commanding, yet intelligent eyes, and his chiseled jawline… it just melts your uncertainty away. Hailing from NYC, Johnny’s developed a knack for both the ambitious and the relaxed. He’s a mechanical mastermind, having built human-size robots while leading his high school robotics team and taken over MIT’s makerspaces, and a physical powerhouse, having been the MOST cut brother in our class. He’s worked at a startup on robots that can scale buildings, and hacks away on electric vehicles at MIT Motorsports. Despite all this action, Johnny maintains a calm, yet bold exterior — almost nothing fazes him. Perhaps this is because he balances his life by playing hard, too: you’ll find Johnny blasting some Carti on long car rides, weaving magic on the basketball courts, and burning through some Bloons TD 5 and anime shows. Johnny’s on the path to build some truly incredible things. He’s the bedrock of our class, and we’re proud to call him our brother.
   - initials: RPK
     name: Rohan Kanchana
     activities:
