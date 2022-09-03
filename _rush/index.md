@@ -33,7 +33,7 @@ schedule:
     events:
       - name: <a href="https://sched.co/1Akaw" target="_blank">Paintball with PKT</a>
         description: Duck! Dodge flying paintballs with the brothers of PKT and may the victor emerge spotless.
-        start: 9:30am
+        start: 11:00am
         end: 1:30pm
       - name: <a href="https://sched.co/1Akaz" target="_blank">Grillin' and Chillin'</a>
         description: Tired of being too hot and sexy? Join the brothers of PKT for breezy views of the Boston Skyline and our savory grilled meals! 
