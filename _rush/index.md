@@ -34,7 +34,7 @@ schedule:
       - name: <a href="https://sched.co/1AlMb" target="_blank">Paintball with PKT</a>
         description: Duck! Dodge flying paintballs with the brothers of PKT and may the victor emerge spotless.
         start: 11:00am
-        end: 1:30pm
+        end: 3:00pm
       - name: <a href="https://sched.co/1AlMe" target="_blank">Grillin' and Chillin'</a>
         description: Tired of being too hot and sexy? Join the brothers of PKT for breezy views of the Boston Skyline and our savory grilled meals! 
         start: 12:00pm
@@ -68,7 +68,7 @@ schedule:
         end: 11:00pm
       - name: <a href="https://sched.co/1AlMz" target="_blank">Hot Pot at Hot Pot Buffet (Invite Only)</a>
         description: Join the brothers of PKT for all-you-can-eat Hot Pot 
-        start: 11:0pm
+        start: 11:00pm
         end: 1:00am
   - day: Tuesday
     date: Sept 6th
