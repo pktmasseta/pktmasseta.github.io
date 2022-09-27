@@ -9,7 +9,7 @@ brothers:
     activities: Playing in Excel, creating financial models, networking with finance people, UROP, Squash
     major: Finance and Computer Science (15-3 & 6-3)
     hometown: Philadelphia, PA
-    quote: I am a weaboo, koreaboo, and am looking for a waifu
+    quote: 
     nickname: Mattyice
     blurb: >
       Sir Mattyice is a humble being from Philly who tends to meander around Harvard’s campus in search of business people to connect with. As a man who hopes to work on Wall Street one day, Sir Mattyice will soon come to the realization that finance is not the way.  A man, full of potential, should not allow himself to become a finance man. IT IS NOT THE WAY! Yoda once said that the way is not finance but indeed the way is squash. Yes, Squash, the plant, not Squash the sport. Sir Mattyice’s true potential is growing squashes. At MIT, Sir Mattyice will learn to grow the best squashes in the world!
