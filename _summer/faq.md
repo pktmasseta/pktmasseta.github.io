@@ -22,7 +22,7 @@ Unfortunately, due to the architecture limitations of our house, it is not wheel
 
 ###### When is move in / move out day?
 
-Accepted residents can move in any time after 5:00PM on Sunday, May 29th, 2022 and must move out of the house by 5:00PM on Saturday, August 20th, 2022.  If you must move in on a date other than May 29th, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
+Accepted residents can move in any time after 5:00PM on Sunday, June 4th, 2023 and must move out of the house by 5:00PM on Saturday, August 26th, 2023.  If you must move in on a date other than June 4th, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
 
 ###### Is there shorter period summer housing?
 
@@ -42,5 +42,5 @@ Pricing depends on the room type you select. Please visit the [Rates](https://pk
 
 ###### Who can I contact for more info?
 
-Please contact PKT Vice President Daniel Kim at pkt-summerhousing@mit.edu.
+Please contact PKT Vice President Jalen Evans at pkt-summerhousing@mit.edu.
 
