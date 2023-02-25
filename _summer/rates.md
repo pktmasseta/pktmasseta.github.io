@@ -22,4 +22,4 @@ These prices are per person and are total, all-inclusive prices for the entire s
 
 ###### Parking
 
-If you have a car that you would like to have access to this summer, we have four parking spots available for rent in our back lot.  The price for a spot is $400 and will cover parking for the entire summer housing period.
+If you have a car that you would like to have access to this summer, we have two parking spots available for rent in our back lot.  The price for a spot is $400 and will cover parking for the entire summer housing period.
