@@ -12,9 +12,6 @@ schedule:
         description: "Join us for a game of Ultimate Frisbee outside on a beautiful April afternoon. Beginners welcome!"
         start: 3:00 PM ET
         end: 4:00 PM ET
-  - day: Friday
-    date: Apr 8th
-    events:
       - name: "PKT Smash X Fifa Tournament"
         description: "Join us for a game of Ultimate Frisbee outside on a beautiful April afternoon. Beginners welcome!"
         start: 6:00 PM ET
