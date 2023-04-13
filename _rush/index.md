@@ -3,7 +3,7 @@ title: CPW Schedule
 subtitle: MIT Spring 2023
 layout: schedule
 position: 0
-permalink: /cpw/
+permalink: /rush/
 schedule:
   - day: Friday
     date: Apr 8th
