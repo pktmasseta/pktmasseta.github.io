@@ -1,5 +1,5 @@
 ---
-title: Event Schedule
+title: Event Sched
 subtitle: MIT Fall 2022
 layout: schedule
 position: 0
