@@ -22,7 +22,7 @@ Unfortunately, due to the architecture limitations of our house, it is not wheel
 
 ###### When is move in / move out day?
 
-Accepted residents can move in any time after 5:00PM on Sunday, June 4th, 2023 and must move out of the house by 5:00PM on Saturday, August 26th, 2023.  If you must move in on a date other than June 4th, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
+Accepted residents can move in any time after 5:00PM on Sunday, May 28th, 2023 and must move out of the house by 5:00PM on Saturday, August 19th, 2023.  If you must move in on a date other than May 28th, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
 
 ###### Is there shorter period summer housing?
 
