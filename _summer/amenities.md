@@ -40,4 +40,4 @@ Every residential floor in the house comes with a full bathroom with stalls, sin
 
 ###### Air Conditioning
 
-Boston can get quite warm over the summer, so to keep you cool and comfortable, every room comes with a window AC unit.
+Boston can get quite warm over the summer, so to keep you cool and comfortable, every room has the option to install a window AC unit.
