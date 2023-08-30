@@ -30,7 +30,7 @@ brothers:
     quote: Say again?
     nickname: Effervescent Evan
     blurb: >
-      Being born in an affluent suburb of Cleveland, Evan was exposed to finance at an early age. However, he decided to enjoy his childhood instead of delving into the dark arts. Attending the prestigious Exeter academy for secondary school, he took leaps and bounds in his academics. Unfortunately for the curriculum specialists at Exeter, Evan conquered their designed curricula with ease. Not sated, he decided to accept an offer to RSI. There, he built mathematical models to make drug recommendations that is now the backbone of Pfizer’s machine learning research department. The thing is, research was beginning to bore Evan. It was too solitary, whist he was a man of incredible social aptitude. It was at this point Mr. Vogelbaum decided to pivot back to his humble beginnings, taking an interest in investment. Being hired as head of quantitative research without an interview, he had found his calling – creating liquidity in the market via effective market making. Oh, and he also likes CrossFit.
+      Bio under construction.
   - initials: RBX
     name: Ronald Xu
     activities: Basketball, piano, MIT Consulting Group (MCG), Coding
