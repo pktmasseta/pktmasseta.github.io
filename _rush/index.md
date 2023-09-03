@@ -5,29 +5,29 @@ layout: schedule
 position: 0
 permalink: /rush/
 schedule:
-  - day: Saturday
-    date: Sep 2nd
+  - day: Sunday
+    date: Sep 3rd
     events:
-      - name: "PKT's BBQ and Back-Bay Views"
-        description: "Come to PKT to absorb the sunshine and admire the skyline. Meet the bros, learn more about our community, and have some patented PKT burgers and glizzies at our BBQ and House Tours event!"
-        start: 12:30 PM ET
+      - name: "Paintball with PKT"
+        start: 11:00 AM ET
         end: 3:00 PM ET
-      - name: "PK Field Day @ Barry Turf"
-        description: "The PKT bros are running soccer, ultimate, and spikeball on Barry Turf next to the tennis courts. Pull up for sports, good vibes and great people"
-        start: 1:00 PM ET
+        description: "Join the Brothers of PKT as we ball in the paint or paint some balls or whatever "Paintball" means."
+      - name: "Grillin' and Chillin'"
+        description: "Get ready to indulge in PKT's patented Glistening Glizzy™️. It's not a hot dog it's a hawt dawg. Some call it the Michael Jordan of BBQ. The Bussin' Burger™️ (Scottie Pippen of BBQ) will also feature."
+        start: 12:30 PM ET
         end: 4:00 PM ET
-      - name: "PK Arcade, Prizes, Pizzas, Plays"
-        description: "The PKT bros will be running staples (Smash and Fifa), classics (Tetris, Pac-Man, and Super Mario), and trends (Chess and Geoguesser). Prizes including headphones, speakers, and monitors are available for top score/most wins in each game."
+      - name: "PKTour"
+        description: "Have you yet to behold our beautiful Back Bay brownstone? Call 317-PKT-RIDE to come see the house and get to know the brothers of PKT."
         start: 3:00 PM ET
         end: 6:00 PM ET
-      - name: "Around the World in 80 Bites"
-        description: "The PKT house brings together brothers with ties all over the globe. In celebration of our heritage, we will be serving a worldy lineup of cuisines, your sure to find at least one dish to enjoy."
+      - name: "Steak Dinner"
+        description: "PKT's very own Chef D will be cooking up a steak dinner fit for royalty right before our annual Poker Tournament!"
         start: 6:00 PM ET
         end: 8:00 PM ET
-      - name: "Afterparty: Milkshakes, Munchies, and Mocktails"
-        description: "The night doesn't have to end just yet! Call 317-PKT-RIDE to come enjoy Mocktails and Desserts, including milkshakes, brownies, ice cream and cookies. Vibes included -- no purchase necessary."
-        start: 11:30 PM ET
-        end: 3:00 AM ET
+      - name: "(P)o(K)er (T)ournament"
+        description: "IT'S TIME! The event you've all been waiting for. Call 317-PKT-RIDE for an escort to the OG rush poker tournament. You'll have a chance at winning airpod pros, a brand new speaker, a fitbit, and more."
+        start: 7:30 PM ET
+        end: 10:30 PM ET
 ---
 
 <p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a>!</p>
