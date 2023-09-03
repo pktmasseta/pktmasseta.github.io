@@ -11,7 +11,7 @@ schedule:
       - name: "Paintball with PKT"
         start: 11:00 AM ET
         end: 3:00 PM ET
-        description: "Join the Brothers of PKT as we ball in the paint or paint some balls or whatever "Paintball" means."
+        description: 'Join the Brothers of PKT as we ball in the paint or paint some balls or whatever "Paintball" means.'
       - name: "Grillin' and Chillin'"
         description: "Get ready to indulge in PKT's patented Glistening Glizzy™️. It's not a hot dog it's a hawt dawg. Some call it the Michael Jordan of BBQ. The Bussin' Burger™️ (Scottie Pippen of BBQ) will also feature."
         start: 12:30 PM ET
