@@ -33,12 +33,12 @@ brothers:
   - initials: AXZ
     name: Alex Zhang
     activities: Pokerbots, Arcturus, Ultimate Frisbee, Rock Climbing, Lifting
-    major: Computer Science and Mathematics (18-C) and Physics (8)
+    major: Artificial Intelligence (6-4) and Mathematics (18)
     hometown: San Jose, California
     quote:
     nickname: Madame President
     blurb: >
-      Alex is one of the smartest brothers you'll ever meet. You won't catch him wasting away his life with unfruitful games of beer pong. Instead, he'll spend those Friday nights in the most fruitful adventures within the halls of McCormick. Ask him about the stir fry, the dry wall, the windowsills, and his unusually insightful account of its denizens. Beyond the impact he's already made at McCormick, Alex wants to make an impact on the world at large. He's already inspiring the younger generation by his riveting lectures at PokerBots. One attendee of these lectures, who happens to be a resident at McCormick, commented that they were a tour de force of erudition, a tear-jerking marriage of theory and practice. Oh the places he will go!
+      Alex is one of the smartest brothers you'll ever meet. You won't catch him wasting away his life with unfruitful games of beer pong. Instead, he'll spend those Friday nights in the most fruitful adventures within the halls of McCormick. Beyond the impact he's already made at McCormick, Alex wants to make an impact on the world at large. He's already inspiring the younger generation by his riveting lectures at PokerBots. One attendee of these lectures, who happens to be a resident at McCormick, commented that they were a tour de force of erudition, a tear-jerking marriage of theory and practice. Oh the places he will go!
   - initials: PXP
     name: Peter Pu
     activities: Rowing, UROP, Global Platinum Securities (GPS)
