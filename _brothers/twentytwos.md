@@ -137,6 +137,7 @@ brothers:
     nickname: Wet Wes
     blurb: >
       Born and raised in Durham, NC, Wes’s charm and sophistication makes any girl around him fall in love. Wes’s popularity has garnered him an extensive network of friends. While walking around campus, he’s sure to take his time, greeting every person that crosses his path. His charisma and soft voice will gain your trust, and you’ll soon find yourself opening up, revealing your deepest thoughts and secrets to him. Living by the mantra “value silence”, don’t be surprised if you catch him walking along the Harvard Bridge on a cold winter night. When he’s not overwhelmed with schoolwork, you could find Wes participating in extracurriculars around campus. From creating the technology behind Puma’s next basketball shoe, to partaking in the MIT Consulting Group, Wes is truly killing it.
+ <! --
   - initials: DSM
     name: David Magrefty
     activities: StartMIT, Taekwondo
@@ -148,4 +149,5 @@ brothers:
       Is it David Beckham? Is it Dave Franco? No, it's actually David Magrefty.
 
       Born in Ashdod, Israel, David is a true gentleman that is fluent in the languages of Hebrew, English, Python, node.JS, CSS, and love. Some see him as an army commander, we see him as a brother, and your girlfriend probably sees him as the man she wishes you could be. He's rigorously trained in the deadly martial art of Krav Maga but his stunning looks and charm are still the most lethal thing about him. When he isn't busy fielding stares from everyone in a 3-mile radius, David is usually busy finishing a pset due next semester in the MacGregor study room (either that or he's busy founding the next unicorn at MTC).
+    -->
 ---
