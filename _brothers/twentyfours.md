@@ -60,15 +60,6 @@ brothers:
     nickname: Franco
     blurb: >
       You can find him playing guitar, snowboarding, or taking photos. Or maybe, he’s standing there with skittles or a Red Bull in-hand. Franco Yee is a PKT '24 majoring in Biological Engineering. He is a Boston native who’s lived across the Charles River his entire life. His mission: travel. Everywhere! The past summer, Franco hit the Hawaiian Islands, LA, San Francisco, Yosemite, Vegas, and Nashville while working virtually. Next on the list: travel or maybe work overseas. He joined MIT to delve into biotech. Growing up with allergies inspired him to develop treatments… maybe even a cure.
-  - initials: ISC
-    name: Itamar Chinn
-    activities:
-    major:
-    hometown:
-    quote:
-    nickname:
-    blurb: >
-      Bio under construction.
   - initials: AHQ
     name: Alex Quach
     activities:
