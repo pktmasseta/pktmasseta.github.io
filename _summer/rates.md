@@ -10,13 +10,13 @@ We will have three triples available for rent this summer. These rooms include V
 
 ###### Quads
 
-Four quads will be available for rent. These rooms include Sunrise and Tomb located on the third floor, and Studio and Beer located on the fourth floor. For more information about our rooms and a bit about their places in PKT house lore, visit the [House](https://pkt.mit.edu/house/) tab of this website.
+Five quads will be available for rent. These rooms include Ballroom on the second floor, Sunrise and Tomb located on the third floor, and Studio and Beer located on the fourth floor. For more information about our rooms and a bit about their places in PKT house lore, visit the [House](https://pkt.mit.edu/house/) tab of this website.
 
 ###### Room Rates
 
-Triples: $3000
+Triples: $3100
 
-Quads: $2600
+Quads: $2700
 
 These prices are per person and are total, all-inclusive prices for the entire summer. If you do choose to stay with us this summer, we will also request an additional $600 security deposit which will be refunded after your move out date.
 
