@@ -6,7 +6,9 @@ subtitle: Staying With Phi Kappa Theta
 position: 1
 permalink: /summer/
 ---
-**The [application/interest form]([https://forms.gle/KmcETx1Tt3X6xsAf7]) for Summer 2024 housing is now open!**
+
+**The [application/interest form](https://forms.gle/KmcETx1Tt3X6xsAf7) for Summer 2024 housing is now open!**
+
 
 If you're looking for housing in the Boston/Cambridge area for the summer of 2024, consider the PKT house for an unforgettable experience! Located right in the heart of Back Bay, our house provides easy access to all of the best parts of a warm summer in Boston: walks down the beautiful Charles River Esplanade, strolls through Boston Commons on the way to Chinatown, trips to Fenway to see the Red Sox, and evenings at dinner with your fellow residents on a Friday night. Our house's location makes all of these fun activities just a short walk away.
 
