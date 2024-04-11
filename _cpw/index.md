@@ -13,7 +13,7 @@ schedule:
         start: 3:00 PM ET
         end: 4:30 PM ET
       - name: "PKT Presents: Analise Concert - Live Music & Vibes"
-        description: "Are you looking for new indie music to add to your playlist? Would you like to discover and support a local artist? Come to PKT this Friday Night for a live performance from <a href='https://www.instagram.com/analise.music'>Analise</a>! Food will be provided! Call 321-PKT-LINE for a ride."
+        description: "Are you looking for new indie music to add to your playlist? Would you like to discover and support a local artist? Come to PKT this Friday Night for a live performance from <a href='https://www.instagram.com/analise.music' target='_blank'>Analise</a>! Food will be provided! Call 321-PKT-LINE for a ride."
         start: 8:00 PM ET
         end: 11:00 PM ET
   - day: Saturday
@@ -30,4 +30,4 @@ schedule:
 ---
 <p class="text-center">Check out our <strong>Instagram</strong> <a href="https://www.instagram.com/pkt.mit" target="_blank">@pkt.mit</a>!</p>
 
-<p class="text-center">Call <strong>321-PKT-LINE</strong> for a ride to our house during CPW!</p>
+<p class="text-center">Call <strong><a href='tel:3217585463'>321-PKT-LINE</a></strong> for a ride to our house during CPW!</p>
