@@ -1,199 +1,134 @@
 ---
-title: Class of 2026
+title: Class of 2027
 banner: twentysixes
-position: -2026
-year: 2026
+position: -2027
+year: 2027
 brothers:
-  - initials: MXP
-    name: Michael Peng
-    activities: Varsity Swim and Dive, Poker
-    major: Computer Science (6-3) and Mathematics (18)
-    hometown: College Station, Texas
+  - initials: DJL
+    name: Daeho Lee
+    activities: HMMT, Lifting, Math Research
+    major: Computer Science (6-4)
+    hometown: San Diego, CA
     quote:
-    nickname: The Baltimore Bullet
+    nickname: The Best Korean Integrator Around
     blurb: >
-      Hey y’all! I’m Michael and I was born and raised in College Station, Texas. I’m planning on majoring in course 6-3 (computer science) and course 18 (mathematics). I chose PKT because of how diverse and supportive the community was. The brothers have all been extremely accepting and helpful in regards to navigating life at MIT. Outside of PKT, I'm on the Men's Varsity Swim and Dive team where I mostly swim sprint butterfly and freestyle.
-  - initials: FXL
-    name: Francis Liu
-    activities: Varsity Baseball, Sports Analytics
-    major: Computer Science (6-3)
-    hometown: Boston, Massachusetts
+      Daeho Lee is one of PKT’s most loyal and kindest brothers. He’s always willing to be there for a brother, from going to the gym or to KBBQ to having a deep conversation for hours and being a comforting ear. By day, Daeho is a math genius who dreams of wasting his immense talents on quant. An integration bee participant and competition math aficionado, all he wants to do is take probability and cs courses and sell out to Jane street. However, one can guarantee that he will succeed at whatever he does, because that is the type of worker that Daeho is. He will keep doing math problems, keep calling his friends fat, keep making out with Emiliano, and keep being ignorant of his cuteness at PKT for 4 years and a lifetime beyond.
+  - initials: INR
+    name: Isaac Rajagopal
+    activities: Frisbee Team, Math Research
+    major: Mathematics (18) and Physics (8)
+    hometown: Arlington, MA
     quote:
     nickname:
     blurb: >
-      Hey everyone! I’m Francis and I’m a first-year planning to major in 6-14. I’m from Lexington, which is a suburb of Boston (around 20-30 minutes from MIT). PKT has been extremely impactful experience for me in a bunch of ways. Coming to the house and engaging in all of the events has really given me a sense of community and a home away from home, and the brothers have been an unwavering source of mentorship and support. Outside of my classes, I'm on the OC for the Sloan Sports Analytics Conference and a pitcher for the baseball team. I'm a hard-core country music fan and my diet consists solely of Chipotle and Sweetgreen.
-  - initials: EDH
-    name: Ellington Hemphill
-    activities: Soccer, Poker, Software Engineering
-    major: Computer Science and Mathematics (18-C) and Physics (8)
-    hometown: New Orleans, Louisiana
-    quote:
-    nickname:
-    blurb:
-  - initials: AXZ
-    name: Alex Zhang
-    activities: Pokerbots, Arcturus, Ultimate Frisbee, Rock Climbing, Lifting
-    major: Artificial Intelligence (6-4) and Mathematics (18)
-    hometown: San Jose, California
-    quote:
-    nickname: Madame President
-    blurb: >
-      Alex is one of the smartest brothers you'll ever meet. You won't catch him wasting away his life with unfruitful games of beer pong. Instead, he'll spend those Friday nights in the most fruitful adventures within the halls of McCormick. Beyond the impact he's already made at McCormick, Alex wants to make an impact on the world at large. He's already inspiring the younger generation by his riveting lectures at PokerBots. One attendee of these lectures, who happens to be a resident at McCormick, commented that they were a tour de force of erudition, a tear-jerking marriage of theory and practice. Oh the places he will go!
-  - initials: PXP
-    name: Peter Pu
-    activities: Rowing, UROP, Global Platinum Securities (GPS)
-    major: Biological Engineering (20)
-    hometown: Chicago, Illinois
-    quote:
-    nickname: Sun Pzu
-    blurb: >
-      If you see what looks like an Asian dad swerving at 20mph on an electric scooter across Boston, it's probably Peter Pu. Known enthusiast of clementines, Dirty Water Dough Company, and Gal Gadot, Peter is the last person you'll ask for advice (or first, but just to hear what he'll say). His forays into the corporate world via Sloan Business Club and Global Positioning Systems don't exactly help his reputation for navigating the world free from the hindrances of a moral compass. In order to defend his title of MVP of the MIT D1 Crew team, he wakes up at 6am every morning to cruise to the boathouse, his hunting grounds. Even with all this on his plate, he still somehow spends most of his waking hours at his lab, where he can pursue his true passion of Biology research. To Peter, his journey towards his PhD always comes first - over his classes, his friends, and even his hygiene. It has been said that in one summer, he personally injected over 3 billion worms using only his God-given appendages and a pair of latex gloves (don't ask how). But even at the end of the day, with all his superhuman features and traits, Peter still faces the plight of the common man - on his quest for true love.
-  - initials: JDD
-    name: Jacob David
-    activities: Lifting, Research, Cooking, Latin Dance
-    major: Computer Science and Mathematics (18-C) and Physics (8)
-    hometown: Fort Worth, Texas
-    quote:
-    nickname: Jake
-    blurb:
-  - initials: KXW
-    name: Kevin Wen
-    activities: StartLabs, Basketball, Pool, Board Games
-    major: Computer Science (6-3)
-    hometown: Somerville, Massachusetts
-    quote:
-    nickname: KevDog
-    blurb: >
-      Kevin is a man of a multitude of interests - he isn't afraid of showing off his pool skills, twitches at the sight of a lonely piano waiting to be played and pumps iron whenever the chance is obtained. When he is not sending the most outrageous reels on Instagram or working on his project to map all the interiors of MIT, he can be seen having fun with his friends on campus and brothers at PKT. With his immense passion for Math+CS, intense eye contact abilities and immaculate vision, Kevin is a force to be reckoned with.
-  - initials: GXD
-    name: Gaurab Das
-    activities: MIT Pokerbots, Formula SAE, SuperUROP
-    major: Electrical Engineering and Computer Science (6-2)
-    hometown: Chicago, Illinois
-    quote:
-    nickname:
-    blurb:
-  - initials: JXL
-    name: James Liu
-    activities: StartLabs, UROP, Lifting
-    major: Artificial Intelligence & Decision Making (6-4)
-    hometown: Boise, Idaho
-    quote:
-    nickname: Fluoride Stare
-    blurb: >
-      James is an enigmatic presence, hailing from the quiet expanses of Idaho, a place as unassuming as him, yet equally filled with hidden complexities. If you're lucky enough to catch his gaze, you'll be met with a stare so piercing it could only be described as menacing—a quiet testament to the depth and intensity that lies beneath his reserved exterior.
-
-      In the realm of intellect, James is a force to be reckoned with. While many are still grappling with the basics, he's diving into complex algorithms and mathematical theories as naturally as breathing. But don't expect him to flaunt it; his brilliance is cloaked in a shyness that only makes you wonder more about the layers yet uncovered.
-
-      James' duality shines most clearly in his unique set of interests. On one hand, he's a formidable League of Legends player, where his strategic acumen and killer instincts are unveiled. On the other, he oscillates between two seemingly contrasting states: a hermit-like focus that rivals ancient scholars, and a libidinous energy that most would find difficult to keep up with.
-
-      This enigmatic blend of traits makes James an outlier in the most fascinating ways. Is he the brooding genius lost in his world of complex thoughts, or the playful youth living for visceral experiences? Maybe he's both, or maybe he's neither. What's certain is that James carries with him an intrigue so compelling, you can't help but want to know more.
-
-      His introspection and self-awareness often have him oscillating between extremes, yet it is perhaps this very oscillation that forms the cornerstone of his genius. Always aware, always searching, and always unpredictable—James is a mystery we're all keen to solve, but one that refuses to be easily defined. With a future as enigmatic as his personality, we can only be certain that whatever path James chooses, it will defy all expectations. And that's precisely why he's an indispensable part of our circle.
-  - initials: AXS
-    name: Alex Shin
-    activities: Guitar, Video Games
-    major: Physics (8) and Materials Science (3)
-    hometown: Dallas, Texas
-    quote:
-    nickname:
-    blurb:
-  - initials: TTM
-    name: Tino Munochiveyi
-    activities: Varsity Soccer
-    major: Computer Science (6-3)
-    hometown: Boston, Massachusetts
-    quote:
-    nickname: Tinoooo
-    blurb: >
-      Don't blink or you'll miss Tino—the human blur on squash courts, soccer fields, and basketball arenas. The last thing you want to see in a soccer match is Tino barreling towards you. Off-field, he's the ultimate blend of goofy and charismatic, leading teams effortlessly. A fervent Manchester City supporter and Clash Royale maestro, he's charting an open future now that he's out of his quant phase. Short, sweet, and packed with punch - that's Tino.
-  - initials: SXC
-    name: Sean Cheng
-    activities: MIT Consulting Group, Club Soccer, Calisthenics, Professional GeoGuessr, Traveling, Running
-    major: Artificial Intelligence & Decision Making (6-4)
-    hometown: Exeter, New Hampshire
+      The quarter-Indian boogie man — the incarnation of John Wick. Few have lived to tell the tale of facing against The Rajagopal on the field, as he torpedoes his frisbee at mach Jesus obliterating ANY remaining hope of the opposing school. The aura is immense. But also his mathematical ability. Legend has it that he’s solved the three body problem in his head, while wearing his Celtics jersey playing 1v5 against the 2024 Olympic lineup. James. AD. Curry. KD. Kerr, even. None could surmount the edifice of The Rajagopal Titan. Not even together. Centuries later, religious texts and monuments will be erected to worship HIM. The. Issac. Rajagopal.
+  - initials: AXC
+    name: Alvin Chen
+    activities: Lifting
+    major: 
+    hometown: 
     quote:
     nickname:
     blurb: >
-      Hey everyone—my name is Sean Cheng, from Exeter, New Hampshire, and I'll probably major in AI and business. I decided to join PKT after I stayed there during CPW and got to meet the amazing and diverse group of people. I'm also a member of MIT Consulting Group, and play on the club soccer team. I don't like overloading and am well-known for not going to classes and making sure I get enough sleep. I've traveled a lot (favorite places: Alaska, the Azores, Peru) and hope to continue to explore the world and meet new people.
-  - initials: PGP
-    name: Prince Patel
-    activities: South Asian Student Association, UROP, Club Volleyball
-    major: Computer Science and Cognitive Science (6-9)
-    hometown: Allentown, Pennsylvania
+     Originally majoring in Climate Science, Alvin Chen soon fell for the allure of a world in the sheets – the Excel sheets. When he isn't benching 315, listening to K-pop, or preparing sashimi in his dorm room, Alvin dreams of increasing shareholder value. But don’t be fooled by his corporate ambitions; Mr. Chen is a loverboy at heart. With a broken ankle as his constant companion, Alvin is now a scooter-bound speed demon, zipping across campus at lightning speed. His ankle might be in pieces, but his determination to make the most of every situation is unbreakable.
+  - initials: JJN
+    name: Josh Nix
+    activities:  MIT Capital Partners, The Tech, Rural Student Ambassador
+    major: Mathematics (18)
+    hometown: McAlester, OK
+    quote:
+    nickname: NickyNix
+    blurb: >
+      Josh Nix is not your typical finance bro—he's a spreadsheet junkie and rising star at Global Platinum Securities (GPS). The only lines Josh has his nose on are the upward trend lines in his portfolio. When he's not crunching numbers, he's leading MIT's DEAL FPOP and advocating for rural students as an MIT Admissions ambassador. Josh's next move? Flexing his math, language, and poli-sci skills as a research assistant at Harvard Law. But it's not all business—catch him at Life Alive with his signature acai bowl or hanging at PRB, bringing that Oklahoma charm to every scene.
+  - initials: DAD
+    name: David Delatorre
+    activities: 
+    major: Computer Science (6-4)
+    hometown: Sun Valley, CA
+    quote:
+    nickname: 
+    blurb: >
+      Hailing from the streets of El Salvador, David Angel De La Torre is a man who goes by many names, MacGregor Monster, Hinge Hero, GPT General and MBTA Master. Davy is the embodiment on an ideal PKT man, constantly giving, while expecting nothing thereof. When asked about the house, Davy will speak of how PKT’s Ballroom has helped transform Davy into the brother and man he is today. “I love ballroom I truly do, it’s been a room of many firsts for me. It will truly hold a special place in my heart for the rest of the time that I am on earth Inshallah.”Davy is a man of risk and adventure, shown by his lack of fear when due dates approach and his excitement to visit the various colleges in Boston at 3 am on the weekend. Influenced by the great brothers that came before him, Davy will specifically name PKT Brother James Liu as his role model in life, “He’s truly like a father to me” was Davy’s response when asked about his relationship with James. When asked Davy will tell you that “PKT has changed my life it truly has and I can’t imagine myself without the strength and support of the brotherhood which I truly enjoy everyday and am endless grateful for and hope to be able to spread the love that I have for the brotherhood far and wide.” Davy Towers came into MIT as an innocent boy known by none and left known as the “Latino Lover” known by all. 
+  - initials: ECA
+    name: Emiliano Camacho-Almanza
+    activities: Soccer
+    major: Computer Science (6-4)
+    hometown: Coachella, CA
+    quote:
+    nickname: 17 Way Parlay
+    blurb: >
+      If you were to turn any one man into a stock and invest in them, your number one pick for maximal returns ought to be Emiliano. Hailing from Coachella, California, this man is the undisputed GOAT of maximizing shareholder value (and dopamine), whether he’s placing 17 way parlays, bluffing his way to billions of poker chips, or speedrunning his ascent to becoming a corporate overlord in SBC. It’s said that those graced by Emiliano’s touch are blessed with superhuman abilities in whatever they choose; fortunately for the other PKTs, you will always catch this man rubbing other brothers at random times for seemingly no reason. If you catch him in his natural habitat, you may find him on his way to hit a 5 plate bench, a 5 plate almuerzo, or cooking everyone in the basketball courts in the Z. With all that being said, behind the superhuman legend that is Emiliano Camacho Almanza is a really funny and chill guy who’s a blast to hang out with.
+  - initials: STZ
+    name: Sam Zhou
+    activities: PokerBots, Research
+    major:
+    hometown: Fremont, CA
+    quote:
+    nickname: Twinkie
+    blurb: >
+      Sam Zhou, hailing from the bustling metropolis of Fremont, CA, is a man of many talents. When he's not busy flipping a coin for ten bucks or perfecting his hair in the mirror, you'll find him mastering the art of poker or raving to the sonic genius of The Weeknd and EDM. A true academic, Sam is set to conquer MIT with a major in 6-4, although his true dream is to be the world’s first Fizz influencer. When he's not plotting his next entrepreneurial conquest, Sam is the life of the pledge class, never failing to have a good time. Keep an eye out for this coin-flipping, poker-playing, korean fried-chicken-devouring connoisseur of fine music.
+  - initials: MJC
+    name: Matthew Chen
+    activities: Poker, Research
+    major: 
+    hometown: Minneapolis, MN
+    quote: 
+    nickname: Mateo Chen
+    blurb: >
+      Wallah, it’s Matthew Chen. Hailing from the charming town of Maple Grove, MN, Matthew aka “Mateo” Chen is a proud Vikings and Timberwolves fan, despite the heartache they often bring him. With hair that defies gravity, a result of years spent religiously gelling it up, and his signature puffy dark black North Face jacket, Matthew is hard to miss. He’s a die-hard Tim Walz fanboy and a sports enthusiast, with a particular love for football. Matthew's academic prowess is something to behold—he's an AI math guy, constantly delving into the complexities of algorithms and equations. Despite his intellect, he's incredibly down-to-earth, with no hint of arrogance. While he’s not nerding out on AI, you can find him at the poker table, dominating. Matthew is also on a quest for true love, navigating the tricky waters of girl troubles with determination. Though he's a Chinese dude, he often makes a big deal about his Korean heritage, adding to his unique charm. Standing tall at 6' and just 19 years old, he’s a an eligible bachelor, a powerful force to be dealt with. Just stop hanging out in Canyon all the time. Last summer, Matthew had a stint at Raytheon. While the details are a bit hush-hush, let's just say the AI bombs he worked on are better left undiscussed. As the IM chair, he showed great organizational skills, though his passion for the role was admittedly a bit lacking. He’s often heard discussing his grand plans for the future for his Chen Dynasty—dreaming of a startup, a DINKY family, and enjoying the high life."
+  - initials: YKL
+    name: Yaphet Lemiesa
+    activities: Basketball
+    major: Computer Science (6-4)
+    hometown: Silver Spring, Maryland
+    quote:
+    nickname: 
+    blurb: >
+      The party never begins without the infamous Yaphetti. One of the most handsome brothers, you’ll never see him without a fresh cut. With lines as sharp as his mechanical tools, a taper smoothed into an artistic gradient and a goatee as majestic as him, one cannot help but fall for him.  Like many before him, he is yet another peer falling victim to the choice between Course 2 and Course 6. Would he sell out to SWE or ML, or take the high road and follow his passions? An avid robotics enthusiast, he often reminisces about his days in FIRST Robotics. A false veteran with stolen valor, he speaks about his leadership position. But determined to turn this around, you can see him roaming Building 3 with CAD open on his computer as he makes his way to his robotics UROP. A true light of the party. You could feel his nonchalant energy as he displays the “exaggerated swagger of a Black teen (IGN).” One of the most passionate brothers, Yaphet will never steer away from a late night grind. When one searches “locked in” in the dictionary, you will see a picture of the handsome Yaphet. Whether locked in means being stowed away in the Maseeh Halls or being glued to his computer science work, he is one of the most hard working brothers. A future business owner, a future Mars Rover designer, a future biomedical robotics pioneer, Yaphet can do it all.
+  - initials: GDM
+    name: Guillermo Mendoza
+    activities: Research
+    major: Mechanical Engineering (2A-16) and Computer Science (6-4)
+    hometown: Belmont, CA
+    quote:
+    nickname: El Cocinero
+    blurb: >
+      If you catch a whiff of something delicious or spot a guy with a guitar in one hand and a dumbbell in the other, it’s probably Guillermo Mendoza Contreras. Hailing from the Bay Area, Guillermo is the class of '27's favorite class of ‘26 transfer student and a community college success story. His dreams include being rejected from UC Davis for a third time and selling out in the most glamorous way possible. Whether he's in the kitchen or out on the dance floor, Guillermo is always cooking. Just don't ask him what he does for fun—he's still trying to figure out if "working" or "LeetCode" qualifies. And if you need a hiking buddy or someone to go to the redwoods with, he’s your guy.
+  - initials: CRW
+    name: Cole Wickert
+    activities: ROTC, Climbing, Jazz Ensemble
+    major: Mechanical Engineering (2A), Physics (8)
+    hometown: Monument, CO
+    quote:
+    nickname: 
+    blurb: >
+      There will never again be a man quite like Cole. There is but one person who dyed his hair purple and then went on to max out the athletic evaluation in ROTC in the same month; one person who can send a V9 in the rock-climbing gym and tear up a saxophone solo for the wind ensemble; one person who can lead a team in a push-up competition and coordinate a sexy dance number. That man is Cole Wickert. If you have the pleasure of getting to know Cole, you’ll eventually learn not to be intimidated by his intense discipline and resolute stoicism, because at his core, you’ll find him to be one of the goofiest and sweetest brothers and friends you’ll ever meet. Cole is a cornerstone of our brotherhood, and we are extremely grateful to have him.
+  - initials: EMZ
+    name: Ethan Zentner
+    activities: Climbing, 3D Printing, MechE debauchery, Running
+    major: 
+    hometown: 
+    quote:
+    nickname: Iron Man
+    blurb: >
+      Standing tall at 6’4” and built like a titan, Ethan is the man every woman dreams of and every guy wishes he be. He's not just an engineering prodigy; he's the very embodiment of creativity. Practically living in the Vassar makerspace, this caffeine-fueled mastermind has hands that work magic with the brain of Iron Man. When he’s not building mind-blowing drones or epic displays for the house, you’ll find him having the kind of deep, soul-stirring conversations that leave you questioning the very fabric of existence. A builder by day and a philosopher by night, Ethan doesn’t just face challenges; he dominates them, whether it’s tackling a notoriously tough physics class or diving headfirst into the startup world. A relentless workaholic, he’s always on the move—literally—zipping by on his electric longboard. Keep your eyes peeled because this guy’s inventions are bound to change the world.
+  - initials: JIJ
+    name: Jacob Jobraeel
+    activities: Soccer, Pokerbots, Lifting
+    major: Computer Science and Brain and Cognitive Science (6-9)
+    hometown: Sterling Heights, MI
     quote:
     nickname:
-    blurb:
-  - initials: PAD
-    name: Prince Debrah
-    activities: Video Games
-    major: Artificial Intelligence & Decision Making (6-4)
-    hometown: Accra, Ghana
-    quote:
-    nickname: Ghana Steal Yo Girl
     blurb: >
-      From the rhythmic depths of Accra, Ghana comes Prince Debrah—a man so intriguing he's known as "Ghana steal yo girl." Dreads flowing and smile glowing, Prince is a virtuoso of swag and intellect. He majors in 6-4 and dabbles in entrepreneurship, often juggling both like he's in a circus of brilliance.
-
-      But let’s talk Friday nights. Prince has had a different charming companion every week this summer. That's 10 Fridays, 10 tales of romance, 10 chances for you to have your girl snatched. Yet, he can shift gears faster than a Bugatti. When he's not charming the MIT populace, he's diving into the complex world of League of Legends. Yes, he's ridiculed for it, but while you laugh, he's grinding—unapologetically committed to every game.
-
-      As for academics, this man once breezed through a graduate Sloan course without even noticing it was a graduate class. His intellect isn't confined to textbooks, though. While washing dishes, he moonlights as a dance prodigy—hitting those fire dance moves like nobody's business, even when he thinks he's alone.
-
-      This man’s athleticism? Mythical. Prince took one look at a pull-up bar and almost launched himself into orbit. He's PKT’s secret weapon in any athletic endeavor, boasting speed that makes mere mortals look like they're running on a treadmill.
-
-      Above all, what sets Prince apart is his genuine kindness. Whether he's waving hello or lighting up a room with his smile, he has the sort of warmth that would make a bonfire jealous.
-
-      So here's to Prince, the man who's just as comfortable in a grad class as he is in the heart-pounding arenas of love and LoL. A rising titan in both the digital and real worlds, and quite possibly the future baron of his own empire. Keep an eye on him; he's already stolen the show and, who knows, maybe he's about to "Ghana steal" something else next.
-  - initials: DAP
-    name: Daniel Portela
-    activities: Discover Entrepreneurship & Leadership (DEAL), Startups, VR/AR, Climbing, Reading, Mindfulness, Association of Puerto Ricans (APR), Actually Getting Sleep
-    major: Management Science (15-1) and Artificial Intelligence & Decision Making (6-4)
-    hometown: San Juan, Puerto Rico
+      Hailing from Detroit, JIJ is one of the kindest, most genuine people we have ever met. His love for his fellow brothers is only exceeded by his massive 225-pound bench press. Whenever he’s not casually moving a few plates at the gym or saving burning orphanages, you can find him out-contemplating Socrates or out-solving Pythagoras. But be warned, JIJ is known to ask some pretty outlandish questions or nag you while you drive (shoutout Guillermo). All jokes aside, JIJ is the perfect combination of brain, brawn, and heart, and we are so lucky to have him around.
+  - initials: SJC
+    name: Sam Chen
+    activities: Sloan Business Club, Basketball
+    major: Business (15-3) and Computer Science (6-4)
+    hometown: Bellevue, WA
     quote:
-    nickname:
-    blurb:
-  - initials: BXS
-    name: Brian Shi
-    activities: Eating Chipotle
-    major: Physics (8) and Computer Science (6-3)
-    hometown: New York City, New York
-    quote:
-    nickname: Shiiiii 🔥🔥
+    nickname: 
     blurb: >
-      If Brian had a life quote, it would be “work hard play hard.” On the weekday, you’ll see him grinding out psets, but on the weekends, you’ll also see him partying it up with the brothers. Fun guy with fun stories. Some would argue that he’s the social life of PKT (best assistant social chair fr). Brian Sheeeesh will always be the most iconic and down to earth person you’ll ever meet.
-  - initials: NCK
-    name: Nathan Kim
-    activities: Ring Committee ‘26, UA Sustain
-    major: Mechanical Engineering and Finance (2A-15)
-    hometown: Tallahassee, Florida
-    quote:
-    nickname:
-    blurb:
-  - initials: FGP
-    name: Francisco Gomez-Paz
-    activities: Drawing, Board Games, UROP
-    major: Mathematics (18) and Artificial Intelligence & Decision Making (6-4)
-    hometown: Vancouver, Washington
-    quote:
-    nickname: Paco
-    blurb: >
-      From the (not so) nice city of Vancouver, Washington, Paco is on a mission to conquer the world of mathematics while grappling with some enticingly distracting obsessions.
+      Hey guys, I'm Sam from Seattle, Washington. I plan on majoring in computer science and finance, but enjoy taking math and business classes as well. I'm on the MIT basketball team, so I devote a couple of hours everyday playing basketball. Probably the only thing I love as much basketball is eating. Other than that, you will probably find me seeking job offers all the time. I'm glad to have joined PKT and I'm excited for the next few years!
 
-      Paco's academic pursuits are punctuated by his semesterly descent into new and tantalizing vices. Like a moth drawn to a flame, he finds himself irresistibly ensnared by the allure of video games, particularly the intricate worlds of Tetris and Team Fight Tactics. These digital realms, while offering a temporary escape from the rigors of academia, often transform into captivating vices that threaten to devour his time and attention.
-
-      The siren call of Tetris's falling blocks and the strategic allure of Team Fight Tactics have been both a blessing and a curse for Paco. As he navigates the complex algorithms of math during the day, the gravitational pull of these virtual challenges lures him into the depths of addictive gameplay during the night.
-
-      However, like all great minds, Paco's pursuits come at a cost. His sleep schedule is frequently in shambles as he juggles his mathematical ambitions and the irresistible vice of video games. Fueled by a caffeine addiction that rivals his passion for math, Paco often burns the midnight oil to balance his academic responsibilities with his seductive obsessions.
-
-      Amidst his quirks and captivating vices, Paco's Hispanic heritage and unique personality shine bright. His questionable taste in music only adds to his enigmatic charm, while his ability to embrace his roots and dive into new passions sets him apart.
-
-      As Paco's journey at MIT unfolds, it's clear that he is not just a student of math, but a student of life itself, navigating the exhilarating highs and captivating vices that come with it. In his pursuit of knowledge, he leaves an indelible mark, showing that even the most tantalizing obsessions can't dim the brilliance of his mind or the uniqueness of his spirit.
-  - initials: AJH
-    name: Alex He
-    activities: Rowing, UROP, Overloading Classes
-    major: Economics (14-1) and Artificial Intelligence & Decision Making (6-4)
-    hometown: Syosset, New York
-    quote:
-    nickname: He
-    blurb: >
-      Hailing form Syosset, NY, Alex (wait which one again?) is one of those people that really makes MIT feel like home. From drunkenly staggering around at parties to carrying you on your psets, Alex does it all. It’s a combination of his kind, caring personality and blinding brilliance that truly signifies what to achieve success at MIT. Unfortunately, like the majority of the rest of his class, Alex has fallen to the dark side and begun dabbling in the dangerous arts of finance - pray for his soul before it gets to late.
 ---
