@@ -1,6 +1,6 @@
 ---
 title: Class of 2027
-banner: twentysixes
+banner: twentysevens
 position: -2027
 year: 2027
 brothers:
