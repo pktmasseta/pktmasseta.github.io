@@ -123,7 +123,7 @@ brothers:
       Hailing from Detroit, JIJ is one of the kindest, most genuine people we have ever met. His love for his fellow brothers is only exceeded by his massive 225-pound bench press. Whenever he’s not casually moving a few plates at the gym or saving burning orphanages, you can find him out-contemplating Socrates or out-solving Pythagoras. But be warned, JIJ is known to ask some pretty outlandish questions or nag you while you drive (shoutout Guillermo). All jokes aside, JIJ is the perfect combination of brain, brawn, and heart, and we are so lucky to have him around.
   - initials: SJC
     name: Sam Chen
-    activities: Sloan Business Club, Basketball
+    activities: Sloan Business Club, Startlabs, BrassRat Investments, Varsity Basketball
     major: Business (15-3) and Computer Science (6-4)
     hometown: Bellevue, WA
     quote:
