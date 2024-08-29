@@ -6,8 +6,8 @@ year: 2027
 brothers:
   - initials: DJL
     name: Daeho Lee
-    activities: HMMT, Lifting, Math Research
-    major: Computer Science (6-4)
+    activities: HMMT, Lifting, UROP, Worrying
+    major: Computer Science (6-4) Mathematics (1*)
     hometown: San Diego, CA
     quote:
     nickname: The Best Korean Integrator Around
@@ -24,9 +24,9 @@ brothers:
       The quarter-Indian boogie man — the incarnation of John Wick. Few have lived to tell the tale of facing against The Rajagopal on the field, as he torpedoes his frisbee at mach Jesus obliterating ANY remaining hope of the opposing school. The aura is immense. But also his mathematical ability. Legend has it that he’s solved the three body problem in his head, while wearing his Celtics jersey playing 1v5 against the 2024 Olympic lineup. James. AD. Curry. KD. Kerr, even. None could surmount the edifice of The Rajagopal Titan. Not even together. Centuries later, religious texts and monuments will be erected to worship HIM. The. Issac. Rajagopal.
   - initials: AXC
     name: Alvin Chen
-    activities: Lifting
+    activities: Finance Board, Startlabs, Pondering, Powerlifting, Dillydallying
     major: 
-    hometown: 
+    hometown: Flushing, NY
     quote:
     nickname:
     blurb: >
@@ -42,16 +42,16 @@ brothers:
       Josh Nix is not your typical finance bro—he's a spreadsheet junkie and rising star at Global Platinum Securities (GPS). The only lines Josh has his nose on are the upward trend lines in his portfolio. When he's not crunching numbers, he's leading MIT's DEAL FPOP and advocating for rural students as an MIT Admissions ambassador. Josh's next move? Flexing his math, language, and poli-sci skills as a research assistant at Harvard Law. But it's not all business—catch him at Life Alive with his signature acai bowl or hanging at PRB, bringing that Oklahoma charm to every scene.
   - initials: DAD
     name: David Delatorre
-    activities: 
+    activities: Gaming, Poker
     major: Computer Science (6-4)
     hometown: Sun Valley, CA
     quote:
     nickname: 
     blurb: >
-      Hailing from the streets of El Salvador, David Angel De La Torre is a man who goes by many names, MacGregor Monster, Hinge Hero, GPT General and MBTA Master. Davy is the embodiment on an ideal PKT man, constantly giving, while expecting nothing thereof. When asked about the house, Davy will speak of how PKT’s Ballroom has helped transform Davy into the brother and man he is today. “I love ballroom I truly do, it’s been a room of many firsts for me. It will truly hold a special place in my heart for the rest of the time that I am on earth Inshallah.”Davy is a man of risk and adventure, shown by his lack of fear when due dates approach and his excitement to visit the various colleges in Boston at 3 am on the weekend. Influenced by the great brothers that came before him, Davy will specifically name PKT Brother James Liu as his role model in life, “He’s truly like a father to me” was Davy’s response when asked about his relationship with James. When asked Davy will tell you that “PKT has changed my life it truly has and I can’t imagine myself without the strength and support of the brotherhood which I truly enjoy everyday and am endless grateful for and hope to be able to spread the love that I have for the brotherhood far and wide.” Davy Towers came into MIT as an innocent boy known by none and left known as the “Latino Lover” known by all. 
+      Hailing from the streets of El Salvador, David Angel De La Torre AKA MacGregor Monster is the embodiment on an ideal PKT man, constantly giving, while expecting nothing thereof. When asked about the house, Davy will speak of how PKT’s Ballroom has helped transform Davy into the brother and man he is today. “I love ballroom I truly do, it’s been a room of many firsts for me. It will truly hold a special place in my heart for the rest of the time that I am on earth.” Influenced by the great brothers that came before him, Davy will specifically name PKT Brother James Liu as his role model in life, “He’s truly like a father to me” was Davy’s response when asked about his relationship with James. When asked Davy will tell you that “PKT has changed my life it truly has and I can’t imagine myself without the strength and support of the brotherhood which I truly enjoy everyday and am endless grateful for and hope to be able to spread the love that I have for the brotherhood far and wide.”
   - initials: ECA
     name: Emiliano Camacho-Almanza
-    activities: Soccer
+    activities: Sloan Business Club, Society of Hispanic Professional Engineers, Sports, Gambling, Sports Gambling
     major: Computer Science (6-4)
     hometown: Coachella, CA
     quote:
