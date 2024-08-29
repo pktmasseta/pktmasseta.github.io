@@ -21,7 +21,7 @@ brothers:
     quote:
     nickname:
     blurb: >
-      The quarter-Indian boogie man — the incarnation of John Wick. Few have lived to tell the tale of facing against The Rajagopal on the field, as he torpedoes his frisbee at mach Jesus obliterating ANY remaining hope of the opposing school. The aura is immense. But also his mathematical ability. Legend has it that he’s solved the three body problem in his head, while wearing his Celtics jersey playing 1v5 against the 2024 Olympic lineup. James. AD. Curry. KD. Kerr, even. None could surmount the edifice of The Rajagopal Titan. Not even together. Centuries later, religious texts and monuments will be erected to worship HIM. The. Issac. Rajagopal.
+      The quarter-Indian boogie man — the incarnation of John Wick. Few have lived to tell the tale of facing against The Rajagopal on the field, as he torpedoes his frisbee at mach Jesus obliterating ANY remaining hope of the opposing school. The aura is immense. But also his mathematical ability. Legend has it that he’s solved the three body problem in his head, while wearing his Celtics jersey playing 1v5 against the 2024 Olympic lineup. James. AD. Curry. KD. Kerr, even. None could surmount the edifice of The Rajagopal Titan. Not even together. Centuries later, religious texts and monuments will be erected to worship HIM. The. Isaac. Rajagopal.
   - initials: AXC
     name: Alvin Chen
     activities: Finance Board, Startlabs, Pondering, Powerlifting, Dillydallying
