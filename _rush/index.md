@@ -55,10 +55,6 @@ schedule:
         description: "IT'S TIME! The event you've all been waiting for. Call 317-PKT-RIDE for an escort to the OG rush poker tournament. You'll have a chance at winning airpod pros, a brand new speaker, a fitbit, and more."
         start: 7:30 PM ET
         end: 10:30 PM ET
-      - name: "Afterparty: Milkshakes & Munchies"
-        description: "The night doesn't have to end just yet! Come enjoy some midnight desserts, including milkshakes, brownies, ice cream and cookies. Vibes included -- no purchase necessary."
-        start: 10:30 PM ET
-        end: 3:00 AM ET
 ---
 <p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a>!</p>
 
