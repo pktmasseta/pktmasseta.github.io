@@ -33,7 +33,7 @@ schedule:
         start: 10:30 PM ET
         end: 3:00 AM ET
   - day: Sunday
-    date: September 1st
+    date: August 31st
     events:
       - name: "Paintball with PKT"
         start: 12:30 PM
@@ -55,8 +55,8 @@ schedule:
         description: "IT'S TIME! The event you've all been waiting for. Call 317-PKT-RIDE for an escort to the OG rush poker tournament. You'll have a chance at winning airpod pros, a brand new speaker, a fitbit, and more."
         start: 7:30 PM 
         end: 10:30 PM
-  - day: Monday
-    date: September 2nd
+  - day: Saturday
+    date: August 31st
     events:
       - name: "Trampoline Dodgeball and Skyzone"
         start: 1:00 PM
