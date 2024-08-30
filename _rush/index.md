@@ -32,8 +32,8 @@ schedule:
         description: "The night doesn't have to end just yet! Come enjoy some midnight desserts, including milkshakes, brownies, ice cream and cookies. Vibes included -- no purchase necessary."
         start: 10:30 PM ET
         end: 3:00 AM ET
-  - day: Saturday
-    date: August 31st
+  - day: Sunday
+    date: September 1st
     events:
       - name: "Kresge Kickoff"
         description: "Come meet the PKTs at Kresge!"
