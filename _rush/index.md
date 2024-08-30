@@ -51,7 +51,7 @@ schedule:
         description: "PKT's very own private chef will be cooking up a steak dinner fit for royalty right before our annual Poker Tournament!"
         start: 6:00 PM ET
         end: 8:00 PM ET
-      - name: "<span style='color:maroon; font-weight:bold; font-size: 1.5em; background-color: #ffd700; ; padding: 2px 2px;'>(P)O(K)ER (T)OURNAMENT</span>"
+      - name: "<span style='color:maroon; font-weight:bold; font-size: 1.5em; background-color: #ffd700; ; padding: 0px 0px;'>(P)O(K)ER (T)OURNAMENT</span>"
         description: "IT'S TIME! The event you've all been waiting for. Call 317-PKT-RIDE for an escort to the OG rush poker tournament. You'll have a chance at winning airpod pros, a brand new speaker, a fitbit, and more."
         start: 7:30 PM ET
         end: 10:30 PM ET
