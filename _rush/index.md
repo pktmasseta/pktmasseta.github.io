@@ -24,8 +24,8 @@ schedule:
         description: "Get ready for the ultimate showdown at 2024 PKT Cider Olympics! We're bringing gallons of apple juice and our juiciest brothers to compete in games like pong and stack cup. Team up, face off, and see if you'll win gold (we have real gold medals)."
         start: 3:00 PM ET
         end: 6:00 PM ET
-      - name: "Halal Happy Hour 🔥🤤😋"
-        description: "Munch on many meals from the Mediterranean to the Middle East. You won't find any pork here - only gyros, goats, and good times with our Greek life 💯💯. Vegetarian Friendly ❗❗"
+      - name: "Halal Happy Hour"
+        description: "Munch on many meals from the Mediterranean to the Middle East. You won't find any pork here - only gyros, goats, and good times with our Greek life . Vegetarian Friendly"
         start: 6:00 PM ET
         end: 8:00 PM ET
       - name: "Afterparty: Milkshakes & Munchies"
