@@ -35,14 +35,14 @@ schedule:
   - day: Sunday
     date: September 1st
     events:
-      - name: "Kresge Kickoff"
-        description: "Come meet the PKTs at Kresge!"
+      - name: "Paintball with PKT"
+        description: "Join the Brothers of PKT as we ball in the paint at Boston's premier paintball arena."
         start: 12:30 PM ET
-        end: 2:30 PM ET
-      - name: "Can you bench more than Emiliano"
-        description: "Can you drop the heaviest bars? Come im-press us on the bench and win a free fairlife :D"
+        end: 3:00 PM ET
+      - name: "Grillin' and Chillin'"
+        description: "Get ready to indulge in PKT's patented Glistening Glizzies™️. It's not a hot dog it's a hawt dawg. Some call it the Michael Jordan of BBQ. The Bussin' Burger™️ (Scottie Pippen of BBQ) will also feature."
         start: 12:30 PM ET
-        end: 2:30 PM ET
+        end: 4:00 PM ET
       - name: "BBQ and Back-Bay Views"
         start: 12:30 PM ET
         end: 4:00 PM ET
