@@ -67,3 +67,5 @@ schedule:
         start: 6:00 PM
         end: 8:00 PM
 ---
+<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a>!</p>
+
