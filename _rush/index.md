@@ -58,14 +58,14 @@ schedule:
   - day: Monday
     date: September 2nd
     events:
-      - name: "Paintball with PKT"
-        description: "Join the Brothers of PKT as we ball in the paint at Boston's premier paintball arena."
-        start: 12:30 PM ET
-        end: 3:00 PM ET
-      - name: "Grillin' and Chillin'"
-        description: "Get ready to indulge in PKT's patented Glistening Glizzies™️. It's not a hot dog it's a hawt dawg. Some call it the Michael Jordan of BBQ. The Bussin' Burger™️ (Scottie Pippen of BBQ) will also feature."
-        start: 12:30 PM ET
+      - name: "Trampoline Dodgeball and Skyzone"
+        description: "Everyone knows the 5 D's of Dodgeball -- dodge, duck, dip, dive and dodge. We're adding in some F's -- fly, flip, fall."
+        start: 1:00 PM ET
         end: 4:00 PM ET
+      - name: "Back Bay and Baby Back Ribs"
+        description: "Looking to live that luxorious life? Call 321-PKT-LINE for a personal escort to a Back Bay mansion -- you'll find a gourmet meal waiting for you with michelin star service to boot."
+        start: 6:00 PM ET
+        end: 8:00 PM ET
       - name: "PKTour"
         start: 3:00 PM ET
         end: 6:00 PM ET
