@@ -66,18 +66,6 @@ schedule:
         description: "Looking to live that luxorious life? Call 321-PKT-LINE for a personal escort to a Back Bay mansion -- you'll find a gourmet meal waiting for you with michelin star service to boot."
         start: 6:00 PM ET
         end: 8:00 PM ET
-      - name: "PKTour"
-        start: 3:00 PM ET
-        end: 6:00 PM ET
-        description: "Have you yet to behold our beautiful Back Bay brownstone? Call 321-PKT-LINE to come see the house and get to know the brothers of PKT."
-      - name: "The Superior Steak Dinner"
-        description: "PKT's very own private chef will be cooking up a steak dinner fit for royalty right before our annual Poker Tournament!"
-        start: 6:00 PM ET
-        end: 8:00 PM ET
-      - name: "(P)o(K)er (T)ournament"
-        description: "IT'S TIME! The event you've all been waiting for. Call 317-PKT-RIDE for an escort to the OG rush poker tournament. You'll have a chance at winning airpod pros, a brand new speaker, a fitbit, and more."
-        start: 7:30 PM ET
-        end: 10:30 PM ET
 ---
 <p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a>!</p>
 
