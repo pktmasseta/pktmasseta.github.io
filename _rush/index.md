@@ -28,7 +28,7 @@ schedule:
         description: "IT'S TIME! The event you've all been waiting for. Call 317-PKT-RIDE for an escort to the OG rush poker tournament. You'll have a chance at winning airpod pros, a brand new speaker, a fitbit, and more."
         start: 7:30 PM ET
         end: 10:30 PM ET
-- day: Saturday
+  - day: Saturday
     date: Sep 2rd
     events:
       - name: "Paintball with PKT"
