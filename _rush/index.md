@@ -1,6 +1,6 @@
 ---
 title: Rush Schedule
-subtitle: MIT Fall 2024-2025
+subtitle: MIT Fall 2024
 layout: schedule
 position: 0
 permalink: /rush/
