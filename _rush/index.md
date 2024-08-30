@@ -12,7 +12,7 @@ schedule:
         description: "Come meet the PKTs at Kresge!"
         start: 12:30 PM ET
         end: 2:30 PM ET
-      - name: "Can you bench more than Emiliano"
+      - name: "Can You Bench More Than Emiliano"
         description: "Can you drop the heaviest bars? Come im-press us on the bench and win a free fairlife :D"
         start: 12:30 PM ET
         end: 2:30 PM ET
