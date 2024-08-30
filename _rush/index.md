@@ -67,7 +67,7 @@ schedule:
         start: 6:00 PM ET
         end: 8:00 PM ET
 ---
-<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a>!</p>
+<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://www.instagram.com/pkt.mit" target="_blank">@pkt.mit</a>!</p>
 
-<p class="text-center">Call <strong><a href='tel:3217585463'>321-PKT-LINE</a></strong> for a ride to our house during CPW!</p>
+<p class="text-center">Call <strong><a href='tel:3217585463'>321-PKT-LINE</a></strong> for a ride to our house during Rush!</p>
 
