@@ -32,4 +32,15 @@ schedule:
         description: "The night doesn't have to end just yet! Come enjoy some midnight desserts, including milkshakes, brownies, ice cream and cookies. Vibes included -- no purchase necessary."
         start: 10:30 PM ET
         end: 3:00 AM ET
+  - day: Monday
+    date: Sep 2nd
+    events:
+      - name: "Trampoline Dodgeball and Skyzone"
+        start: 1:00 PM
+        end: 4:00 PM
+        description: 'Everyone knows the 5 D's of Dodgeball -- dodge, duck, dip, dive and dodge. We're adding in some F's -- fly, flip, fall.'
+      - name: "Back Bay and Baby Back Ribs"
+        description: "Looking to live that luxorious life? Call 321-PKT-LINE for a personal escort to a Back Bay mansion -- you'll find a gourmet meal waiting for you with michelin star service to boot."
+        start: 6:00 PM
+        end: 8:00 PM
 ---
