@@ -40,7 +40,7 @@ schedule:
         end: 3:00 PM
         description: 'Join the Brothers of PKT as we ball in the paint at Boston's premier paintball arena.'
       - name: "Grillin' and Chillin'"
-        description: "Get ready to indulge in PKT's patented Glistening Glizzies™️. It's not a hot dog it's a hawt dawg. Some call it the Michael Jordan of BBQ. The Bussin' Burger™️ (Scottie Pippen of BBQ) will also feature. "
+        description: "Get ready to indulge in PKT's patented Glistening Glizzies™️. It's not a hot dog it's a hawt dawg. Some call it the Michael Jordan of BBQ. The Bussin' Burger™️ (Scottie Pippen of BBQ) will also feature."
         start: 12:30 PM 
         end: 4:00 PM 
       - name: "PKTour"
@@ -61,13 +61,9 @@ schedule:
       - name: "Trampoline Dodgeball and Skyzone"
         start: 1:00 PM
         end: 4:00 PM
-        description: 'Everyone knows the 5 D's of Dodgeball -- dodge, duck, dip, dive and dodge. We're adding in some F's -- fly, flip, fall. '
+        description: 'Everyone knows the 5 D's of Dodgeball -- dodge, duck, dip, dive and dodge. We're adding in some F's -- fly, flip, fall.'
       - name: "Back Bay and Baby Back Ribs"
         description: "Looking to live that luxorious life? Call 321-PKT-LINE for a personal escort to a Back Bay mansion -- you'll find a gourmet meal waiting for you with michelin star service to boot."
         start: 6:00 PM
         end: 8:00 PM
-      
 ---
-
-<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a>!</p>
-<p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during Rush!</p>
