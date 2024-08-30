@@ -67,6 +67,3 @@ schedule:
         start: 6:00 PM
         end: 8:00 PM
 ---
-
-<p class="text-center">Check out our <strong>Instagram</strong> <a href="https://peckbot.com/instagram" target="_blank">@pkt.mit</a>!</p>
-<p class="text-center">Call <strong>317-PKT-RIDE</strong> for a ride to our house during Rush!</p>
