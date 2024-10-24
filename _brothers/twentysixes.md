@@ -22,14 +22,6 @@ brothers:
     nickname:
     blurb: >
       Hey everyone! I’m Francis and I’m a first-year planning to major in 6-14. I’m from Lexington, which is a suburb of Boston (around 20-30 minutes from MIT). PKT has been extremely impactful experience for me in a bunch of ways. Coming to the house and engaging in all of the events has really given me a sense of community and a home away from home, and the brothers have been an unwavering source of mentorship and support. Outside of my classes, I'm on the OC for the Sloan Sports Analytics Conference and a pitcher for the baseball team. I'm a hard-core country music fan and my diet consists solely of Chipotle and Sweetgreen.
-  - initials: EDH
-    name: Ellington Hemphill
-    activities: Soccer, Poker, Software Engineering
-    major: Computer Science and Mathematics (18-C) and Physics (8)
-    hometown: New Orleans, Louisiana
-    quote:
-    nickname:
-    blurb:
   - initials: AXZ
     name: Alex Zhang
     activities: Pokerbots, Arcturus, Ultimate Frisbee, Rock Climbing, Lifting
@@ -39,15 +31,6 @@ brothers:
     nickname: Madame President
     blurb: >
       Alex is one of the smartest brothers you'll ever meet. You won't catch him wasting away his life with unfruitful games of beer pong. Instead, he'll spend those Friday nights in the most fruitful adventures within the halls of McCormick. Beyond the impact he's already made at McCormick, Alex wants to make an impact on the world at large. He's already inspiring the younger generation by his riveting lectures at PokerBots. One attendee of these lectures, who happens to be a resident at McCormick, commented that they were a tour de force of erudition, a tear-jerking marriage of theory and practice. Oh the places he will go!
-  - initials: PXP
-    name: Peter Pu
-    activities: Rowing, UROP, Global Platinum Securities (GPS)
-    major: Biological Engineering (20)
-    hometown: Chicago, Illinois
-    quote:
-    nickname: Sun Pzu
-    blurb: >
-      If you see what looks like an Asian dad swerving at 20mph on an electric scooter across Boston, it's probably Peter Pu. Known enthusiast of clementines, Dirty Water Dough Company, and Gal Gadot, Peter is the last person you'll ask for advice (or first, but just to hear what he'll say). His forays into the corporate world via Sloan Business Club and Global Positioning Systems don't exactly help his reputation for navigating the world free from the hindrances of a moral compass. In order to defend his title of MVP of the MIT D1 Crew team, he wakes up at 6am every morning to cruise to the boathouse, his hunting grounds. Even with all this on his plate, he still somehow spends most of his waking hours at his lab, where he can pursue his true passion of Biology research. To Peter, his journey towards his PhD always comes first - over his classes, his friends, and even his hygiene. It has been said that in one summer, he personally injected over 3 billion worms using only his God-given appendages and a pair of latex gloves (don't ask how). But even at the end of the day, with all his superhuman features and traits, Peter still faces the plight of the common man - on his quest for true love.
   - initials: JDD
     name: Jacob David
     activities: Lifting, Research, Cooking, Latin Dance
@@ -98,24 +81,6 @@ brothers:
     quote:
     nickname:
     blurb:
-  - initials: TTM
-    name: Tino Munochiveyi
-    activities: Varsity Soccer
-    major: Computer Science (6-3)
-    hometown: Boston, Massachusetts
-    quote:
-    nickname: Tinoooo
-    blurb: >
-      Don't blink or you'll miss Tino—the human blur on squash courts, soccer fields, and basketball arenas. The last thing you want to see in a soccer match is Tino barreling towards you. Off-field, he's the ultimate blend of goofy and charismatic, leading teams effortlessly. A fervent Manchester City supporter and Clash Royale maestro, he's charting an open future now that he's out of his quant phase. Short, sweet, and packed with punch - that's Tino.
-  - initials: SXC
-    name: Sean Cheng
-    activities: MIT Consulting Group, Club Soccer, Calisthenics, Professional GeoGuessr, Traveling, Running
-    major: Artificial Intelligence & Decision Making (6-4)
-    hometown: Exeter, New Hampshire
-    quote:
-    nickname:
-    blurb: >
-      Hey everyone—my name is Sean Cheng, from Exeter, New Hampshire, and I'll probably major in AI and business. I decided to join PKT after I stayed there during CPW and got to meet the amazing and diverse group of people. I'm also a member of MIT Consulting Group, and play on the club soccer team. I don't like overloading and am well-known for not going to classes and making sure I get enough sleep. I've traveled a lot (favorite places: Alaska, the Azores, Peru) and hope to continue to explore the world and meet new people.
   - initials: PGP
     name: Prince Patel
     activities: South Asian Student Association, UROP, Club Volleyball
@@ -151,15 +116,6 @@ brothers:
     quote:
     nickname:
     blurb:
-  - initials: BXS
-    name: Brian Shi
-    activities: Eating Chipotle
-    major: Physics (8) and Computer Science (6-3)
-    hometown: New York City, New York
-    quote:
-    nickname: Shiiiii 🔥🔥
-    blurb: >
-      If Brian had a life quote, it would be “work hard play hard.” On the weekday, you’ll see him grinding out psets, but on the weekends, you’ll also see him partying it up with the brothers. Fun guy with fun stories. Some would argue that he’s the social life of PKT (best assistant social chair fr). Brian Sheeeesh will always be the most iconic and down to earth person you’ll ever meet.
   - initials: NCK
     name: Nathan Kim
     activities: Ring Committee ‘26, UA Sustain
