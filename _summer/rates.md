@@ -6,15 +6,15 @@ position: 2
 
 ###### Doubles
 
-We will have one double available for rent this summer. The room is called Vista, and it is located on the second floor of the house. It's actually been recently renovated by the brothers in Fall 2024!
+We will have two doubles available for rent this summer. These rooms include Vista, located on the second floor of the house, as well as Virginia, located on the third floor of the house.
 
 ###### Triples
 
-We will have two triples available for rent this summer. These rooms include Virginia and Peck located on the third floor of the house. 
+We will have two triples available for rent this summer. These rooms include Peck, located on the third floor of the house, and Beer, located on the fourth floor.
 
 ###### Quads
 
-Four quads will be available for rent. These rooms include Sunrise and Tomb located on the third floor, and Studio and Beer located on the fourth floor. For more information about our rooms and a bit about their places in PKT house lore, visit the [House](https://pkt.mit.edu/house/) tab of this website.
+Three quads will be available for rent. These rooms include Sunrise and Tomb located on the third floor, and Studio, located on the fourth floor. For more information about our rooms and a bit about their places in PKT house lore, visit the [House](https://pkt.mit.edu/house/) tab of this website.
 
 ###### Room Rates
 
