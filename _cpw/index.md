@@ -1,30 +1,30 @@
 ---
 title: CPW Schedule
-subtitle: MIT Spring 2024
+subtitle: MIT Spring 2025
 layout: schedule
 position: 0
 permalink: /cpw/
 schedule:
   - day: Friday
-    date: Apr 12th
+    date: Apr 18th
     events:
-      - name: "Ultimate Frisbee and Soccer"
-        description: "Join us for a game of Ultimate Frisbee outside on a beautiful April afternoon. Or soccer if that's your thing. Either way, come to Barry Field for a swell time. Beginners welcome!"
-        start: 3:00 PM ET
-        end: 4:30 PM ET
-      - name: "PKT Presents: Analise Concert - Live Music & Vibes"
-        description: "Are you looking for new indie music to add to your playlist? Would you like to discover and support a local artist? Come to PKT this Friday Night for a live performance from <a href='https://www.instagram.com/analise.music' target='_blank'>Analise</a>! Food will be provided! Call 321-PKT-LINE for a ride."
+      - name: "Ultimate Frisbee and Soccer Open Play"
+        description: "Join the brothers of PKT on Barry Field for pickup rounds of Soccer and Ultimate Frisbee! Open to anyone."
+        start: 3:15 PM ET
+        end: 5:15 PM ET
+      - name: "Game Night at PKT"
+        description: "A Smash Tournament, VR headsets, and board games galore. Come and play some of PKT's favorite games! Call 321-PKT-LINE for a ride."
         start: 8:00 PM ET
         end: 11:00 PM ET
   - day: Saturday
-    date: Apr 13th
+    date: Apr 19th
     events:
-      - name: "PKT Poker Tournament"
-        description: "Feeling lucky? Join us at PKT for our annual Poker Tournament! All are welcome, beginners or advanced. We'll be giving out hundreds of dollars of prizes (3D Printer, Apple Watch, JBL Speaker, and more). Call 321-PKT-LINE for a ride."
+      - name: "PKT PoKer Tournament"
+        description: "Want to play poker and win from a prize pool of headphones, monitors, speakers, and 3D printers? Join the brothers of Phi Kappa Theta at our historic, annual Poker Tournament! All skill levels welcome. Call 321-PKT-LINE for a ride."
         start: 8:00 PM ET
         end: 11:00 PM ET
-      - name: "Late Night Desserts"
-        description: "Got a sweet tooth? Join us at PKT for a course of late night desserts curated by our star dessert chefs. Call 321-PKT-LINE for a ride."
+      - name: "Late Night Desserts at PKT"
+        description: "Milkshakes, Cookies, Brownies! What could be better after a long weekend of exhausting events? Join us at PKT for some delectable desserts! Call 321-PKT-LINE for a ride."
         start: 11:00 PM ET
         end: 1:00 AM ET
 ---
