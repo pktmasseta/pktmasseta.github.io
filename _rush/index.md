@@ -36,7 +36,7 @@ schedule:
     date: August 31st
     events:
       - name: "Paintball with PKT"
-        description: "Join the Brothers of PKT as we ball in the paint or paint some balls or whatever "Paintball" means."
+        description: "Join the Brothers of PKT as we ball in the paint or paint some balls or whatever 'Paintball' means."
         start: 12:30 PM ET
         end: 3:00 PM ET
       - name: "Grillin' and Chillin'"
