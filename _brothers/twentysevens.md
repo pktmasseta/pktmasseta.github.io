@@ -103,15 +103,15 @@ brothers:
     nickname: 
     blurb: >
       There will never again be a man quite like Cole. There is but one person who dyed his hair purple and then went on to max out the athletic evaluation in ROTC in the same month; one person who can send a V9 in the rock-climbing gym and tear up a saxophone solo for the wind ensemble; one person who can lead a team in a push-up competition and coordinate a sexy dance number. That man is Cole Wickert. If you have the pleasure of getting to know Cole, you’ll eventually learn not to be intimidated by his intense discipline and resolute stoicism, because at his core, you’ll find him to be one of the goofiest and sweetest brothers and friends you’ll ever meet. Cole is a cornerstone of our brotherhood, and we are extremely grateful to have him.
-  - initials: EMZ
-    name: Ethan Zentner
-    activities: Climbing, 3D Printing, MechE debauchery, Running
-    major: 
-    hometown: 
-    quote:
-    nickname: Iron Man
-    blurb: >
-      Standing tall at 6’4” and built like a titan, Ethan is the man every woman dreams of and every guy wishes he be. He's not just an engineering prodigy; he's the very embodiment of creativity. Practically living in the Vassar makerspace, this caffeine-fueled mastermind has hands that work magic with the brain of Iron Man. When he’s not building mind-blowing drones or epic displays for the house, you’ll find him having the kind of deep, soul-stirring conversations that leave you questioning the very fabric of existence. A builder by day and a philosopher by night, Ethan doesn’t just face challenges; he dominates them, whether it’s tackling a notoriously tough physics class or diving headfirst into the startup world. A relentless workaholic, he’s always on the move—literally—zipping by on his electric longboard. Keep your eyes peeled because this guy’s inventions are bound to change the world.
+  # - initials: EMZ
+  #   name: Ethan Zentner
+  #   activities: Climbing, 3D Printing, MechE debauchery, Running
+  #   major: 
+  #   hometown: 
+  #   quote:
+  #   nickname: Iron Man
+  #   blurb: >
+  #     Standing tall at 6’4” and built like a titan, Ethan is the man every woman dreams of and every guy wishes he be. He's not just an engineering prodigy; he's the very embodiment of creativity. Practically living in the Vassar makerspace, this caffeine-fueled mastermind has hands that work magic with the brain of Iron Man. When he’s not building mind-blowing drones or epic displays for the house, you’ll find him having the kind of deep, soul-stirring conversations that leave you questioning the very fabric of existence. A builder by day and a philosopher by night, Ethan doesn’t just face challenges; he dominates them, whether it’s tackling a notoriously tough physics class or diving headfirst into the startup world. A relentless workaholic, he’s always on the move—literally—zipping by on his electric longboard. Keep your eyes peeled because this guy’s inventions are bound to change the world.
   - initials: JIJ
     name: Jacob Jobraeel
     activities: Soccer, Pokerbots, Lifting
