@@ -12,7 +12,7 @@ Applicants will be evaluated on a rolling basis, so it's in your best interest t
 
 We will accept applicants on a rolling basis. Accepted tenants will be sent a housing contract, as well as rooming, roommate, and social preference forms. Applicants must decide to commit to living at PKT within 5 days of receiving their acceptance. Any applicants on our wait list will be communicated separate details should you be accepted. You will only be required to pay for your room should you sign the contract, which commits our room to you, so it’s up to you to officially decide!
 
-Additionally, there is also a $600 security deposit which will be refunded at the end of the summer.
+Additionally, there is also a $250 security deposit which will be refunded at the end of the summer.
 
 ###### Can you tell me more about this cleaning service?
 
@@ -44,5 +44,5 @@ Pricing depends on the room type you select. Please visit the [Rates](https://pk
 
 ###### Who can I contact for more info?
 
-Please contact PKT Vice President Samuel Zhou at pkt-summerhousing@mit.edu.
+Please contact PKT Vice President Baxter Barlow at pkt-summerhousing@mit.edu.
 
