@@ -20,9 +20,9 @@ Three quads will be available for rent. These rooms include Sunrise and Tomb loc
 
 Doubles: $3900
 
-Triples: $3250
+Triples: $3400
 
-Quads: $2800
+Quads: $2900
 
 These prices are per person and are total, all-inclusive prices for the entire summer. If you do choose to stay with us this summer, we will also request an additional $600 security deposit which will be refunded after your move out date.
 
