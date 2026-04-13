@@ -24,7 +24,7 @@ Unfortunately, due to the architectural limitations of our house, it is not whee
 
 ###### When is move in / move out day?
 
-Accepted residents can move in any time after 5:00PM on Sunday June 1st, 2025 and must move out of the house by 5:00PM on Saturday August 16th, 2025.  If you must move in on a date other than June 1st, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
+Accepted residents can move in any time after 5:00PM on Sunday May 31st, 2026 and must move out of the house by 5:00PM on Saturday August 15th, 2026.  If you must move in on a date other than June 1st, you must give a one week notice to the housing team. Alternative start and end dates can be negotiated on a case-by-case basis.
 
 ###### Is there shorter period summer housing?
 
