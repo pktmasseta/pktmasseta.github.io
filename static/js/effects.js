@@ -2133,17 +2133,65 @@
     });
   }
 
+  /* Rush week: while rush is actually running, the house computer opens the
+     schedule for you instead of the Welcome window, and Calendar wears a badge.
+     The dates come from the rush schedule itself, so this switches itself off
+     the day after the last event without anyone having to remember. */
+
+  function rushIsRunning() {
+    var from = desktop.getAttribute("data-rush-from");
+    var to = desktop.getAttribute("data-rush-to");
+    if (!from || !to) return false;
+    var now = new Date();
+    var today = now.getFullYear() + "-" +
+      String(now.getMonth() + 1).padStart(2, "0") + "-" +
+      String(now.getDate()).padStart(2, "0");
+    return today >= from && today <= to;
+  }
+
+  var rushOn = rushIsRunning();
+  if (rushOn) desktop.classList.add("is-rush");
+
+  function presentRush() {
+    var win = findWindow("rush");
+    if (!win) return false;
+    store("session", "pkt-229-rush-shown", "1");
+    window.setTimeout(function () {
+      if (windows.some(isOpen)) return;
+      openWindow("rush", { focusContent: false });
+      if (!reduceMotion.matches) {
+        win.classList.remove("is-opening");
+        win.classList.add("is-presenting");
+        /* animationend can be late or never in a background tab, and a window
+           left mid-animation is worse than one that simply appeared. */
+        var settle = function () {
+          window.clearTimeout(presentTimer);
+          win.classList.remove("is-presenting");
+          win.removeEventListener("animationend", settle);
+        };
+        var presentTimer = window.setTimeout(settle, 900);
+        win.addEventListener("animationend", settle);
+      }
+      announce("Rush is on this week. The Rush schedule is open. Close it to reach the desktop.");
+    }, reduceMotion.matches ? 0 : 900);
+    return true;
+  }
+
   /* Session start: Welcome first, then the Rush notification */
 
   var notified = false;
 
   function startSession() {
-    if (welcomeWanted() && findWindow("welcome")) openWindow("welcome", { focusContent: false });
-    else {
-      blurWindows();
-      announce("Desktop ready.");
+    var presenting = rushOn && store("session", "pkt-229-rush-shown") !== "1" && presentRush();
+    if (!presenting) {
+      if (welcomeWanted() && findWindow("welcome")) openWindow("welcome", { focusContent: false });
+      else {
+        blurWindows();
+        announce("Desktop ready.");
+      }
     }
-    if (!notified && notification && store("session", "pkt-229-notified") !== "1") {
+    /* The banner says "Rush starts Saturday"; do not say it over the open schedule. */
+    if (!presenting && !notified && notification && store("session", "pkt-229-notified") !== "1") {
       notified = true;
       store("session", "pkt-229-notified", "1");
       window.setTimeout(showNotification, reduceMotion.matches ? 600 : 1800);

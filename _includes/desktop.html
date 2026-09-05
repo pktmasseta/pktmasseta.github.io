@@ -10,7 +10,17 @@
   </defs>
 </svg>
 
-<section class="mac-desktop" data-desktop data-wallpaper="magnolia" data-about-url="{{ site.baseurl }}/about/" aria-label="229, the Phi Kappa Theta house computer">
+{% assign rushpage = site.rush | where: "permalink", "/rush/" | first %}
+{% assign rush_year = rushpage.subtitle | split: " " | last %}
+{% assign rush_first = rushpage.schedule | first %}
+{% assign rush_last = rushpage.schedule | last %}
+{% assign rush_from_day = rush_first.date | split: " " | last | remove: "st" | remove: "nd" | remove: "rd" | remove: "th" %}
+{% assign rush_to_day = rush_last.date | split: " " | last | remove: "st" | remove: "nd" | remove: "rd" | remove: "th" %}
+{% capture rush_from_text %}{{ rush_first.date | split: " " | first }} {{ rush_from_day }}, {{ rush_year }}{% endcapture %}
+{% capture rush_to_text %}{{ rush_last.date | split: " " | first }} {{ rush_to_day }}, {{ rush_year }}{% endcapture %}
+{% assign rush_events = 0 %}{% for rush_day in rushpage.schedule %}{% assign rush_events = rush_events | plus: rush_day.events.size %}{% endfor %}
+
+<section class="mac-desktop" data-desktop data-wallpaper="magnolia" data-about-url="{{ site.baseurl }}/about/" data-rush-from="{{ rush_from_text | date: "%Y-%m-%d" }}" data-rush-to="{{ rush_to_text | date: "%Y-%m-%d" }}" data-rush-events="{{ rush_events }}" aria-label="229, the Phi Kappa Theta house computer">
   <div class="mac-boot" data-boot hidden aria-hidden="true">
     <svg class="mac-boot__crest" aria-hidden="true"><use href="#i-crest"/></svg>
     <div class="mac-boot__bar"><span></span></div>
@@ -344,7 +354,6 @@
       <a class="desktop-widget desktop-widget--calendar" href="{{ site.baseurl }}/rush/">
         <p class="desktop-widget__label" data-widget-day>SAT</p>
         <p class="desktop-widget__big" data-widget-date>5</p>
-        {% assign rushpage = site.rush | where: "permalink", "/rush/" | first %}
         <p class="desktop-widget__event"><span></span><b>Rush</b><small>{{ rushpage.schedule.first.date | replace: "August", "Aug" | replace: "September", "Sep" | remove: "th" | remove: "st" | remove: "nd" | remove: "rd" }} to {{ rushpage.schedule.last.date | replace: "August", "Aug" | replace: "September", "Sep" | remove: "th" | remove: "st" | remove: "nd" | remove: "rd" }}</small></p>
         <p class="desktop-widget__event desktop-widget__event--green"><span></span><b>Ride line</b><small>321-PKT-LINE</small></p>
       </a>
@@ -359,7 +368,7 @@
       <a href="{{ site.baseurl }}/house/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/finder.png" alt="" width="256" height="256" decoding="async"><span>House Tour</span></a>
       <a href="{{ site.baseurl }}/brothers/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/contacts.png" alt="" width="256" height="256" decoding="async"><span>Brothers</span></a>
       <button type="button" data-open-window="photos"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/photos.png" alt="" width="256" height="256" decoding="async"><span>Photos</span></button>
-      <a href="{{ site.baseurl }}/rush/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/calendar.png" alt="" width="256" height="256" decoding="async"><span>Rush</span></a>
+      <a class="has-badge" href="{{ site.baseurl }}/rush/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/calendar.png" alt="" width="256" height="256" decoding="async"><b class="app-badge" aria-hidden="true">{{ rush_events }}</b><span>Rush</span></a>
       <a href="{{ site.baseurl }}/cpw/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/maps.png" alt="" width="256" height="256" decoding="async"><span>CPW</span></a>
       <a href="{{ site.baseurl }}/activities/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/pictures.png" alt="" width="256" height="256" decoding="async"><span>Activities</span></a>
       <a href="{{ site.baseurl }}/about/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/safari.png" alt="" width="256" height="256" decoding="async"><span>About</span></a>
@@ -843,7 +852,7 @@
       <button type="button" data-open-window="finder" data-label="House Tour" title="House Tour"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/finder.png" alt="" width="256" height="256" decoding="async"><span>House Tour</span></button>
       <button type="button" data-open-window="contacts" data-label="Brothers" title="Brothers"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/contacts.png" alt="" width="256" height="256" decoding="async"><span>Brothers</span></button>
       <button type="button" data-open-window="photos" data-label="Photos" title="Photos"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/photos.png" alt="" width="256" height="256" decoding="async"><span>Photos</span></button>
-      <button type="button" data-open-window="rush" data-label="Rush" title="Rush"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/calendar.png" alt="" width="256" height="256" decoding="async"><span>Rush</span></button>
+      <button type="button" class="has-badge" data-open-window="rush" data-label="Rush" title="Rush"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/calendar.png" alt="" width="256" height="256" decoding="async"><b class="app-badge" aria-hidden="true">{{ rush_events }}</b><span>Rush</span></button>
       <button type="button" data-open-window="summer" data-label="Summer Housing" title="Summer Housing"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/notes.png" alt="" width="256" height="256" decoding="async"><span>Summer Housing</span></button>
       <button type="button" data-open-window="archive" data-label="2019 Rush Poster" title="2019 Rush Poster"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/preview.png" alt="" width="256" height="256" decoding="async"><span>2019 Rush Poster</span></button>
       <button type="button" data-open-window="terminal" data-label="Terminal" title="Terminal"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/terminal.png" alt="" width="256" height="256" decoding="async"><span>Terminal</span></button>
