@@ -1,0 +1,329 @@
+---
+layout: default
+desktop: true
+title: 229 98 — The House Computer (archived)
+description: An archived alternative home page for Phi Kappa Theta at MIT, styled as a Windows 98 house computer.
+permalink: /98/
+stylesheet: /static/css/win98.css
+script: /static/js/win98.js
+sitemap: false
+---
+<svg class="icon-defs" width="0" height="0" aria-hidden="true" focusable="false">
+  <defs>
+    <symbol id="i-house" viewBox="0 0 32 32" shape-rendering="crispEdges">
+      <rect x="6" y="12" width="20" height="18" fill="#800000" stroke="#000" stroke-width="1"/>
+      <path d="M4 13 L16 3 L28 13 Z" fill="#000080" stroke="#000" stroke-width="1"/>
+      <rect x="9" y="15" width="4" height="5" fill="#ffffff" stroke="#000" stroke-width="1"/>
+      <rect x="19" y="15" width="4" height="5" fill="#ffffff" stroke="#000" stroke-width="1"/>
+      <rect x="9" y="23" width="4" height="5" fill="#ffffff" stroke="#000" stroke-width="1"/>
+      <rect x="18" y="22" width="6" height="8" fill="#808000" stroke="#000" stroke-width="1"/>
+      <rect x="3" y="29" width="26" height="2" fill="#808080"/>
+    </symbol>
+    <symbol id="i-people" viewBox="0 0 32 32" shape-rendering="crispEdges">
+      <circle cx="11" cy="10" r="5" fill="#ffffff" stroke="#000" stroke-width="1"/>
+      <path d="M3 28 C3 19 19 19 19 28 Z" fill="#000080" stroke="#000" stroke-width="1"/>
+      <circle cx="22" cy="12" r="5" fill="#ffffff" stroke="#000" stroke-width="1"/>
+      <path d="M14 29 C14 21 30 21 30 29 Z" fill="#800000" stroke="#000" stroke-width="1"/>
+    </symbol>
+    <symbol id="i-rush" viewBox="0 0 32 32" shape-rendering="crispEdges">
+      <rect x="6" y="3" width="2" height="27" fill="#808080" stroke="#000" stroke-width="1"/>
+      <path d="M8 4 L29 9 L8 14 Z" fill="#800000" stroke="#000" stroke-width="1"/>
+      <path d="M8 14 L29 19 L8 24 Z" fill="#ffff00" stroke="#000" stroke-width="1"/>
+    </symbol>
+    <symbol id="i-archive" viewBox="0 0 32 32" shape-rendering="crispEdges">
+      <path d="M2 8 L12 8 L14 11 L30 11 L30 28 L2 28 Z" fill="#ffff00" stroke="#000" stroke-width="1"/>
+      <rect x="2" y="13" width="28" height="15" fill="#ffffcc" stroke="#000" stroke-width="1"/>
+      <rect x="8" y="17" width="16" height="2" fill="#808080"/>
+      <rect x="8" y="21" width="12" height="2" fill="#808080"/>
+    </symbol>
+    <symbol id="i-summer" viewBox="0 0 32 32" shape-rendering="crispEdges">
+      <circle cx="16" cy="13" r="7" fill="#ffff00" stroke="#000" stroke-width="1"/>
+      <path d="M16 1 L16 4 M16 22 L16 25 M4 13 L7 13 M25 13 L28 13 M7 4 L9 6 M23 20 L25 22 M25 4 L23 6 M9 20 L7 22" stroke="#000" stroke-width="2"/>
+      <path d="M2 27 Q6 24 10 27 T18 27 T26 27 T30 27 L30 31 L2 31 Z" fill="#008080" stroke="#000" stroke-width="1"/>
+    </symbol>
+    <symbol id="i-terminal" viewBox="0 0 32 32" shape-rendering="crispEdges">
+      <rect x="2" y="4" width="28" height="22" fill="#c0c0c0" stroke="#000" stroke-width="1"/>
+      <rect x="4" y="6" width="24" height="18" fill="#000000"/>
+      <text x="6" y="17" font-family="Courier New, monospace" font-size="9" font-weight="bold" fill="#ffffff">C:\_</text>
+      <rect x="10" y="27" width="12" height="3" fill="#808080" stroke="#000" stroke-width="1"/>
+    </symbol>
+    <symbol id="i-welcome" viewBox="0 0 32 32" shape-rendering="crispEdges">
+      <rect x="3" y="5" width="26" height="22" fill="#ffffff" stroke="#000" stroke-width="1"/>
+      <rect x="3" y="5" width="26" height="5" fill="#000080"/>
+      <rect x="6" y="13" width="20" height="2" fill="#808080"/>
+      <rect x="6" y="17" width="14" height="2" fill="#808080"/>
+      <rect x="6" y="21" width="17" height="2" fill="#808080"/>
+    </symbol>
+    <symbol id="i-crest" viewBox="0 0 32 32">
+      <image href="{{ site.baseurl }}/static/img/crest.png" width="32" height="32" preserveAspectRatio="xMidYMid meet"/>
+    </symbol>
+  </defs>
+</svg>
+
+<section class="house-desktop" data-desktop aria-label="229, the Phi Kappa Theta house computer">
+  <div class="boot-screen" data-boot aria-hidden="true">
+    <div class="boot-screen__logo">
+      <svg class="boot-screen__crest" width="72" height="72" aria-hidden="true"><use href="#i-crest"/></svg>
+      <div>
+        <p class="boot-screen__name">Phi Kappa Theta<span>229</span></p>
+        <p class="boot-screen__ver">The house computer · Massachusetts Eta · MIT</p>
+      </div>
+    </div>
+    <p class="boot-screen__msg">Starting 229 98 <span>guest session</span></p>
+    <div class="boot-screen__bar"><span></span></div>
+  </div>
+
+  <div class="desktop-workspace" data-workspace>
+    <figure class="desktop-wallpaper" aria-hidden="true">
+      <img src="{{ site.baseurl }}/static/img/banner/twentysevens.jpg" alt="">
+      <figcaption>229 Commonwealth Avenue</figcaption>
+    </figure>
+
+    <nav class="desktop-icons" aria-label="House applications">
+      <button type="button" class="desktop-icon" data-open-window="house">
+        <svg class="desktop-icon__image" aria-hidden="true"><use href="#i-house"/></svg>
+        <span class="desktop-icon__label">229 (C:)</span>
+      </button>
+      <button type="button" class="desktop-icon" data-open-window="people">
+        <svg class="desktop-icon__image" aria-hidden="true"><use href="#i-people"/></svg>
+        <span class="desktop-icon__label">Brothers</span>
+      </button>
+      <button type="button" class="desktop-icon" data-open-window="rush">
+        <svg class="desktop-icon__image" aria-hidden="true"><use href="#i-rush"/></svg>
+        <span class="desktop-icon__label">Rush</span>
+      </button>
+      <button type="button" class="desktop-icon" data-open-window="archive">
+        <svg class="desktop-icon__image" aria-hidden="true"><use href="#i-archive"/></svg>
+        <span class="desktop-icon__label">Archive</span>
+      </button>
+      <button type="button" class="desktop-icon" data-open-window="summer">
+        <svg class="desktop-icon__image" aria-hidden="true"><use href="#i-summer"/></svg>
+        <span class="desktop-icon__label">Summer Housing</span>
+      </button>
+      <button type="button" class="desktop-icon" data-open-window="terminal">
+        <svg class="desktop-icon__image" aria-hidden="true"><use href="#i-terminal"/></svg>
+        <span class="desktop-icon__label">MS-DOS Prompt</span>
+      </button>
+    </nav>
+
+    <!-- Welcome -->
+    <section class="os-window os-window--welcome is-open is-focused" data-window="welcome" data-default-window aria-labelledby="welcome-title" style="--window-x: 22vw; --window-y: 10vh; --window-w: min(720px, 66vw); --window-h: min(470px, 70vh)">
+      <header class="window-bar" data-window-handle>
+        <p><svg class="window-bar__badge" aria-hidden="true"><use href="#i-welcome"/></svg><strong id="welcome-title">Welcome to 229</strong></p>
+        <div class="window-controls">
+          <button type="button" data-window-minimize aria-label="Minimize Welcome"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-maximize aria-label="Maximize Welcome"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-close aria-label="Close Welcome"><span aria-hidden="true"></span></button>
+        </div>
+      </header>
+      <div class="window-content welcome-app">
+        <div class="welcome-app__banner">
+          <p class="welcome-app__brand">Phi Kappa Theta · MIT</p>
+          <h1>Welcome</h1>
+          <p class="welcome-app__sub">to the house computer at 229 Commonwealth Avenue</p>
+          <figure class="welcome-app__photo">
+            <img src="{{ site.baseurl }}/static/img/banner/twentyfives.jpg" alt="Members of the Phi Kappa Theta class of 2025 together">
+            <figcaption>Class of 2025</figcaption>
+          </figure>
+        </div>
+        <div class="welcome-app__menu">
+          <p class="welcome-app__intro">This machine has been shared by generations of MIT students. Open a window. Move things around. Find something strange.</p>
+          <button type="button" class="welcome-app__item" data-open-window="house"><svg aria-hidden="true"><use href="#i-house"/></svg><span><strong>Explore 229</strong><small>Six floors, one roofdeck, every room with a name.</small></span></button>
+          <button type="button" class="welcome-app__item" data-open-window="people"><svg aria-hidden="true"><use href="#i-people"/></svg><span><strong>Meet the brothers</strong><small>Thirteen classes of portraits, 2016 to 2028.</small></span></button>
+          <button type="button" class="welcome-app__item" data-open-window="rush"><svg aria-hidden="true"><use href="#i-rush"/></svg><span><strong>Rush Phi Kappa Theta</strong><small>Start here. Free food, free rides, no hazing.</small></span></button>
+          <button type="button" class="welcome-app__item" data-open-window="terminal"><svg aria-hidden="true"><use href="#i-terminal"/></svg><span><strong>MS-DOS Prompt</strong><small>House commands for the curious.</small></span></button>
+          <label class="welcome-app__check"><input type="checkbox" data-welcome-toggle checked> Show this screen each time 229 starts.</label>
+        </div>
+      </div>
+      <p class="window-status"><span>Guest session</span><span>229 98 · Build 19.43</span></p>
+    </section>
+
+    <!-- House -->
+    <section class="os-window os-window--house" data-window="house" hidden aria-labelledby="house-title" style="--window-x: 12vw; --window-y: 7vh; --window-w: min(860px, 76vw); --window-h: min(560px, 72vh)">
+      <header class="window-bar" data-window-handle>
+        <p><svg class="window-bar__badge" aria-hidden="true"><use href="#i-house"/></svg><strong id="house-title">229 Commonwealth Avenue</strong></p>
+        <div class="window-controls">
+          <button type="button" data-window-minimize aria-label="Minimize 229"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-maximize aria-label="Maximize 229"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-close aria-label="Close 229"><span aria-hidden="true"></span></button>
+        </div>
+      </header>
+      <div class="window-address"><span>Address</span><div class="window-address__field"><svg aria-hidden="true"><use href="#i-house"/></svg><span data-address>C:\229\Roofdeck</span></div></div>
+      <div class="window-content house-app">
+        <nav class="house-tree" aria-label="Floors at 229">
+          <p class="house-tree__root"><svg aria-hidden="true"><use href="#i-house"/></svg> 229 (C:)</p>
+          <button type="button" class="is-active" data-floor="roofdeck" data-path="C:\229\Roofdeck" aria-pressed="true"><i aria-hidden="true"></i>Roofdeck</button>
+          <button type="button" data-floor="fourth" data-path="C:\229\Fourth Floor" aria-pressed="false"><i aria-hidden="true"></i>Fourth floor</button>
+          <button type="button" data-floor="third" data-path="C:\229\Third Floor" aria-pressed="false"><i aria-hidden="true"></i>Third floor</button>
+          <button type="button" data-floor="second" data-path="C:\229\Second Floor" aria-pressed="false"><i aria-hidden="true"></i>Second floor</button>
+          <button type="button" data-floor="first" data-path="C:\229\First Floor" aria-pressed="false"><i aria-hidden="true"></i>First floor</button>
+          <button type="button" data-floor="basement" data-path="C:\229\Basement" aria-pressed="false"><i aria-hidden="true"></i>Basement</button>
+        </nav>
+        <div class="house-preview">
+          <section class="floor-file is-active" data-floor-panel="roofdeck">
+            <p class="floor-file__name">roofdeck.txt</p><h2>Look back at where you came from.</h2><p>The Great Dome appears between the buildings from the river-side edge of the roofdeck. Every Fourth of July the house watches the fireworks over the Charles from up here.</p><a href="{{ site.baseurl }}/house/roofdeck/">Open the roofdeck</a>
+          </section>
+          <section class="floor-file" data-floor-panel="fourth" hidden>
+            <p class="floor-file__name">canyon_mural_FINAL_found.jpg</p><h2>Image not found. Story found.</h2><p>One alumnus remembered a Grand Canyon mural under the paint. Another denied it. Brothers chipped through the wall and found nothing. The Flying Bedroom, the Studio and the Beer Room are up here too.</p><a href="{{ site.baseurl }}/house/fourth/">Investigate the fourth floor</a>
+          </section>
+          <section class="floor-file" data-floor-panel="third" hidden>
+            <p class="floor-file__name">third_floor.rooms</p><h2>Sunrise in front. Tomb behind.</h2><p>Bay windows on the Mall, a room painted like a tequila sunrise, the Peck with its unfinished comic strip, and a room so dark everyone sleeps late.</p><a href="{{ site.baseurl }}/house/third/">Open the third floor</a>
+          </section>
+          <section class="floor-file" data-floor-panel="second" hidden>
+            <p class="floor-file__name">ballroom_origin.txt</p><h2>The bedroom was a ballroom.</h2><p>The old Back Bay floor plan survives in the room names: the Ballroom above the orchestra Pit, and the Chapter Room with its original panelling and three Founders’ Cups.</p><a href="{{ site.baseurl }}/house/second/">Open the second floor</a>
+          </section>
+          <section class="floor-file" data-floor-panel="first" hidden>
+            <p class="floor-file__name">stairwell_archive.index</p><h2>The walls remember everybody.</h2><p>Composites line the stairs from the late sixties to today. First Front has the pool table and the bar; First Rear serves dinner five nights a week.</p><a href="{{ site.baseurl }}/house/first/">Open the first floor</a>
+          </section>
+          <section class="floor-file" data-floor-panel="basement" hidden>
+            <p class="floor-file__name">basement.utilities</p><h2>Where dinner and deadlifts begin.</h2><p>An industrial kitchen with six burners and two ovens, and a gym built over IAP 2016 with a squat rack, a platform and the bike rack.</p><a href="{{ site.baseurl }}/house/basement/">Open the basement</a>
+          </section>
+        </div>
+      </div>
+      <p class="window-status"><span>6 object(s)</span><span>Home since 1943</span></p>
+    </section>
+
+    <!-- People -->
+    <section class="os-window os-window--people" data-window="people" hidden aria-labelledby="people-title" style="--window-x: 18vw; --window-y: 6vh; --window-w: min(880px, 76vw); --window-h: min(580px, 74vh)">
+      <header class="window-bar" data-window-handle>
+        <p><svg class="window-bar__badge" aria-hidden="true"><use href="#i-people"/></svg><strong id="people-title">Brothers</strong></p>
+        <div class="window-controls">
+          <button type="button" data-window-minimize aria-label="Minimize Brothers"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-maximize aria-label="Maximize Brothers"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-close aria-label="Close Brothers"><span aria-hidden="true"></span></button>
+        </div>
+      </header>
+      <div class="window-address"><span>Address</span><div class="window-address__field"><svg aria-hidden="true"><use href="#i-people"/></svg><span>C:\229\Brothers</span></div></div>
+      <div class="window-content people-app">
+        <header class="people-app__header"><h2>Who has called 229 home?</h2><p>Select a class to open its album of portraits and bios.</p></header>
+        <div class="people-app__albums">
+          {% assign classes = site.brothers | sort: "year" | reverse %}
+          {% for class in classes %}{% if class.year %}
+          <a href="{{ class.url }}"><svg aria-hidden="true"><use href="#i-archive"/></svg><span>Class of {{ class.year }}</span><strong>{{ class.brothers | size }} portraits</strong></a>
+          {% endif %}{% endfor %}
+        </div>
+        <figure class="people-app__photo"><img src="{{ site.baseurl }}/static/img/banner/twentysevens.jpg" alt="Members of the Phi Kappa Theta class of 2027 together"><figcaption>Class of 2027</figcaption></figure>
+      </div>
+      <p class="window-status"><span>13 object(s)</span><span>Nearly fifty brothers</span></p>
+    </section>
+
+    <!-- Rush -->
+    <section class="os-window os-window--rush" data-window="rush" hidden aria-labelledby="rush-title" style="--window-x: 24vw; --window-y: 12vh; --window-w: min(700px, 70vw); --window-h: auto">
+      <header class="window-bar" data-window-handle>
+        <p><svg class="window-bar__badge" aria-hidden="true"><use href="#i-rush"/></svg><strong id="rush-title">Rush Phi Kappa Theta</strong></p>
+        <div class="window-controls">
+          <button type="button" data-window-minimize aria-label="Minimize Rush"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-maximize aria-label="Maximize Rush"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-close aria-label="Close Rush"><span aria-hidden="true"></span></button>
+        </div>
+      </header>
+      <div class="window-content dialog-app rush-app">
+        <figure class="dialog-app__photo"><img src="{{ site.baseurl }}/static/img/banner/rush.jpg" alt="Phi Kappa Theta brothers at a Rush event"><figcaption>Rush · Massachusetts Eta</figcaption></figure>
+        <div class="dialog-app__body">
+          <h2>Meet the people, then decide for yourself.</h2>
+          <p>Rush is the quickest way to understand what life at 229 actually feels like. Come for a meal, stay for the poker tournament. No hazing, ever, and nobody has to drink.</p>
+          <div class="dialog-app__field"><label>House ride line</label><a class="dialog-app__phone" href="tel:3217585463">321-PKT-LINE</a></div>
+          <div class="dialog-app__buttons"><a class="btn btn--default" href="{{ site.baseurl }}/rush/">Open Rush schedule</a><a class="btn" href="{{ site.baseurl }}/rush/faq/">Rush FAQ</a></div>
+        </div>
+      </div>
+      <p class="window-status"><span>Fall recruitment</span><span>Call 321-PKT-LINE for a ride</span></p>
+    </section>
+
+    <!-- Archive -->
+    <section class="os-window os-window--archive" data-window="archive" hidden aria-labelledby="archive-title" style="--window-x: 16vw; --window-y: 8vh; --window-w: min(760px, 72vw); --window-h: auto">
+      <header class="window-bar" data-window-handle>
+        <p><svg class="window-bar__badge" aria-hidden="true"><use href="#i-archive"/></svg><strong id="archive-title">Archive · rush_2019.jpg</strong></p>
+        <div class="window-controls">
+          <button type="button" data-window-minimize aria-label="Minimize Archive"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-maximize aria-label="Maximize Archive"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-close aria-label="Close Archive"><span aria-hidden="true"></span></button>
+        </div>
+      </header>
+      <div class="window-content dialog-app archive-app">
+        <figure class="dialog-app__photo dialog-app__photo--wide"><img src="{{ site.baseurl }}/static/img/banner/rush_2019.jpg" alt="Illustrated space-themed Phi Kappa Theta Rush poster from 2019"><figcaption>rush_2019.jpg · 960 × 502</figcaption></figure>
+        <div class="dialog-app__body">
+          <h2>Space suits. Clam chowder. Midnight beach rave.</h2>
+          <p>An old Rush poster survives because a house should keep the strange evidence of who it has been. The chapter first met in 1918 in Senior House, joined Phi Kappa in 1919, and moved to 229 Commonwealth Avenue in 1943.</p>
+          <div class="dialog-app__buttons"><a class="btn btn--default" href="{{ site.baseurl }}/about/">Chapter history</a><a class="btn" href="{{ site.baseurl }}/about/ideals/">The four ideals</a></div>
+        </div>
+      </div>
+      <p class="window-status"><span>Recovered file</span><span>Est. 1918</span></p>
+    </section>
+
+    <!-- Summer -->
+    <section class="os-window os-window--summer" data-window="summer" hidden aria-labelledby="summer-title" style="--window-x: 22vw; --window-y: 11vh; --window-w: min(700px, 70vw); --window-h: auto">
+      <header class="window-bar" data-window-handle>
+        <p><svg class="window-bar__badge" aria-hidden="true"><use href="#i-summer"/></svg><strong id="summer-title">Summer Housing</strong></p>
+        <div class="window-controls">
+          <button type="button" data-window-minimize aria-label="Minimize Summer Housing"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-maximize aria-label="Maximize Summer Housing"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-close aria-label="Close Summer Housing"><span aria-hidden="true"></span></button>
+        </div>
+      </header>
+      <div class="window-content dialog-app summer-app">
+        <figure class="dialog-app__photo"><img src="{{ site.baseurl }}/static/img/banner/backbaysummer.jpg" alt="Boston's Back Bay skyline across the Charles"><figcaption>Back Bay · Summer at 229</figcaption></figure>
+        <div class="dialog-app__body">
+          <h2>A brownstone base for a Boston summer.</h2>
+          <p>Doubles, triples and quads from May 31 to August 15. Walk to the Esplanade, Copley, Fenway and MIT, then come home to dinner with the other residents.</p>
+          <div class="dialog-app__buttons"><a class="btn btn--default" href="{{ site.baseurl }}/summer/">Rates and application</a><a class="btn" href="{{ site.baseurl }}/summer/faq/">Summer FAQ</a></div>
+        </div>
+      </div>
+      <p class="window-status"><span>Summer 2026</span><span>Applications open</span></p>
+    </section>
+
+    <!-- MS-DOS Prompt -->
+    <section class="os-window os-window--terminal" data-window="terminal" hidden aria-labelledby="terminal-title" style="--window-x: 28vw; --window-y: 12vh; --window-w: min(640px, 64vw); --window-h: min(420px, 58vh)">
+      <header class="window-bar" data-window-handle>
+        <p><svg class="window-bar__badge" aria-hidden="true"><use href="#i-terminal"/></svg><strong id="terminal-title">MS-DOS Prompt · 229</strong></p>
+        <div class="window-controls">
+          <button type="button" data-window-minimize aria-label="Minimize MS-DOS Prompt"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-maximize aria-label="Maximize MS-DOS Prompt"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-close aria-label="Close MS-DOS Prompt"><span aria-hidden="true"></span></button>
+        </div>
+      </header>
+      <div class="window-content terminal-app" data-terminal>
+        <div class="terminal-output" data-terminal-output aria-live="polite">
+          <p>229 98 [Version 19.43]</p>
+          <p>(C) Phi Kappa Theta, Massachusetts Eta. Guest session.</p>
+          <p></p>
+          <p>Type HELP for a list of house commands.</p>
+        </div>
+        <form data-terminal-form><label for="house-command">C:\229&gt;</label><input id="house-command" data-terminal-input type="text" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="House terminal command"></form>
+      </div>
+    </section>
+  </div>
+
+  <aside class="house-menu" id="house-menu" data-house-menu hidden aria-label="Start menu">
+    <div class="house-menu__banner" aria-hidden="true"><span>Two Twenty-Nine</span><b>98</b></div>
+    <div class="house-menu__body">
+      <div class="house-menu__apps">
+        <button type="button" data-open-window="welcome"><svg aria-hidden="true"><use href="#i-welcome"/></svg>Welcome</button>
+        <button type="button" data-open-window="house"><svg aria-hidden="true"><use href="#i-house"/></svg>229 Commonwealth</button>
+        <button type="button" data-open-window="people"><svg aria-hidden="true"><use href="#i-people"/></svg>Brothers</button>
+        <button type="button" data-open-window="rush"><svg aria-hidden="true"><use href="#i-rush"/></svg>Rush</button>
+        <button type="button" data-open-window="archive"><svg aria-hidden="true"><use href="#i-archive"/></svg>Archive</button>
+        <button type="button" data-open-window="summer"><svg aria-hidden="true"><use href="#i-summer"/></svg>Summer Housing</button>
+        <button type="button" data-open-window="terminal"><svg aria-hidden="true"><use href="#i-terminal"/></svg>MS-DOS Prompt</button>
+      </div>
+      <nav class="house-menu__links" aria-label="Site pages">
+        <a href="{{ site.baseurl }}/about/"><svg aria-hidden="true"><use href="#i-crest"/></svg>About the chapter</a>
+        <a href="{{ site.baseurl }}/activities/"><svg aria-hidden="true"><use href="#i-crest"/></svg>Activities</a>
+        <a href="{{ site.baseurl }}/cpw/"><svg aria-hidden="true"><use href="#i-crest"/></svg>CPW</a>
+        <a href="{{ site.baseurl }}/donate/"><svg aria-hidden="true"><use href="#i-crest"/></svg>Donate</a>
+        <a href="mailto:pkt-exec-active@mit.edu"><svg aria-hidden="true"><use href="#i-welcome"/></svg>Contact the chapter</a>
+      </nav>
+      <div class="house-menu__foot">
+        <button type="button" data-restart><svg aria-hidden="true"><use href="#i-terminal"/></svg>Restart 229…</button>
+      </div>
+    </div>
+  </aside>
+
+  <nav class="os-dock" aria-label="Taskbar">
+    <button class="os-dock__home" type="button" data-menu-toggle aria-expanded="false" aria-controls="house-menu"><svg aria-hidden="true"><use href="#i-crest"/></svg><strong>Start</strong></button>
+    <div class="os-dock__divider" aria-hidden="true"></div>
+    <div class="os-dock__running" data-dock-running></div>
+    <div class="os-dock__tray"><span class="system-light" title="House online" aria-label="House online"></span><time data-clock>--:--</time></div>
+  </nav>
+
+  <p class="sr-status" data-desktop-status aria-live="polite">Welcome window is open.</p>
+</section>

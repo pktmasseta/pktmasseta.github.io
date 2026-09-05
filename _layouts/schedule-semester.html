@@ -1,25 +1,42 @@
 ---
 layout: page
 ---
-{{ content }}
-<h6 id="day-nav">GO TO:
-  <ul class="day-nav">
+{% if content != empty %}
+<div class="sched__intro">{{ content }}</div>
+{% endif %}
+
+<nav class="sched__days" aria-label="Jump to a month">
   {% for month in page.schedule %}
-    <a href="#{{ month.month }}"><li>{{ month.month }}</li></a>
+  <a class="sched__chip sched__chip--month" href="#{{ month.month | slugify }}">
+    <span class="sched__chip-text"><strong>{{ month.month }}</strong><small>{{ month.events | size }} event{% if month.events.size != 1 %}s{% endif %}</small></span>
+  </a>
   {% endfor %}
-  </ul>
-</h6>
-{% for month in page.schedule %}
-<section>
-  <a name='{{ month.month }}'></a>
-  <h6>{{ month.month }}</h6>
-  {% for event in month.events %}
-    <div class="row">
-      <div class="col-md-3">{{ event.date }}</div> 
-      <div class="col-md-3">{{ event.start }} - {{ event.end }}</div>
-      <div class="col-md-3"><strong>{{ event.name }}</strong></div>
-      <div class="col-md-3">{{ event.description }}</div>
-    </div>
+</nav>
+
+<div class="sched">
+  {% for month in page.schedule %}
+  <section class="sched__day" id="{{ month.month | slugify }}">
+    <header class="sched__dayhead">
+      <h2>{{ month.month }}</h2>
+      <p>{{ month.events | size }} event{% if month.events.size != 1 %}s{% endif %}</p>
+    </header>
+    <ol class="cal__agenda cal__agenda--page">
+      {% for event in month.events %}
+      <li class="cal-event{% if event.venue %} cal-event--away{% endif %}">
+        <div class="cal-event__row cal-event__row--static">
+          <span class="cal-event__time"><b>{{ event.date }}</b><small>{{ event.start | remove: " ET" }}</small><small>{{ event.end | remove: " ET" }}</small></span>
+          <span class="cal-event__main">
+            <strong class="cal-event__name">{{ event.name }}</strong>
+            <span class="cal-event__where">
+              <i class="sym {% if event.venue %}sym--mappin-and-ellipse{% else %}sym--house-fill{% endif %}" aria-hidden="true"></i>
+              {% if event.venue %}{{ event.venue }}{% else %}229 Commonwealth Ave{% endif %}
+            </span>
+            <span class="cal-event__desc">{{ event.description }}</span>
+          </span>
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
   {% endfor %}
-</section>
-{% endfor %}
+</div>

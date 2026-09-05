@@ -1,24 +1,62 @@
 ---
 layout: page
 ---
-{{ content }}
-<h6 id="day-nav">GO TO:
-  <ul class="day-nav">
+{% assign total = 0 %}
+{% for day in page.schedule %}{% assign total = total | plus: day.events.size %}{% endfor %}
+
+{% if content != empty %}
+<div class="sched__intro">{{ content }}</div>
+{% endif %}
+
+<p class="sched__summary">
+  <strong>{{ total }} events over {{ page.schedule | size }} days.</strong>
+  All times Eastern. Everything is at
+  <a href="https://maps.apple.com/?address=229%20Commonwealth%20Ave%2C%20Boston%2C%20MA%2002116" target="_blank" rel="noopener">229 Commonwealth Ave</a>
+  unless another location is listed. Call <a href="tel:3217585463">321-PKT-LINE</a> for a ride to any of it.
+</p>
+
+<nav class="sched__days" aria-label="Jump to a day">
   {% for day in page.schedule %}
-    <a href="#{{ day.day }}"><li>{{ day.day }}</li></a>
+  {% assign dnum = day.date | remove: "September " | remove: "August " | remove: "April " | remove: "Apr " | remove: "th" | remove: "st" | remove: "nd" | remove: "rd" %}
+  <a class="sched__chip" href="#{{ day.day | slugify }}-{{ forloop.index }}">
+    <span class="sched__chip-date"><small>{{ day.day | slice: 0, 3 | upcase }}</small><b>{{ dnum }}</b></span>
+    <span class="sched__chip-text"><strong>{{ day.day }}</strong><small>{{ day.events | size }} event{% if day.events.size != 1 %}s{% endif %}</small></span>
+  </a>
   {% endfor %}
-  </ul>
-</h6>
-{% for day in page.schedule %}
-<section>
-  <a name='{{ day.day}}'></a>
-  <h6>{{ day.day }}, {{ day.date }}</h6>
-  {% for event in day.events %}
-    <div class="row">
-      <div class="col-md-4">{{ event.start }} - {{ event.end }}</div>
-      <div class="col-md-4"><strong>{{ event.name }}</strong></div>
-      <div class="col-md-4">{{ event.description }}</div>
-    </div>
+</nav>
+
+<div class="sched">
+  {% for day in page.schedule %}
+  {% assign away = day.events | where_exp: "e", "e.venue" | size %}
+  <section class="sched__day" id="{{ day.day | slugify }}-{{ forloop.index }}">
+    <header class="sched__dayhead">
+      <h2>{{ day.day }}, {{ day.date | remove: "th" | remove: "st" | remove: "nd" | remove: "rd" }}</h2>
+      <p>{{ day.events | size }} event{% if day.events.size != 1 %}s{% endif %} &middot;
+        {{ day.events.first.start | remove: " ET" }} to {{ day.events.last.end | remove: " ET" }} &middot;
+        {% if away > 0 %}{{ away }} off campus, the rest at 229{% else %}all at 229{% endif %}</p>
+    </header>
+    <ol class="cal__agenda cal__agenda--page">
+      {% for event in day.events %}
+      <li class="cal-event{% if event.venue %} cal-event--away{% endif %}">
+        <div class="cal-event__row cal-event__row--static">
+          <span class="cal-event__time"><b>{{ event.start | remove: " ET" }}</b><small>{{ event.end | remove: " ET" }}</small></span>
+          <span class="cal-event__main">
+            <strong class="cal-event__name">{{ event.name }}</strong>
+            <span class="cal-event__where">
+              <i class="sym {% if event.venue %}sym--mappin-and-ellipse{% else %}sym--house-fill{% endif %}" aria-hidden="true"></i>
+              {% if event.venue %}{{ event.venue }}{% else %}229 Commonwealth Ave{% endif %}
+            </span>
+            <span class="cal-event__desc">{{ event.description }}</span>
+            <span class="cal-event__links">
+              {% if event.address %}<a href="https://maps.apple.com/?q={{ event.address | url_encode }}" target="_blank" rel="noopener">{{ event.address }}</a>
+              {% else %}<a href="https://maps.apple.com/?address=229%20Commonwealth%20Ave%2C%20Boston%2C%20MA%2002116" target="_blank" rel="noopener">Directions to 229</a>{% endif %}
+              <a href="tel:3217585463">Call for a ride</a>
+            </span>
+          </span>
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
   {% endfor %}
-</section>
-{% endfor %}
+</div>

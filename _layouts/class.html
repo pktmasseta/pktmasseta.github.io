@@ -1,82 +1,61 @@
 ---
 layout: page
 ---
-<script>
-$(document).ready(function(){
-  $(function() {
-    device = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
-    if(!device) {
-      $('div.brother-preview').makeCaption({
-        animation: 'fadeIn', // move, slide, fadeIn, scaleIn, rotate, or push
-        position: 'Below' // Below or Above
-      });
-    } else {
-      $('div.brother-preview .caption').hide()
-    }
-  });
-});
-</script>
 {{ content }}
-<!-- Images -->
-{% for brother in page.brothers %}
-{% assign loopindex = forloop.index0 | modulo: 3 %}
-{% if loopindex == 0 %}
-<div class="row">
-{% endif %}
-  <div class="col-md-4">
-    <a data-toggle="modal" href="#{{ brother.initials }}Modal">
-      <div class="img-caption brother-preview">
-        <img src="/static/img/headshots/{{ page.year }}/{{ brother.initials }}.jpg" width="200px" />
-        <div class="caption">
-          <h6>{{ brother.name }}</h6>
-          <h8>{{ brother.nickname }}</h8>
-        </div>
-      </div>
-    </a>
-  </div>
-{% if loopindex == 2 or forloop.last %}
+
+<div class="member-grid">
+  {% for brother in page.brothers %}
+    {% capture photo_path %}/static/img/headshots/{{ page.year }}/{{ brother.initials }}.jpg{% endcapture %}
+    {% assign photo = site.static_files | where: "path", photo_path | first %}
+    <button class="member-card" type="button" data-toggle="modal" data-target="#{{ page.year }}-{{ brother.initials }}Modal" aria-label="Read about {{ brother.name }}">
+      {% if photo %}
+        <img src="{{ photo_path }}" alt="{{ brother.name }}" loading="lazy">
+      {% else %}
+        <span class="member-card__placeholder">
+          <img src="/static/img/crest-black.png" alt="" loading="lazy">
+          <small>Portrait coming soon</small>
+        </span>
+      {% endif %}
+      <span class="member-card__caption">
+        <strong>{{ brother.name }}</strong>
+        {% if brother.nickname %}<em>{{ brother.nickname }}</em>{% endif %}
+      </span>
+    </button>
+  {% endfor %}
 </div>
-{% endif %}
-{% endfor %}
-<!-- Modals -->
+
 {% for brother in page.brothers %}
-<div class="modal fade" id="{{ brother.initials }}Modal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span>&times;</span></button>
-      <div class="brother-container container-fluid">
-        <div class="row">
-          <div class="col-md-4 col-sm-12" id="photo">
-            <span class="photo"><img src="/static/img/headshots/{{ page.year }}/{{ brother.initials }}.jpg" /></span>
-            <h9><div class="quote">{{ brother.quote }}</div></h9>
+  {% capture photo_path %}/static/img/headshots/{{ page.year }}/{{ brother.initials }}.jpg{% endcapture %}
+  {% assign photo = site.static_files | where: "path", photo_path | first %}
+  <div class="modal fade member-modal" id="{{ page.year }}-{{ brother.initials }}Modal" tabindex="-1" role="dialog" aria-modal="true" aria-labelledby="{{ page.year }}-{{ brother.initials }}Title">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <button type="button" class="member-modal__close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <div class="member-modal__grid">
+          <div class="member-modal__portrait{% unless photo %} is-placeholder{% endunless %}">
+            {% if photo %}
+              <img src="{{ photo_path }}" alt="{{ brother.name }}">
+            {% else %}
+              <div class="member-modal__portrait-placeholder">
+                <img src="/static/img/crest-black.png" alt="">
+                <span>Portrait coming soon</span>
+              </div>
+            {% endif %}
+            {% if brother.quote %}<blockquote>{{ brother.quote }}</blockquote>{% endif %}
           </div>
-          <div class='col-md-8 col-sm-12'>
-            <h4>
-              <span class="name">{{ brother.name }}</span>
-              (<span class="initials">{{ brother.initials }}</span>)
-            </h4>
-            <h8>(aka <span class="nickname">{{ brother.nickname }}</span>)</h8>
-            <div class="attributes container-fluid">
-              <div class="row">
-                <div class="col-md-12 title">Hometown:</div>
-                <div class="col-md-12"><span class="hometown">{{ brother.hometown }}</span></div>
-              </div>
-              <div class="row">
-                <div class="col-md-12 title">Major:</div>
-                <div class="col-md-12"><span class="major">{{ brother.major }}</span></div>
-              </div>
-              <div class="row">
-                <div class="col-md-12 title">Activities:</div>
-                <div class="col-md-12"><span class="activities">{{ brother.activities }}</span></div>
-              </div>
-              <div class="row">
-                <div class="col-md-12"><span class="blurb">{{ brother.blurb }}</span></div>
-              </div>
-            </div>
+          <div class="member-modal__profile">
+            <p class="eyebrow">Class of {{ page.year }}</p>
+            <h2 id="{{ page.year }}-{{ brother.initials }}Title">{{ brother.name }}</h2>
+            {% if brother.nickname %}<p class="member-modal__nickname">Known around the house as {{ brother.nickname }}</p>{% endif %}
+            <dl>
+              {% if brother.hometown and brother.hometown != "" %}<div><dt>Hometown</dt><dd>{{ brother.hometown }}</dd></div>{% endif %}
+              {% if brother.major and brother.major != "" %}<div><dt>Major</dt><dd>{{ brother.major }}</dd></div>{% endif %}
+              {% if brother.activities and brother.activities != "" %}<div><dt>Activities</dt><dd>{{ brother.activities }}</dd></div>{% endif %}
+            </dl>
+            {% if brother.blurb %}<div class="member-modal__blurb">{{ brother.blurb }}</div>{% endif %}
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 {% endfor %}

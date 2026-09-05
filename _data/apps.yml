@@ -1,0 +1,5 @@
+# Section URLs that open one of the desktop's own apps instead of a document window.
+"/rush/": rush
+"/brothers/": contacts
+"/house/": finder
+"/summer/": summer

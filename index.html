@@ -1,48 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Home | Phi Kappa Theta</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Bootstrap -->
-  <link href="static/css/bootstrap.min.css" rel="stylesheet" media="screen">
-  <link href="static/css/style.css" rel="stylesheet">
-  <link href="static/css/img-captions.css" rel="stylesheet" />
-  <link href="static/css/index.css" rel="stylesheet" />
-  <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400italic,700italic,400,700|Raleway:300,400,500,600,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
-
-  <link rel="icon" type="image/png" href="static/img/favicon.png" />
-
-  <script src="static/js/jquery-1.11.1.min.js"></script>
-  <script src="static/js/bootstrap.min.js"></script>
-  <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
-  <script src="static/js/jquery.scrollTo.min.js"></script>
-  <script src="static/js/jquery.mousewheel.min.js"></script>
-  <script>
-    // This is a placeholder since this needs to get fixed
-    setTimeout(function() { window.location = '/cpw'; }, 1500); // main page redirect eg '/rush' or '/cpw'
-  </script>
-  <script src="static/js/effects.js"></script>
-</head>
-<body>
-  <div id="wrapper">
-    <ul id="mask">
-      <li id="index" class="box">
-        <a name="index"></a>
-        <div class="filler" id="crest-filler"></div>
-        <div class="container">
-
-          <div id="crest">
-            <a href="cpw/"><img src="static/img/crest.png"/></a> <!--'rush/' or 'cpw/'--> 
-          </div>
-          <div id="title-h1">
-            <h1>MIT Phi Kappa Theta</h1>
-          </div>
-          <div id="title-h2">
-            <h2>Mass Eta</h2>
-          </div>
-        </div>
-      </li>
-    </ul>
-  </div>
-</body>
-</html>
+---
+layout: default
+home: true
+title: 229 — The House Computer | Phi Kappa Theta
+description: Phi Kappa Theta at MIT. A fraternity at 229 Commonwealth Avenue in Boston's Back Bay since 1943. Rush, the brothers, the house, summer housing.
+permalink: /
+---
+{% include desktop.html %}

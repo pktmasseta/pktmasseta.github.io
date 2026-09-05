@@ -14,7 +14,7 @@ We will have two triples available for rent this summer. These rooms include Pec
 
 ###### Quads
 
-Three quads will be available for rent. These rooms include Sunrise and Tomb located on the third floor, and Studio, located on the fourth floor. For more information about our rooms and a bit about their places in PKT house lore, visit the [House](https://pkt.mit.edu/house/) tab of this website.
+Three quads will be available for rent. These rooms include Sunrise and Tomb located on the third floor, and Studio, located on the fourth floor. For more information about our rooms and a bit about their places in PKT house lore, visit the [House](/house/) tab of this website.
 
 ###### Room Rates
 

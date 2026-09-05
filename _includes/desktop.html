@@ -1,0 +1,881 @@
+<svg class="icon-defs" width="0" height="0" aria-hidden="true" focusable="false">
+  <defs>
+    <symbol id="i-crest" viewBox="0 0 64 64">
+      <image href="{{ site.baseurl }}/static/img/desk/crest-256.png" width="64" height="64" preserveAspectRatio="xMidYMid meet"/>
+    </symbol>
+    <symbol id="i-app-house" viewBox="0 0 64 64">
+      <rect x="4" y="4" width="56" height="56" rx="14" fill="#8b1c1c"/>
+      <image href="{{ site.baseurl }}/static/img/desk/crest-192.png" x="12" y="12" width="40" height="40" preserveAspectRatio="xMidYMid meet"/>
+    </symbol>
+  </defs>
+</svg>
+
+<section class="mac-desktop" data-desktop data-wallpaper="magnolia" data-about-url="{{ site.baseurl }}/about/" aria-label="229, the Phi Kappa Theta house computer">
+  <div class="mac-boot" data-boot hidden aria-hidden="true">
+    <svg class="mac-boot__crest" aria-hidden="true"><use href="#i-crest"/></svg>
+    <div class="mac-boot__bar"><span></span></div>
+  </div>
+
+  <div class="mac-lock" data-lock hidden tabindex="-1" role="button" aria-label="Unlock 229">
+    <p class="mac-lock__date" data-clock="date"></p>
+    <time class="mac-lock__time" data-clock="time">--:--</time>
+    <div class="mac-lock__user">
+      <svg class="mac-lock__avatar" aria-hidden="true"><use href="#i-crest"/></svg>
+      <p>Guest</p>
+      <button type="button" class="mac-lock__unlock" data-unlock>Click to unlock</button>
+    </div>
+  </div>
+
+  <div class="mac-off" data-shutdown hidden role="button" tabindex="0" aria-label="Start up 229"><p>229 is shut down.</p><small>Click anywhere to start it up.</small></div>
+
+  <header class="menubar" data-menubar aria-label="Menu bar">
+    <div class="menubar__left">
+      <div class="menu menu--apple">
+        <button type="button" class="menubar__apple" aria-haspopup="true" aria-expanded="false" aria-label="229 menu"><svg aria-hidden="true"><use href="#i-crest"/></svg></button>
+        <div class="menu__popup" role="menu" hidden>
+          <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="welcome">Open 229 Index</button>
+          <button type="button" role="menuitem" data-menu-action="about">About This House</button>
+          <hr>
+          <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="rush">Rush Phi Kappa Theta</button>
+          <a role="menuitem" href="tel:3217585463">Call for a Ride</a>
+          <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="summer">Summer Housing</button>
+          <hr>
+          <button type="button" role="menuitem" data-menu-action="lock">Lock Screen<kbd>⌃⌘Q</kbd></button>
+          <button type="button" role="menuitem" data-menu-action="restart">Restart…</button>
+          <button type="button" role="menuitem" data-menu-action="shutdown">Shut Down…</button>
+        </div>
+      </div>
+      <div class="menu menu--app"><button type="button" aria-haspopup="true" aria-expanded="false"><strong data-menubar-app>Finder</strong></button>
+        <div class="menu__popup" role="menu" hidden>
+          <button type="button" role="menuitem" data-menu-action="about" data-app-label="About %s">About Finder</button>
+          <hr>
+          <button type="button" role="menuitem" data-menu-action="minimize" data-app-label="Hide %s">Hide Finder<kbd>⌘H</kbd></button>
+          <button type="button" role="menuitem" data-menu-action="close-all">Close All Windows</button>
+          <hr>
+          <button type="button" role="menuitem" data-menu-action="close" data-app-label="Quit %s">Quit Finder<kbd>⌘Q</kbd></button>
+        </div>
+      </div>
+
+      <div class="menu menu--navigate"><button type="button" aria-haspopup="true" aria-expanded="false">Navigate</button>
+        <div class="menu__popup" role="menu" hidden>
+          <a role="menuitem" href="{{ site.baseurl }}/about/" data-spotlight-link="About &amp; History" data-spotlight-kind="Website" data-keywords="chapter history ideals motto national fraternity">About &amp; History</a>
+          <a role="menuitem" href="{{ site.baseurl }}/rush/" data-spotlight-link="Rush" data-spotlight-kind="Website" data-keywords="rush schedule events ride line recruitment">Rush</a>
+          <a role="menuitem" href="{{ site.baseurl }}/cpw/" data-spotlight-link="CPW" data-spotlight-kind="Website" data-keywords="campus preview weekend admitted students schedule">CPW</a>
+          <a role="menuitem" href="{{ site.baseurl }}/brothers/" data-spotlight-link="Brothers" data-spotlight-kind="Website" data-keywords="members classes portraits bios">Brothers</a>
+          <a role="menuitem" href="{{ site.baseurl }}/house/" data-spotlight-link="House Tour" data-spotlight-kind="Website" data-keywords="229 floors rooms roofdeck brownstone">House Tour</a>
+          <a role="menuitem" href="{{ site.baseurl }}/activities/" data-spotlight-link="Activities" data-spotlight-kind="Website" data-keywords="academics athletics service social brotherhood life">Activities</a>
+          <a role="menuitem" href="{{ site.baseurl }}/summer/" data-spotlight-link="Summer Housing" data-spotlight-kind="Website" data-keywords="housing rates rooms amenities application faq">Summer Housing</a>
+          <a role="menuitem" href="{{ site.baseurl }}/donate/" data-spotlight-link="Donate" data-spotlight-kind="Website" data-keywords="support give paypal alumni house">Donate</a>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="finder">
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">File</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="finder">New Finder Window<kbd>⌘N</kbd></button>
+            <a role="menuitem" href="{{ site.baseurl }}/house/" data-spotlight-link="The House" data-spotlight-kind="Website" data-keywords="house floors rooms tour">Open the House Tour<kbd>⌘O</kbd></a>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="close">Close Window<kbd>⌘W</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Edit</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" aria-disabled="true">Undo<kbd>⌘Z</kbd></button>
+            <button type="button" role="menuitem" aria-disabled="true">Cut<kbd>⌘X</kbd></button>
+            <button type="button" role="menuitem" aria-disabled="true">Copy<kbd>⌘C</kbd></button>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="spotlight">Find<kbd>⌘F</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">View</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitemradio" aria-checked="true" data-menu-action="view" data-view-mode="icons">as Icons<kbd>⌘1</kbd></button>
+            <button type="button" role="menuitemradio" aria-checked="false" data-menu-action="view" data-view-mode="list">as List<kbd>⌘2</kbd></button>
+            <hr>
+            <button type="button" role="menuitemcheckbox" aria-checked="true" data-menu-action="toggle-sidebar">Show Sidebar<kbd>⌃⌘S</kbd></button>
+            <button type="button" role="menuitemcheckbox" aria-checked="true" data-menu-action="toggle-pathbar">Show Path Bar<kbd>⌥⌘P</kbd></button>
+            <button type="button" role="menuitemcheckbox" aria-checked="true" data-menu-action="toggle-statusbar">Show Status Bar<kbd>⌘/</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Go</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="floor" data-floor-target="roofdeck">Roofdeck</button>
+            <button type="button" role="menuitem" data-menu-action="floor" data-floor-target="fourth">Fourth Floor</button>
+            <button type="button" role="menuitem" data-menu-action="floor" data-floor-target="third">Third Floor</button>
+            <button type="button" role="menuitem" data-menu-action="floor" data-floor-target="second">Second Floor</button>
+            <button type="button" role="menuitem" data-menu-action="floor" data-floor-target="first">First Floor</button>
+            <button type="button" role="menuitem" data-menu-action="floor" data-floor-target="basement">Basement</button>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="trash">Trash</button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="minimize">Minimize<kbd>⌘M</kbd></button>
+            <button type="button" role="menuitem" data-menu-action="zoom">Zoom</button>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="contacts">Brothers</button>
+            <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="photos">Photo Gallery</button>
+            <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="rush">Rush</button>
+            <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="terminal">Terminal</button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Help</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/rush/faq/" data-spotlight-link="Rush FAQ" data-spotlight-kind="Website" data-keywords="questions rush faq hazing dues">Rush FAQ</a>
+            <a role="menuitem" href="{{ site.baseurl }}/summer/faq/" data-spotlight-link="Summer Housing FAQ" data-spotlight-kind="Website" data-keywords="summer housing questions rates">Summer Housing FAQ</a>
+            <a role="menuitem" href="{{ site.baseurl }}/about/" data-spotlight-link="About the Chapter" data-spotlight-kind="Website" data-keywords="history 1918 chapter about">About the Chapter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="photos" hidden>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">File</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/static/img/gallery/IMG_2145.jpg" target="_blank" rel="noopener">Open Wallpaper</a>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="close">Close Window<kbd>⌘W</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">View</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitemcheckbox" aria-checked="true" data-menu-action="toggle-sidebar">Show Albums</button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="minimize">Minimize<kbd>⌘M</kbd></button>
+            <button type="button" role="menuitem" data-menu-action="zoom">Zoom</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="contacts" hidden>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">File</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/brothers/" data-spotlight-link="Brothers" data-spotlight-kind="Website" data-keywords="brothers members class portraits">Open Album<kbd>⌘O</kbd></a>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="close">Close Window<kbd>⌘W</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">View</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitemcheckbox" aria-checked="true" data-menu-action="toggle-sidebar">Show Sidebar</button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="minimize">Minimize<kbd>⌘M</kbd></button>
+            <button type="button" role="menuitem" data-menu-action="zoom">Zoom</button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Help</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/brothers/">All Classes</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="doc" hidden>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">File</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="welcome">Open 229 Index<kbd>&#8984;O</kbd></button>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="close">Close Window<kbd>&#8984;W</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Go</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/about/">About &amp; History</a>
+            <a role="menuitem" href="{{ site.baseurl }}/rush/">Rush</a>
+            <a role="menuitem" href="{{ site.baseurl }}/house/">The House</a>
+            <a role="menuitem" href="{{ site.baseurl }}/brothers/">Brothers</a>
+            <a role="menuitem" href="{{ site.baseurl }}/summer/">Summer Housing</a>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="minimize">Minimize<kbd>&#8984;M</kbd></button>
+            <button type="button" role="menuitem" data-menu-action="zoom">Zoom</button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Help</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="mailto:pkt-exec-active@mit.edu">Email the Chapter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="calendar" hidden>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">File</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/rush/" data-spotlight-link="Rush Schedule" data-spotlight-kind="Website" data-keywords="rush schedule events dates fall">Open Rush Schedule<kbd>⌘O</kbd></a>
+            <a role="menuitem" href="tel:3217585463">Call 321-PKT-LINE</a>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="close">Close Window<kbd>⌘W</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Calendar</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="https://www.instagram.com/pkt.mit" rel="noopener" data-spotlight-link="@pkt.mit on Instagram" data-spotlight-kind="Website" data-keywords="instagram social">Open @pkt.mit</a>
+            <a role="menuitem" href="mailto:pkt-exec-active@mit.edu">Email the Chapter</a>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="minimize">Minimize<kbd>⌘M</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Help</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/rush/faq/">Rush FAQ</a>
+            <a role="menuitem" href="{{ site.baseurl }}/rush/pledging/" data-spotlight-link="Pledging" data-spotlight-kind="Website" data-keywords="pledging pledge new member">Pledging</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="preview" hidden>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">File</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/static/img/banner/rush_2019.jpg">Open Original</a>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="close">Close Window<kbd>⌘W</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">View</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="zoom">Zoom to Fit</button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="minimize">Minimize<kbd>⌘M</kbd></button>
+          </div>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="notes" hidden>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">File</button>
+          <div class="menu__popup" role="menu" hidden>
+            <a role="menuitem" href="{{ site.baseurl }}/summer/" data-spotlight-link="Summer Housing" data-spotlight-kind="Website" data-keywords="summer housing rates application boston">Open Rates and Application</a>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="close">Close Window<kbd>⌘W</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">View</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitemcheckbox" aria-checked="true" data-menu-action="toggle-sidebar">Show Folders</button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="minimize">Minimize<kbd>⌘M</kbd></button>
+          </div>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="terminal" hidden>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Shell</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="open-window" data-open-window-target="terminal">New Window<kbd>⌘N</kbd></button>
+            <hr>
+            <button type="button" role="menuitem" data-menu-action="close">Close Window<kbd>⌘W</kbd></button>
+          </div>
+        </div>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="minimize">Minimize<kbd>⌘M</kbd></button>
+            <button type="button" role="menuitem" data-menu-action="zoom">Zoom</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="menubar__menus" data-app-menus="welcome" hidden>
+        <div class="menu"><button type="button" aria-haspopup="true" aria-expanded="false">Window</button>
+          <div class="menu__popup" role="menu" hidden>
+            <button type="button" role="menuitem" data-menu-action="close">Close<kbd>⌘W</kbd></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="menubar__right">
+      <span class="menubar__ios" aria-hidden="true"><i class="sym sym--cellularbars menubar__signal"></i><i class="sym sym--wifi menubar__wifi"></i><i class="sym sym--battery-100percent menubar__battery"></i></span>
+      <span class="menubar__item menubar__item--wifi" aria-label="Wi-Fi: mass-eta"><i class="sym sym--wifi" aria-hidden="true"></i></span>
+      <button type="button" class="menubar__item" data-action="spotlight" aria-label="Spotlight search"><i class="sym sym--magnifyingglass" aria-hidden="true"></i></button>
+      <button type="button" class="menubar__item" data-action="control-center" aria-label="Control Center" aria-controls="control-center" aria-expanded="false"><i class="sym sym--switch-2" aria-hidden="true"></i></button>
+      <time class="menubar__clock" data-clock="menu">--:--</time>
+    </div>
+  </header>
+
+  <aside class="control-center" id="control-center" data-control-center hidden aria-label="Control Center">
+    <div class="control-center__network">
+      <span class="control-center__network-icon"><i class="sym sym--wifi" aria-hidden="true"></i></span>
+      <span><strong>House Wi-Fi</strong><small>mass-eta · Connected</small></span>
+    </div>
+    <label class="control-center__slider" for="screen-brightness">
+      <span><i class="sym sym--circle-fill" aria-hidden="true"></i> Wallpaper brightness</span>
+      <input id="screen-brightness" type="range" min="68" max="108" value="100" data-wallpaper-brightness>
+    </label>
+    <fieldset class="control-center__wallpapers">
+      <legend>Wallpaper</legend>
+      <button type="button" data-wallpaper-choice="magnolia" aria-pressed="true"><span class="wallpaper-swatch wallpaper-swatch--magnolia" aria-hidden="true"></span>Magnolia</button>
+      <button type="button" data-wallpaper-choice="formal" aria-pressed="false"><span class="wallpaper-swatch wallpaper-swatch--formal" aria-hidden="true"></span>Formal</button>
+      <button type="button" data-wallpaper-choice="roofdeck" aria-pressed="false"><span class="wallpaper-swatch wallpaper-swatch--roofdeck" aria-hidden="true"></span>Roofdeck</button>
+      <button type="button" data-wallpaper-choice="lake" aria-pressed="false"><span class="wallpaper-swatch wallpaper-swatch--lake" aria-hidden="true"></span>Lake</button>
+    </fieldset>
+    <div class="control-center__quicklinks">
+      <button type="button" data-open-window="rush"><i class="sym sym--person-2-fill" aria-hidden="true"></i><span><strong>Rush</strong><small>Ride line ready</small></span></button>
+      <button type="button" data-open-window="finder"><i class="sym sym--house-fill" aria-hidden="true"></i><span><strong>House Tour</strong><small>Six levels online</small></span></button>
+    </div>
+    <p class="control-center__note">Preferences stay on this device.</p>
+  </aside>
+
+  <div class="desktop" data-workspace>
+    <div class="wallpaper" aria-hidden="true"></div>
+
+    <div class="desktop-files" aria-label="Files on the desktop">
+      <button type="button" class="desktop-file" data-open-window="welcome"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/computer.png" alt="" width="256" height="256" decoding="async"><span>229 Index</span></button>
+      <button type="button" class="desktop-file" data-open-window="finder"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>House Tour</span></button>
+      <button type="button" class="desktop-file" data-open-window="archive"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/jpeg.png" alt="" width="256" height="256" decoding="async"><span>rush_2019.jpg</span></button>
+    </div>
+
+    <aside class="desktop-widgets" aria-label="Widgets">
+      <a class="desktop-widget desktop-widget--calendar" href="{{ site.baseurl }}/rush/">
+        <p class="desktop-widget__label" data-widget-day>SAT</p>
+        <p class="desktop-widget__big" data-widget-date>5</p>
+        {% assign rushpage = site.rush | where: "permalink", "/rush/" | first %}
+        <p class="desktop-widget__event"><span></span><b>Rush</b><small>{{ rushpage.schedule.first.date | replace: "August", "Aug" | replace: "September", "Sep" | remove: "th" | remove: "st" | remove: "nd" | remove: "rd" }} to {{ rushpage.schedule.last.date | replace: "August", "Aug" | replace: "September", "Sep" | remove: "th" | remove: "st" | remove: "nd" | remove: "rd" }}</small></p>
+        <p class="desktop-widget__event desktop-widget__event--green"><span></span><b>Ride line</b><small>321-PKT-LINE</small></p>
+      </a>
+      <div class="desktop-widget desktop-widget--clock" aria-label="Boston time">
+        <p class="desktop-widget__label">Boston</p>
+        <time class="desktop-widget__big" data-clock="time">--:--</time>
+        <p class="desktop-widget__sub"><a href="https://maps.apple.com/?address=229%20Commonwealth%20Ave%2C%20Boston%2C%20MA%2002116">229 Commonwealth Ave</a></p>
+      </div>
+    </aside>
+
+    <nav class="ios-home" aria-label="Apps">
+      <a href="{{ site.baseurl }}/house/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/finder.png" alt="" width="256" height="256" decoding="async"><span>House Tour</span></a>
+      <a href="{{ site.baseurl }}/brothers/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/contacts.png" alt="" width="256" height="256" decoding="async"><span>Brothers</span></a>
+      <button type="button" data-open-window="photos"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/photos.png" alt="" width="256" height="256" decoding="async"><span>Photos</span></button>
+      <a href="{{ site.baseurl }}/rush/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/calendar.png" alt="" width="256" height="256" decoding="async"><span>Rush</span></a>
+      <a href="{{ site.baseurl }}/cpw/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/maps.png" alt="" width="256" height="256" decoding="async"><span>CPW</span></a>
+      <a href="{{ site.baseurl }}/activities/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/pictures.png" alt="" width="256" height="256" decoding="async"><span>Activities</span></a>
+      <a href="{{ site.baseurl }}/about/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/safari.png" alt="" width="256" height="256" decoding="async"><span>About</span></a>
+      <a href="{{ site.baseurl }}/summer/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/notes.png" alt="" width="256" height="256" decoding="async"><span>Summer</span></a>
+      <a href="{{ site.baseurl }}/donate/"><svg aria-hidden="true"><use href="#i-app-house"/></svg><span>Donate</span></a>
+      <button type="button" data-open-window="archive"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/preview.png" alt="" width="256" height="256" decoding="async"><span>2019 Poster</span></button>
+      <button type="button" data-open-window="terminal"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/terminal.png" alt="" width="256" height="256" decoding="async"><span>Terminal</span></button>
+      <button type="button" data-open-window="trash"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/trashfull.png" alt="" width="256" height="256" decoding="async"><span>Trash</span></button>
+    </nav>
+
+    <!-- Finder: 229 -->
+    <section class="mac-window mac-window--finder mac-window--split" data-window="finder" data-icon="finder" data-app="Finder" data-app-key="finder" data-keywords="house floors rooms 229 finder" hidden aria-labelledby="finder-title" style="--sidebar-w: 200px; --window-w: 920px; --window-h: 560px">
+      <header class="mac-window__toolbar" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom"><span aria-hidden="true"></span></button>
+        </div>
+        <button type="button" class="toolbar-button toolbar-button--sidebar" data-action="toggle-sidebar" aria-label="Toggle sidebar"><i class="sym sym--sidebar-left" aria-hidden="true"></i></button>
+        <div class="toolbar-nav"><button type="button" aria-label="Back" disabled><i class="sym sym--chevron-left" aria-hidden="true"></i></button><button type="button" aria-label="Forward" disabled><i class="sym sym--chevron-right" aria-hidden="true"></i></button></div>
+        <h1 class="mac-window__title" id="finder-title" data-window-title>Roofdeck</h1>
+        <div class="toolbar-group toolbar-group--view" role="group" aria-label="View">
+          <button type="button" data-action="view" data-view-mode="icons" aria-pressed="true" aria-label="Icon view"><i class="sym sym--square-grid-2x2" aria-hidden="true"></i></button>
+          <button type="button" data-action="view" data-view-mode="list" aria-pressed="false" aria-label="List view"><i class="sym sym--list-bullet" aria-hidden="true"></i></button>
+        </div>
+        <button type="button" class="toolbar-button" data-action="spotlight" aria-label="Search"><i class="sym sym--magnifyingglass" aria-hidden="true"></i></button>
+      </header>
+      <div class="mac-window__body finder">
+        <nav class="finder__sidebar" aria-label="Folders">
+          <p class="sidebar__heading">Favorites</p>
+          <a href="{{ site.baseurl }}/house/"><i class="sym sym--house-fill" aria-hidden="true"></i>House Overview</a>
+          <button type="button" data-floor="roofdeck" class="is-active" aria-current="true"><i class="sym sym--house-fill" aria-hidden="true"></i>Roofdeck</button>
+          <button type="button" data-floor="fourth" aria-current="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">Fourth Floor</button>
+          <button type="button" data-floor="third" aria-current="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">Third Floor</button>
+          <button type="button" data-floor="second" aria-current="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">Second Floor</button>
+          <button type="button" data-floor="first" aria-current="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">First Floor</button>
+          <button type="button" data-floor="basement" aria-current="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">Basement</button>
+          <p class="sidebar__heading">Locations</p>
+          <button type="button" data-open-window="contacts"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/contacts.png" alt="" width="256" height="256" decoding="async">Brothers</button>
+          <button type="button" data-open-window="trash"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/trashfull.png" alt="" width="256" height="256" decoding="async">Trash</button>
+          <p class="sidebar__heading">Tags</p>
+          <button type="button" data-open-window="rush"><i class="sym sym--circle-fill tag tag--red" aria-hidden="true"></i>Rush</button>
+          <button type="button" data-open-window="summer"><i class="sym sym--circle-fill tag tag--yellow" aria-hidden="true"></i>Summer</button>
+        </nav>
+        <div class="finder__main">
+          <div class="finder__content" data-view="icons">
+            <section class="floor" data-floor-panel="roofdeck" data-title="Roofdeck" data-path="229/Roofdeck" data-status="3 items, 108 years available" data-keywords="roof deck dome fireworks charles july">
+              <div class="floor__items">
+                <a class="item" href="{{ site.baseurl }}/house/roofdeck/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/heic.png" alt="" width="256" height="256" decoding="async"><span>great_dome.heic</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/roofdeck/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/heic.png" alt="" width="256" height="256" decoding="async"><span>fourth_of_july.heic</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/roofdeck/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/text.png" alt="" width="256" height="256" decoding="async"><span>roofdeck.txt</span></a>
+              </div>
+              <aside class="floor__preview">
+                <img class="icon floor__preview-icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">
+                <h2>Roofdeck</h2>
+                <p class="floor__kind">Folder · 3 items</p>
+                <dl class="floor__info"><dt>Look back at where you came from.</dt><dd>The Great Dome appears between the buildings from the river-side edge of the roofdeck. Every Fourth of July the house watches the fireworks over the Charles from up here.</dd></dl>
+                <a class="mac-button" href="{{ site.baseurl }}/house/roofdeck/">Open the Roofdeck</a>
+              </aside>
+            </section>
+            <section class="floor" data-floor-panel="fourth" data-title="Fourth Floor" data-path="229/Fourth Floor" data-status="5 items, 108 years available" data-keywords="canyon mural flying bedroom studio beer room" hidden>
+              <div class="floor__items">
+                <a class="item" href="{{ site.baseurl }}/house/fourth/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Canyon</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/fourth/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Flying Bedroom</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/fourth/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Studio</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/fourth/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Beer Room</span></a>
+                <button type="button" class="item item--ghost" data-action="canyon"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/jpeg.png" alt="" width="256" height="256" decoding="async"><span>canyon_mural.jpg</span></button>
+              </div>
+              <aside class="floor__preview">
+                <img class="icon floor__preview-icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">
+                <h2>Fourth Floor</h2>
+                <p class="floor__kind">Folder · 4 rooms</p>
+                <dl class="floor__info"><dt>Image not found. Story found.</dt><dd>One alumnus remembered a Grand Canyon mural under the paint. Another denied it. Brothers chipped through the wall and found nothing. The Flying Bedroom, the Studio and the Beer Room are up here too.</dd></dl>
+                <a class="mac-button" href="{{ site.baseurl }}/house/fourth/">Open the Fourth Floor</a>
+              </aside>
+            </section>
+            <section class="floor" data-floor-panel="third" data-title="Third Floor" data-path="229/Third Floor" data-status="4 items, 108 years available" data-keywords="sunrise tomb peck virginia bay windows" hidden>
+              <div class="floor__items">
+                <a class="item" href="{{ site.baseurl }}/house/third/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Virginia</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/third/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Sunrise</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/third/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Peck</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/third/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Tomb</span></a>
+              </div>
+              <aside class="floor__preview">
+                <img class="icon floor__preview-icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">
+                <h2>Third Floor</h2>
+                <p class="floor__kind">Folder · 4 rooms</p>
+                <dl class="floor__info"><dt>Sunrise in front. Tomb behind.</dt><dd>Bay windows on the Mall, a room painted like a tequila sunrise, the Peck with its unfinished comic strip, and a room so dark everyone sleeps late.</dd></dl>
+                <a class="mac-button" href="{{ site.baseurl }}/house/third/">Open the Third Floor</a>
+              </aside>
+            </section>
+            <section class="floor" data-floor-panel="second" data-title="Second Floor" data-path="229/Second Floor" data-status="3 items, 108 years available" data-keywords="ballroom pit chapter room founders cups paneling" hidden>
+              <div class="floor__items">
+                <a class="item" href="{{ site.baseurl }}/house/second/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Ballroom</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/second/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Pit</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/second/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Chapter Room</span></a>
+              </div>
+              <aside class="floor__preview">
+                <img class="icon floor__preview-icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">
+                <h2>Second Floor</h2>
+                <p class="floor__kind">Folder · 3 rooms</p>
+                <dl class="floor__info"><dt>The bedroom was a ballroom.</dt><dd>The old Back Bay floor plan survives in the room names: the Ballroom above the orchestra Pit, and the Chapter Room with its original paneling and three Founders’ Cups.</dd></dl>
+                <a class="mac-button" href="{{ site.baseurl }}/house/second/">Open the Second Floor</a>
+              </aside>
+            </section>
+            <section class="floor" data-floor-panel="first" data-title="First Floor" data-path="229/First Floor" data-status="3 items, 108 years available" data-keywords="composites stairs pool table bar dinner first front rear" hidden>
+              <div class="floor__items">
+                <a class="item" href="{{ site.baseurl }}/house/first/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>First Front</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/first/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>First Rear</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/first/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Composites 1968–2026</span></a>
+              </div>
+              <aside class="floor__preview">
+                <img class="icon floor__preview-icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">
+                <h2>First Floor</h2>
+                <p class="floor__kind">Folder · 3 items</p>
+                <dl class="floor__info"><dt>The walls remember everybody.</dt><dd>Composites line the stairs from the late sixties to today. First Front has the pool table and the bar; First Rear serves dinner five nights a week.</dd></dl>
+                <a class="mac-button" href="{{ site.baseurl }}/house/first/">Open the First Floor</a>
+              </aside>
+            </section>
+            <section class="floor" data-floor-panel="basement" data-title="Basement" data-path="229/Basement" data-status="2 items, 108 years available" data-keywords="kitchen gym squat rack burners bikes" hidden>
+              <div class="floor__items">
+                <a class="item" href="{{ site.baseurl }}/house/basement/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Kitchen</span></a>
+                <a class="item" href="{{ site.baseurl }}/house/basement/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><span>Gym</span></a>
+              </div>
+              <aside class="floor__preview">
+                <img class="icon floor__preview-icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">
+                <h2>Basement</h2>
+                <p class="floor__kind">Folder · 2 rooms</p>
+                <dl class="floor__info"><dt>Where dinner and deadlifts begin.</dt><dd>An industrial kitchen with six burners and two ovens, and a gym built over IAP 2016 with a squat rack, a platform and the bike rack.</dd></dl>
+                <a class="mac-button" href="{{ site.baseurl }}/house/basement/">Open the Basement</a>
+              </aside>
+            </section>
+          </div>
+          <div class="finder__pathbar" data-pathbar><span>229</span><i aria-hidden="true"></i><span>Roofdeck</span></div>
+          <p class="finder__statusbar" data-status-count>3 items, 108 years available</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Photos: the house gallery -->
+    <section class="mac-window mac-window--gallery mac-window--split" data-window="photos" data-icon="photos" data-app="Photos" data-app-key="photos" data-keywords="photos gallery house events trips formal memories pictures" hidden aria-labelledby="gallery-title" style="--sidebar-w: 200px; --window-w: 1040px; --window-h: 650px">
+      <header class="mac-window__toolbar" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom"><span aria-hidden="true"></span></button>
+        </div>
+        <button type="button" class="toolbar-button toolbar-button--sidebar" data-action="toggle-sidebar" aria-label="Toggle albums"><i class="sym sym--sidebar-left" aria-hidden="true"></i></button>
+        <button type="button" class="toolbar-button gallery__back" data-gallery-close hidden aria-label="Back to all photos"><i class="sym sym--chevron-left" aria-hidden="true"></i></button>
+        <h1 class="mac-window__title" id="gallery-title" data-window-title>Photos</h1>
+        <a class="toolbar-button gallery__open" data-gallery-open href="{{ site.baseurl }}/static/img/gallery/IMG_4704.jpg" target="_blank" rel="noopener" hidden aria-label="Open photo in a new tab"><i class="sym sym--square-and-arrow-up" aria-hidden="true"></i></a>
+      </header>
+      <div class="mac-window__body gallery" data-gallery>
+        <nav class="gallery__sidebar" aria-label="Photo albums">
+          <p class="sidebar__heading">Library</p>
+          <button type="button" class="is-active" data-gallery-filter="all" aria-pressed="true"><i class="sym sym--photo-on-rectangle" aria-hidden="true"></i><b class="row-label">All Photos</b><span>{{ site.data.gallery | size }}</span></button>
+          <p class="sidebar__heading">Albums</p>
+          <button type="button" data-gallery-filter="home" aria-pressed="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><b class="row-label">Home at 229</b><span>{{ site.data.gallery | where: "category", "home" | size }}</span></button>
+          <button type="button" data-gallery-filter="everyday" aria-pressed="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><b class="row-label">Everyday Brotherhood</b><span>{{ site.data.gallery | where: "category", "everyday" | size }}</span></button>
+          <button type="button" data-gallery-filter="active" aria-pressed="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><b class="row-label">Make, Compete, Serve</b><span>{{ site.data.gallery | where: "category", "active" | size }}</span></button>
+          <button type="button" data-gallery-filter="away" aria-pressed="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><b class="row-label">Away from 229</b><span>{{ site.data.gallery | where: "category", "away" | size }}</span></button>
+          <button type="button" data-gallery-filter="formal" aria-pressed="false"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async"><b class="row-label">Dress Up / Go Out</b><span>{{ site.data.gallery | where: "category", "formal" | size }}</span></button>
+        </nav>
+        <div class="gallery__main">
+          <header class="gallery__header">
+            <div><p>229 Library</p><h2 data-gallery-heading>All Photos</h2></div>
+            <p data-gallery-count>{{ site.data.gallery | size }} photos</p>
+          </header>
+          <div class="gallery__grid" data-gallery-grid>
+            {% for photo in site.data.gallery %}
+            <button type="button" class="gallery__tile{% if photo.featured %} gallery__tile--featured{% endif %}" data-gallery-photo data-gallery-category="{{ photo.category }}" data-src="{{ site.baseurl }}/static/img/gallery/{{ photo.file }}" data-caption="{{ photo.caption | escape }}">
+              <img src="{{ site.baseurl }}/static/img/gallery/thumbs/{{ photo.file }}" alt="{{ photo.alt | escape }}" width="640" height="480" loading="lazy" decoding="async">
+              <span>{{ photo.caption }}</span>
+            </button>
+            {% endfor %}
+          </div>
+          <figure class="gallery__viewer" data-gallery-viewer hidden tabindex="-1">
+            <div class="gallery__stage"><img data-gallery-viewer-image src="{{ site.baseurl }}/static/img/gallery/IMG_4704.jpg" alt=""></div>
+            <figcaption>
+              <div><p data-gallery-position>1 of 31</p><h2 data-gallery-caption></h2></div>
+              <nav aria-label="Photo controls">
+                <button type="button" data-gallery-previous aria-label="Previous photo"><i class="sym sym--chevron-left" aria-hidden="true"></i></button>
+                <button type="button" data-gallery-next aria-label="Next photo"><i class="sym sym--chevron-right" aria-hidden="true"></i></button>
+              </nav>
+            </figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contacts: Brothers -->
+    <section class="mac-window mac-window--contacts mac-window--split" data-window="contacts" data-icon="contacts" data-app="Contacts" data-app-key="contacts" data-keywords="brothers contacts members class portraits people names" hidden aria-labelledby="contacts-title" style="--sidebar-w: 200px; --window-w: 940px; --window-h: 600px">
+      <header class="mac-window__toolbar" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom"><span aria-hidden="true"></span></button>
+        </div>
+        <button type="button" class="toolbar-button toolbar-button--sidebar" data-action="toggle-sidebar" aria-label="Toggle sidebar"><i class="sym sym--sidebar-left" aria-hidden="true"></i></button>
+        <button type="button" class="toolbar-button contacts__back" data-contacts-back aria-label="Back to the list of brothers"><i class="sym sym--chevron-left" aria-hidden="true"></i></button>
+        <h1 class="mac-window__title" id="contacts-title">Brothers</h1>
+        <button type="button" class="toolbar-button" data-action="spotlight" aria-label="Search"><i class="sym sym--magnifyingglass" aria-hidden="true"></i></button>
+      </header>
+      <div class="mac-window__body contacts">
+        <nav class="contacts__groups" aria-label="Groups">
+          <p class="sidebar__heading">Groups</p>
+          <button type="button" class="is-active" data-group="all" aria-current="true"><i class="sym sym--person-2-fill" aria-hidden="true"></i>All Brothers</button>
+          {% assign classes = site.brothers | sort: "year" | reverse %}
+          {% assign class_count = 0 %}{% assign newest_year = nil %}{% assign oldest_year = nil %}
+          {% for class in classes %}{% if class.year %}{% assign class_count = class_count | plus: 1 %}{% unless newest_year %}{% assign newest_year = class.year %}{% endunless %}{% assign oldest_year = class.year %}<button type="button" data-group="{{ class.year }}" aria-current="false"><i class="sym sym--folder-fill" aria-hidden="true"></i>Class of {{ class.year }}</button>{% endif %}{% endfor %}
+        </nav>
+        <div class="contacts__list" role="listbox" aria-label="Brothers">
+          {% for class in classes %}{% if class.year %}{% for b in class.brothers %}
+          <button type="button" role="option" aria-selected="false" class="contact-row" data-contact data-group="{{ class.year }}" data-name="{{ b.name | escape }}" data-year="{{ class.year }}" data-major="{{ b.major | default: '' | escape }}" data-hometown="{{ b.hometown | default: '' | escape }}" data-activities="{{ b.activities | default: '' | escape }}" data-nickname="{{ b.nickname | default: '' | escape }}" data-initials="{{ b.initials | default: '' | escape }}" data-url="{{ class.url | relative_url }}">{{ b.name }}</button>
+          {% endfor %}{% endif %}{% endfor %}
+        </div>
+        <article class="contacts__card" data-contact-card>
+          <div class="contacts__avatar" data-card-initials aria-hidden="true"></div>
+          <h2 data-card-name>Brothers</h2>
+          <p class="contacts__sub" data-card-sub>{{ class_count }} classes, {{ oldest_year }} to {{ newest_year }}</p>
+          <dl class="contacts__fields" data-card-fields></dl>
+          <a class="mac-button" data-card-link href="{{ site.baseurl }}/brothers/">Open the class page</a>
+        </article>
+      </div>
+      <p class="contacts__status" data-contacts-status></p>
+    </section>
+
+    <!-- Calendar: Rush -->
+    <section class="mac-window mac-window--calendar mac-window--split" data-window="rush" data-icon="calendar" data-app="Calendar" data-app-key="calendar" data-spotlight-label="Rush Schedule" data-keywords="rush recruitment schedule events dates times fall freshman ride line" hidden aria-labelledby="rush-title" style="--sidebar-w: 236px; --window-w: 1000px; --window-h: 640px">
+      <header class="mac-window__toolbar" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom"><span aria-hidden="true"></span></button>
+        </div>
+        <button type="button" class="toolbar-button toolbar-button--sidebar" data-action="toggle-sidebar" aria-label="Toggle sidebar"><i class="sym sym--sidebar-left" aria-hidden="true"></i></button>
+        <h1 class="mac-window__title" id="rush-title">Rush &middot; {{ rushpage.subtitle | remove: "MIT " }}</h1>
+        <a class="toolbar-button" href="{{ site.baseurl }}/rush/" aria-label="Open the full Rush schedule page"><i class="sym sym--square-grid-2x2" aria-hidden="true"></i></a>
+      </header>
+      <div class="mac-window__body cal">
+        <nav class="cal__sidebar" aria-label="Rush days">
+          <p class="cal__side-title">Rush Days</p>
+          <div class="cal__days" role="tablist" aria-label="Choose a day">
+            {% for day in rushpage.schedule %}
+            {% assign dnum = day.date | remove: "September " | remove: "August " | remove: "th" | remove: "st" | remove: "nd" | remove: "rd" %}
+            <button type="button" class="cal-daytab{% if forloop.first %} is-active{% endif %}" role="tab" id="cal-tab-{{ forloop.index0 }}" aria-controls="cal-panel-{{ forloop.index0 }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" data-cal-tab="{{ forloop.index0 }}" data-cal-full="{{ day.day }}, {{ day.date | remove: 'th' | remove: 'st' | remove: 'nd' | remove: 'rd' }}">
+              <span class="cal-daytab__date"><small>{{ day.day | slice: 0, 3 | upcase }}</small><b>{{ dnum }}</b></span>
+              <span class="cal-daytab__text"><strong>{{ day.day }}</strong><small>{{ day.events | size }} event{% if day.events.size != 1 %}s{% endif %}</small></span>
+            </button>
+            {% endfor %}
+          </div>
+          <p class="cal__side-title">Before You Come</p>
+          <a class="cal__side-link" href="{{ site.baseurl }}/rush/">Full schedule page</a>
+          <a class="cal__side-link" href="{{ site.baseurl }}/rush/faq/">Rush FAQ</a>
+          <a class="cal__side-link" href="{{ site.baseurl }}/rush/survival/">Survival guide</a>
+          <a class="cal__side-link" href="{{ site.baseurl }}/rush/pledging/">What pledging is</a>
+          <a class="cal__side-link" href="https://www.instagram.com/pkt.mit" rel="noopener">@pkt.mit on Instagram</a>
+        </nav>
+        <div class="cal__main">
+          <header class="cal__head">
+            <div class="cal__head-text">
+              <h2 data-cal-title>{{ rushpage.schedule.first.day }}, {{ rushpage.schedule.first.date | remove: "th" | remove: "st" | remove: "nd" | remove: "rd" }}</h2>
+              <p data-cal-sub>Every event is at 229 unless a location is listed. All times Eastern.</p>
+            </div>
+            <div class="cal__steppers">
+              <button type="button" class="cal__step" data-cal-prev aria-label="Previous day"><i class="sym sym--chevron-left" aria-hidden="true"></i></button>
+              <button type="button" class="cal__step" data-cal-next aria-label="Next day"><i class="sym sym--chevron-right" aria-hidden="true"></i></button>
+            </div>
+          </header>
+          <div class="cal__scroll">
+            {% for day in rushpage.schedule %}
+            <ol class="cal__agenda" id="cal-panel-{{ forloop.index0 }}" role="tabpanel" aria-labelledby="cal-tab-{{ forloop.index0 }}" data-cal-panel="{{ forloop.index0 }}"{% unless forloop.first %} hidden{% endunless %}>
+              {% for event in day.events %}
+              {% assign st = event.start | remove: " ET" %}
+              {% assign en = event.end | remove: " ET" %}
+              <li class="cal-event{% if event.venue %} cal-event--away{% endif %}">
+                <button type="button" class="cal-event__row" data-cal-event aria-expanded="false">
+                  <span class="cal-event__time"><b>{{ st }}</b><small>{{ en }}</small></span>
+                  <span class="cal-event__main">
+                    <strong class="cal-event__name">{{ event.name }}</strong>
+                    <span class="cal-event__where">
+                      <i class="sym {% if event.venue %}sym--mappin-and-ellipse{% else %}sym--house-fill{% endif %}" aria-hidden="true"></i>
+                      {% if event.venue %}{{ event.venue }}{% else %}229 Commonwealth Ave{% endif %}
+                    </span>
+                  </span>
+                  <i class="cal-event__chevron sym sym--chevron-right" aria-hidden="true"></i>
+                </button>
+                <div class="cal-event__detail" hidden>
+                  <p>{{ event.description }}</p>
+                  <p class="cal-event__actions">
+                    {% if event.address %}<a class="mac-button" href="https://maps.apple.com/?q={{ event.address | url_encode }}" target="_blank" rel="noopener">Directions &middot; {{ event.address }}</a>
+                    {% else %}<a class="mac-button" href="https://maps.apple.com/?address=229%20Commonwealth%20Ave%2C%20Boston%2C%20MA%2002116" target="_blank" rel="noopener">Directions to 229</a>{% endif %}
+                    <a class="mac-button mac-button--primary" href="tel:3217585463">Call for a ride</a>
+                  </p>
+                </div>
+              </li>
+              {% endfor %}
+            </ol>
+            {% endfor %}
+          </div>
+          <footer class="cal__foot">
+            <span class="cal__foot-text">No car? A brother will pick you up, any hour of Rush.</span>
+            <a class="mac-button mac-button--primary" href="tel:3217585463">Call 321-PKT-LINE</a>
+          </footer>
+        </div>
+      </div>
+    </section>
+
+    <!-- Preview: Archive -->
+    <section class="mac-window mac-window--preview mac-window--split" data-window="archive" data-icon="preview" data-app="Preview" data-app-key="preview" data-keywords="archive poster 2019 rush history space" hidden aria-labelledby="archive-title" style="--sidebar-w: 280px; --window-w: 900px; --window-h: 600px">
+      <header class="mac-window__toolbar" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom"><span aria-hidden="true"></span></button>
+        </div>
+        <button type="button" class="toolbar-button toolbar-button--sidebar" data-action="toggle-sidebar" aria-label="Toggle sidebar"><i class="sym sym--sidebar-left" aria-hidden="true"></i></button>
+        <h1 class="mac-window__title" id="archive-title"><img class="icon mac-window__doc" src="{{ site.baseurl }}/static/img/mac/icons/jpeg.png" alt="" width="256" height="256" decoding="async">rush_2019.jpg</h1>
+        <a class="toolbar-button" href="{{ site.baseurl }}/static/img/banner/rush_2019.jpg" aria-label="Open the original"><i class="sym sym--square-and-arrow-up" aria-hidden="true"></i></a>
+      </header>
+      <div class="mac-window__body preview">
+        <aside class="preview__sidebar" aria-label="Details">
+          <h2>Space suits. Clam chowder. Midnight beach rave.</h2>
+          <p>An old Rush poster survives because a house should keep the strange evidence of who it has been. The chapter first met in 1918 in Senior House, was chartered by Phi Kappa in 1919, and moved to 229 Commonwealth Avenue in 1943.</p>
+          <dl class="preview__info">
+            <div><dt>Kind</dt><dd>JPEG image</dd></div>
+            <div><dt>Size</dt><dd>960 × 502</dd></div>
+            <div><dt>Created</dt><dd>Fall 2019</dd></div>
+            <div><dt>Where</dt><dd>229 › Archive</dd></div>
+          </dl>
+          <div class="preview__actions"><a class="mac-button" href="{{ site.baseurl }}/about/">Chapter History</a><a class="mac-button" href="{{ site.baseurl }}/about/ideals/">The Four Ideals</a></div>
+        </aside>
+        <figure class="preview__canvas"><img src="{{ site.baseurl }}/static/img/banner/rush_2019.jpg" alt="Illustrated space-themed Phi Kappa Theta Rush poster from 2019" width="960" height="502" loading="lazy" decoding="async"></figure>
+      </div>
+    </section>
+
+    <!-- Notes: Summer Housing -->
+    <section class="mac-window mac-window--notes mac-window--split" data-window="summer" data-icon="notes" data-app="Notes" data-app-key="notes" data-keywords="summer housing boston back bay rates application notes" hidden aria-labelledby="summer-title" style="--sidebar-w: 180px; --window-w: 900px; --window-h: 580px">
+      <header class="mac-window__toolbar" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom"><span aria-hidden="true"></span></button>
+        </div>
+        <button type="button" class="toolbar-button toolbar-button--sidebar" data-action="toggle-sidebar" aria-label="Toggle folders"><i class="sym sym--sidebar-left" aria-hidden="true"></i></button>
+        <h1 class="mac-window__title" id="summer-title">Summer Housing</h1>
+        <a class="toolbar-button" href="{{ site.baseurl }}/summer/application/" aria-label="Apply"><i class="sym sym--square-and-pencil" aria-hidden="true"></i></a>
+        <a class="toolbar-button" href="{{ site.baseurl }}/summer/" aria-label="Share"><i class="sym sym--square-and-arrow-up" aria-hidden="true"></i></a>
+      </header>
+      <div class="mac-window__body notes">
+        <nav class="notes__folders" aria-label="Folders">
+          <p class="sidebar__heading">iCloud</p>
+          <button type="button" class="is-active" aria-current="true"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">229<span>5</span></button>
+          <a href="{{ site.baseurl }}/summer/faq/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/folder.png" alt="" width="256" height="256" decoding="async">FAQ</a>
+        </nav>
+        <div class="notes__list" role="list">
+          <a role="listitem" class="note-row is-active" href="{{ site.baseurl }}/summer/"><strong>Summer housing</strong><small><time>May 31</time> Doubles, triples and quads in Back Bay</small></a>
+          <a role="listitem" class="note-row" href="{{ site.baseurl }}/summer/rates/"><strong>Rates</strong><small><time>May 31</time> Per person, all summer · $2,900–$3,900</small></a>
+          <a role="listitem" class="note-row" href="{{ site.baseurl }}/summer/amenities/"><strong>House amenities</strong><small><time>May 31</time> Six burners, two ovens, a gym</small></a>
+          <a role="listitem" class="note-row" href="{{ site.baseurl }}/summer/cleanliness/"><strong>Cleanliness</strong><small><time>Weekly</time> Professional common-area cleaning</small></a>
+          <a role="listitem" class="note-row" href="{{ site.baseurl }}/summer/application/"><strong>Application</strong><small><time>Today</time> The interest form is open</small></a>
+        </div>
+        <article class="note">
+          <p class="note__date">{{ site.time | date: "%B %-d, %Y" }} at 9:41 AM</p>
+          <h2>Summer housing</h2>
+          <p>A brownstone base for a Boston summer. Doubles, triples and quads from May 31 to August 15. Walk to the Esplanade, Copley, Fenway and MIT, then cook dinner on six burners with the other residents.</p>
+          <ul class="note__checklist">
+            <li><span></span>Move in May 31, after 5 PM</li>
+            <li><span></span>Move out August 15</li>
+            <li><span></span>Copley T station, a short walk</li>
+            <li><span></span>Harvard Bridge to campus by bike</li>
+          </ul>
+          <p class="note__actions"><a class="mac-button mac-button--primary" href="{{ site.baseurl }}/summer/">Rates and Application</a><a class="mac-button" href="{{ site.baseurl }}/summer/faq/">Summer FAQ</a></p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Terminal -->
+    <section class="mac-window mac-window--terminal" data-window="terminal" data-icon="terminal" data-app="Terminal" data-app-key="terminal" data-keywords="terminal shell commands zsh console" hidden aria-labelledby="terminal-title" style="--window-w: 680px; --window-h: 440px">
+      <header class="mac-window__titlebar" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom"><span aria-hidden="true"></span></button>
+        </div>
+        <h1 class="mac-window__title" id="terminal-title"><i class="sym sym--house-fill mac-window__doc" aria-hidden="true"></i>guest — -zsh — 92×26</h1>
+      </header>
+      <div class="mac-window__body terminal" data-terminal>
+        <div class="terminal__output" data-terminal-output aria-live="polite">
+          <p data-last-login>Last login: Sat Sep  5 09:41 on ttys000</p>
+          <p>Welcome to 229. Type help for house commands.</p>
+        </div>
+        <form class="terminal__form" data-terminal-form><label for="house-command">guest@229 ~ % </label><span class="terminal__line"><span class="terminal__mirror" data-terminal-mirror aria-hidden="true"></span><input id="house-command" data-terminal-input type="text" autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" enterkeyhint="send" aria-label="Shell command"></span></form>
+        <div class="terminal__keys" aria-label="Common commands"><button type="button" data-terminal-key="help">help</button><button type="button" data-terminal-key="ls">ls</button><button type="button" data-terminal-key="history">history</button><button type="button" data-terminal-key="ride">ride</button><button type="button" data-terminal-key="ping mit">ping mit</button><button type="button" data-terminal-key="clear">clear</button></div>
+      </div>
+    </section>
+
+    <!-- Trash -->
+    <section class="mac-window mac-window--trash" data-window="trash" data-icon="trashfull" data-app="Finder" data-app-key="finder" data-keywords="trash bin deleted paint broccoli green" hidden aria-labelledby="trash-title" style="--window-w: 720px; --window-h: 400px">
+      <header class="mac-window__toolbar" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom"><span aria-hidden="true"></span></button>
+        </div>
+        <h1 class="mac-window__title" id="trash-title">Trash</h1>
+        <button type="button" class="mac-button mac-button--toolbar" data-action="empty-trash">Empty…</button>
+      </header>
+      <div class="mac-window__body trash">
+        <div class="trash__list" role="table" aria-label="Trash contents">
+          <div class="trash__head" role="row"><span role="columnheader">Name</span><span role="columnheader">Date Deleted</span><span role="columnheader">Kind</span><span role="columnheader">Original Location</span></div>
+          <div class="trash__row" role="row" tabindex="0"><span role="cell"><i class="swatch" aria-hidden="true"></i>Broccoli Forest Green.clr</span><span role="cell">Some years ago</span><span role="cell">Color palette</span><span role="cell">229 › Third Floor › Sunrise</span></div>
+        </div>
+        <p class="trash__note">The Sunrise was painted Broccoli Forest Green by the house vegetarians, who wanted the last word. Later brothers repainted it after their favorite drink. The color is kept here in case anyone ever wants it back. Nobody has.</p>
+      </div>
+    </section>
+
+    <!-- 229 Index: the plain-language map of the whole site -->
+    <section class="mac-window mac-window--welcome" data-window="welcome" data-icon="computer" data-app="229 Index" data-app-key="welcome" data-keywords="index sections navigate welcome start help about rush cpw brothers house activities summer donate" aria-labelledby="welcome-title" style="--window-w: 840px; --window-h: 620px" hidden>
+      <header class="mac-window__titlebar mac-window__titlebar--plain" data-window-handle>
+        <div class="traffic-lights">
+          <button type="button" data-window-close aria-label="Close"><span aria-hidden="true"></span></button>
+          <button type="button" data-window-minimize aria-label="Minimize" disabled><span aria-hidden="true"></span></button>
+          <button type="button" data-window-zoom aria-label="Zoom" disabled><span aria-hidden="true"></span></button>
+        </div>
+        <h1 class="mac-window__title" id="welcome-title" data-window-title>229 Index</h1>
+      </header>
+      <div class="mac-window__body welcome house-index">
+        <header class="house-index__intro">
+          <svg class="welcome__crest" aria-hidden="true"><use href="#i-crest"/></svg>
+          <div>
+            <p class="house-index__eyebrow">Phi Kappa Theta · Massachusetts Eta · MIT</p>
+            <h2>Everything at 229.</h2>
+            <p class="welcome__sub">Choose a section directly. The house-computer apps and stranger artifacts are still here when you want to explore.</p>
+          </div>
+        </header>
+        <div class="house-index__groups">
+          <section class="house-index__group house-index__group--new">
+            <h3>New here</h3>
+            <div class="house-index__cards">
+              <a class="house-index__card" href="{{ site.baseurl }}/rush/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/calendar.png" alt="" width="256" height="256" decoding="async"><span><strong>Rush</strong><small>Schedule, FAQ, pledging and the ride line</small></span></a>
+              <a class="house-index__card" href="{{ site.baseurl }}/cpw/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/maps.png" alt="" width="256" height="256" decoding="async"><span><strong>CPW</strong><small>Campus Preview Weekend at 229</small></span></a>
+              <a class="house-index__card" href="{{ site.baseurl }}/summer/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/notes.png" alt="" width="256" height="256" decoding="async"><span><strong>Summer Housing</strong><small>Rates, rooms, amenities and application</small></span></a>
+            </div>
+          </section>
+          <section class="house-index__group house-index__group--meet">
+            <h3>Meet 229</h3>
+            <div class="house-index__cards">
+              <a class="house-index__card" href="{{ site.baseurl }}/house/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/finder.png" alt="" width="256" height="256" decoding="async"><span><strong>House Tour</strong><small>Every floor, named room and roofdeck</small></span></a>
+              <a class="house-index__card" href="{{ site.baseurl }}/brothers/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/contacts.png" alt="" width="256" height="256" decoding="async"><span><strong>Brothers</strong><small>{{ class_count }} classes, {{ oldest_year }}–{{ newest_year }}</small></span></a>
+              <a class="house-index__card" href="{{ site.baseurl }}/activities/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/pictures.png" alt="" width="256" height="256" decoding="async"><span><strong>Activities</strong><small>Academics, service, sports and social life</small></span></a>
+              <a class="house-index__card" href="{{ site.baseurl }}/about/"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/safari.png" alt="" width="256" height="256" decoding="async"><span><strong>About &amp; History</strong><small>Our origin, ideals, motto and national fraternity</small></span></a>
+            </div>
+          </section>
+          <section class="house-index__group house-index__group--support">
+            <h3>Support the house</h3>
+            <div class="house-index__cards">
+              <a class="house-index__card" href="{{ site.baseurl }}/donate/"><svg aria-hidden="true"><use href="#i-app-house"/></svg><span><strong>Donate</strong><small>Help the undergraduates care for 229</small></span></a>
+            </div>
+          </section>
+        </div>
+        <nav class="house-index__lore" aria-label="More to explore">
+          <span>More to explore</span>
+          <button type="button" data-open-window="photos">Photo gallery</button>
+          <button type="button" data-open-window="archive">2019 Rush Poster</button>
+          <button type="button" data-open-window="terminal">Terminal</button>
+          <button type="button" data-open-window="trash">Trash</button>
+        </nav>
+        <div class="welcome__foot">
+          <label class="mac-checkbox"><input type="checkbox" data-welcome-toggle checked><span></span>Show this window when 229 starts</label>
+          <button type="button" class="mac-button mac-button--primary" data-window-close>View desktop</button>
+        </div>
+      </div>
+    </section>
+    {{ doc_window }}
+  </div>
+
+  <nav class="dock" data-dock aria-label="Dock">
+    <div class="dock__glass">
+      <button type="button" data-open-window="welcome" data-label="229 Index" title="229 Index"><svg aria-hidden="true"><use href="#i-app-house"/></svg><span>229 Index</span></button>
+      <button type="button" data-open-window="finder" data-label="House Tour" title="House Tour"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/finder.png" alt="" width="256" height="256" decoding="async"><span>House Tour</span></button>
+      <button type="button" data-open-window="contacts" data-label="Brothers" title="Brothers"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/contacts.png" alt="" width="256" height="256" decoding="async"><span>Brothers</span></button>
+      <button type="button" data-open-window="photos" data-label="Photos" title="Photos"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/photos.png" alt="" width="256" height="256" decoding="async"><span>Photos</span></button>
+      <button type="button" data-open-window="rush" data-label="Rush" title="Rush"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/calendar.png" alt="" width="256" height="256" decoding="async"><span>Rush</span></button>
+      <button type="button" data-open-window="summer" data-label="Summer Housing" title="Summer Housing"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/notes.png" alt="" width="256" height="256" decoding="async"><span>Summer Housing</span></button>
+      <button type="button" data-open-window="archive" data-label="2019 Rush Poster" title="2019 Rush Poster"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/preview.png" alt="" width="256" height="256" decoding="async"><span>2019 Rush Poster</span></button>
+      <button type="button" data-open-window="terminal" data-label="Terminal" title="Terminal"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/terminal.png" alt="" width="256" height="256" decoding="async"><span>Terminal</span></button>
+      <span class="dock__separator" aria-hidden="true"></span>
+      <button type="button" data-open-window="trash" data-label="Trash" title="Trash"><img class="icon" src="{{ site.baseurl }}/static/img/mac/icons/trashfull.png" alt="" width="256" height="256" decoding="async"><span>Trash</span></button>
+    </div>
+    <button type="button" class="ios-indicator" data-action="close-all" aria-label="Home"></button>
+  </nav>
+
+  <div class="spotlight" data-spotlight hidden>
+    <div class="spotlight__panel">
+      <div class="spotlight__field"><i class="sym sym--magnifyingglass" aria-hidden="true"></i><input type="text" role="combobox" aria-expanded="false" aria-autocomplete="list" data-spotlight-input placeholder="Spotlight Search" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="Spotlight search" aria-controls="spotlight-results"></div>
+      <div class="spotlight__results" id="spotlight-results" role="listbox" data-spotlight-results></div>
+    </div>
+  </div>
+
+  <div class="banner" data-notification data-open-window-target="rush" hidden role="status">
+    <img class="icon banner__icon" src="{{ site.baseurl }}/static/img/mac/icons/calendar.png" alt="" width="256" height="256" decoding="async">
+    <div class="banner__text"><small class="banner__app">Calendar</small><strong>Rush starts Saturday</strong><p>Four days, thirteen events. Tap to see what is on and when.</p></div>
+    <button type="button" class="banner__close" data-notification-close aria-label="Dismiss"><i class="sym sym--xmark" aria-hidden="true"></i></button>
+  </div>
+
+  <dialog class="mac-alert" data-dialog aria-labelledby="dialog-heading">
+    <form method="dialog">
+      <p class="mac-alert__title" data-dialog-title hidden></p>
+      <span class="mac-alert__icon" data-dialog-icon aria-hidden="true"></span>
+      <h2 class="mac-alert__heading" id="dialog-heading" data-dialog-heading></h2>
+      <p class="mac-alert__text" data-dialog-text></p>
+      <div class="mac-alert__body" data-dialog-body hidden></div>
+      <div class="mac-alert__buttons" data-dialog-buttons></div>
+    </form>
+  </dialog>
+
+  <p class="sr-status" data-desktop-status aria-live="polite">Desktop ready.</p>
+</section>

@@ -6,12 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Phi Kappa Theta - Mass Eta
+title: Phi Kappa Theta at MIT
 email: pkt-it-active@mit.edu
 description: >
-  Rush book, photo gallery, and description of the chapter program.
+  Meet the people, rooms, and traditions of Phi Kappa Theta's Massachusetts Eta chapter at MIT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pkt.mit.edu" # the base hostname & protocol for your site
+url: "https://pkt.mit.edu" # the base hostname & protocol for your site
+social_image: "/static/img/og-v3.png"
 twitter_username: pktweet229
 github_username:  pktmasseta
 permalink: pretty
@@ -28,10 +29,6 @@ collections:
     output: true
     friendly_name: Rush
     position: 2
-  about:
-    output: true
-    friendly_name: About
-    position: 1
   cpw:
     output: true
     friendly_name: CPW
