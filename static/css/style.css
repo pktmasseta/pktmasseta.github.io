@@ -7435,8 +7435,8 @@ button {
 
 @media (max-width: 700px), (max-height: 500px) and (pointer: coarse) {
   .mac-desktop[data-wallpaper="magnolia"] .wallpaper {
-    background-image: url("/static/img/mac/wallpaper-magnolia-1200.jpg");
-    background-position: 62% 50%;
+    background-image: url("/static/img/mac/wallpaper-magnolia.jpg");
+    background-position: center 45%;
   }
 }
 
@@ -8248,4 +8248,44 @@ button {
     animation: none !important;
     transition: none !important;
   }
+}
+
+
+/* Portrait phones only: a landscape photo cannot cover a 0.46:1 screen without
+   throwing away two thirds of the frame, so it is shown near full width and
+   feathered into a blurred copy of itself. Held sideways the screen is wider
+   than the photo, cover crops gently, and none of this applies. */
+
+@media (max-width: 700px) and (orientation: portrait) {
+  /* The wallpapers are all 4:3 landscape. Covering a 0.46:1 phone screen with
+     one throws away about two thirds of the frame and magnifies what is left
+     nearly 3x - on the magnolia shot that meant cropping out the magnolia.
+     So the photo is shown near its full width and feathered into a blurred,
+     enlarged copy of itself behind the widgets and the dock. You see the whole
+     house, sharply, and the screen still reads as edge-to-edge.
+     Both layers inherit the background from .wallpaper, so this works for
+     whichever wallpaper is selected. */
+  .mac-desktop .wallpaper::before,
+  .mac-desktop .wallpaper::after {
+    position: absolute;
+    inset: 0;
+    background-image: inherit;
+    content: "";
+  }
+
+  .mac-desktop .wallpaper::before {
+    background-position: center;
+    background-size: cover;
+    filter: blur(44px) saturate(1.2) brightness(0.85);
+    transform: scale(1.3);
+  }
+
+  .mac-desktop .wallpaper::after {
+    background-position: center 45%;
+    background-repeat: no-repeat;
+    background-size: 185% auto;
+    -webkit-mask-image: linear-gradient(180deg, transparent 0%, #000 20%, #000 80%, transparent 100%);
+    mask-image: linear-gradient(180deg, transparent 0%, #000 20%, #000 80%, transparent 100%);
+  }
+
 }
