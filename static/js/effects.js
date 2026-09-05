@@ -715,6 +715,49 @@
     keepInBounds(win);
   }
 
+  /* Phones: an app grows out of the icon you touched and shrinks back into it.
+     The origin is the icon's centre; without one the window scales from its
+     middle, which is still better than appearing out of nowhere. */
+  var launchOrigin = null;
+
+  function setLaunchOrigin(source) {
+    if (!phone.matches || !source) { launchOrigin = null; return; }
+    var rect = source.getBoundingClientRect();
+    var host = desktop.getBoundingClientRect();
+    launchOrigin = {
+      x: Math.round(rect.left + rect.width / 2 - host.left),
+      y: Math.round(rect.top + rect.height / 2 - host.top),
+    };
+  }
+
+  function applyLaunchOrigin(win) {
+    if (launchOrigin) {
+      win.style.setProperty("--launch-x", launchOrigin.x + "px");
+      win.style.setProperty("--launch-y", launchOrigin.y + "px");
+    } else {
+      win.style.removeProperty("--launch-x");
+      win.style.removeProperty("--launch-y");
+    }
+    /* The window keeps the value as CSS vars so it can shrink back into the
+       same spot; the pending origin is spent. */
+    launchOrigin = null;
+  }
+
+  function playOnce(win, className, fallbackMs, done) {
+    win.classList.add(className);
+    var finished = false;
+    var end = function () {
+      if (finished) return;
+      finished = true;
+      window.clearTimeout(timer);
+      win.removeEventListener("animationend", end);
+      win.classList.remove(className);
+      if (done) done();
+    };
+    var timer = window.setTimeout(end, fallbackMs);
+    win.addEventListener("animationend", end);
+  }
+
   function openWindow(name, options) {
     var win = findWindow(name);
     if (!win) return;
@@ -732,7 +775,12 @@
     }
     if (wasHidden && !wasMinimized) cascade(win);
     if (wasHidden || wasMinimized) {
-      if (!reduceMotion.matches && !phone.matches) {
+      if (reduceMotion.matches) {
+        /* nothing to play */
+      } else if (phone.matches) {
+        applyLaunchOrigin(win);
+        playOnce(win, "is-launching", 560);
+      } else {
         win.classList.add(wasMinimized ? "is-restoring" : "is-opening");
         win.addEventListener("animationend", function handler() {
           win.classList.remove("is-opening", "is-restoring");
@@ -784,7 +832,8 @@
         if (target) target.focus({ preventScroll: true });
       }
     };
-    if (reduceMotion.matches || phone.matches || wasMinimized) finish();
+    if (reduceMotion.matches || wasMinimized) finish();
+    else if (phone.matches) playOnce(win, "is-dismissing", 340, finish);
     else {
       win.classList.add("is-closing");
       window.setTimeout(finish, 140);
@@ -1072,6 +1121,7 @@
     var opener = event.target.closest("[data-open-window]");
     if (opener && !opener.closest("[role=menu]")) {
       var name = opener.getAttribute("data-open-window");
+      setLaunchOrigin(opener);
       var win = findWindow(name);
       if (win && opener.closest("[data-dock]") && isOpen(win) && win === focused && !phone.matches) {
         // Dock click on the frontmost window: nothing to do, keep it front
@@ -2160,7 +2210,7 @@
       if (windows.some(isOpen)) return;
       openWindow("rush", { focusContent: false });
       if (!reduceMotion.matches) {
-        win.classList.remove("is-opening");
+        win.classList.remove("is-opening", "is-launching");
         win.classList.add("is-presenting");
         /* animationend can be late or never in a background tab, and a window
            left mid-animation is worse than one that simply appeared. */
@@ -2397,6 +2447,7 @@
     var path = internalTarget(link);
     if (!path) return;
     event.preventDefault();
+    setLaunchOrigin(link.closest(".ios-home a, .desktop-file, .house-index__card") || null);
     if (path === rootUrl) { showDesktop(); return; }
     var host = link.closest("[data-doc-window]");
     if (host && host.getAttribute("data-doc-url") === path) {

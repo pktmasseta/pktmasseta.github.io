@@ -2224,6 +2224,11 @@ button {
   --focus-ring: 0 0 0 3px rgba(0, 103, 244, 0.5);
   --menubar-h: 32px;
   --toolbar-h: 52px;
+  /* One motion vocabulary. The curve is the standard iOS decelerate. */
+  --ease-ios: cubic-bezier(0.32, 0.72, 0, 1);
+  --dur-press: 130ms;
+  --dur-close: 240ms;
+  --dur-open: 380ms;
   --shadow-window: 0 0 0 0.5px rgba(0, 0, 0, 0.3), 0 28px 70px rgba(0, 0, 0, 0.34), 0 8px 20px rgba(0, 0, 0, 0.16);
   --shadow-window-inactive: 0 0 0 0.5px rgba(0, 0, 0, 0.22), 0 12px 32px rgba(0, 0, 0, 0.18);
   --shadow-panel: 0 0 0 0.5px rgba(0, 0, 0, 0.16), 0 12px 32px rgba(0, 0, 0, 0.18);
@@ -7031,7 +7036,8 @@ button {
     top: 0 !important;
     left: 0 !important;
     width: 100% !important;
-    height: calc(100% - var(--home-h)) !important;
+    height: 100% !important;
+    padding-bottom: var(--home-h);
     max-width: none;
     max-height: none;
     border-radius: 0;
@@ -7047,6 +7053,11 @@ button {
   .mac-window__titlebar .mac-window__title {
     top: var(--menubar-h);
     padding: 0 60px;
+  }
+
+  /* Centre the close button on the toolbar, not on the status bar it sits under. */
+  .mac-window__titlebar .traffic-lights {
+    top: calc(50% + var(--menubar-h) / 2);
   }
 
   /* One flat toolbar: the desktop's sidebar seam has nothing to align to here. */
@@ -7183,7 +7194,7 @@ button {
 
   .gallery__viewer figcaption {
     min-height: 76px;
-    padding: 10px 12px calc(12px + env(safe-area-inset-bottom, 0px));
+    padding: 10px 12px 12px;
   }
 
   .welcome {
@@ -7545,7 +7556,15 @@ button {
     padding: 14px 12px 20px;
   }
 
-  .finder__pathbar {
+  /* "great_dome.heic" has nowhere to break, so it was being sliced mid-word. */
+  .item span {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  .finder__pathbar,
+  .finder__statusbar {
     display: none;
   }
 
@@ -7561,9 +7580,40 @@ button {
     padding: 12px 16px 8px;
   }
 
-  /* A photo opens full-bleed: the album rail has nothing to say here. */
+  /* A photo opens full-bleed: the album rail has nothing to say here, and the
+     chrome above it goes dark so the light bar does not float on black. */
   .gallery.is-viewing .gallery__sidebar {
     display: none;
+  }
+
+  .mac-window--gallery:has(.gallery.is-viewing) {
+    background: #000;
+  }
+
+  .mac-window--gallery:has(.gallery.is-viewing) .mac-window__toolbar {
+    background: #000;
+    box-shadow: none;
+  }
+
+  .mac-window--gallery:has(.gallery.is-viewing) .mac-window__toolbar::after {
+    display: none;
+  }
+
+  .mac-window--gallery:has(.gallery.is-viewing) .mac-window__title,
+  .mac-window--gallery:has(.gallery.is-viewing) .toolbar-button {
+    color: rgba(255, 255, 255, 0.92);
+  }
+
+  .mac-window--gallery:has(.gallery.is-viewing) .traffic-lights [data-window-close] {
+    background: rgba(255, 255, 255, 0.16);
+  }
+
+  .mac-window--gallery:has(.gallery.is-viewing) .traffic-lights [data-window-close] span {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath d='M1.5 1.5l5 5M6.5 1.5l-5 5' stroke='%23fff' stroke-width='1.4' stroke-linecap='round'/%3E%3C/svg%3E");
+  }
+
+  .mac-desktop.has-window:has(.gallery.is-viewing) {
+    --menubar-ink: #fff;
   }
 
   .gallery__grid {
@@ -7591,7 +7641,7 @@ button {
     width: 100%;
     flex: 1;
     min-height: 0;
-    padding: 6px 8px calc(20px + env(safe-area-inset-bottom, 0px));
+    padding: 6px 8px 20px;
     box-shadow: none;
   }
 
@@ -7623,7 +7673,7 @@ button {
     position: absolute;
     inset: calc(var(--toolbar-h) + var(--menubar-h)) 0 0;
     z-index: 2;
-    padding: 24px 20px calc(28px + env(safe-area-inset-bottom, 0px));
+    padding: 24px 20px 28px;
     overflow: auto;
     background: var(--window);
     transform: translateX(100%);
@@ -7713,6 +7763,17 @@ button {
     font-size: 11px;
   }
 
+  /* Day chips and portrait placeholders on the content pages were the last
+     things still set below 11px. */
+  .sched__chip-date small {
+    font-size: 11px;
+  }
+
+  .page-doc__main .member-card__placeholder small,
+  .member-modal__portrait-placeholder span {
+    font-size: 11px;
+  }
+
   .cal__main {
     min-height: 0;
   }
@@ -7779,7 +7840,7 @@ button {
     flex-direction: column;
     align-items: stretch;
     gap: 9px;
-    padding: 12px 16px calc(14px + env(safe-area-inset-bottom, 0px));
+    padding: 12px 16px 14px;
   }
 
   .cal__foot .mac-button {
@@ -7825,7 +7886,7 @@ button {
   }
 
   .page-doc__foot {
-    padding-bottom: calc(24px + env(safe-area-inset-bottom, 0px));
+    padding-bottom: 24px;
   }
 
   /* Every toolbar control gets a thumb-sized target */
@@ -8016,9 +8077,175 @@ button {
   .mac-desktop.is-rush .ios-home .app-badge {
     right: calc(50% - 32px);
   }
+
+  /* Only ~390px of height to spend, so the chrome gives some back. */
+  .mac-desktop {
+    --menubar-h: max(32px, env(safe-area-inset-top, 0px));
+    --toolbar-h: 44px;
+  }
+
+  .finder__sidebar,
+  .gallery__sidebar,
+  .contacts__groups,
+  .cal__sidebar,
+  .page-doc__sidebar {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+
+  .cal__head {
+    padding: 8px 16px 6px;
+  }
+
+  .cal__foot {
+    flex-direction: row;
+    align-items: center;
+    gap: 14px;
+    padding: 8px 16px;
+  }
+
+  .cal__foot .mac-button {
+    flex: none;
+    min-width: 190px;
+    height: 40px;
+  }
+
+  .page-doc__hero img {
+    height: 110px;
+  }
 }
 
 @keyframes window-present-sheet {
   from { transform: translateY(100%); }
   to { transform: none; }
+}
+
+
+/* Phone motion ----------------------------------------------------------
+   A phone answers every touch. Apps grow out of the icon you pressed and
+   shrink back into it, and anything tappable moves a little under the thumb.
+   All of it is transform/opacity only, so it stays on the compositor. */
+
+@media (max-width: 700px), (max-height: 500px) and (pointer: coarse) {
+  .mac-window.is-launching {
+    transform-origin: var(--launch-x, 50%) var(--launch-y, 50%);
+    animation: app-launch var(--dur-open) var(--ease-ios);
+    will-change: transform, opacity;
+  }
+
+  .mac-window.is-dismissing {
+    transform-origin: var(--launch-x, 50%) var(--launch-y, 50%);
+    animation: app-dismiss var(--dur-close) var(--ease-ios) forwards;
+    pointer-events: none;
+    will-change: transform, opacity;
+  }
+
+  /* Home screen and dock: the icon dips, the label dims with it. */
+  .ios-home a,
+  .ios-home button,
+  .dock__glass button {
+    transition: opacity var(--dur-press) var(--ease-ios);
+  }
+
+  .ios-home a .icon,
+  .ios-home a svg,
+  .ios-home button .icon,
+  .ios-home button svg,
+  .dock__glass button .icon,
+  .dock__glass button svg {
+    transition: transform var(--dur-press) var(--ease-ios);
+  }
+
+  .ios-home a:active,
+  .ios-home button:active,
+  .dock__glass button:active {
+    opacity: 0.6;
+  }
+
+  .ios-home a:active .icon,
+  .ios-home a:active svg,
+  .ios-home button:active .icon,
+  .ios-home button:active svg,
+  .dock__glass button:active .icon,
+  .dock__glass button:active svg {
+    transform: scale(0.88);
+  }
+
+  /* Rows and pills take a press tint rather than a hover tint. */
+  .contact-row:active,
+  .cal-event__row:active,
+  .house-index__card:active,
+  .item:active,
+  .floor__items .item:active,
+  .finder__sidebar > a:active,
+  .finder__sidebar > button:active,
+  .gallery__sidebar > button:active,
+  .contacts__groups > button:active,
+  .cal__side-link:active,
+  .cal-daytab:active,
+  .page-doc__link:active,
+  .spotlight__row:active {
+    background-color: rgba(0, 0, 0, 0.09);
+  }
+
+  .mac-button:active,
+  .toolbar-button:active,
+  .cal__step:not(:disabled):active {
+    transform: scale(0.96);
+    opacity: 0.8;
+  }
+
+  .mac-button,
+  .toolbar-button,
+  .cal__step {
+    transition: transform var(--dur-press) var(--ease-ios), opacity var(--dur-press) var(--ease-ios);
+  }
+
+  .gallery__tile {
+    transition: transform var(--dur-press) var(--ease-ios);
+  }
+
+  .gallery__tile:active {
+    transform: scale(0.95);
+  }
+
+  /* Opening a photo is a lift onto black, not a cut. */
+  .gallery.is-viewing .gallery__viewer {
+    animation: viewer-in 280ms var(--ease-ios);
+  }
+
+  /* The pushed contact card shares the app's curve. */
+  .contacts__card {
+    transition: transform var(--dur-open) var(--ease-ios), visibility var(--dur-open);
+  }
+}
+
+@keyframes app-launch {
+  from { opacity: 0; transform: scale(0.26); }
+  55% { opacity: 1; }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes app-dismiss {
+  from { opacity: 1; transform: scale(1); }
+  to { opacity: 0; transform: scale(0.28); }
+}
+
+@keyframes viewer-in {
+  from { opacity: 0; transform: scale(1.03); }
+  to { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mac-window.is-launching,
+  .mac-window.is-dismissing,
+  .gallery.is-viewing .gallery__viewer,
+  .ios-home a .icon,
+  .ios-home button .icon,
+  .dock__glass button .icon,
+  .gallery__tile,
+  .contacts__card {
+    animation: none !important;
+    transition: none !important;
+  }
 }
